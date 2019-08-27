@@ -1,14 +1,12 @@
 date,district,source,value
-2019-08-24 00:36:35,Southern Owens Valley,Tinemaha Reservoir Outflow,502.0
-2019-08-24 00:36:35,Southern Owens Valley,Indep. Ck. At Junction Flow,20.3
-2019-08-24 00:36:35,Southern Owens Valley,LAA at Alabama Flow,523.0
-2019-08-24 00:36:35,Southern Owens Valley,Cottonwood Ck. At LAA Flow,17.0
-2019-08-24 00:36:35,Southern Owens Valley,LAA at Cottonwood Flow,601.0
-2019-08-24 00:36:35,Southern Owens Valley,Haiwee LAA #1 Current Flow,413.7
-2019-08-24 00:36:35,Southern Owens Valley,Haiwee LAA #2 Current Flow,268.7
-2019-08-24 00:36:35,Southern Owens Valley,Reinhackel Flow,2.3
-2019-08-24 00:36:35,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
-2019-08-24 00:36:35,Southern Owens Valley,Cartago Spillgate Outflow,4.4
+2019-08-24 00:36:35,Southern District,Haiwee LAA #2 Current Flow,268.7
+2019-08-24 00:36:35,Southern District,Haiwee LAA #1 Current Flow,413.7
+2019-08-24 00:36:35,Southern District,LAA #1 Flow at Fairmont Reservoir,407.9
+2019-08-24 00:36:35,Southern District,LAA #2 Flow at Fairmont Res.,287.1
+2019-08-24 00:36:35,Southern District,Bouquet Reservoir Inflow,0.0
+2019-08-24 00:36:35,Southern District,Bouquet Reservoir Outflow,0.5
+2019-08-24 00:36:35,Southern District,LAA #1 at Soledad Flow,352.6
+2019-08-24 00:36:35,Southern District,LAA #2 at Soledad Flow,318.4
 2019-08-24 00:36:35,Mono Basin,Lee Vining Intake Above Flow,67.5
 2019-08-24 00:36:35,Mono Basin,Lee Vining Intake Below Flow,71.6
 2019-08-24 00:36:35,Mono Basin,Walker Ck. Above Conduit Flow,9.0
@@ -21,23 +19,6 @@ date,district,source,value
 2019-08-24 00:36:35,Mono Basin,Grant Lk. Outflow,145.8
 2019-08-24 00:36:35,Mono Basin,Rush Ck. at Damsite Flow,22.9
 2019-08-24 00:36:35,Mono Basin,Flow to West Portal,40.4
-2019-08-24 00:36:35,Southern District,Haiwee LAA #2 Current Flow,268.7
-2019-08-24 00:36:35,Southern District,Haiwee LAA #1 Current Flow,413.7
-2019-08-24 00:36:35,Southern District,LAA #1 Flow at Fairmont Reservoir,407.9
-2019-08-24 00:36:35,Southern District,LAA #2 Flow at Fairmont Res.,287.1
-2019-08-24 00:36:35,Southern District,Bouquet Reservoir Inflow,0.0
-2019-08-24 00:36:35,Southern District,Bouquet Reservoir Outflow,0.5
-2019-08-24 00:36:35,Southern District,LAA #1 at Soledad Flow,352.6
-2019-08-24 00:36:35,Southern District,LAA #2 at Soledad Flow,318.4
-2019-08-24 00:36:35,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,52.7
-2019-08-24 00:36:35,Northern Owens Valley,Pleasant Valley Outflow,499.6
-2019-08-24 00:36:35,Northern Owens Valley,Baker Ck. At LA Station Flow,12.4
-2019-08-24 00:36:35,Northern Owens Valley,Big Pine Ck. USGS Flow,79.8
-2019-08-24 00:36:35,Northern Owens Valley,O.R. Below Big Pine,515.2
-2019-08-24 00:36:35,Northern Owens Valley,Fish Springs At RR Flow,45.9
-2019-08-24 00:36:35,Northern Owens Valley,Tinemaha Reservoir Outflow,502.0
-2019-08-24 00:36:35,Northern Owens Valley,Bishop Creek Through Plant 6,148.4
-2019-08-24 00:36:35,Northern Owens Valley,Bishop Creek Around Plant 6,29.6
 2019-08-24 00:36:35,Long Valley,East Portal Flow,53.0
 2019-08-24 00:36:35,Long Valley,OR Below EP Flow,109.0
 2019-08-24 00:36:35,Long Valley,Hot Ck.at Hwy. Flow,28.0
@@ -51,29 +32,46 @@ date,district,source,value
 2019-08-24 00:36:35,Lower Owens River Project,LORP at Reinhackle Springs,61.0
 2019-08-24 00:36:35,Lower Owens River Project,LORP Above Pumpstation,53.0
 2019-08-24 00:36:35,Lower Owens River Project,LORP At Pump Station Discharge Flow,46.0
+2019-08-24 00:36:35,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,52.7
+2019-08-24 00:36:35,Northern Owens Valley,Pleasant Valley Outflow,499.6
+2019-08-24 00:36:35,Northern Owens Valley,Baker Ck. At LA Station Flow,12.4
+2019-08-24 00:36:35,Northern Owens Valley,Big Pine Ck. USGS Flow,79.8
+2019-08-24 00:36:35,Northern Owens Valley,O.R. Below Big Pine,515.2
+2019-08-24 00:36:35,Northern Owens Valley,Fish Springs At RR Flow,45.9
+2019-08-24 00:36:35,Northern Owens Valley,Tinemaha Reservoir Outflow,502.0
+2019-08-24 00:36:35,Northern Owens Valley,Bishop Creek Through Plant 6,148.4
+2019-08-24 00:36:35,Northern Owens Valley,Bishop Creek Around Plant 6,29.6
+2019-08-24 00:36:35,Southern Owens Valley,Tinemaha Reservoir Outflow,502.0
+2019-08-24 00:36:35,Southern Owens Valley,Indep. Ck. At Junction Flow,20.3
+2019-08-24 00:36:35,Southern Owens Valley,LAA at Alabama Flow,523.0
+2019-08-24 00:36:35,Southern Owens Valley,Cottonwood Ck. At LAA Flow,17.0
+2019-08-24 00:36:35,Southern Owens Valley,LAA at Cottonwood Flow,601.0
+2019-08-24 00:36:35,Southern Owens Valley,Haiwee LAA #1 Current Flow,413.7
+2019-08-24 00:36:35,Southern Owens Valley,Haiwee LAA #2 Current Flow,268.7
+2019-08-24 00:36:35,Southern Owens Valley,Reinhackel Flow,2.3
+2019-08-24 00:36:35,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
+2019-08-24 00:36:35,Southern Owens Valley,Cartago Spillgate Outflow,4.4
+2019-08-24 00:36:36,Southern District,S. Haiwee Reservoir Elevation,3725.1
+2019-08-24 00:36:36,Southern District,Fairmont Reservoir Elevation,3029.2
+2019-08-24 00:36:36,Southern District,Bouquet Reservoir Elevation,2982.6
+2019-08-24 00:36:36,Mono Basin,Mono Lk. Elevation,6382.7
+2019-08-24 00:36:36,Mono Basin,Grant Lk. Elevation,7122.6
+2019-08-24 00:36:36,Long Valley,Long Valley Elevation,6777.7
+2019-08-24 00:36:36,Northern Owens Valley,Pleasant Valley Elevation,4387.6
 2019-08-24 00:36:36,Southern Owens Valley,LAA at Alabama Level,8.5
 2019-08-24 00:36:36,Southern Owens Valley,LAA at Alabama Water Temp,71.4
 2019-08-24 00:36:36,Southern Owens Valley,LAA at Cottonwood Level,9.9
 2019-08-24 00:36:36,Southern Owens Valley,LAA at Cotton. Water Temp,70.9
 2019-08-24 00:36:36,Southern Owens Valley,N. Haiwee Elevation,3756.9
 2019-08-24 00:36:36,Southern Owens Valley,S. Haiwee Reservoir Elevation,3725.1
-2019-08-24 00:36:36,Mono Basin,Mono Lk. Elevation,6382.7
-2019-08-24 00:36:36,Mono Basin,Grant Lk. Elevation,7122.6
-2019-08-24 00:36:36,Southern District,S. Haiwee Reservoir Elevation,3725.1
-2019-08-24 00:36:36,Southern District,Fairmont Reservoir Elevation,3029.2
-2019-08-24 00:36:36,Southern District,Bouquet Reservoir Elevation,2982.6
-2019-08-24 00:36:36,Northern Owens Valley,Pleasant Valley Elevation,4387.6
-2019-08-24 00:36:36,Long Valley,Long Valley Elevation,6777.7
-2019-08-24 01:36:35,Southern Owens Valley,Tinemaha Reservoir Outflow,500.1
-2019-08-24 01:36:35,Southern Owens Valley,Indep. Ck. At Junction Flow,20.3
-2019-08-24 01:36:35,Southern Owens Valley,LAA at Alabama Flow,523.0
-2019-08-24 01:36:35,Southern Owens Valley,Cottonwood Ck. At LAA Flow,17.0
-2019-08-24 01:36:35,Southern Owens Valley,LAA at Cottonwood Flow,600.0
-2019-08-24 01:36:35,Southern Owens Valley,Haiwee LAA #1 Current Flow,415.8
-2019-08-24 01:36:35,Southern Owens Valley,Haiwee LAA #2 Current Flow,269.5
-2019-08-24 01:36:35,Southern Owens Valley,Reinhackel Flow,2.4
-2019-08-24 01:36:35,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
-2019-08-24 01:36:35,Southern Owens Valley,Cartago Spillgate Outflow,5.1
+2019-08-24 01:36:35,Southern District,Haiwee LAA #2 Current Flow,269.5
+2019-08-24 01:36:35,Southern District,Haiwee LAA #1 Current Flow,415.8
+2019-08-24 01:36:35,Southern District,LAA #1 Flow at Fairmont Reservoir,408.0
+2019-08-24 01:36:35,Southern District,LAA #2 Flow at Fairmont Res.,288.0
+2019-08-24 01:36:35,Southern District,Bouquet Reservoir Inflow,0.0
+2019-08-24 01:36:35,Southern District,Bouquet Reservoir Outflow,0.7
+2019-08-24 01:36:35,Southern District,LAA #1 at Soledad Flow,352.6
+2019-08-24 01:36:35,Southern District,LAA #2 at Soledad Flow,318.4
 2019-08-24 01:36:35,Mono Basin,Lee Vining Intake Above Flow,67.5
 2019-08-24 01:36:35,Mono Basin,Lee Vining Intake Below Flow,71.6
 2019-08-24 01:36:35,Mono Basin,Walker Ck. Above Conduit Flow,9.0
@@ -86,23 +84,6 @@ date,district,source,value
 2019-08-24 01:36:35,Mono Basin,Grant Lk. Outflow,145.1
 2019-08-24 01:36:35,Mono Basin,Rush Ck. at Damsite Flow,22.9
 2019-08-24 01:36:35,Mono Basin,Flow to West Portal,40.2
-2019-08-24 01:36:35,Southern District,Haiwee LAA #2 Current Flow,269.5
-2019-08-24 01:36:35,Southern District,Haiwee LAA #1 Current Flow,415.8
-2019-08-24 01:36:35,Southern District,LAA #1 Flow at Fairmont Reservoir,408.0
-2019-08-24 01:36:35,Southern District,LAA #2 Flow at Fairmont Res.,288.0
-2019-08-24 01:36:35,Southern District,Bouquet Reservoir Inflow,0.0
-2019-08-24 01:36:35,Southern District,Bouquet Reservoir Outflow,0.7
-2019-08-24 01:36:35,Southern District,LAA #1 at Soledad Flow,352.6
-2019-08-24 01:36:35,Southern District,LAA #2 at Soledad Flow,318.4
-2019-08-24 01:36:35,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,53.0
-2019-08-24 01:36:35,Northern Owens Valley,Pleasant Valley Outflow,498.3
-2019-08-24 01:36:35,Northern Owens Valley,Baker Ck. At LA Station Flow,12.4
-2019-08-24 01:36:35,Northern Owens Valley,Big Pine Ck. USGS Flow,79.8
-2019-08-24 01:36:35,Northern Owens Valley,O.R. Below Big Pine,515.2
-2019-08-24 01:36:35,Northern Owens Valley,Fish Springs At RR Flow,45.9
-2019-08-24 01:36:35,Northern Owens Valley,Tinemaha Reservoir Outflow,500.1
-2019-08-24 01:36:35,Northern Owens Valley,Bishop Creek Through Plant 6,148.9
-2019-08-24 01:36:35,Northern Owens Valley,Bishop Creek Around Plant 6,29.2
 2019-08-24 01:36:35,Long Valley,East Portal Flow,53.0
 2019-08-24 01:36:35,Long Valley,OR Below EP Flow,109.0
 2019-08-24 01:36:35,Long Valley,Hot Ck.at Hwy. Flow,28.0
@@ -116,29 +97,46 @@ date,district,source,value
 2019-08-24 01:36:35,Lower Owens River Project,LORP at Reinhackle Springs,63.0
 2019-08-24 01:36:35,Lower Owens River Project,LORP Above Pumpstation,54.0
 2019-08-24 01:36:35,Lower Owens River Project,LORP At Pump Station Discharge Flow,47.0
+2019-08-24 01:36:35,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,53.0
+2019-08-24 01:36:35,Northern Owens Valley,Pleasant Valley Outflow,498.3
+2019-08-24 01:36:35,Northern Owens Valley,Baker Ck. At LA Station Flow,12.4
+2019-08-24 01:36:35,Northern Owens Valley,Big Pine Ck. USGS Flow,79.8
+2019-08-24 01:36:35,Northern Owens Valley,O.R. Below Big Pine,515.2
+2019-08-24 01:36:35,Northern Owens Valley,Fish Springs At RR Flow,45.9
+2019-08-24 01:36:35,Northern Owens Valley,Tinemaha Reservoir Outflow,500.1
+2019-08-24 01:36:35,Northern Owens Valley,Bishop Creek Through Plant 6,148.9
+2019-08-24 01:36:35,Northern Owens Valley,Bishop Creek Around Plant 6,29.2
+2019-08-24 01:36:35,Southern Owens Valley,Tinemaha Reservoir Outflow,500.1
+2019-08-24 01:36:35,Southern Owens Valley,Indep. Ck. At Junction Flow,20.3
+2019-08-24 01:36:35,Southern Owens Valley,LAA at Alabama Flow,523.0
+2019-08-24 01:36:35,Southern Owens Valley,Cottonwood Ck. At LAA Flow,17.0
+2019-08-24 01:36:35,Southern Owens Valley,LAA at Cottonwood Flow,600.0
+2019-08-24 01:36:35,Southern Owens Valley,Haiwee LAA #1 Current Flow,415.8
+2019-08-24 01:36:35,Southern Owens Valley,Haiwee LAA #2 Current Flow,269.5
+2019-08-24 01:36:35,Southern Owens Valley,Reinhackel Flow,2.4
+2019-08-24 01:36:35,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
+2019-08-24 01:36:35,Southern Owens Valley,Cartago Spillgate Outflow,5.1
+2019-08-24 01:36:36,Southern District,S. Haiwee Reservoir Elevation,3725.1
+2019-08-24 01:36:36,Southern District,Fairmont Reservoir Elevation,3029.0
+2019-08-24 01:36:36,Southern District,Bouquet Reservoir Elevation,2982.6
+2019-08-24 01:36:36,Mono Basin,Mono Lk. Elevation,6382.7
+2019-08-24 01:36:36,Mono Basin,Grant Lk. Elevation,7122.6
+2019-08-24 01:36:36,Long Valley,Long Valley Elevation,6777.7
+2019-08-24 01:36:36,Northern Owens Valley,Pleasant Valley Elevation,4387.4
 2019-08-24 01:36:36,Southern Owens Valley,LAA at Alabama Level,8.5
 2019-08-24 01:36:36,Southern Owens Valley,LAA at Alabama Water Temp,71.1
 2019-08-24 01:36:36,Southern Owens Valley,LAA at Cottonwood Level,9.9
 2019-08-24 01:36:36,Southern Owens Valley,LAA at Cotton. Water Temp,70.9
 2019-08-24 01:36:36,Southern Owens Valley,N. Haiwee Elevation,3756.9
 2019-08-24 01:36:36,Southern Owens Valley,S. Haiwee Reservoir Elevation,3725.1
-2019-08-24 01:36:36,Mono Basin,Mono Lk. Elevation,6382.7
-2019-08-24 01:36:36,Mono Basin,Grant Lk. Elevation,7122.6
-2019-08-24 01:36:36,Southern District,S. Haiwee Reservoir Elevation,3725.1
-2019-08-24 01:36:36,Southern District,Fairmont Reservoir Elevation,3029.0
-2019-08-24 01:36:36,Southern District,Bouquet Reservoir Elevation,2982.6
-2019-08-24 01:36:36,Northern Owens Valley,Pleasant Valley Elevation,4387.4
-2019-08-24 01:36:36,Long Valley,Long Valley Elevation,6777.7
-2019-08-24 02:36:36,Southern Owens Valley,Tinemaha Reservoir Outflow,502.2
-2019-08-24 02:36:36,Southern Owens Valley,Indep. Ck. At Junction Flow,20.3
-2019-08-24 02:36:36,Southern Owens Valley,LAA at Alabama Flow,522.0
-2019-08-24 02:36:36,Southern Owens Valley,Cottonwood Ck. At LAA Flow,17.0
-2019-08-24 02:36:36,Southern Owens Valley,LAA at Cottonwood Flow,601.0
-2019-08-24 02:36:36,Southern Owens Valley,Haiwee LAA #1 Current Flow,415.8
-2019-08-24 02:36:36,Southern Owens Valley,Haiwee LAA #2 Current Flow,269.5
-2019-08-24 02:36:36,Southern Owens Valley,Reinhackel Flow,2.4
-2019-08-24 02:36:36,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
-2019-08-24 02:36:36,Southern Owens Valley,Cartago Spillgate Outflow,4.9
+2019-08-24 02:36:36,Southern District,Haiwee LAA #2 Current Flow,269.5
+2019-08-24 02:36:36,Southern District,Haiwee LAA #1 Current Flow,415.8
+2019-08-24 02:36:36,Southern District,LAA #1 Flow at Fairmont Reservoir,408.0
+2019-08-24 02:36:36,Southern District,LAA #2 Flow at Fairmont Res.,288.0
+2019-08-24 02:36:36,Southern District,Bouquet Reservoir Inflow,0.0
+2019-08-24 02:36:36,Southern District,Bouquet Reservoir Outflow,0.7
+2019-08-24 02:36:36,Southern District,LAA #1 at Soledad Flow,352.6
+2019-08-24 02:36:36,Southern District,LAA #2 at Soledad Flow,318.4
 2019-08-24 02:36:36,Mono Basin,Lee Vining Intake Above Flow,67.5
 2019-08-24 02:36:36,Mono Basin,Lee Vining Intake Below Flow,71.6
 2019-08-24 02:36:36,Mono Basin,Walker Ck. Above Conduit Flow,9.0
@@ -151,23 +149,6 @@ date,district,source,value
 2019-08-24 02:36:36,Mono Basin,Grant Lk. Outflow,145.3
 2019-08-24 02:36:36,Mono Basin,Rush Ck. at Damsite Flow,22.9
 2019-08-24 02:36:36,Mono Basin,Flow to West Portal,40.2
-2019-08-24 02:36:36,Southern District,Haiwee LAA #2 Current Flow,269.5
-2019-08-24 02:36:36,Southern District,Haiwee LAA #1 Current Flow,415.8
-2019-08-24 02:36:36,Southern District,LAA #1 Flow at Fairmont Reservoir,408.0
-2019-08-24 02:36:36,Southern District,LAA #2 Flow at Fairmont Res.,288.0
-2019-08-24 02:36:36,Southern District,Bouquet Reservoir Inflow,0.0
-2019-08-24 02:36:36,Southern District,Bouquet Reservoir Outflow,0.7
-2019-08-24 02:36:36,Southern District,LAA #1 at Soledad Flow,352.6
-2019-08-24 02:36:36,Southern District,LAA #2 at Soledad Flow,318.4
-2019-08-24 02:36:36,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,53.4
-2019-08-24 02:36:36,Northern Owens Valley,Pleasant Valley Outflow,497.3
-2019-08-24 02:36:36,Northern Owens Valley,Baker Ck. At LA Station Flow,12.4
-2019-08-24 02:36:36,Northern Owens Valley,Big Pine Ck. USGS Flow,82.2
-2019-08-24 02:36:36,Northern Owens Valley,O.R. Below Big Pine,515.2
-2019-08-24 02:36:36,Northern Owens Valley,Fish Springs At RR Flow,45.9
-2019-08-24 02:36:36,Northern Owens Valley,Tinemaha Reservoir Outflow,502.2
-2019-08-24 02:36:36,Northern Owens Valley,Bishop Creek Through Plant 6,149.7
-2019-08-24 02:36:36,Northern Owens Valley,Bishop Creek Around Plant 6,29.3
 2019-08-24 02:36:36,Long Valley,East Portal Flow,53.0
 2019-08-24 02:36:36,Long Valley,OR Below EP Flow,109.0
 2019-08-24 02:36:36,Long Valley,Hot Ck.at Hwy. Flow,28.0
@@ -181,29 +162,47 @@ date,district,source,value
 2019-08-24 02:36:36,Lower Owens River Project,LORP at Reinhackle Springs,62.0
 2019-08-24 02:36:36,Lower Owens River Project,LORP Above Pumpstation,41.0
 2019-08-24 02:36:36,Lower Owens River Project,LORP At Pump Station Discharge Flow,33.0
+2019-08-24 02:36:36,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,53.4
+2019-08-24 02:36:36,Northern Owens Valley,Pleasant Valley Outflow,497.3
+2019-08-24 02:36:36,Northern Owens Valley,Baker Ck. At LA Station Flow,12.4
+2019-08-24 02:36:36,Northern Owens Valley,Big Pine Ck. USGS Flow,82.2
+2019-08-24 02:36:36,Northern Owens Valley,O.R. Below Big Pine,515.2
+2019-08-24 02:36:36,Northern Owens Valley,Fish Springs At RR Flow,45.9
+2019-08-24 02:36:36,Northern Owens Valley,Tinemaha Reservoir Outflow,502.2
+2019-08-24 02:36:36,Northern Owens Valley,Bishop Creek Through Plant 6,149.7
+2019-08-24 02:36:36,Northern Owens Valley,Bishop Creek Around Plant 6,29.3
+2019-08-24 02:36:36,Southern Owens Valley,Tinemaha Reservoir Outflow,502.2
+2019-08-24 02:36:36,Southern Owens Valley,Indep. Ck. At Junction Flow,20.3
+2019-08-24 02:36:36,Southern Owens Valley,LAA at Alabama Flow,522.0
+2019-08-24 02:36:36,Southern Owens Valley,Cottonwood Ck. At LAA Flow,17.0
+2019-08-24 02:36:36,Southern Owens Valley,LAA at Cottonwood Flow,601.0
+2019-08-24 02:36:36,Southern Owens Valley,Haiwee LAA #1 Current Flow,415.8
+2019-08-24 02:36:36,Southern Owens Valley,Haiwee LAA #2 Current Flow,269.5
+2019-08-24 02:36:36,Southern Owens Valley,Reinhackel Flow,2.4
+2019-08-24 02:36:36,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
+2019-08-24 02:36:36,Southern Owens Valley,Cartago Spillgate Outflow,4.9
+2019-08-24 02:36:37,Southern District,S. Haiwee Reservoir Elevation,3725.0
+2019-08-24 02:36:37,Southern District,Fairmont Reservoir Elevation,3029.0
+2019-08-24 02:36:37,Southern District,Bouquet Reservoir Elevation,2982.6
+2019-08-24 02:36:37,Mono Basin,Mono Lk. Elevation,6382.7
+2019-08-24 02:36:37,Mono Basin,Grant Lk. Elevation,7122.6
+2019-08-24 02:36:37,Long Valley,Long Valley Elevation,6777.7
+2019-08-24 02:36:37,Northern Owens Valley,Pleasant Valley Elevation,4387.2
 2019-08-24 02:36:37,Southern Owens Valley,LAA at Alabama Level,8.5
 2019-08-24 02:36:37,Southern Owens Valley,LAA at Alabama Water Temp,70.6
 2019-08-24 02:36:37,Southern Owens Valley,LAA at Cottonwood Level,9.9
 2019-08-24 02:36:37,Southern Owens Valley,LAA at Cotton. Water Temp,71.0
 2019-08-24 02:36:37,Southern Owens Valley,N. Haiwee Elevation,3756.9
 2019-08-24 02:36:37,Southern Owens Valley,S. Haiwee Reservoir Elevation,3725.0
-2019-08-24 02:36:37,Mono Basin,Mono Lk. Elevation,6382.7
-2019-08-24 02:36:37,Mono Basin,Grant Lk. Elevation,7122.6
-2019-08-24 02:36:37,Southern District,S. Haiwee Reservoir Elevation,3725.0
-2019-08-24 02:36:37,Southern District,Fairmont Reservoir Elevation,3029.0
-2019-08-24 02:36:37,Southern District,Bouquet Reservoir Elevation,2982.6
-2019-08-24 02:36:37,Northern Owens Valley,Pleasant Valley Elevation,4387.2
-2019-08-24 02:36:37,Long Valley,Long Valley Elevation,6777.7
 2019-08-24 03:36:34,Southern Owens Valley,Cottonwood Ck. At LAA Flow,17.0
-2019-08-24 03:36:35,Southern Owens Valley,Tinemaha Reservoir Outflow,502.8
-2019-08-24 03:36:35,Southern Owens Valley,Indep. Ck. At Junction Flow,20.3
-2019-08-24 03:36:35,Southern Owens Valley,LAA at Alabama Flow,522.0
-2019-08-24 03:36:35,Southern Owens Valley,LAA at Cottonwood Flow,602.0
-2019-08-24 03:36:35,Southern Owens Valley,Haiwee LAA #1 Current Flow,415.8
-2019-08-24 03:36:35,Southern Owens Valley,Haiwee LAA #2 Current Flow,269.5
-2019-08-24 03:36:35,Southern Owens Valley,Reinhackel Flow,2.4
-2019-08-24 03:36:35,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
-2019-08-24 03:36:35,Southern Owens Valley,Cartago Spillgate Outflow,4.3
+2019-08-24 03:36:35,Southern District,Haiwee LAA #2 Current Flow,269.5
+2019-08-24 03:36:35,Southern District,Haiwee LAA #1 Current Flow,415.8
+2019-08-24 03:36:35,Southern District,LAA #1 Flow at Fairmont Reservoir,408.0
+2019-08-24 03:36:35,Southern District,LAA #2 Flow at Fairmont Res.,288.0
+2019-08-24 03:36:35,Southern District,Bouquet Reservoir Inflow,0.0
+2019-08-24 03:36:35,Southern District,Bouquet Reservoir Outflow,0.7
+2019-08-24 03:36:35,Southern District,LAA #1 at Soledad Flow,352.6
+2019-08-24 03:36:35,Southern District,LAA #2 at Soledad Flow,317.5
 2019-08-24 03:36:35,Mono Basin,Lee Vining Intake Above Flow,67.5
 2019-08-24 03:36:35,Mono Basin,Lee Vining Intake Below Flow,71.6
 2019-08-24 03:36:35,Mono Basin,Walker Ck. Above Conduit Flow,9.0
@@ -216,23 +215,6 @@ date,district,source,value
 2019-08-24 03:36:35,Mono Basin,Grant Lk. Outflow,145.5
 2019-08-24 03:36:35,Mono Basin,Rush Ck. at Damsite Flow,22.9
 2019-08-24 03:36:35,Mono Basin,Flow to West Portal,40.2
-2019-08-24 03:36:35,Southern District,Haiwee LAA #2 Current Flow,269.5
-2019-08-24 03:36:35,Southern District,Haiwee LAA #1 Current Flow,415.8
-2019-08-24 03:36:35,Southern District,LAA #1 Flow at Fairmont Reservoir,408.0
-2019-08-24 03:36:35,Southern District,LAA #2 Flow at Fairmont Res.,288.0
-2019-08-24 03:36:35,Southern District,Bouquet Reservoir Inflow,0.0
-2019-08-24 03:36:35,Southern District,Bouquet Reservoir Outflow,0.7
-2019-08-24 03:36:35,Southern District,LAA #1 at Soledad Flow,352.6
-2019-08-24 03:36:35,Southern District,LAA #2 at Soledad Flow,317.5
-2019-08-24 03:36:35,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,53.7
-2019-08-24 03:36:35,Northern Owens Valley,Pleasant Valley Outflow,496.5
-2019-08-24 03:36:35,Northern Owens Valley,Baker Ck. At LA Station Flow,12.4
-2019-08-24 03:36:35,Northern Owens Valley,Big Pine Ck. USGS Flow,82.2
-2019-08-24 03:36:35,Northern Owens Valley,O.R. Below Big Pine,515.2
-2019-08-24 03:36:35,Northern Owens Valley,Fish Springs At RR Flow,45.9
-2019-08-24 03:36:35,Northern Owens Valley,Tinemaha Reservoir Outflow,502.8
-2019-08-24 03:36:35,Northern Owens Valley,Bishop Creek Through Plant 6,148.6
-2019-08-24 03:36:35,Northern Owens Valley,Bishop Creek Around Plant 6,29.4
 2019-08-24 03:36:35,Long Valley,East Portal Flow,53.0
 2019-08-24 03:36:35,Long Valley,OR Below EP Flow,109.0
 2019-08-24 03:36:35,Long Valley,Hot Ck.at Hwy. Flow,28.0
@@ -246,29 +228,45 @@ date,district,source,value
 2019-08-24 03:36:35,Lower Owens River Project,LORP at Reinhackle Springs,60.0
 2019-08-24 03:36:35,Lower Owens River Project,LORP Above Pumpstation,54.0
 2019-08-24 03:36:35,Lower Owens River Project,LORP At Pump Station Discharge Flow,47.0
+2019-08-24 03:36:35,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,53.7
+2019-08-24 03:36:35,Northern Owens Valley,Pleasant Valley Outflow,496.5
+2019-08-24 03:36:35,Northern Owens Valley,Baker Ck. At LA Station Flow,12.4
+2019-08-24 03:36:35,Northern Owens Valley,Big Pine Ck. USGS Flow,82.2
+2019-08-24 03:36:35,Northern Owens Valley,O.R. Below Big Pine,515.2
+2019-08-24 03:36:35,Northern Owens Valley,Fish Springs At RR Flow,45.9
+2019-08-24 03:36:35,Northern Owens Valley,Tinemaha Reservoir Outflow,502.8
+2019-08-24 03:36:35,Northern Owens Valley,Bishop Creek Through Plant 6,148.6
+2019-08-24 03:36:35,Northern Owens Valley,Bishop Creek Around Plant 6,29.4
+2019-08-24 03:36:35,Southern Owens Valley,Tinemaha Reservoir Outflow,502.8
+2019-08-24 03:36:35,Southern Owens Valley,Indep. Ck. At Junction Flow,20.3
+2019-08-24 03:36:35,Southern Owens Valley,LAA at Alabama Flow,522.0
+2019-08-24 03:36:35,Southern Owens Valley,LAA at Cottonwood Flow,602.0
+2019-08-24 03:36:35,Southern Owens Valley,Haiwee LAA #1 Current Flow,415.8
+2019-08-24 03:36:35,Southern Owens Valley,Haiwee LAA #2 Current Flow,269.5
+2019-08-24 03:36:35,Southern Owens Valley,Reinhackel Flow,2.4
+2019-08-24 03:36:35,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
+2019-08-24 03:36:35,Southern Owens Valley,Cartago Spillgate Outflow,4.3
+2019-08-24 03:36:36,Southern District,S. Haiwee Reservoir Elevation,3725.0
+2019-08-24 03:36:36,Southern District,Fairmont Reservoir Elevation,3029.0
+2019-08-24 03:36:36,Southern District,Bouquet Reservoir Elevation,2982.6
+2019-08-24 03:36:36,Mono Basin,Mono Lk. Elevation,6382.7
+2019-08-24 03:36:36,Mono Basin,Grant Lk. Elevation,7122.6
+2019-08-24 03:36:36,Long Valley,Long Valley Elevation,6777.7
+2019-08-24 03:36:36,Northern Owens Valley,Pleasant Valley Elevation,4387.0
 2019-08-24 03:36:36,Southern Owens Valley,LAA at Alabama Level,8.5
 2019-08-24 03:36:36,Southern Owens Valley,LAA at Alabama Water Temp,70.1
 2019-08-24 03:36:36,Southern Owens Valley,LAA at Cottonwood Level,9.9
 2019-08-24 03:36:36,Southern Owens Valley,LAA at Cotton. Water Temp,71.2
 2019-08-24 03:36:36,Southern Owens Valley,N. Haiwee Elevation,3756.9
 2019-08-24 03:36:36,Southern Owens Valley,S. Haiwee Reservoir Elevation,3725.0
-2019-08-24 03:36:36,Mono Basin,Mono Lk. Elevation,6382.7
-2019-08-24 03:36:36,Mono Basin,Grant Lk. Elevation,7122.6
-2019-08-24 03:36:36,Southern District,S. Haiwee Reservoir Elevation,3725.0
-2019-08-24 03:36:36,Southern District,Fairmont Reservoir Elevation,3029.0
-2019-08-24 03:36:36,Southern District,Bouquet Reservoir Elevation,2982.6
-2019-08-24 03:36:36,Northern Owens Valley,Pleasant Valley Elevation,4387.0
-2019-08-24 03:36:36,Long Valley,Long Valley Elevation,6777.7
-2019-08-24 04:36:35,Southern Owens Valley,Tinemaha Reservoir Outflow,506.9
-2019-08-24 04:36:35,Southern Owens Valley,Indep. Ck. At Junction Flow,20.3
-2019-08-24 04:36:35,Southern Owens Valley,LAA at Alabama Flow,523.0
-2019-08-24 04:36:35,Southern Owens Valley,Cottonwood Ck. At LAA Flow,18.0
-2019-08-24 04:36:35,Southern Owens Valley,LAA at Cottonwood Flow,602.0
-2019-08-24 04:36:35,Southern Owens Valley,Haiwee LAA #1 Current Flow,415.8
-2019-08-24 04:36:35,Southern Owens Valley,Haiwee LAA #2 Current Flow,269.5
-2019-08-24 04:36:35,Southern Owens Valley,Reinhackel Flow,2.4
-2019-08-24 04:36:35,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
-2019-08-24 04:36:35,Southern Owens Valley,Cartago Spillgate Outflow,5.0
+2019-08-24 04:36:35,Southern District,Haiwee LAA #2 Current Flow,269.5
+2019-08-24 04:36:35,Southern District,Haiwee LAA #1 Current Flow,415.8
+2019-08-24 04:36:35,Southern District,LAA #1 Flow at Fairmont Reservoir,408.0
+2019-08-24 04:36:35,Southern District,LAA #2 Flow at Fairmont Res.,288.0
+2019-08-24 04:36:35,Southern District,Bouquet Reservoir Inflow,0.0
+2019-08-24 04:36:35,Southern District,Bouquet Reservoir Outflow,0.5
+2019-08-24 04:36:35,Southern District,LAA #1 at Soledad Flow,351.7
+2019-08-24 04:36:35,Southern District,LAA #2 at Soledad Flow,317.5
 2019-08-24 04:36:35,Mono Basin,Lee Vining Intake Above Flow,67.5
 2019-08-24 04:36:35,Mono Basin,Lee Vining Intake Below Flow,71.6
 2019-08-24 04:36:35,Mono Basin,Walker Ck. Above Conduit Flow,9.0
@@ -281,23 +279,6 @@ date,district,source,value
 2019-08-24 04:36:35,Mono Basin,Grant Lk. Outflow,145.4
 2019-08-24 04:36:35,Mono Basin,Rush Ck. at Damsite Flow,0.0
 2019-08-24 04:36:35,Mono Basin,Flow to West Portal,40.2
-2019-08-24 04:36:35,Southern District,Haiwee LAA #2 Current Flow,269.5
-2019-08-24 04:36:35,Southern District,Haiwee LAA #1 Current Flow,415.8
-2019-08-24 04:36:35,Southern District,LAA #1 Flow at Fairmont Reservoir,408.0
-2019-08-24 04:36:35,Southern District,LAA #2 Flow at Fairmont Res.,288.0
-2019-08-24 04:36:35,Southern District,Bouquet Reservoir Inflow,0.0
-2019-08-24 04:36:35,Southern District,Bouquet Reservoir Outflow,0.5
-2019-08-24 04:36:35,Southern District,LAA #1 at Soledad Flow,351.7
-2019-08-24 04:36:35,Southern District,LAA #2 at Soledad Flow,317.5
-2019-08-24 04:36:35,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,54.2
-2019-08-24 04:36:35,Northern Owens Valley,Pleasant Valley Outflow,495.6
-2019-08-24 04:36:35,Northern Owens Valley,Baker Ck. At LA Station Flow,12.4
-2019-08-24 04:36:35,Northern Owens Valley,Big Pine Ck. USGS Flow,82.2
-2019-08-24 04:36:35,Northern Owens Valley,O.R. Below Big Pine,515.2
-2019-08-24 04:36:35,Northern Owens Valley,Fish Springs At RR Flow,45.9
-2019-08-24 04:36:35,Northern Owens Valley,Tinemaha Reservoir Outflow,506.9
-2019-08-24 04:36:35,Northern Owens Valley,Bishop Creek Through Plant 6,149.3
-2019-08-24 04:36:35,Northern Owens Valley,Bishop Creek Around Plant 6,29.6
 2019-08-24 04:36:35,Long Valley,East Portal Flow,53.0
 2019-08-24 04:36:35,Long Valley,OR Below EP Flow,109.0
 2019-08-24 04:36:35,Long Valley,Hot Ck.at Hwy. Flow,28.0
@@ -311,29 +292,46 @@ date,district,source,value
 2019-08-24 04:36:35,Lower Owens River Project,LORP at Reinhackle Springs,63.0
 2019-08-24 04:36:35,Lower Owens River Project,LORP Above Pumpstation,54.0
 2019-08-24 04:36:35,Lower Owens River Project,LORP At Pump Station Discharge Flow,47.0
+2019-08-24 04:36:35,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,54.2
+2019-08-24 04:36:35,Northern Owens Valley,Pleasant Valley Outflow,495.6
+2019-08-24 04:36:35,Northern Owens Valley,Baker Ck. At LA Station Flow,12.4
+2019-08-24 04:36:35,Northern Owens Valley,Big Pine Ck. USGS Flow,82.2
+2019-08-24 04:36:35,Northern Owens Valley,O.R. Below Big Pine,515.2
+2019-08-24 04:36:35,Northern Owens Valley,Fish Springs At RR Flow,45.9
+2019-08-24 04:36:35,Northern Owens Valley,Tinemaha Reservoir Outflow,506.9
+2019-08-24 04:36:35,Northern Owens Valley,Bishop Creek Through Plant 6,149.3
+2019-08-24 04:36:35,Northern Owens Valley,Bishop Creek Around Plant 6,29.6
+2019-08-24 04:36:35,Southern Owens Valley,Tinemaha Reservoir Outflow,506.9
+2019-08-24 04:36:35,Southern Owens Valley,Indep. Ck. At Junction Flow,20.3
+2019-08-24 04:36:35,Southern Owens Valley,LAA at Alabama Flow,523.0
+2019-08-24 04:36:35,Southern Owens Valley,Cottonwood Ck. At LAA Flow,18.0
+2019-08-24 04:36:35,Southern Owens Valley,LAA at Cottonwood Flow,602.0
+2019-08-24 04:36:35,Southern Owens Valley,Haiwee LAA #1 Current Flow,415.8
+2019-08-24 04:36:35,Southern Owens Valley,Haiwee LAA #2 Current Flow,269.5
+2019-08-24 04:36:35,Southern Owens Valley,Reinhackel Flow,2.4
+2019-08-24 04:36:35,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
+2019-08-24 04:36:35,Southern Owens Valley,Cartago Spillgate Outflow,5.0
+2019-08-24 04:36:36,Southern District,S. Haiwee Reservoir Elevation,3725.0
+2019-08-24 04:36:36,Southern District,Fairmont Reservoir Elevation,3029.0
+2019-08-24 04:36:36,Southern District,Bouquet Reservoir Elevation,2982.6
+2019-08-24 04:36:36,Mono Basin,Mono Lk. Elevation,6382.7
+2019-08-24 04:36:36,Mono Basin,Grant Lk. Elevation,7122.6
+2019-08-24 04:36:36,Long Valley,Long Valley Elevation,6777.7
+2019-08-24 04:36:36,Northern Owens Valley,Pleasant Valley Elevation,4386.7
 2019-08-24 04:36:36,Southern Owens Valley,LAA at Alabama Level,8.5
 2019-08-24 04:36:36,Southern Owens Valley,LAA at Alabama Water Temp,69.6
 2019-08-24 04:36:36,Southern Owens Valley,LAA at Cottonwood Level,9.9
 2019-08-24 04:36:36,Southern Owens Valley,LAA at Cotton. Water Temp,71.1
 2019-08-24 04:36:36,Southern Owens Valley,N. Haiwee Elevation,3756.9
 2019-08-24 04:36:36,Southern Owens Valley,S. Haiwee Reservoir Elevation,3725.0
-2019-08-24 04:36:36,Mono Basin,Mono Lk. Elevation,6382.7
-2019-08-24 04:36:36,Mono Basin,Grant Lk. Elevation,7122.6
-2019-08-24 04:36:36,Southern District,S. Haiwee Reservoir Elevation,3725.0
-2019-08-24 04:36:36,Southern District,Fairmont Reservoir Elevation,3029.0
-2019-08-24 04:36:36,Southern District,Bouquet Reservoir Elevation,2982.6
-2019-08-24 04:36:36,Northern Owens Valley,Pleasant Valley Elevation,4386.7
-2019-08-24 04:36:36,Long Valley,Long Valley Elevation,6777.7
-2019-08-24 05:36:34,Southern Owens Valley,Tinemaha Reservoir Outflow,505.6
-2019-08-24 05:36:34,Southern Owens Valley,Indep. Ck. At Junction Flow,20.3
-2019-08-24 05:36:34,Southern Owens Valley,LAA at Alabama Flow,523.0
-2019-08-24 05:36:34,Southern Owens Valley,Cottonwood Ck. At LAA Flow,18.0
-2019-08-24 05:36:34,Southern Owens Valley,LAA at Cottonwood Flow,602.0
-2019-08-24 05:36:34,Southern Owens Valley,Haiwee LAA #1 Current Flow,415.8
-2019-08-24 05:36:34,Southern Owens Valley,Haiwee LAA #2 Current Flow,269.5
-2019-08-24 05:36:34,Southern Owens Valley,Reinhackel Flow,2.4
-2019-08-24 05:36:34,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
-2019-08-24 05:36:34,Southern Owens Valley,Cartago Spillgate Outflow,5.1
+2019-08-24 05:36:34,Southern District,Haiwee LAA #2 Current Flow,269.5
+2019-08-24 05:36:34,Southern District,Haiwee LAA #1 Current Flow,415.8
+2019-08-24 05:36:34,Southern District,LAA #1 Flow at Fairmont Reservoir,407.5
+2019-08-24 05:36:34,Southern District,LAA #2 Flow at Fairmont Res.,288.2
+2019-08-24 05:36:34,Southern District,Bouquet Reservoir Inflow,0.0
+2019-08-24 05:36:34,Southern District,Bouquet Reservoir Outflow,0.5
+2019-08-24 05:36:34,Southern District,LAA #1 at Soledad Flow,351.7
+2019-08-24 05:36:34,Southern District,LAA #2 at Soledad Flow,317.5
 2019-08-24 05:36:34,Mono Basin,Lee Vining Intake Above Flow,67.5
 2019-08-24 05:36:34,Mono Basin,Lee Vining Intake Below Flow,71.6
 2019-08-24 05:36:34,Mono Basin,Walker Ck. Above Conduit Flow,9.0
@@ -346,23 +344,6 @@ date,district,source,value
 2019-08-24 05:36:34,Mono Basin,Grant Lk. Outflow,144.5
 2019-08-24 05:36:34,Mono Basin,Rush Ck. at Damsite Flow,22.9
 2019-08-24 05:36:34,Mono Basin,Flow to West Portal,40.2
-2019-08-24 05:36:34,Southern District,Haiwee LAA #2 Current Flow,269.5
-2019-08-24 05:36:34,Southern District,Haiwee LAA #1 Current Flow,415.8
-2019-08-24 05:36:34,Southern District,LAA #1 Flow at Fairmont Reservoir,407.5
-2019-08-24 05:36:34,Southern District,LAA #2 Flow at Fairmont Res.,288.2
-2019-08-24 05:36:34,Southern District,Bouquet Reservoir Inflow,0.0
-2019-08-24 05:36:34,Southern District,Bouquet Reservoir Outflow,0.5
-2019-08-24 05:36:34,Southern District,LAA #1 at Soledad Flow,351.7
-2019-08-24 05:36:34,Southern District,LAA #2 at Soledad Flow,317.5
-2019-08-24 05:36:34,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,54.4
-2019-08-24 05:36:34,Northern Owens Valley,Pleasant Valley Outflow,494.7
-2019-08-24 05:36:34,Northern Owens Valley,Baker Ck. At LA Station Flow,12.4
-2019-08-24 05:36:34,Northern Owens Valley,Big Pine Ck. USGS Flow,82.2
-2019-08-24 05:36:34,Northern Owens Valley,O.R. Below Big Pine,515.2
-2019-08-24 05:36:34,Northern Owens Valley,Fish Springs At RR Flow,45.9
-2019-08-24 05:36:34,Northern Owens Valley,Tinemaha Reservoir Outflow,505.6
-2019-08-24 05:36:34,Northern Owens Valley,Bishop Creek Through Plant 6,148.3
-2019-08-24 05:36:34,Northern Owens Valley,Bishop Creek Around Plant 6,29.4
 2019-08-24 05:36:34,Long Valley,East Portal Flow,54.0
 2019-08-24 05:36:34,Long Valley,OR Below EP Flow,109.0
 2019-08-24 05:36:34,Long Valley,Hot Ck.at Hwy. Flow,32.0
@@ -376,29 +357,46 @@ date,district,source,value
 2019-08-24 05:36:34,Lower Owens River Project,LORP at Reinhackle Springs,60.0
 2019-08-24 05:36:34,Lower Owens River Project,LORP Above Pumpstation,54.0
 2019-08-24 05:36:34,Lower Owens River Project,LORP At Pump Station Discharge Flow,47.0
+2019-08-24 05:36:34,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,54.4
+2019-08-24 05:36:34,Northern Owens Valley,Pleasant Valley Outflow,494.7
+2019-08-24 05:36:34,Northern Owens Valley,Baker Ck. At LA Station Flow,12.4
+2019-08-24 05:36:34,Northern Owens Valley,Big Pine Ck. USGS Flow,82.2
+2019-08-24 05:36:34,Northern Owens Valley,O.R. Below Big Pine,515.2
+2019-08-24 05:36:34,Northern Owens Valley,Fish Springs At RR Flow,45.9
+2019-08-24 05:36:34,Northern Owens Valley,Tinemaha Reservoir Outflow,505.6
+2019-08-24 05:36:34,Northern Owens Valley,Bishop Creek Through Plant 6,148.3
+2019-08-24 05:36:34,Northern Owens Valley,Bishop Creek Around Plant 6,29.4
+2019-08-24 05:36:34,Southern Owens Valley,Tinemaha Reservoir Outflow,505.6
+2019-08-24 05:36:34,Southern Owens Valley,Indep. Ck. At Junction Flow,20.3
+2019-08-24 05:36:34,Southern Owens Valley,LAA at Alabama Flow,523.0
+2019-08-24 05:36:34,Southern Owens Valley,Cottonwood Ck. At LAA Flow,18.0
+2019-08-24 05:36:34,Southern Owens Valley,LAA at Cottonwood Flow,602.0
+2019-08-24 05:36:34,Southern Owens Valley,Haiwee LAA #1 Current Flow,415.8
+2019-08-24 05:36:34,Southern Owens Valley,Haiwee LAA #2 Current Flow,269.5
+2019-08-24 05:36:34,Southern Owens Valley,Reinhackel Flow,2.4
+2019-08-24 05:36:34,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
+2019-08-24 05:36:34,Southern Owens Valley,Cartago Spillgate Outflow,5.1
+2019-08-24 05:36:35,Southern District,S. Haiwee Reservoir Elevation,3724.9
+2019-08-24 05:36:35,Southern District,Fairmont Reservoir Elevation,3028.7
+2019-08-24 05:36:35,Southern District,Bouquet Reservoir Elevation,2982.6
+2019-08-24 05:36:35,Mono Basin,Mono Lk. Elevation,6382.7
+2019-08-24 05:36:35,Mono Basin,Grant Lk. Elevation,7122.6
+2019-08-24 05:36:35,Long Valley,Long Valley Elevation,6777.7
+2019-08-24 05:36:35,Northern Owens Valley,Pleasant Valley Elevation,4386.5
 2019-08-24 05:36:35,Southern Owens Valley,LAA at Alabama Level,8.5
 2019-08-24 05:36:35,Southern Owens Valley,LAA at Alabama Water Temp,69.1
 2019-08-24 05:36:35,Southern Owens Valley,LAA at Cottonwood Level,9.9
 2019-08-24 05:36:35,Southern Owens Valley,LAA at Cotton. Water Temp,70.7
 2019-08-24 05:36:35,Southern Owens Valley,N. Haiwee Elevation,3756.9
 2019-08-24 05:36:35,Southern Owens Valley,S. Haiwee Reservoir Elevation,3724.9
-2019-08-24 05:36:35,Mono Basin,Mono Lk. Elevation,6382.7
-2019-08-24 05:36:35,Mono Basin,Grant Lk. Elevation,7122.6
-2019-08-24 05:36:35,Southern District,S. Haiwee Reservoir Elevation,3724.9
-2019-08-24 05:36:35,Southern District,Fairmont Reservoir Elevation,3028.7
-2019-08-24 05:36:35,Southern District,Bouquet Reservoir Elevation,2982.6
-2019-08-24 05:36:35,Northern Owens Valley,Pleasant Valley Elevation,4386.5
-2019-08-24 05:36:35,Long Valley,Long Valley Elevation,6777.7
-2019-08-24 06:36:34,Southern Owens Valley,Tinemaha Reservoir Outflow,504.3
-2019-08-24 06:36:34,Southern Owens Valley,Indep. Ck. At Junction Flow,20.3
-2019-08-24 06:36:34,Southern Owens Valley,LAA at Alabama Flow,523.0
-2019-08-24 06:36:34,Southern Owens Valley,Cottonwood Ck. At LAA Flow,18.0
-2019-08-24 06:36:34,Southern Owens Valley,LAA at Cottonwood Flow,602.0
-2019-08-24 06:36:34,Southern Owens Valley,Haiwee LAA #1 Current Flow,413.9
-2019-08-24 06:36:34,Southern Owens Valley,Haiwee LAA #2 Current Flow,269.7
-2019-08-24 06:36:34,Southern Owens Valley,Reinhackel Flow,2.4
-2019-08-24 06:36:34,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
-2019-08-24 06:36:34,Southern Owens Valley,Cartago Spillgate Outflow,7.5
+2019-08-24 06:36:34,Southern District,Haiwee LAA #2 Current Flow,269.7
+2019-08-24 06:36:34,Southern District,Haiwee LAA #1 Current Flow,413.9
+2019-08-24 06:36:34,Southern District,LAA #1 Flow at Fairmont Reservoir,407.9
+2019-08-24 06:36:34,Southern District,LAA #2 Flow at Fairmont Res.,288.3
+2019-08-24 06:36:34,Southern District,Bouquet Reservoir Inflow,0.0
+2019-08-24 06:36:34,Southern District,Bouquet Reservoir Outflow,0.5
+2019-08-24 06:36:34,Southern District,LAA #1 at Soledad Flow,351.7
+2019-08-24 06:36:34,Southern District,LAA #2 at Soledad Flow,317.3
 2019-08-24 06:36:34,Mono Basin,Lee Vining Intake Above Flow,67.9
 2019-08-24 06:36:34,Mono Basin,Lee Vining Intake Below Flow,71.6
 2019-08-24 06:36:34,Mono Basin,Walker Ck. Above Conduit Flow,9.0
@@ -411,23 +409,6 @@ date,district,source,value
 2019-08-24 06:36:34,Mono Basin,Grant Lk. Outflow,145.4
 2019-08-24 06:36:34,Mono Basin,Rush Ck. at Damsite Flow,22.3
 2019-08-24 06:36:34,Mono Basin,Flow to West Portal,40.2
-2019-08-24 06:36:34,Southern District,Haiwee LAA #2 Current Flow,269.7
-2019-08-24 06:36:34,Southern District,Haiwee LAA #1 Current Flow,413.9
-2019-08-24 06:36:34,Southern District,LAA #1 Flow at Fairmont Reservoir,407.9
-2019-08-24 06:36:34,Southern District,LAA #2 Flow at Fairmont Res.,288.3
-2019-08-24 06:36:34,Southern District,Bouquet Reservoir Inflow,0.0
-2019-08-24 06:36:34,Southern District,Bouquet Reservoir Outflow,0.5
-2019-08-24 06:36:34,Southern District,LAA #1 at Soledad Flow,351.7
-2019-08-24 06:36:34,Southern District,LAA #2 at Soledad Flow,317.3
-2019-08-24 06:36:34,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,54.4
-2019-08-24 06:36:34,Northern Owens Valley,Pleasant Valley Outflow,494.5
-2019-08-24 06:36:34,Northern Owens Valley,Baker Ck. At LA Station Flow,12.4
-2019-08-24 06:36:34,Northern Owens Valley,Big Pine Ck. USGS Flow,82.2
-2019-08-24 06:36:34,Northern Owens Valley,O.R. Below Big Pine,515.2
-2019-08-24 06:36:34,Northern Owens Valley,Fish Springs At RR Flow,48.7
-2019-08-24 06:36:34,Northern Owens Valley,Tinemaha Reservoir Outflow,504.3
-2019-08-24 06:36:34,Northern Owens Valley,Bishop Creek Through Plant 6,148.8
-2019-08-24 06:36:34,Northern Owens Valley,Bishop Creek Around Plant 6,29.1
 2019-08-24 06:36:34,Long Valley,East Portal Flow,53.0
 2019-08-24 06:36:34,Long Valley,OR Below EP Flow,109.0
 2019-08-24 06:36:34,Long Valley,Hot Ck.at Hwy. Flow,32.0
@@ -441,29 +422,46 @@ date,district,source,value
 2019-08-24 06:36:34,Lower Owens River Project,LORP at Reinhackle Springs,0.0
 2019-08-24 06:36:34,Lower Owens River Project,LORP Above Pumpstation,41.0
 2019-08-24 06:36:34,Lower Owens River Project,LORP At Pump Station Discharge Flow,33.0
+2019-08-24 06:36:34,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,54.4
+2019-08-24 06:36:34,Northern Owens Valley,Pleasant Valley Outflow,494.5
+2019-08-24 06:36:34,Northern Owens Valley,Baker Ck. At LA Station Flow,12.4
+2019-08-24 06:36:34,Northern Owens Valley,Big Pine Ck. USGS Flow,82.2
+2019-08-24 06:36:34,Northern Owens Valley,O.R. Below Big Pine,515.2
+2019-08-24 06:36:34,Northern Owens Valley,Fish Springs At RR Flow,48.7
+2019-08-24 06:36:34,Northern Owens Valley,Tinemaha Reservoir Outflow,504.3
+2019-08-24 06:36:34,Northern Owens Valley,Bishop Creek Through Plant 6,148.8
+2019-08-24 06:36:34,Northern Owens Valley,Bishop Creek Around Plant 6,29.1
+2019-08-24 06:36:34,Southern Owens Valley,Tinemaha Reservoir Outflow,504.3
+2019-08-24 06:36:34,Southern Owens Valley,Indep. Ck. At Junction Flow,20.3
+2019-08-24 06:36:34,Southern Owens Valley,LAA at Alabama Flow,523.0
+2019-08-24 06:36:34,Southern Owens Valley,Cottonwood Ck. At LAA Flow,18.0
+2019-08-24 06:36:34,Southern Owens Valley,LAA at Cottonwood Flow,602.0
+2019-08-24 06:36:34,Southern Owens Valley,Haiwee LAA #1 Current Flow,413.9
+2019-08-24 06:36:34,Southern Owens Valley,Haiwee LAA #2 Current Flow,269.7
+2019-08-24 06:36:34,Southern Owens Valley,Reinhackel Flow,2.4
+2019-08-24 06:36:34,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
+2019-08-24 06:36:34,Southern Owens Valley,Cartago Spillgate Outflow,7.5
+2019-08-24 06:36:35,Southern District,S. Haiwee Reservoir Elevation,3724.9
+2019-08-24 06:36:35,Southern District,Fairmont Reservoir Elevation,3028.7
+2019-08-24 06:36:35,Southern District,Bouquet Reservoir Elevation,2982.6
+2019-08-24 06:36:35,Mono Basin,Mono Lk. Elevation,6382.7
+2019-08-24 06:36:35,Mono Basin,Grant Lk. Elevation,7122.6
+2019-08-24 06:36:35,Long Valley,Long Valley Elevation,6777.7
+2019-08-24 06:36:35,Northern Owens Valley,Pleasant Valley Elevation,4386.5
 2019-08-24 06:36:35,Southern Owens Valley,LAA at Alabama Level,8.5
 2019-08-24 06:36:35,Southern Owens Valley,LAA at Alabama Water Temp,68.7
 2019-08-24 06:36:35,Southern Owens Valley,LAA at Cottonwood Level,9.9
 2019-08-24 06:36:35,Southern Owens Valley,LAA at Cotton. Water Temp,70.4
 2019-08-24 06:36:35,Southern Owens Valley,N. Haiwee Elevation,3756.9
 2019-08-24 06:36:35,Southern Owens Valley,S. Haiwee Reservoir Elevation,3724.9
-2019-08-24 06:36:35,Mono Basin,Mono Lk. Elevation,6382.7
-2019-08-24 06:36:35,Mono Basin,Grant Lk. Elevation,7122.6
-2019-08-24 06:36:35,Southern District,S. Haiwee Reservoir Elevation,3724.9
-2019-08-24 06:36:35,Southern District,Fairmont Reservoir Elevation,3028.7
-2019-08-24 06:36:35,Southern District,Bouquet Reservoir Elevation,2982.6
-2019-08-24 06:36:35,Northern Owens Valley,Pleasant Valley Elevation,4386.5
-2019-08-24 06:36:35,Long Valley,Long Valley Elevation,6777.7
-2019-08-24 07:36:34,Southern Owens Valley,Tinemaha Reservoir Outflow,503.2
-2019-08-24 07:36:34,Southern Owens Valley,Indep. Ck. At Junction Flow,21.2
-2019-08-24 07:36:34,Southern Owens Valley,LAA at Alabama Flow,522.0
-2019-08-24 07:36:34,Southern Owens Valley,Cottonwood Ck. At LAA Flow,18.0
-2019-08-24 07:36:34,Southern Owens Valley,LAA at Cottonwood Flow,602.0
-2019-08-24 07:36:34,Southern Owens Valley,Haiwee LAA #1 Current Flow,413.9
-2019-08-24 07:36:34,Southern Owens Valley,Haiwee LAA #2 Current Flow,269.7
-2019-08-24 07:36:34,Southern Owens Valley,Reinhackel Flow,2.4
-2019-08-24 07:36:34,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
-2019-08-24 07:36:34,Southern Owens Valley,Cartago Spillgate Outflow,10.5
+2019-08-24 07:36:34,Southern District,Haiwee LAA #2 Current Flow,269.7
+2019-08-24 07:36:34,Southern District,Haiwee LAA #1 Current Flow,413.9
+2019-08-24 07:36:34,Southern District,LAA #1 Flow at Fairmont Reservoir,407.9
+2019-08-24 07:36:34,Southern District,LAA #2 Flow at Fairmont Res.,288.3
+2019-08-24 07:36:34,Southern District,Bouquet Reservoir Inflow,0.0
+2019-08-24 07:36:34,Southern District,Bouquet Reservoir Outflow,0.5
+2019-08-24 07:36:34,Southern District,LAA #1 at Soledad Flow,352.1
+2019-08-24 07:36:34,Southern District,LAA #2 at Soledad Flow,317.5
 2019-08-24 07:36:34,Mono Basin,Lee Vining Intake Above Flow,67.9
 2019-08-24 07:36:34,Mono Basin,Lee Vining Intake Below Flow,71.6
 2019-08-24 07:36:34,Mono Basin,Walker Ck. Above Conduit Flow,9.0
@@ -476,23 +474,6 @@ date,district,source,value
 2019-08-24 07:36:34,Mono Basin,Grant Lk. Outflow,145.3
 2019-08-24 07:36:34,Mono Basin,Rush Ck. at Damsite Flow,22.3
 2019-08-24 07:36:34,Mono Basin,Flow to West Portal,40.5
-2019-08-24 07:36:34,Southern District,Haiwee LAA #2 Current Flow,269.7
-2019-08-24 07:36:34,Southern District,Haiwee LAA #1 Current Flow,413.9
-2019-08-24 07:36:34,Southern District,LAA #1 Flow at Fairmont Reservoir,407.9
-2019-08-24 07:36:34,Southern District,LAA #2 Flow at Fairmont Res.,288.3
-2019-08-24 07:36:34,Southern District,Bouquet Reservoir Inflow,0.0
-2019-08-24 07:36:34,Southern District,Bouquet Reservoir Outflow,0.5
-2019-08-24 07:36:34,Southern District,LAA #1 at Soledad Flow,352.1
-2019-08-24 07:36:34,Southern District,LAA #2 at Soledad Flow,317.5
-2019-08-24 07:36:34,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,54.9
-2019-08-24 07:36:34,Northern Owens Valley,Pleasant Valley Outflow,493.5
-2019-08-24 07:36:34,Northern Owens Valley,Baker Ck. At LA Station Flow,12.7
-2019-08-24 07:36:34,Northern Owens Valley,Big Pine Ck. USGS Flow,82.2
-2019-08-24 07:36:34,Northern Owens Valley,O.R. Below Big Pine,515.2
-2019-08-24 07:36:34,Northern Owens Valley,Fish Springs At RR Flow,48.7
-2019-08-24 07:36:34,Northern Owens Valley,Tinemaha Reservoir Outflow,503.2
-2019-08-24 07:36:34,Northern Owens Valley,Bishop Creek Through Plant 6,149.5
-2019-08-24 07:36:34,Northern Owens Valley,Bishop Creek Around Plant 6,28.4
 2019-08-24 07:36:34,Long Valley,East Portal Flow,53.0
 2019-08-24 07:36:34,Long Valley,OR Below EP Flow,109.0
 2019-08-24 07:36:34,Long Valley,Hot Ck.at Hwy. Flow,31.0
@@ -506,29 +487,46 @@ date,district,source,value
 2019-08-24 07:36:34,Lower Owens River Project,LORP at Reinhackle Springs,65.0
 2019-08-24 07:36:34,Lower Owens River Project,LORP Above Pumpstation,54.0
 2019-08-24 07:36:34,Lower Owens River Project,LORP At Pump Station Discharge Flow,47.0
+2019-08-24 07:36:34,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,54.9
+2019-08-24 07:36:34,Northern Owens Valley,Pleasant Valley Outflow,493.5
+2019-08-24 07:36:34,Northern Owens Valley,Baker Ck. At LA Station Flow,12.7
+2019-08-24 07:36:34,Northern Owens Valley,Big Pine Ck. USGS Flow,82.2
+2019-08-24 07:36:34,Northern Owens Valley,O.R. Below Big Pine,515.2
+2019-08-24 07:36:34,Northern Owens Valley,Fish Springs At RR Flow,48.7
+2019-08-24 07:36:34,Northern Owens Valley,Tinemaha Reservoir Outflow,503.2
+2019-08-24 07:36:34,Northern Owens Valley,Bishop Creek Through Plant 6,149.5
+2019-08-24 07:36:34,Northern Owens Valley,Bishop Creek Around Plant 6,28.4
+2019-08-24 07:36:34,Southern Owens Valley,Tinemaha Reservoir Outflow,503.2
+2019-08-24 07:36:34,Southern Owens Valley,Indep. Ck. At Junction Flow,21.2
+2019-08-24 07:36:34,Southern Owens Valley,LAA at Alabama Flow,522.0
+2019-08-24 07:36:34,Southern Owens Valley,Cottonwood Ck. At LAA Flow,18.0
+2019-08-24 07:36:34,Southern Owens Valley,LAA at Cottonwood Flow,602.0
+2019-08-24 07:36:34,Southern Owens Valley,Haiwee LAA #1 Current Flow,413.9
+2019-08-24 07:36:34,Southern Owens Valley,Haiwee LAA #2 Current Flow,269.7
+2019-08-24 07:36:34,Southern Owens Valley,Reinhackel Flow,2.4
+2019-08-24 07:36:34,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
+2019-08-24 07:36:34,Southern Owens Valley,Cartago Spillgate Outflow,10.5
+2019-08-24 07:36:35,Southern District,S. Haiwee Reservoir Elevation,3724.9
+2019-08-24 07:36:35,Southern District,Fairmont Reservoir Elevation,3028.7
+2019-08-24 07:36:35,Southern District,Bouquet Reservoir Elevation,2982.6
+2019-08-24 07:36:35,Mono Basin,Mono Lk. Elevation,6382.7
+2019-08-24 07:36:35,Mono Basin,Grant Lk. Elevation,7122.6
+2019-08-24 07:36:35,Long Valley,Long Valley Elevation,6777.7
+2019-08-24 07:36:35,Northern Owens Valley,Pleasant Valley Elevation,4386.3
 2019-08-24 07:36:35,Southern Owens Valley,LAA at Alabama Level,8.5
 2019-08-24 07:36:35,Southern Owens Valley,LAA at Alabama Water Temp,68.2
 2019-08-24 07:36:35,Southern Owens Valley,LAA at Cottonwood Level,9.9
 2019-08-24 07:36:35,Southern Owens Valley,LAA at Cotton. Water Temp,70.2
 2019-08-24 07:36:35,Southern Owens Valley,N. Haiwee Elevation,3756.9
 2019-08-24 07:36:35,Southern Owens Valley,S. Haiwee Reservoir Elevation,3724.9
-2019-08-24 07:36:35,Mono Basin,Mono Lk. Elevation,6382.7
-2019-08-24 07:36:35,Mono Basin,Grant Lk. Elevation,7122.6
-2019-08-24 07:36:35,Southern District,S. Haiwee Reservoir Elevation,3724.9
-2019-08-24 07:36:35,Southern District,Fairmont Reservoir Elevation,3028.7
-2019-08-24 07:36:35,Southern District,Bouquet Reservoir Elevation,2982.6
-2019-08-24 07:36:35,Northern Owens Valley,Pleasant Valley Elevation,4386.3
-2019-08-24 07:36:35,Long Valley,Long Valley Elevation,6777.7
-2019-08-24 08:36:34,Southern Owens Valley,Tinemaha Reservoir Outflow,500.5
-2019-08-24 08:36:34,Southern Owens Valley,Indep. Ck. At Junction Flow,21.2
-2019-08-24 08:36:34,Southern Owens Valley,LAA at Alabama Flow,523.0
-2019-08-24 08:36:34,Southern Owens Valley,Cottonwood Ck. At LAA Flow,18.0
-2019-08-24 08:36:34,Southern Owens Valley,LAA at Cottonwood Flow,600.0
-2019-08-24 08:36:34,Southern Owens Valley,Haiwee LAA #1 Current Flow,412.5
-2019-08-24 08:36:34,Southern Owens Valley,Haiwee LAA #2 Current Flow,270.0
-2019-08-24 08:36:34,Southern Owens Valley,Reinhackel Flow,2.4
-2019-08-24 08:36:34,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
-2019-08-24 08:36:34,Southern Owens Valley,Cartago Spillgate Outflow,17.2
+2019-08-24 08:36:34,Southern District,Haiwee LAA #2 Current Flow,270.0
+2019-08-24 08:36:34,Southern District,Haiwee LAA #1 Current Flow,412.5
+2019-08-24 08:36:34,Southern District,LAA #1 Flow at Fairmont Reservoir,407.0
+2019-08-24 08:36:34,Southern District,LAA #2 Flow at Fairmont Res.,288.2
+2019-08-24 08:36:34,Southern District,Bouquet Reservoir Inflow,0.0
+2019-08-24 08:36:34,Southern District,Bouquet Reservoir Outflow,0.4
+2019-08-24 08:36:34,Southern District,LAA #1 at Soledad Flow,0.0
+2019-08-24 08:36:34,Southern District,LAA #2 at Soledad Flow,317.5
 2019-08-24 08:36:34,Mono Basin,Lee Vining Intake Above Flow,67.7
 2019-08-24 08:36:34,Mono Basin,Lee Vining Intake Below Flow,71.6
 2019-08-24 08:36:34,Mono Basin,Walker Ck. Above Conduit Flow,9.0
@@ -541,23 +539,6 @@ date,district,source,value
 2019-08-24 08:36:34,Mono Basin,Grant Lk. Outflow,145.6
 2019-08-24 08:36:34,Mono Basin,Rush Ck. at Damsite Flow,22.3
 2019-08-24 08:36:34,Mono Basin,Flow to West Portal,40.5
-2019-08-24 08:36:34,Southern District,Haiwee LAA #2 Current Flow,270.0
-2019-08-24 08:36:34,Southern District,Haiwee LAA #1 Current Flow,412.5
-2019-08-24 08:36:34,Southern District,LAA #1 Flow at Fairmont Reservoir,407.0
-2019-08-24 08:36:34,Southern District,LAA #2 Flow at Fairmont Res.,288.2
-2019-08-24 08:36:34,Southern District,Bouquet Reservoir Inflow,0.0
-2019-08-24 08:36:34,Southern District,Bouquet Reservoir Outflow,0.4
-2019-08-24 08:36:34,Southern District,LAA #1 at Soledad Flow,0.0
-2019-08-24 08:36:34,Southern District,LAA #2 at Soledad Flow,317.5
-2019-08-24 08:36:34,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,54.9
-2019-08-24 08:36:34,Northern Owens Valley,Pleasant Valley Outflow,492.7
-2019-08-24 08:36:34,Northern Owens Valley,Baker Ck. At LA Station Flow,12.7
-2019-08-24 08:36:34,Northern Owens Valley,Big Pine Ck. USGS Flow,82.9
-2019-08-24 08:36:34,Northern Owens Valley,O.R. Below Big Pine,527.6
-2019-08-24 08:36:34,Northern Owens Valley,Fish Springs At RR Flow,49.3
-2019-08-24 08:36:34,Northern Owens Valley,Tinemaha Reservoir Outflow,500.5
-2019-08-24 08:36:34,Northern Owens Valley,Bishop Creek Through Plant 6,148.8
-2019-08-24 08:36:34,Northern Owens Valley,Bishop Creek Around Plant 6,28.2
 2019-08-24 08:36:34,Long Valley,East Portal Flow,53.0
 2019-08-24 08:36:34,Long Valley,OR Below EP Flow,109.0
 2019-08-24 08:36:34,Long Valley,Hot Ck.at Hwy. Flow,31.0
@@ -571,31 +552,48 @@ date,district,source,value
 2019-08-24 08:36:34,Lower Owens River Project,LORP at Reinhackle Springs,63.0
 2019-08-24 08:36:34,Lower Owens River Project,LORP Above Pumpstation,41.0
 2019-08-24 08:36:34,Lower Owens River Project,LORP At Pump Station Discharge Flow,33.0
+2019-08-24 08:36:34,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,54.9
+2019-08-24 08:36:34,Northern Owens Valley,Pleasant Valley Outflow,492.7
+2019-08-24 08:36:34,Northern Owens Valley,Baker Ck. At LA Station Flow,12.7
+2019-08-24 08:36:34,Northern Owens Valley,Big Pine Ck. USGS Flow,82.9
+2019-08-24 08:36:34,Northern Owens Valley,O.R. Below Big Pine,527.6
+2019-08-24 08:36:34,Northern Owens Valley,Fish Springs At RR Flow,49.3
+2019-08-24 08:36:34,Northern Owens Valley,Tinemaha Reservoir Outflow,500.5
+2019-08-24 08:36:34,Northern Owens Valley,Bishop Creek Through Plant 6,148.8
+2019-08-24 08:36:34,Northern Owens Valley,Bishop Creek Around Plant 6,28.2
+2019-08-24 08:36:34,Southern Owens Valley,Tinemaha Reservoir Outflow,500.5
+2019-08-24 08:36:34,Southern Owens Valley,Indep. Ck. At Junction Flow,21.2
+2019-08-24 08:36:34,Southern Owens Valley,LAA at Alabama Flow,523.0
+2019-08-24 08:36:34,Southern Owens Valley,Cottonwood Ck. At LAA Flow,18.0
+2019-08-24 08:36:34,Southern Owens Valley,LAA at Cottonwood Flow,600.0
+2019-08-24 08:36:34,Southern Owens Valley,Haiwee LAA #1 Current Flow,412.5
+2019-08-24 08:36:34,Southern Owens Valley,Haiwee LAA #2 Current Flow,270.0
+2019-08-24 08:36:34,Southern Owens Valley,Reinhackel Flow,2.4
+2019-08-24 08:36:34,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
+2019-08-24 08:36:34,Southern Owens Valley,Cartago Spillgate Outflow,17.2
+2019-08-24 08:36:35,Southern District,S. Haiwee Reservoir Elevation,3724.9
+2019-08-24 08:36:35,Southern District,Fairmont Reservoir Elevation,3028.6
+2019-08-24 08:36:35,Southern District,Bouquet Reservoir Elevation,2982.6
+2019-08-24 08:36:35,Mono Basin,Mono Lk. Elevation,6382.7
+2019-08-24 08:36:35,Mono Basin,Grant Lk. Elevation,7122.6
+2019-08-24 08:36:35,Long Valley,Long Valley Elevation,6777.7
+2019-08-24 08:36:35,Northern Owens Valley,Pleasant Valley Elevation,4386.1
 2019-08-24 08:36:35,Southern Owens Valley,LAA at Alabama Level,8.5
 2019-08-24 08:36:35,Southern Owens Valley,LAA at Alabama Water Temp,67.8
 2019-08-24 08:36:35,Southern Owens Valley,LAA at Cottonwood Level,9.9
 2019-08-24 08:36:35,Southern Owens Valley,LAA at Cotton. Water Temp,70.3
 2019-08-24 08:36:35,Southern Owens Valley,N. Haiwee Elevation,3756.9
 2019-08-24 08:36:35,Southern Owens Valley,S. Haiwee Reservoir Elevation,3724.9
-2019-08-24 08:36:35,Mono Basin,Mono Lk. Elevation,6382.7
-2019-08-24 08:36:35,Mono Basin,Grant Lk. Elevation,7122.6
-2019-08-24 08:36:35,Southern District,S. Haiwee Reservoir Elevation,3724.9
-2019-08-24 08:36:35,Southern District,Fairmont Reservoir Elevation,3028.6
-2019-08-24 08:36:35,Southern District,Bouquet Reservoir Elevation,2982.6
-2019-08-24 08:36:35,Northern Owens Valley,Pleasant Valley Elevation,4386.1
-2019-08-24 08:36:35,Long Valley,Long Valley Elevation,6777.7
 2019-08-24 09:21:35,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 09:21:35,Northern Owens Valley,Tinemaha Elevation,3861.2
-2019-08-24 09:36:34,Southern Owens Valley,Tinemaha Reservoir Outflow,499.4
-2019-08-24 09:36:34,Southern Owens Valley,Indep. Ck. At Junction Flow,21.2
-2019-08-24 09:36:34,Southern Owens Valley,LAA at Alabama Flow,524.0
-2019-08-24 09:36:34,Southern Owens Valley,Cottonwood Ck. At LAA Flow,18.0
-2019-08-24 09:36:34,Southern Owens Valley,LAA at Cottonwood Flow,600.0
-2019-08-24 09:36:34,Southern Owens Valley,Haiwee LAA #1 Current Flow,412.5
-2019-08-24 09:36:34,Southern Owens Valley,Haiwee LAA #2 Current Flow,270.0
-2019-08-24 09:36:34,Southern Owens Valley,Reinhackel Flow,2.4
-2019-08-24 09:36:34,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
-2019-08-24 09:36:34,Southern Owens Valley,Cartago Spillgate Outflow,2.4
+2019-08-24 09:36:34,Southern District,Haiwee LAA #2 Current Flow,270.0
+2019-08-24 09:36:34,Southern District,Haiwee LAA #1 Current Flow,412.5
+2019-08-24 09:36:34,Southern District,LAA #1 Flow at Fairmont Reservoir,407.0
+2019-08-24 09:36:34,Southern District,LAA #2 Flow at Fairmont Res.,288.2
+2019-08-24 09:36:34,Southern District,Bouquet Reservoir Inflow,0.0
+2019-08-24 09:36:34,Southern District,Bouquet Reservoir Outflow,0.5
+2019-08-24 09:36:34,Southern District,LAA #1 at Soledad Flow,352.7
+2019-08-24 09:36:34,Southern District,LAA #2 at Soledad Flow,317.5
 2019-08-24 09:36:34,Mono Basin,Lee Vining Intake Above Flow,67.7
 2019-08-24 09:36:34,Mono Basin,Lee Vining Intake Below Flow,71.6
 2019-08-24 09:36:34,Mono Basin,Walker Ck. Above Conduit Flow,9.0
@@ -608,23 +606,6 @@ date,district,source,value
 2019-08-24 09:36:34,Mono Basin,Grant Lk. Outflow,145.6
 2019-08-24 09:36:34,Mono Basin,Rush Ck. at Damsite Flow,22.3
 2019-08-24 09:36:34,Mono Basin,Flow to West Portal,40.1
-2019-08-24 09:36:34,Southern District,Haiwee LAA #2 Current Flow,270.0
-2019-08-24 09:36:34,Southern District,Haiwee LAA #1 Current Flow,412.5
-2019-08-24 09:36:34,Southern District,LAA #1 Flow at Fairmont Reservoir,407.0
-2019-08-24 09:36:34,Southern District,LAA #2 Flow at Fairmont Res.,288.2
-2019-08-24 09:36:34,Southern District,Bouquet Reservoir Inflow,0.0
-2019-08-24 09:36:34,Southern District,Bouquet Reservoir Outflow,0.5
-2019-08-24 09:36:34,Southern District,LAA #1 at Soledad Flow,352.7
-2019-08-24 09:36:34,Southern District,LAA #2 at Soledad Flow,317.5
-2019-08-24 09:36:34,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,55.2
-2019-08-24 09:36:34,Northern Owens Valley,Pleasant Valley Outflow,492.1
-2019-08-24 09:36:34,Northern Owens Valley,Baker Ck. At LA Station Flow,12.7
-2019-08-24 09:36:34,Northern Owens Valley,Big Pine Ck. USGS Flow,82.9
-2019-08-24 09:36:34,Northern Owens Valley,O.R. Below Big Pine,527.7
-2019-08-24 09:36:34,Northern Owens Valley,Fish Springs At RR Flow,49.8
-2019-08-24 09:36:34,Northern Owens Valley,Tinemaha Reservoir Outflow,499.4
-2019-08-24 09:36:34,Northern Owens Valley,Bishop Creek Through Plant 6,147.9
-2019-08-24 09:36:34,Northern Owens Valley,Bishop Creek Around Plant 6,28.0
 2019-08-24 09:36:34,Long Valley,East Portal Flow,53.0
 2019-08-24 09:36:34,Long Valley,OR Below EP Flow,109.0
 2019-08-24 09:36:34,Long Valley,Hot Ck.at Hwy. Flow,31.0
@@ -638,23 +619,46 @@ date,district,source,value
 2019-08-24 09:36:34,Lower Owens River Project,LORP at Reinhackle Springs,62.0
 2019-08-24 09:36:34,Lower Owens River Project,LORP Above Pumpstation,41.0
 2019-08-24 09:36:34,Lower Owens River Project,LORP At Pump Station Discharge Flow,33.0
+2019-08-24 09:36:34,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,55.2
+2019-08-24 09:36:34,Northern Owens Valley,Pleasant Valley Outflow,492.1
+2019-08-24 09:36:34,Northern Owens Valley,Baker Ck. At LA Station Flow,12.7
+2019-08-24 09:36:34,Northern Owens Valley,Big Pine Ck. USGS Flow,82.9
+2019-08-24 09:36:34,Northern Owens Valley,O.R. Below Big Pine,527.7
+2019-08-24 09:36:34,Northern Owens Valley,Fish Springs At RR Flow,49.8
+2019-08-24 09:36:34,Northern Owens Valley,Tinemaha Reservoir Outflow,499.4
+2019-08-24 09:36:34,Northern Owens Valley,Bishop Creek Through Plant 6,147.9
+2019-08-24 09:36:34,Northern Owens Valley,Bishop Creek Around Plant 6,28.0
+2019-08-24 09:36:34,Southern Owens Valley,Tinemaha Reservoir Outflow,499.4
+2019-08-24 09:36:34,Southern Owens Valley,Indep. Ck. At Junction Flow,21.2
+2019-08-24 09:36:34,Southern Owens Valley,LAA at Alabama Flow,524.0
+2019-08-24 09:36:34,Southern Owens Valley,Cottonwood Ck. At LAA Flow,18.0
+2019-08-24 09:36:34,Southern Owens Valley,LAA at Cottonwood Flow,600.0
+2019-08-24 09:36:34,Southern Owens Valley,Haiwee LAA #1 Current Flow,412.5
+2019-08-24 09:36:34,Southern Owens Valley,Haiwee LAA #2 Current Flow,270.0
+2019-08-24 09:36:34,Southern Owens Valley,Reinhackel Flow,2.4
+2019-08-24 09:36:34,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
+2019-08-24 09:36:34,Southern Owens Valley,Cartago Spillgate Outflow,2.4
+2019-08-24 09:36:35,Southern District,S. Haiwee Reservoir Elevation,3724.9
+2019-08-24 09:36:35,Southern District,Fairmont Reservoir Elevation,3028.6
+2019-08-24 09:36:35,Southern District,Bouquet Reservoir Elevation,2982.6
+2019-08-24 09:36:35,Mono Basin,Mono Lk. Elevation,6382.7
+2019-08-24 09:36:35,Mono Basin,Grant Lk. Elevation,7122.6
+2019-08-24 09:36:35,Long Valley,Long Valley Elevation,6777.7
+2019-08-24 09:36:35,Northern Owens Valley,Pleasant Valley Elevation,4385.9
 2019-08-24 09:36:35,Southern Owens Valley,LAA at Alabama Level,8.5
 2019-08-24 09:36:35,Southern Owens Valley,LAA at Alabama Water Temp,67.8
 2019-08-24 09:36:35,Southern Owens Valley,LAA at Cottonwood Level,9.9
 2019-08-24 09:36:35,Southern Owens Valley,LAA at Cotton. Water Temp,70.4
 2019-08-24 09:36:35,Southern Owens Valley,N. Haiwee Elevation,3756.9
 2019-08-24 09:36:35,Southern Owens Valley,S. Haiwee Reservoir Elevation,3724.9
-2019-08-24 09:36:35,Mono Basin,Mono Lk. Elevation,6382.7
-2019-08-24 09:36:35,Mono Basin,Grant Lk. Elevation,7122.6
-2019-08-24 09:36:35,Southern District,S. Haiwee Reservoir Elevation,3724.9
-2019-08-24 09:36:35,Southern District,Fairmont Reservoir Elevation,3028.6
-2019-08-24 09:36:35,Southern District,Bouquet Reservoir Elevation,2982.6
-2019-08-24 09:36:35,Northern Owens Valley,Pleasant Valley Elevation,4385.9
-2019-08-24 09:36:35,Long Valley,Long Valley Elevation,6777.7
 2019-08-24 09:51:35,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 09:51:35,Northern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 10:21:35,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 10:21:35,Northern Owens Valley,Tinemaha Elevation,3861.2
+2019-08-24 10:36:33,Southern District,Haiwee LAA #2 Current Flow,270.1
+2019-08-24 10:36:33,Southern District,Haiwee LAA #1 Current Flow,420.0
+2019-08-24 10:36:33,Lower Owens River Project,LORP Intake Flow,81.0
+2019-08-24 10:36:33,Northern Owens Valley,Tinemaha Reservoir Outflow,499.4
 2019-08-24 10:36:33,Southern Owens Valley,Tinemaha Reservoir Outflow,499.4
 2019-08-24 10:36:33,Southern Owens Valley,Indep. Ck. At Junction Flow,21.2
 2019-08-24 10:36:33,Southern Owens Valley,LAA at Alabama Flow,524.0
@@ -664,11 +668,12 @@ date,district,source,value
 2019-08-24 10:36:33,Southern Owens Valley,Haiwee LAA #2 Current Flow,270.1
 2019-08-24 10:36:33,Southern Owens Valley,Reinhackel Flow,2.4
 2019-08-24 10:36:33,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
-2019-08-24 10:36:33,Southern District,Haiwee LAA #2 Current Flow,270.1
-2019-08-24 10:36:33,Southern District,Haiwee LAA #1 Current Flow,420.0
-2019-08-24 10:36:33,Northern Owens Valley,Tinemaha Reservoir Outflow,499.4
-2019-08-24 10:36:33,Lower Owens River Project,LORP Intake Flow,81.0
-2019-08-24 10:36:34,Southern Owens Valley,Cartago Spillgate Outflow,0.0
+2019-08-24 10:36:34,Southern District,LAA #1 Flow at Fairmont Reservoir,407.5
+2019-08-24 10:36:34,Southern District,LAA #2 Flow at Fairmont Res.,288.3
+2019-08-24 10:36:34,Southern District,Bouquet Reservoir Inflow,0.0
+2019-08-24 10:36:34,Southern District,Bouquet Reservoir Outflow,0.5
+2019-08-24 10:36:34,Southern District,LAA #1 at Soledad Flow,352.7
+2019-08-24 10:36:34,Southern District,LAA #2 at Soledad Flow,317.2
 2019-08-24 10:36:34,Mono Basin,Lee Vining Intake Above Flow,67.7
 2019-08-24 10:36:34,Mono Basin,Lee Vining Intake Below Flow,71.6
 2019-08-24 10:36:34,Mono Basin,Walker Ck. Above Conduit Flow,9.0
@@ -681,20 +686,6 @@ date,district,source,value
 2019-08-24 10:36:34,Mono Basin,Grant Lk. Outflow,134.8
 2019-08-24 10:36:34,Mono Basin,Rush Ck. at Damsite Flow,22.3
 2019-08-24 10:36:34,Mono Basin,Flow to West Portal,40.1
-2019-08-24 10:36:34,Southern District,LAA #1 Flow at Fairmont Reservoir,407.5
-2019-08-24 10:36:34,Southern District,LAA #2 Flow at Fairmont Res.,288.3
-2019-08-24 10:36:34,Southern District,Bouquet Reservoir Inflow,0.0
-2019-08-24 10:36:34,Southern District,Bouquet Reservoir Outflow,0.5
-2019-08-24 10:36:34,Southern District,LAA #1 at Soledad Flow,352.7
-2019-08-24 10:36:34,Southern District,LAA #2 at Soledad Flow,317.2
-2019-08-24 10:36:34,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,55.4
-2019-08-24 10:36:34,Northern Owens Valley,Pleasant Valley Outflow,491.6
-2019-08-24 10:36:34,Northern Owens Valley,Baker Ck. At LA Station Flow,12.7
-2019-08-24 10:36:34,Northern Owens Valley,Big Pine Ck. USGS Flow,81.8
-2019-08-24 10:36:34,Northern Owens Valley,O.R. Below Big Pine,527.7
-2019-08-24 10:36:34,Northern Owens Valley,Fish Springs At RR Flow,49.8
-2019-08-24 10:36:34,Northern Owens Valley,Bishop Creek Through Plant 6,148.4
-2019-08-24 10:36:34,Northern Owens Valley,Bishop Creek Around Plant 6,28.1
 2019-08-24 10:36:34,Long Valley,East Portal Flow,53.0
 2019-08-24 10:36:34,Long Valley,OR Below EP Flow,109.0
 2019-08-24 10:36:34,Long Valley,Hot Ck.at Hwy. Flow,31.0
@@ -707,33 +698,38 @@ date,district,source,value
 2019-08-24 10:36:34,Lower Owens River Project,LORP at Reinhackle Springs,60.0
 2019-08-24 10:36:34,Lower Owens River Project,LORP Above Pumpstation,54.0
 2019-08-24 10:36:34,Lower Owens River Project,LORP At Pump Station Discharge Flow,47.0
+2019-08-24 10:36:34,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,55.4
+2019-08-24 10:36:34,Northern Owens Valley,Pleasant Valley Outflow,491.6
+2019-08-24 10:36:34,Northern Owens Valley,Baker Ck. At LA Station Flow,12.7
+2019-08-24 10:36:34,Northern Owens Valley,Big Pine Ck. USGS Flow,81.8
+2019-08-24 10:36:34,Northern Owens Valley,O.R. Below Big Pine,527.7
+2019-08-24 10:36:34,Northern Owens Valley,Fish Springs At RR Flow,49.8
+2019-08-24 10:36:34,Northern Owens Valley,Bishop Creek Through Plant 6,148.4
+2019-08-24 10:36:34,Northern Owens Valley,Bishop Creek Around Plant 6,28.1
+2019-08-24 10:36:34,Southern Owens Valley,Cartago Spillgate Outflow,0.0
+2019-08-24 10:36:35,Southern District,S. Haiwee Reservoir Elevation,3724.8
+2019-08-24 10:36:35,Southern District,Fairmont Reservoir Elevation,3028.5
+2019-08-24 10:36:35,Southern District,Bouquet Reservoir Elevation,2982.6
+2019-08-24 10:36:35,Mono Basin,Mono Lk. Elevation,6382.7
+2019-08-24 10:36:35,Mono Basin,Grant Lk. Elevation,7122.6
+2019-08-24 10:36:35,Long Valley,Long Valley Elevation,6777.7
+2019-08-24 10:36:35,Northern Owens Valley,Pleasant Valley Elevation,4385.7
 2019-08-24 10:36:35,Southern Owens Valley,LAA at Alabama Level,8.5
 2019-08-24 10:36:35,Southern Owens Valley,LAA at Alabama Water Temp,68.0
 2019-08-24 10:36:35,Southern Owens Valley,LAA at Cottonwood Level,9.9
 2019-08-24 10:36:35,Southern Owens Valley,LAA at Cotton. Water Temp,70.8
 2019-08-24 10:36:35,Southern Owens Valley,N. Haiwee Elevation,3756.9
 2019-08-24 10:36:35,Southern Owens Valley,S. Haiwee Reservoir Elevation,3724.8
-2019-08-24 10:36:35,Mono Basin,Mono Lk. Elevation,6382.7
-2019-08-24 10:36:35,Mono Basin,Grant Lk. Elevation,7122.6
-2019-08-24 10:36:35,Southern District,S. Haiwee Reservoir Elevation,3724.8
-2019-08-24 10:36:35,Southern District,Fairmont Reservoir Elevation,3028.5
-2019-08-24 10:36:35,Southern District,Bouquet Reservoir Elevation,2982.6
-2019-08-24 10:36:35,Northern Owens Valley,Pleasant Valley Elevation,4385.7
-2019-08-24 10:36:35,Long Valley,Long Valley Elevation,6777.7
 2019-08-24 10:51:35,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 10:51:35,Northern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 11:21:35,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 11:21:35,Northern Owens Valley,Tinemaha Elevation,3861.2
-2019-08-24 11:36:33,Southern Owens Valley,Tinemaha Reservoir Outflow,499.4
-2019-08-24 11:36:33,Southern Owens Valley,Indep. Ck. At Junction Flow,21.2
-2019-08-24 11:36:33,Southern Owens Valley,LAA at Alabama Flow,524.0
-2019-08-24 11:36:33,Southern Owens Valley,Cottonwood Ck. At LAA Flow,18.0
-2019-08-24 11:36:33,Southern Owens Valley,LAA at Cottonwood Flow,600.0
-2019-08-24 11:36:33,Southern Owens Valley,Haiwee LAA #1 Current Flow,420.0
-2019-08-24 11:36:33,Southern Owens Valley,Haiwee LAA #2 Current Flow,270.1
-2019-08-24 11:36:33,Southern Owens Valley,Reinhackel Flow,2.4
-2019-08-24 11:36:33,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
-2019-08-24 11:36:33,Southern Owens Valley,Cartago Spillgate Outflow,0.0
+2019-08-24 11:36:33,Southern District,Haiwee LAA #2 Current Flow,270.1
+2019-08-24 11:36:33,Southern District,Haiwee LAA #1 Current Flow,420.0
+2019-08-24 11:36:33,Southern District,LAA #1 Flow at Fairmont Reservoir,407.5
+2019-08-24 11:36:33,Southern District,LAA #2 Flow at Fairmont Res.,288.3
+2019-08-24 11:36:33,Southern District,Bouquet Reservoir Inflow,0.0
+2019-08-24 11:36:33,Southern District,Bouquet Reservoir Outflow,0.5
 2019-08-24 11:36:33,Mono Basin,Lee Vining Intake Above Flow,67.7
 2019-08-24 11:36:33,Mono Basin,Lee Vining Intake Below Flow,71.6
 2019-08-24 11:36:33,Mono Basin,Walker Ck. Above Conduit Flow,9.0
@@ -746,21 +742,6 @@ date,district,source,value
 2019-08-24 11:36:33,Mono Basin,Grant Lk. Outflow,134.9
 2019-08-24 11:36:33,Mono Basin,Rush Ck. at Damsite Flow,22.3
 2019-08-24 11:36:33,Mono Basin,Flow to West Portal,40.1
-2019-08-24 11:36:33,Southern District,Haiwee LAA #2 Current Flow,270.1
-2019-08-24 11:36:33,Southern District,Haiwee LAA #1 Current Flow,420.0
-2019-08-24 11:36:33,Southern District,LAA #1 Flow at Fairmont Reservoir,407.5
-2019-08-24 11:36:33,Southern District,LAA #2 Flow at Fairmont Res.,288.3
-2019-08-24 11:36:33,Southern District,Bouquet Reservoir Inflow,0.0
-2019-08-24 11:36:33,Southern District,Bouquet Reservoir Outflow,0.5
-2019-08-24 11:36:33,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,55.6
-2019-08-24 11:36:33,Northern Owens Valley,Pleasant Valley Outflow,491.1
-2019-08-24 11:36:33,Northern Owens Valley,Baker Ck. At LA Station Flow,12.7
-2019-08-24 11:36:33,Northern Owens Valley,Big Pine Ck. USGS Flow,81.8
-2019-08-24 11:36:33,Northern Owens Valley,O.R. Below Big Pine,527.7
-2019-08-24 11:36:33,Northern Owens Valley,Fish Springs At RR Flow,50.3
-2019-08-24 11:36:33,Northern Owens Valley,Tinemaha Reservoir Outflow,499.4
-2019-08-24 11:36:33,Northern Owens Valley,Bishop Creek Through Plant 6,148.2
-2019-08-24 11:36:33,Northern Owens Valley,Bishop Creek Around Plant 6,28.3
 2019-08-24 11:36:33,Long Valley,East Portal Flow,53.0
 2019-08-24 11:36:33,Long Valley,OR Below EP Flow,109.0
 2019-08-24 11:36:33,Long Valley,Hot Ck.at Hwy. Flow,31.0
@@ -774,35 +755,52 @@ date,district,source,value
 2019-08-24 11:36:33,Lower Owens River Project,LORP at Reinhackle Springs,60.0
 2019-08-24 11:36:33,Lower Owens River Project,LORP Above Pumpstation,41.0
 2019-08-24 11:36:33,Lower Owens River Project,LORP At Pump Station Discharge Flow,33.0
+2019-08-24 11:36:33,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,55.6
+2019-08-24 11:36:33,Northern Owens Valley,Pleasant Valley Outflow,491.1
+2019-08-24 11:36:33,Northern Owens Valley,Baker Ck. At LA Station Flow,12.7
+2019-08-24 11:36:33,Northern Owens Valley,Big Pine Ck. USGS Flow,81.8
+2019-08-24 11:36:33,Northern Owens Valley,O.R. Below Big Pine,527.7
+2019-08-24 11:36:33,Northern Owens Valley,Fish Springs At RR Flow,50.3
+2019-08-24 11:36:33,Northern Owens Valley,Tinemaha Reservoir Outflow,499.4
+2019-08-24 11:36:33,Northern Owens Valley,Bishop Creek Through Plant 6,148.2
+2019-08-24 11:36:33,Northern Owens Valley,Bishop Creek Around Plant 6,28.3
+2019-08-24 11:36:33,Southern Owens Valley,Tinemaha Reservoir Outflow,499.4
+2019-08-24 11:36:33,Southern Owens Valley,Indep. Ck. At Junction Flow,21.2
+2019-08-24 11:36:33,Southern Owens Valley,LAA at Alabama Flow,524.0
+2019-08-24 11:36:33,Southern Owens Valley,Cottonwood Ck. At LAA Flow,18.0
+2019-08-24 11:36:33,Southern Owens Valley,LAA at Cottonwood Flow,600.0
+2019-08-24 11:36:33,Southern Owens Valley,Haiwee LAA #1 Current Flow,420.0
+2019-08-24 11:36:33,Southern Owens Valley,Haiwee LAA #2 Current Flow,270.1
+2019-08-24 11:36:33,Southern Owens Valley,Reinhackel Flow,2.4
+2019-08-24 11:36:33,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
+2019-08-24 11:36:33,Southern Owens Valley,Cartago Spillgate Outflow,0.0
+2019-08-24 11:36:34,Southern District,LAA #1 at Soledad Flow,353.4
+2019-08-24 11:36:34,Southern District,LAA #2 at Soledad Flow,317.2
 2019-08-24 11:36:34,Southern Owens Valley,LAA at Alabama Level,8.5
 2019-08-24 11:36:34,Southern Owens Valley,LAA at Alabama Water Temp,68.4
 2019-08-24 11:36:34,Southern Owens Valley,LAA at Cottonwood Level,9.9
 2019-08-24 11:36:34,Southern Owens Valley,LAA at Cotton. Water Temp,71.2
-2019-08-24 11:36:34,Southern District,LAA #1 at Soledad Flow,353.4
-2019-08-24 11:36:34,Southern District,LAA #2 at Soledad Flow,317.2
-2019-08-24 11:36:35,Southern Owens Valley,N. Haiwee Elevation,3756.9
-2019-08-24 11:36:35,Southern Owens Valley,S. Haiwee Reservoir Elevation,3724.8
-2019-08-24 11:36:35,Mono Basin,Mono Lk. Elevation,6382.7
-2019-08-24 11:36:35,Mono Basin,Grant Lk. Elevation,7122.5
 2019-08-24 11:36:35,Southern District,S. Haiwee Reservoir Elevation,3724.8
 2019-08-24 11:36:35,Southern District,Fairmont Reservoir Elevation,3028.5
 2019-08-24 11:36:35,Southern District,Bouquet Reservoir Elevation,2982.6
-2019-08-24 11:36:35,Northern Owens Valley,Pleasant Valley Elevation,4385.5
+2019-08-24 11:36:35,Mono Basin,Mono Lk. Elevation,6382.7
+2019-08-24 11:36:35,Mono Basin,Grant Lk. Elevation,7122.5
 2019-08-24 11:36:35,Long Valley,Long Valley Elevation,6777.7
+2019-08-24 11:36:35,Northern Owens Valley,Pleasant Valley Elevation,4385.5
+2019-08-24 11:36:35,Southern Owens Valley,N. Haiwee Elevation,3756.9
+2019-08-24 11:36:35,Southern Owens Valley,S. Haiwee Reservoir Elevation,3724.8
 2019-08-24 11:51:35,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 11:51:35,Northern Owens Valley,Tinemaha Elevation,3861.2
-2019-08-24 12:21:34,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 12:21:34,Northern Owens Valley,Tinemaha Elevation,3861.2
-2019-08-24 12:36:33,Southern Owens Valley,Tinemaha Reservoir Outflow,499.7
-2019-08-24 12:36:33,Southern Owens Valley,Indep. Ck. At Junction Flow,21.2
-2019-08-24 12:36:33,Southern Owens Valley,LAA at Alabama Flow,525.0
-2019-08-24 12:36:33,Southern Owens Valley,Cottonwood Ck. At LAA Flow,18.0
-2019-08-24 12:36:33,Southern Owens Valley,LAA at Cottonwood Flow,603.0
-2019-08-24 12:36:33,Southern Owens Valley,Haiwee LAA #1 Current Flow,420.0
-2019-08-24 12:36:33,Southern Owens Valley,Haiwee LAA #2 Current Flow,270.1
-2019-08-24 12:36:33,Southern Owens Valley,Reinhackel Flow,2.4
-2019-08-24 12:36:33,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
-2019-08-24 12:36:33,Southern Owens Valley,Cartago Spillgate Outflow,0.0
+2019-08-24 12:21:34,Southern Owens Valley,Tinemaha Elevation,3861.2
+2019-08-24 12:36:33,Southern District,Haiwee LAA #2 Current Flow,270.1
+2019-08-24 12:36:33,Southern District,Haiwee LAA #1 Current Flow,420.0
+2019-08-24 12:36:33,Southern District,LAA #1 Flow at Fairmont Reservoir,407.1
+2019-08-24 12:36:33,Southern District,LAA #2 Flow at Fairmont Res.,288.1
+2019-08-24 12:36:33,Southern District,Bouquet Reservoir Inflow,0.0
+2019-08-24 12:36:33,Southern District,Bouquet Reservoir Outflow,0.5
+2019-08-24 12:36:33,Southern District,LAA #1 at Soledad Flow,353.4
+2019-08-24 12:36:33,Southern District,LAA #2 at Soledad Flow,317.2
 2019-08-24 12:36:33,Mono Basin,Lee Vining Intake Above Flow,68.2
 2019-08-24 12:36:33,Mono Basin,Lee Vining Intake Below Flow,72.3
 2019-08-24 12:36:33,Mono Basin,Walker Ck. Above Conduit Flow,9.0
@@ -815,23 +813,6 @@ date,district,source,value
 2019-08-24 12:36:33,Mono Basin,Grant Lk. Outflow,134.4
 2019-08-24 12:36:33,Mono Basin,Rush Ck. at Damsite Flow,22.3
 2019-08-24 12:36:33,Mono Basin,Flow to West Portal,40.1
-2019-08-24 12:36:33,Southern District,Haiwee LAA #2 Current Flow,270.1
-2019-08-24 12:36:33,Southern District,Haiwee LAA #1 Current Flow,420.0
-2019-08-24 12:36:33,Southern District,LAA #1 Flow at Fairmont Reservoir,407.1
-2019-08-24 12:36:33,Southern District,LAA #2 Flow at Fairmont Res.,288.1
-2019-08-24 12:36:33,Southern District,Bouquet Reservoir Inflow,0.0
-2019-08-24 12:36:33,Southern District,Bouquet Reservoir Outflow,0.5
-2019-08-24 12:36:33,Southern District,LAA #1 at Soledad Flow,353.4
-2019-08-24 12:36:33,Southern District,LAA #2 at Soledad Flow,317.2
-2019-08-24 12:36:33,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,55.6
-2019-08-24 12:36:33,Northern Owens Valley,Pleasant Valley Outflow,490.5
-2019-08-24 12:36:33,Northern Owens Valley,Baker Ck. At LA Station Flow,12.7
-2019-08-24 12:36:33,Northern Owens Valley,Big Pine Ck. USGS Flow,81.8
-2019-08-24 12:36:33,Northern Owens Valley,O.R. Below Big Pine,527.7
-2019-08-24 12:36:33,Northern Owens Valley,Fish Springs At RR Flow,50.3
-2019-08-24 12:36:33,Northern Owens Valley,Tinemaha Reservoir Outflow,499.7
-2019-08-24 12:36:33,Northern Owens Valley,Bishop Creek Through Plant 6,0.3
-2019-08-24 12:36:33,Northern Owens Valley,Bishop Creek Around Plant 6,29.2
 2019-08-24 12:36:33,Long Valley,East Portal Flow,53.0
 2019-08-24 12:36:33,Long Valley,OR Below EP Flow,109.0
 2019-08-24 12:36:33,Long Valley,Hot Ck.at Hwy. Flow,31.0
@@ -845,33 +826,50 @@ date,district,source,value
 2019-08-24 12:36:33,Lower Owens River Project,LORP at Reinhackle Springs,59.0
 2019-08-24 12:36:33,Lower Owens River Project,LORP Above Pumpstation,54.0
 2019-08-24 12:36:33,Lower Owens River Project,LORP At Pump Station Discharge Flow,47.0
+2019-08-24 12:36:33,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,55.6
+2019-08-24 12:36:33,Northern Owens Valley,Pleasant Valley Outflow,490.5
+2019-08-24 12:36:33,Northern Owens Valley,Baker Ck. At LA Station Flow,12.7
+2019-08-24 12:36:33,Northern Owens Valley,Big Pine Ck. USGS Flow,81.8
+2019-08-24 12:36:33,Northern Owens Valley,O.R. Below Big Pine,527.7
+2019-08-24 12:36:33,Northern Owens Valley,Fish Springs At RR Flow,50.3
+2019-08-24 12:36:33,Northern Owens Valley,Tinemaha Reservoir Outflow,499.7
+2019-08-24 12:36:33,Northern Owens Valley,Bishop Creek Through Plant 6,0.3
+2019-08-24 12:36:33,Northern Owens Valley,Bishop Creek Around Plant 6,29.2
+2019-08-24 12:36:33,Southern Owens Valley,Tinemaha Reservoir Outflow,499.7
+2019-08-24 12:36:33,Southern Owens Valley,Indep. Ck. At Junction Flow,21.2
+2019-08-24 12:36:33,Southern Owens Valley,LAA at Alabama Flow,525.0
+2019-08-24 12:36:33,Southern Owens Valley,Cottonwood Ck. At LAA Flow,18.0
+2019-08-24 12:36:33,Southern Owens Valley,LAA at Cottonwood Flow,603.0
+2019-08-24 12:36:33,Southern Owens Valley,Haiwee LAA #1 Current Flow,420.0
+2019-08-24 12:36:33,Southern Owens Valley,Haiwee LAA #2 Current Flow,270.1
+2019-08-24 12:36:33,Southern Owens Valley,Reinhackel Flow,2.4
+2019-08-24 12:36:33,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
+2019-08-24 12:36:33,Southern Owens Valley,Cartago Spillgate Outflow,0.0
+2019-08-24 12:36:34,Southern District,S. Haiwee Reservoir Elevation,3724.8
+2019-08-24 12:36:34,Southern District,Fairmont Reservoir Elevation,3028.5
+2019-08-24 12:36:34,Southern District,Bouquet Reservoir Elevation,2982.6
+2019-08-24 12:36:34,Mono Basin,Mono Lk. Elevation,6382.7
+2019-08-24 12:36:34,Mono Basin,Grant Lk. Elevation,7122.5
+2019-08-24 12:36:34,Long Valley,Long Valley Elevation,6777.7
+2019-08-24 12:36:34,Northern Owens Valley,Pleasant Valley Elevation,4385.5
 2019-08-24 12:36:34,Southern Owens Valley,LAA at Alabama Level,8.5
 2019-08-24 12:36:34,Southern Owens Valley,LAA at Alabama Water Temp,69.1
 2019-08-24 12:36:34,Southern Owens Valley,LAA at Cottonwood Level,9.9
 2019-08-24 12:36:34,Southern Owens Valley,LAA at Cotton. Water Temp,71.4
 2019-08-24 12:36:34,Southern Owens Valley,N. Haiwee Elevation,3756.9
 2019-08-24 12:36:34,Southern Owens Valley,S. Haiwee Reservoir Elevation,3724.8
-2019-08-24 12:36:34,Mono Basin,Mono Lk. Elevation,6382.7
-2019-08-24 12:36:34,Mono Basin,Grant Lk. Elevation,7122.5
-2019-08-24 12:36:34,Southern District,S. Haiwee Reservoir Elevation,3724.8
-2019-08-24 12:36:34,Southern District,Fairmont Reservoir Elevation,3028.5
-2019-08-24 12:36:34,Southern District,Bouquet Reservoir Elevation,2982.6
-2019-08-24 12:36:34,Northern Owens Valley,Pleasant Valley Elevation,4385.5
-2019-08-24 12:36:34,Long Valley,Long Valley Elevation,6777.7
-2019-08-24 12:51:35,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 12:51:35,Northern Owens Valley,Tinemaha Elevation,3861.2
-2019-08-24 13:21:34,Southern Owens Valley,Tinemaha Elevation,3861.2
+2019-08-24 12:51:35,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 13:21:34,Northern Owens Valley,Tinemaha Elevation,3861.2
-2019-08-24 13:36:33,Southern Owens Valley,Tinemaha Reservoir Outflow,497.8
-2019-08-24 13:36:33,Southern Owens Valley,Indep. Ck. At Junction Flow,19.7
-2019-08-24 13:36:33,Southern Owens Valley,LAA at Alabama Flow,525.0
-2019-08-24 13:36:33,Southern Owens Valley,Cottonwood Ck. At LAA Flow,18.0
-2019-08-24 13:36:33,Southern Owens Valley,LAA at Cottonwood Flow,602.0
-2019-08-24 13:36:33,Southern Owens Valley,Haiwee LAA #1 Current Flow,420.0
-2019-08-24 13:36:33,Southern Owens Valley,Haiwee LAA #2 Current Flow,270.1
-2019-08-24 13:36:33,Southern Owens Valley,Reinhackel Flow,2.4
-2019-08-24 13:36:33,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
-2019-08-24 13:36:33,Southern Owens Valley,Cartago Spillgate Outflow,0.0
+2019-08-24 13:21:34,Southern Owens Valley,Tinemaha Elevation,3861.2
+2019-08-24 13:36:33,Southern District,Haiwee LAA #2 Current Flow,270.1
+2019-08-24 13:36:33,Southern District,Haiwee LAA #1 Current Flow,420.0
+2019-08-24 13:36:33,Southern District,LAA #1 Flow at Fairmont Reservoir,408.1
+2019-08-24 13:36:33,Southern District,LAA #2 Flow at Fairmont Res.,288.0
+2019-08-24 13:36:33,Southern District,Bouquet Reservoir Inflow,0.0
+2019-08-24 13:36:33,Southern District,Bouquet Reservoir Outflow,0.5
+2019-08-24 13:36:33,Southern District,LAA #1 at Soledad Flow,353.4
+2019-08-24 13:36:33,Southern District,LAA #2 at Soledad Flow,317.2
 2019-08-24 13:36:33,Mono Basin,Lee Vining Intake Above Flow,68.2
 2019-08-24 13:36:33,Mono Basin,Lee Vining Intake Below Flow,72.3
 2019-08-24 13:36:33,Mono Basin,Walker Ck. Above Conduit Flow,9.0
@@ -884,23 +882,6 @@ date,district,source,value
 2019-08-24 13:36:33,Mono Basin,Grant Lk. Outflow,134.1
 2019-08-24 13:36:33,Mono Basin,Rush Ck. at Damsite Flow,22.3
 2019-08-24 13:36:33,Mono Basin,Flow to West Portal,40.6
-2019-08-24 13:36:33,Southern District,Haiwee LAA #2 Current Flow,270.1
-2019-08-24 13:36:33,Southern District,Haiwee LAA #1 Current Flow,420.0
-2019-08-24 13:36:33,Southern District,LAA #1 Flow at Fairmont Reservoir,408.1
-2019-08-24 13:36:33,Southern District,LAA #2 Flow at Fairmont Res.,288.0
-2019-08-24 13:36:33,Southern District,Bouquet Reservoir Inflow,0.0
-2019-08-24 13:36:33,Southern District,Bouquet Reservoir Outflow,0.5
-2019-08-24 13:36:33,Southern District,LAA #1 at Soledad Flow,353.4
-2019-08-24 13:36:33,Southern District,LAA #2 at Soledad Flow,317.2
-2019-08-24 13:36:33,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,53.7
-2019-08-24 13:36:33,Northern Owens Valley,Pleasant Valley Outflow,491.9
-2019-08-24 13:36:33,Northern Owens Valley,Baker Ck. At LA Station Flow,12.4
-2019-08-24 13:36:33,Northern Owens Valley,Big Pine Ck. USGS Flow,81.8
-2019-08-24 13:36:33,Northern Owens Valley,O.R. Below Big Pine,527.8
-2019-08-24 13:36:33,Northern Owens Valley,Fish Springs At RR Flow,50.3
-2019-08-24 13:36:33,Northern Owens Valley,Tinemaha Reservoir Outflow,497.8
-2019-08-24 13:36:33,Northern Owens Valley,Bishop Creek Through Plant 6,149.3
-2019-08-24 13:36:33,Northern Owens Valley,Bishop Creek Around Plant 6,29.9
 2019-08-24 13:36:33,Long Valley,East Portal Flow,52.0
 2019-08-24 13:36:33,Long Valley,OR Below EP Flow,109.0
 2019-08-24 13:36:33,Long Valley,Hot Ck.at Hwy. Flow,31.0
@@ -914,33 +895,50 @@ date,district,source,value
 2019-08-24 13:36:33,Lower Owens River Project,LORP at Reinhackle Springs,64.0
 2019-08-24 13:36:33,Lower Owens River Project,LORP Above Pumpstation,54.0
 2019-08-24 13:36:33,Lower Owens River Project,LORP At Pump Station Discharge Flow,47.0
+2019-08-24 13:36:33,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,53.7
+2019-08-24 13:36:33,Northern Owens Valley,Pleasant Valley Outflow,491.9
+2019-08-24 13:36:33,Northern Owens Valley,Baker Ck. At LA Station Flow,12.4
+2019-08-24 13:36:33,Northern Owens Valley,Big Pine Ck. USGS Flow,81.8
+2019-08-24 13:36:33,Northern Owens Valley,O.R. Below Big Pine,527.8
+2019-08-24 13:36:33,Northern Owens Valley,Fish Springs At RR Flow,50.3
+2019-08-24 13:36:33,Northern Owens Valley,Tinemaha Reservoir Outflow,497.8
+2019-08-24 13:36:33,Northern Owens Valley,Bishop Creek Through Plant 6,149.3
+2019-08-24 13:36:33,Northern Owens Valley,Bishop Creek Around Plant 6,29.9
+2019-08-24 13:36:33,Southern Owens Valley,Tinemaha Reservoir Outflow,497.8
+2019-08-24 13:36:33,Southern Owens Valley,Indep. Ck. At Junction Flow,19.7
+2019-08-24 13:36:33,Southern Owens Valley,LAA at Alabama Flow,525.0
+2019-08-24 13:36:33,Southern Owens Valley,Cottonwood Ck. At LAA Flow,18.0
+2019-08-24 13:36:33,Southern Owens Valley,LAA at Cottonwood Flow,602.0
+2019-08-24 13:36:33,Southern Owens Valley,Haiwee LAA #1 Current Flow,420.0
+2019-08-24 13:36:33,Southern Owens Valley,Haiwee LAA #2 Current Flow,270.1
+2019-08-24 13:36:33,Southern Owens Valley,Reinhackel Flow,2.4
+2019-08-24 13:36:33,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
+2019-08-24 13:36:33,Southern Owens Valley,Cartago Spillgate Outflow,0.0
+2019-08-24 13:36:34,Southern District,S. Haiwee Reservoir Elevation,3724.8
+2019-08-24 13:36:34,Southern District,Fairmont Reservoir Elevation,3028.4
+2019-08-24 13:36:34,Southern District,Bouquet Reservoir Elevation,2982.6
+2019-08-24 13:36:34,Mono Basin,Mono Lk. Elevation,6382.7
+2019-08-24 13:36:34,Mono Basin,Grant Lk. Elevation,7122.5
+2019-08-24 13:36:34,Long Valley,Long Valley Elevation,6777.7
+2019-08-24 13:36:34,Northern Owens Valley,Pleasant Valley Elevation,4385.7
 2019-08-24 13:36:34,Southern Owens Valley,LAA at Alabama Level,8.5
 2019-08-24 13:36:34,Southern Owens Valley,LAA at Alabama Water Temp,69.9
 2019-08-24 13:36:34,Southern Owens Valley,LAA at Cottonwood Level,9.9
 2019-08-24 13:36:34,Southern Owens Valley,LAA at Cotton. Water Temp,71.8
 2019-08-24 13:36:34,Southern Owens Valley,N. Haiwee Elevation,3756.9
 2019-08-24 13:36:34,Southern Owens Valley,S. Haiwee Reservoir Elevation,3724.8
-2019-08-24 13:36:34,Mono Basin,Mono Lk. Elevation,6382.7
-2019-08-24 13:36:34,Mono Basin,Grant Lk. Elevation,7122.5
-2019-08-24 13:36:34,Southern District,S. Haiwee Reservoir Elevation,3724.8
-2019-08-24 13:36:34,Southern District,Fairmont Reservoir Elevation,3028.4
-2019-08-24 13:36:34,Southern District,Bouquet Reservoir Elevation,2982.6
-2019-08-24 13:36:34,Northern Owens Valley,Pleasant Valley Elevation,4385.7
-2019-08-24 13:36:34,Long Valley,Long Valley Elevation,6777.7
-2019-08-24 13:51:34,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 13:51:34,Northern Owens Valley,Tinemaha Elevation,3861.2
-2019-08-24 14:21:34,Southern Owens Valley,Tinemaha Elevation,3861.2
+2019-08-24 13:51:34,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 14:21:34,Northern Owens Valley,Tinemaha Elevation,3861.2
-2019-08-24 14:36:33,Southern Owens Valley,Tinemaha Reservoir Outflow,497.1
-2019-08-24 14:36:33,Southern Owens Valley,Indep. Ck. At Junction Flow,19.7
-2019-08-24 14:36:33,Southern Owens Valley,LAA at Alabama Flow,525.0
-2019-08-24 14:36:33,Southern Owens Valley,Cottonwood Ck. At LAA Flow,18.0
-2019-08-24 14:36:33,Southern Owens Valley,LAA at Cottonwood Flow,601.0
-2019-08-24 14:36:33,Southern Owens Valley,Haiwee LAA #1 Current Flow,420.0
-2019-08-24 14:36:33,Southern Owens Valley,Haiwee LAA #2 Current Flow,270.1
-2019-08-24 14:36:33,Southern Owens Valley,Reinhackel Flow,2.4
-2019-08-24 14:36:33,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
-2019-08-24 14:36:33,Southern Owens Valley,Cartago Spillgate Outflow,0.0
+2019-08-24 14:21:34,Southern Owens Valley,Tinemaha Elevation,3861.2
+2019-08-24 14:36:33,Southern District,Haiwee LAA #2 Current Flow,270.1
+2019-08-24 14:36:33,Southern District,Haiwee LAA #1 Current Flow,420.0
+2019-08-24 14:36:33,Southern District,LAA #1 Flow at Fairmont Reservoir,408.1
+2019-08-24 14:36:33,Southern District,LAA #2 Flow at Fairmont Res.,288.0
+2019-08-24 14:36:33,Southern District,Bouquet Reservoir Inflow,0.0
+2019-08-24 14:36:33,Southern District,Bouquet Reservoir Outflow,0.5
+2019-08-24 14:36:33,Southern District,LAA #1 at Soledad Flow,353.4
+2019-08-24 14:36:33,Southern District,LAA #2 at Soledad Flow,317.2
 2019-08-24 14:36:33,Mono Basin,Lee Vining Intake Above Flow,68.2
 2019-08-24 14:36:33,Mono Basin,Lee Vining Intake Below Flow,72.3
 2019-08-24 14:36:33,Mono Basin,Walker Ck. Above Conduit Flow,9.0
@@ -953,23 +951,6 @@ date,district,source,value
 2019-08-24 14:36:33,Mono Basin,Grant Lk. Outflow,134.5
 2019-08-24 14:36:33,Mono Basin,Rush Ck. at Damsite Flow,22.3
 2019-08-24 14:36:33,Mono Basin,Flow to West Portal,40.6
-2019-08-24 14:36:33,Southern District,Haiwee LAA #2 Current Flow,270.1
-2019-08-24 14:36:33,Southern District,Haiwee LAA #1 Current Flow,420.0
-2019-08-24 14:36:33,Southern District,LAA #1 Flow at Fairmont Reservoir,408.1
-2019-08-24 14:36:33,Southern District,LAA #2 Flow at Fairmont Res.,288.0
-2019-08-24 14:36:33,Southern District,Bouquet Reservoir Inflow,0.0
-2019-08-24 14:36:33,Southern District,Bouquet Reservoir Outflow,0.5
-2019-08-24 14:36:33,Southern District,LAA #1 at Soledad Flow,353.4
-2019-08-24 14:36:33,Southern District,LAA #2 at Soledad Flow,317.2
-2019-08-24 14:36:33,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,52.7
-2019-08-24 14:36:33,Northern Owens Valley,Pleasant Valley Outflow,493.2
-2019-08-24 14:36:33,Northern Owens Valley,Baker Ck. At LA Station Flow,12.4
-2019-08-24 14:36:33,Northern Owens Valley,Big Pine Ck. USGS Flow,75.3
-2019-08-24 14:36:33,Northern Owens Valley,O.R. Below Big Pine,527.8
-2019-08-24 14:36:33,Northern Owens Valley,Fish Springs At RR Flow,50.3
-2019-08-24 14:36:33,Northern Owens Valley,Tinemaha Reservoir Outflow,497.1
-2019-08-24 14:36:33,Northern Owens Valley,Bishop Creek Through Plant 6,149.1
-2019-08-24 14:36:33,Northern Owens Valley,Bishop Creek Around Plant 6,30.9
 2019-08-24 14:36:33,Long Valley,East Portal Flow,52.0
 2019-08-24 14:36:33,Long Valley,OR Below EP Flow,109.0
 2019-08-24 14:36:33,Long Valley,Hot Ck.at Hwy. Flow,31.0
@@ -983,21 +964,40 @@ date,district,source,value
 2019-08-24 14:36:33,Lower Owens River Project,LORP at Reinhackle Springs,62.0
 2019-08-24 14:36:33,Lower Owens River Project,LORP Above Pumpstation,41.0
 2019-08-24 14:36:33,Lower Owens River Project,LORP At Pump Station Discharge Flow,33.0
+2019-08-24 14:36:33,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,52.7
+2019-08-24 14:36:33,Northern Owens Valley,Pleasant Valley Outflow,493.2
+2019-08-24 14:36:33,Northern Owens Valley,Baker Ck. At LA Station Flow,12.4
+2019-08-24 14:36:33,Northern Owens Valley,Big Pine Ck. USGS Flow,75.3
+2019-08-24 14:36:33,Northern Owens Valley,O.R. Below Big Pine,527.8
+2019-08-24 14:36:33,Northern Owens Valley,Fish Springs At RR Flow,50.3
+2019-08-24 14:36:33,Northern Owens Valley,Tinemaha Reservoir Outflow,497.1
+2019-08-24 14:36:33,Northern Owens Valley,Bishop Creek Through Plant 6,149.1
+2019-08-24 14:36:33,Northern Owens Valley,Bishop Creek Around Plant 6,30.9
+2019-08-24 14:36:33,Southern Owens Valley,Tinemaha Reservoir Outflow,497.1
+2019-08-24 14:36:33,Southern Owens Valley,Indep. Ck. At Junction Flow,19.7
+2019-08-24 14:36:33,Southern Owens Valley,LAA at Alabama Flow,525.0
+2019-08-24 14:36:33,Southern Owens Valley,Cottonwood Ck. At LAA Flow,18.0
+2019-08-24 14:36:33,Southern Owens Valley,LAA at Cottonwood Flow,601.0
+2019-08-24 14:36:33,Southern Owens Valley,Haiwee LAA #1 Current Flow,420.0
+2019-08-24 14:36:33,Southern Owens Valley,Haiwee LAA #2 Current Flow,270.1
+2019-08-24 14:36:33,Southern Owens Valley,Reinhackel Flow,2.4
+2019-08-24 14:36:33,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
+2019-08-24 14:36:33,Southern Owens Valley,Cartago Spillgate Outflow,0.0
+2019-08-24 14:36:34,Southern District,S. Haiwee Reservoir Elevation,3724.8
+2019-08-24 14:36:34,Southern District,Fairmont Reservoir Elevation,3028.4
+2019-08-24 14:36:34,Southern District,Bouquet Reservoir Elevation,2982.6
+2019-08-24 14:36:34,Mono Basin,Mono Lk. Elevation,6382.7
+2019-08-24 14:36:34,Mono Basin,Grant Lk. Elevation,7122.5
+2019-08-24 14:36:34,Long Valley,Long Valley Elevation,6777.7
+2019-08-24 14:36:34,Northern Owens Valley,Pleasant Valley Elevation,4385.9
 2019-08-24 14:36:34,Southern Owens Valley,LAA at Alabama Level,8.5
 2019-08-24 14:36:34,Southern Owens Valley,LAA at Alabama Water Temp,70.6
 2019-08-24 14:36:34,Southern Owens Valley,LAA at Cottonwood Level,9.9
 2019-08-24 14:36:34,Southern Owens Valley,LAA at Cotton. Water Temp,72.1
 2019-08-24 14:36:34,Southern Owens Valley,N. Haiwee Elevation,3756.9
 2019-08-24 14:36:34,Southern Owens Valley,S. Haiwee Reservoir Elevation,3724.8
-2019-08-24 14:36:34,Mono Basin,Mono Lk. Elevation,6382.7
-2019-08-24 14:36:34,Mono Basin,Grant Lk. Elevation,7122.5
-2019-08-24 14:36:34,Southern District,S. Haiwee Reservoir Elevation,3724.8
-2019-08-24 14:36:34,Southern District,Fairmont Reservoir Elevation,3028.4
-2019-08-24 14:36:34,Southern District,Bouquet Reservoir Elevation,2982.6
-2019-08-24 14:36:34,Northern Owens Valley,Pleasant Valley Elevation,4385.9
-2019-08-24 14:36:34,Long Valley,Long Valley Elevation,6777.7
-2019-08-24 14:51:35,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 14:51:35,Northern Owens Valley,Tinemaha Elevation,3861.2
+2019-08-24 14:51:35,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 15:06:33,Mono Basin,Lee Vining Intake Above Flow,66.8
 2019-08-24 15:06:33,Mono Basin,Lee Vining Intake Below Flow,71.6
 2019-08-24 15:06:33,Mono Basin,Walker Ck. Above Conduit Flow,9.0
@@ -1115,8 +1115,8 @@ date,district,source,value
 2019-08-24 15:21:33,Northern Owens Valley,Tinemaha Reservoir Outflow,496.7
 2019-08-24 15:21:33,Northern Owens Valley,Bishop Creek Through Plant 6,147.5
 2019-08-24 15:21:33,Northern Owens Valley,Bishop Creek Around Plant 6,31.1
-2019-08-24 15:21:34,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 15:21:34,Northern Owens Valley,Tinemaha Elevation,3861.2
+2019-08-24 15:21:34,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 15:21:34,Mono Basin,Mono Lk. Elevation,6382.7
 2019-08-24 15:21:34,Mono Basin,Grant Lk. Elevation,7122.5
 2019-08-24 15:21:34,Southern Owens Valley,LAA at Alabama Level,8.5
@@ -1130,16 +1130,14 @@ date,district,source,value
 2019-08-24 15:21:34,Southern District,Bouquet Reservoir Elevation,2982.6
 2019-08-24 15:21:34,Long Valley,Long Valley Elevation,6777.7
 2019-08-24 15:21:34,Northern Owens Valley,Pleasant Valley Elevation,4386.1
-2019-08-24 15:36:33,Southern Owens Valley,Tinemaha Reservoir Outflow,496.7
-2019-08-24 15:36:33,Southern Owens Valley,Indep. Ck. At Junction Flow,19.3
-2019-08-24 15:36:33,Southern Owens Valley,LAA at Alabama Flow,525.0
-2019-08-24 15:36:33,Southern Owens Valley,Cottonwood Ck. At LAA Flow,17.0
-2019-08-24 15:36:33,Southern Owens Valley,LAA at Cottonwood Flow,602.0
-2019-08-24 15:36:33,Southern Owens Valley,Haiwee LAA #1 Current Flow,420.0
-2019-08-24 15:36:33,Southern Owens Valley,Haiwee LAA #2 Current Flow,270.1
-2019-08-24 15:36:33,Southern Owens Valley,Reinhackel Flow,2.4
-2019-08-24 15:36:33,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
-2019-08-24 15:36:33,Southern Owens Valley,Cartago Spillgate Outflow,0.0
+2019-08-24 15:36:33,Southern District,Haiwee LAA #2 Current Flow,270.1
+2019-08-24 15:36:33,Southern District,Haiwee LAA #1 Current Flow,420.0
+2019-08-24 15:36:33,Southern District,LAA #1 Flow at Fairmont Reservoir,408.1
+2019-08-24 15:36:33,Southern District,LAA #2 Flow at Fairmont Res.,288.0
+2019-08-24 15:36:33,Southern District,Bouquet Reservoir Inflow,0.0
+2019-08-24 15:36:33,Southern District,Bouquet Reservoir Outflow,0.5
+2019-08-24 15:36:33,Southern District,LAA #1 at Soledad Flow,353.4
+2019-08-24 15:36:33,Southern District,LAA #2 at Soledad Flow,317.2
 2019-08-24 15:36:33,Mono Basin,Lee Vining Intake Above Flow,66.8
 2019-08-24 15:36:33,Mono Basin,Lee Vining Intake Below Flow,71.6
 2019-08-24 15:36:33,Mono Basin,Walker Ck. Above Conduit Flow,9.0
@@ -1152,23 +1150,6 @@ date,district,source,value
 2019-08-24 15:36:33,Mono Basin,Grant Lk. Outflow,134.3
 2019-08-24 15:36:33,Mono Basin,Rush Ck. at Damsite Flow,22.5
 2019-08-24 15:36:33,Mono Basin,Flow to West Portal,40.6
-2019-08-24 15:36:33,Southern District,Haiwee LAA #2 Current Flow,270.1
-2019-08-24 15:36:33,Southern District,Haiwee LAA #1 Current Flow,420.0
-2019-08-24 15:36:33,Southern District,LAA #1 Flow at Fairmont Reservoir,408.1
-2019-08-24 15:36:33,Southern District,LAA #2 Flow at Fairmont Res.,288.0
-2019-08-24 15:36:33,Southern District,Bouquet Reservoir Inflow,0.0
-2019-08-24 15:36:33,Southern District,Bouquet Reservoir Outflow,0.5
-2019-08-24 15:36:33,Southern District,LAA #1 at Soledad Flow,353.4
-2019-08-24 15:36:33,Southern District,LAA #2 at Soledad Flow,317.2
-2019-08-24 15:36:33,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,52.0
-2019-08-24 15:36:33,Northern Owens Valley,Pleasant Valley Outflow,494.2
-2019-08-24 15:36:33,Northern Owens Valley,Baker Ck. At LA Station Flow,12.4
-2019-08-24 15:36:33,Northern Owens Valley,Big Pine Ck. USGS Flow,73.3
-2019-08-24 15:36:33,Northern Owens Valley,O.R. Below Big Pine,524.8
-2019-08-24 15:36:33,Northern Owens Valley,Fish Springs At RR Flow,50.3
-2019-08-24 15:36:33,Northern Owens Valley,Tinemaha Reservoir Outflow,496.7
-2019-08-24 15:36:33,Northern Owens Valley,Bishop Creek Through Plant 6,147.5
-2019-08-24 15:36:33,Northern Owens Valley,Bishop Creek Around Plant 6,31.1
 2019-08-24 15:36:33,Long Valley,East Portal Flow,50.0
 2019-08-24 15:36:33,Long Valley,OR Below EP Flow,107.0
 2019-08-24 15:36:33,Long Valley,Hot Ck.at Hwy. Flow,29.0
@@ -1182,19 +1163,38 @@ date,district,source,value
 2019-08-24 15:36:33,Lower Owens River Project,LORP at Reinhackle Springs,61.0
 2019-08-24 15:36:33,Lower Owens River Project,LORP Above Pumpstation,55.0
 2019-08-24 15:36:33,Lower Owens River Project,LORP At Pump Station Discharge Flow,48.0
+2019-08-24 15:36:33,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,52.0
+2019-08-24 15:36:33,Northern Owens Valley,Pleasant Valley Outflow,494.2
+2019-08-24 15:36:33,Northern Owens Valley,Baker Ck. At LA Station Flow,12.4
+2019-08-24 15:36:33,Northern Owens Valley,Big Pine Ck. USGS Flow,73.3
+2019-08-24 15:36:33,Northern Owens Valley,O.R. Below Big Pine,524.8
+2019-08-24 15:36:33,Northern Owens Valley,Fish Springs At RR Flow,50.3
+2019-08-24 15:36:33,Northern Owens Valley,Tinemaha Reservoir Outflow,496.7
+2019-08-24 15:36:33,Northern Owens Valley,Bishop Creek Through Plant 6,147.5
+2019-08-24 15:36:33,Northern Owens Valley,Bishop Creek Around Plant 6,31.1
+2019-08-24 15:36:33,Southern Owens Valley,Tinemaha Reservoir Outflow,496.7
+2019-08-24 15:36:33,Southern Owens Valley,Indep. Ck. At Junction Flow,19.3
+2019-08-24 15:36:33,Southern Owens Valley,LAA at Alabama Flow,525.0
+2019-08-24 15:36:33,Southern Owens Valley,Cottonwood Ck. At LAA Flow,17.0
+2019-08-24 15:36:33,Southern Owens Valley,LAA at Cottonwood Flow,602.0
+2019-08-24 15:36:33,Southern Owens Valley,Haiwee LAA #1 Current Flow,420.0
+2019-08-24 15:36:33,Southern Owens Valley,Haiwee LAA #2 Current Flow,270.1
+2019-08-24 15:36:33,Southern Owens Valley,Reinhackel Flow,2.4
+2019-08-24 15:36:33,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
+2019-08-24 15:36:33,Southern Owens Valley,Cartago Spillgate Outflow,0.0
+2019-08-24 15:36:34,Southern District,S. Haiwee Reservoir Elevation,3724.7
+2019-08-24 15:36:34,Southern District,Fairmont Reservoir Elevation,3028.4
+2019-08-24 15:36:34,Southern District,Bouquet Reservoir Elevation,2982.6
+2019-08-24 15:36:34,Mono Basin,Mono Lk. Elevation,6382.7
+2019-08-24 15:36:34,Mono Basin,Grant Lk. Elevation,7122.5
+2019-08-24 15:36:34,Long Valley,Long Valley Elevation,6777.7
+2019-08-24 15:36:34,Northern Owens Valley,Pleasant Valley Elevation,4386.1
 2019-08-24 15:36:34,Southern Owens Valley,LAA at Alabama Level,8.5
 2019-08-24 15:36:34,Southern Owens Valley,LAA at Alabama Water Temp,71.2
 2019-08-24 15:36:34,Southern Owens Valley,LAA at Cottonwood Level,9.9
 2019-08-24 15:36:34,Southern Owens Valley,LAA at Cotton. Water Temp,72.1
 2019-08-24 15:36:34,Southern Owens Valley,N. Haiwee Elevation,3756.9
 2019-08-24 15:36:34,Southern Owens Valley,S. Haiwee Reservoir Elevation,3724.7
-2019-08-24 15:36:34,Mono Basin,Mono Lk. Elevation,6382.7
-2019-08-24 15:36:34,Mono Basin,Grant Lk. Elevation,7122.5
-2019-08-24 15:36:34,Southern District,S. Haiwee Reservoir Elevation,3724.7
-2019-08-24 15:36:34,Southern District,Fairmont Reservoir Elevation,3028.4
-2019-08-24 15:36:34,Southern District,Bouquet Reservoir Elevation,2982.6
-2019-08-24 15:36:34,Northern Owens Valley,Pleasant Valley Elevation,4386.1
-2019-08-24 15:36:34,Long Valley,Long Valley Elevation,6777.7
 2019-08-24 15:51:33,Mono Basin,Lee Vining Intake Above Flow,66.8
 2019-08-24 15:51:33,Mono Basin,Lee Vining Intake Below Flow,71.6
 2019-08-24 15:51:33,Mono Basin,Walker Ck. Above Conduit Flow,9.0
@@ -1247,8 +1247,8 @@ date,district,source,value
 2019-08-24 15:51:33,Northern Owens Valley,Tinemaha Reservoir Outflow,496.7
 2019-08-24 15:51:33,Northern Owens Valley,Bishop Creek Through Plant 6,149.1
 2019-08-24 15:51:33,Northern Owens Valley,Bishop Creek Around Plant 6,31.1
-2019-08-24 15:51:34,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 15:51:34,Northern Owens Valley,Tinemaha Elevation,3861.2
+2019-08-24 15:51:34,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 15:51:34,Mono Basin,Mono Lk. Elevation,6382.7
 2019-08-24 15:51:34,Mono Basin,Grant Lk. Elevation,7122.5
 2019-08-24 15:51:34,Southern Owens Valley,LAA at Alabama Level,8.5
@@ -1379,8 +1379,8 @@ date,district,source,value
 2019-08-24 16:21:34,Northern Owens Valley,Fish Springs At RR Flow,50.3
 2019-08-24 16:21:34,Northern Owens Valley,Bishop Creek Through Plant 6,147.8
 2019-08-24 16:21:34,Northern Owens Valley,Bishop Creek Around Plant 6,31.2
-2019-08-24 16:21:35,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 16:21:35,Northern Owens Valley,Tinemaha Elevation,3861.2
+2019-08-24 16:21:35,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 16:21:35,Mono Basin,Mono Lk. Elevation,6382.7
 2019-08-24 16:21:35,Mono Basin,Grant Lk. Elevation,0.0
 2019-08-24 16:21:35,Southern Owens Valley,LAA at Alabama Level,8.5
@@ -1394,16 +1394,14 @@ date,district,source,value
 2019-08-24 16:21:35,Southern District,Bouquet Reservoir Elevation,2982.6
 2019-08-24 16:21:35,Long Valley,Long Valley Elevation,6777.7
 2019-08-24 16:21:35,Northern Owens Valley,Pleasant Valley Elevation,4386.3
-2019-08-24 16:36:33,Southern Owens Valley,Tinemaha Reservoir Outflow,495.0
-2019-08-24 16:36:33,Southern Owens Valley,Indep. Ck. At Junction Flow,19.3
-2019-08-24 16:36:33,Southern Owens Valley,LAA at Alabama Flow,524.0
-2019-08-24 16:36:33,Southern Owens Valley,Cottonwood Ck. At LAA Flow,17.0
-2019-08-24 16:36:33,Southern Owens Valley,LAA at Cottonwood Flow,602.0
-2019-08-24 16:36:33,Southern Owens Valley,Haiwee LAA #1 Current Flow,420.0
-2019-08-24 16:36:33,Southern Owens Valley,Haiwee LAA #2 Current Flow,270.1
-2019-08-24 16:36:33,Southern Owens Valley,Reinhackel Flow,2.4
-2019-08-24 16:36:33,Southern Owens Valley,Lubkin Spillgate Outflow,0.2
-2019-08-24 16:36:33,Southern Owens Valley,Cartago Spillgate Outflow,0.0
+2019-08-24 16:36:33,Southern District,Haiwee LAA #2 Current Flow,270.1
+2019-08-24 16:36:33,Southern District,Haiwee LAA #1 Current Flow,420.0
+2019-08-24 16:36:33,Southern District,LAA #1 Flow at Fairmont Reservoir,408.1
+2019-08-24 16:36:33,Southern District,LAA #2 Flow at Fairmont Res.,288.0
+2019-08-24 16:36:33,Southern District,Bouquet Reservoir Inflow,0.0
+2019-08-24 16:36:33,Southern District,Bouquet Reservoir Outflow,0.5
+2019-08-24 16:36:33,Southern District,LAA #1 at Soledad Flow,353.4
+2019-08-24 16:36:33,Southern District,LAA #2 at Soledad Flow,317.2
 2019-08-24 16:36:33,Mono Basin,Lee Vining Intake Above Flow,66.8
 2019-08-24 16:36:33,Mono Basin,Lee Vining Intake Below Flow,71.6
 2019-08-24 16:36:33,Mono Basin,Walker Ck. Above Conduit Flow,9.0
@@ -1416,23 +1414,6 @@ date,district,source,value
 2019-08-24 16:36:33,Mono Basin,Grant Lk. Outflow,135.7
 2019-08-24 16:36:33,Mono Basin,Rush Ck. at Damsite Flow,22.5
 2019-08-24 16:36:33,Mono Basin,Flow to West Portal,41.1
-2019-08-24 16:36:33,Southern District,Haiwee LAA #2 Current Flow,270.1
-2019-08-24 16:36:33,Southern District,Haiwee LAA #1 Current Flow,420.0
-2019-08-24 16:36:33,Southern District,LAA #1 Flow at Fairmont Reservoir,408.1
-2019-08-24 16:36:33,Southern District,LAA #2 Flow at Fairmont Res.,288.0
-2019-08-24 16:36:33,Southern District,Bouquet Reservoir Inflow,0.0
-2019-08-24 16:36:33,Southern District,Bouquet Reservoir Outflow,0.5
-2019-08-24 16:36:33,Southern District,LAA #1 at Soledad Flow,353.4
-2019-08-24 16:36:33,Southern District,LAA #2 at Soledad Flow,317.2
-2019-08-24 16:36:33,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,51.3
-2019-08-24 16:36:33,Northern Owens Valley,Pleasant Valley Outflow,494.6
-2019-08-24 16:36:33,Northern Owens Valley,Baker Ck. At LA Station Flow,12.4
-2019-08-24 16:36:33,Northern Owens Valley,Big Pine Ck. USGS Flow,73.3
-2019-08-24 16:36:33,Northern Owens Valley,O.R. Below Big Pine,521.4
-2019-08-24 16:36:33,Northern Owens Valley,Fish Springs At RR Flow,49.8
-2019-08-24 16:36:33,Northern Owens Valley,Tinemaha Reservoir Outflow,495.0
-2019-08-24 16:36:33,Northern Owens Valley,Bishop Creek Through Plant 6,148.9
-2019-08-24 16:36:33,Northern Owens Valley,Bishop Creek Around Plant 6,31.1
 2019-08-24 16:36:33,Long Valley,East Portal Flow,50.0
 2019-08-24 16:36:33,Long Valley,OR Below EP Flow,105.0
 2019-08-24 16:36:33,Long Valley,Hot Ck.at Hwy. Flow,29.0
@@ -1446,19 +1427,38 @@ date,district,source,value
 2019-08-24 16:36:33,Lower Owens River Project,LORP at Reinhackle Springs,60.0
 2019-08-24 16:36:33,Lower Owens River Project,LORP Above Pumpstation,40.0
 2019-08-24 16:36:33,Lower Owens River Project,LORP At Pump Station Discharge Flow,32.0
+2019-08-24 16:36:33,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,51.3
+2019-08-24 16:36:33,Northern Owens Valley,Pleasant Valley Outflow,494.6
+2019-08-24 16:36:33,Northern Owens Valley,Baker Ck. At LA Station Flow,12.4
+2019-08-24 16:36:33,Northern Owens Valley,Big Pine Ck. USGS Flow,73.3
+2019-08-24 16:36:33,Northern Owens Valley,O.R. Below Big Pine,521.4
+2019-08-24 16:36:33,Northern Owens Valley,Fish Springs At RR Flow,49.8
+2019-08-24 16:36:33,Northern Owens Valley,Tinemaha Reservoir Outflow,495.0
+2019-08-24 16:36:33,Northern Owens Valley,Bishop Creek Through Plant 6,148.9
+2019-08-24 16:36:33,Northern Owens Valley,Bishop Creek Around Plant 6,31.1
+2019-08-24 16:36:33,Southern Owens Valley,Tinemaha Reservoir Outflow,495.0
+2019-08-24 16:36:33,Southern Owens Valley,Indep. Ck. At Junction Flow,19.3
+2019-08-24 16:36:33,Southern Owens Valley,LAA at Alabama Flow,524.0
+2019-08-24 16:36:33,Southern Owens Valley,Cottonwood Ck. At LAA Flow,17.0
+2019-08-24 16:36:33,Southern Owens Valley,LAA at Cottonwood Flow,602.0
+2019-08-24 16:36:33,Southern Owens Valley,Haiwee LAA #1 Current Flow,420.0
+2019-08-24 16:36:33,Southern Owens Valley,Haiwee LAA #2 Current Flow,270.1
+2019-08-24 16:36:33,Southern Owens Valley,Reinhackel Flow,2.4
+2019-08-24 16:36:33,Southern Owens Valley,Lubkin Spillgate Outflow,0.2
+2019-08-24 16:36:33,Southern Owens Valley,Cartago Spillgate Outflow,0.0
+2019-08-24 16:36:34,Southern District,S. Haiwee Reservoir Elevation,3724.7
+2019-08-24 16:36:34,Southern District,Fairmont Reservoir Elevation,3028.4
+2019-08-24 16:36:34,Southern District,Bouquet Reservoir Elevation,2982.6
+2019-08-24 16:36:34,Mono Basin,Mono Lk. Elevation,6382.7
+2019-08-24 16:36:34,Mono Basin,Grant Lk. Elevation,7122.5
+2019-08-24 16:36:34,Long Valley,Long Valley Elevation,6777.7
+2019-08-24 16:36:34,Northern Owens Valley,Pleasant Valley Elevation,4386.3
 2019-08-24 16:36:34,Southern Owens Valley,LAA at Alabama Level,8.5
 2019-08-24 16:36:34,Southern Owens Valley,LAA at Alabama Water Temp,71.8
 2019-08-24 16:36:34,Southern Owens Valley,LAA at Cottonwood Level,9.9
 2019-08-24 16:36:34,Southern Owens Valley,LAA at Cotton. Water Temp,72.1
 2019-08-24 16:36:34,Southern Owens Valley,N. Haiwee Elevation,3756.9
 2019-08-24 16:36:34,Southern Owens Valley,S. Haiwee Reservoir Elevation,3724.7
-2019-08-24 16:36:34,Mono Basin,Mono Lk. Elevation,6382.7
-2019-08-24 16:36:34,Mono Basin,Grant Lk. Elevation,7122.5
-2019-08-24 16:36:34,Southern District,S. Haiwee Reservoir Elevation,3724.7
-2019-08-24 16:36:34,Southern District,Fairmont Reservoir Elevation,3028.4
-2019-08-24 16:36:34,Southern District,Bouquet Reservoir Elevation,2982.6
-2019-08-24 16:36:34,Northern Owens Valley,Pleasant Valley Elevation,4386.3
-2019-08-24 16:36:34,Long Valley,Long Valley Elevation,6777.7
 2019-08-24 16:51:33,Mono Basin,Lee Vining Intake Above Flow,66.8
 2019-08-24 16:51:33,Mono Basin,Lee Vining Intake Below Flow,71.6
 2019-08-24 16:51:33,Mono Basin,Walker Ck. Above Conduit Flow,9.0
@@ -1511,8 +1511,8 @@ date,district,source,value
 2019-08-24 16:51:33,Northern Owens Valley,Tinemaha Reservoir Outflow,495.0
 2019-08-24 16:51:33,Northern Owens Valley,Bishop Creek Through Plant 6,147.9
 2019-08-24 16:51:33,Northern Owens Valley,Bishop Creek Around Plant 6,31.1
-2019-08-24 16:51:34,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 16:51:34,Northern Owens Valley,Tinemaha Elevation,3861.2
+2019-08-24 16:51:34,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 16:51:34,Mono Basin,Mono Lk. Elevation,6382.7
 2019-08-24 16:51:34,Mono Basin,Grant Lk. Elevation,7122.5
 2019-08-24 16:51:34,Southern Owens Valley,LAA at Alabama Level,8.5
@@ -1643,8 +1643,8 @@ date,district,source,value
 2019-08-24 17:21:33,Northern Owens Valley,Fish Springs At RR Flow,49.8
 2019-08-24 17:21:33,Northern Owens Valley,Bishop Creek Through Plant 6,148.4
 2019-08-24 17:21:33,Northern Owens Valley,Bishop Creek Around Plant 6,31.0
-2019-08-24 17:21:34,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 17:21:34,Northern Owens Valley,Tinemaha Elevation,3861.2
+2019-08-24 17:21:34,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 17:21:34,Mono Basin,Mono Lk. Elevation,6382.7
 2019-08-24 17:21:34,Mono Basin,Grant Lk. Elevation,7122.5
 2019-08-24 17:21:34,Southern Owens Valley,LAA at Alabama Level,8.5
@@ -1658,16 +1658,14 @@ date,district,source,value
 2019-08-24 17:21:34,Southern District,Bouquet Reservoir Elevation,2982.6
 2019-08-24 17:21:34,Long Valley,Long Valley Elevation,6777.7
 2019-08-24 17:21:34,Northern Owens Valley,Pleasant Valley Elevation,4386.5
-2019-08-24 17:36:33,Southern Owens Valley,Tinemaha Reservoir Outflow,495.0
-2019-08-24 17:36:33,Southern Owens Valley,Indep. Ck. At Junction Flow,19.3
-2019-08-24 17:36:33,Southern Owens Valley,LAA at Alabama Flow,525.0
-2019-08-24 17:36:33,Southern Owens Valley,Cottonwood Ck. At LAA Flow,17.0
-2019-08-24 17:36:33,Southern Owens Valley,LAA at Cottonwood Flow,600.0
-2019-08-24 17:36:33,Southern Owens Valley,Haiwee LAA #1 Current Flow,0.0
-2019-08-24 17:36:33,Southern Owens Valley,Haiwee LAA #2 Current Flow,0.0
-2019-08-24 17:36:33,Southern Owens Valley,Reinhackel Flow,2.4
-2019-08-24 17:36:33,Southern Owens Valley,Lubkin Spillgate Outflow,0.2
-2019-08-24 17:36:33,Southern Owens Valley,Cartago Spillgate Outflow,0.0
+2019-08-24 17:36:33,Southern District,Haiwee LAA #2 Current Flow,0.0
+2019-08-24 17:36:33,Southern District,Haiwee LAA #1 Current Flow,0.0
+2019-08-24 17:36:33,Southern District,LAA #1 Flow at Fairmont Reservoir,407.4
+2019-08-24 17:36:33,Southern District,LAA #2 Flow at Fairmont Res.,288.7
+2019-08-24 17:36:33,Southern District,Bouquet Reservoir Inflow,0.0
+2019-08-24 17:36:33,Southern District,Bouquet Reservoir Outflow,0.5
+2019-08-24 17:36:33,Southern District,LAA #1 at Soledad Flow,353.4
+2019-08-24 17:36:33,Southern District,LAA #2 at Soledad Flow,317.2
 2019-08-24 17:36:33,Mono Basin,Lee Vining Intake Above Flow,66.8
 2019-08-24 17:36:33,Mono Basin,Lee Vining Intake Below Flow,71.6
 2019-08-24 17:36:33,Mono Basin,Walker Ck. Above Conduit Flow,9.0
@@ -1680,23 +1678,6 @@ date,district,source,value
 2019-08-24 17:36:33,Mono Basin,Grant Lk. Outflow,135.2
 2019-08-24 17:36:33,Mono Basin,Rush Ck. at Damsite Flow,22.5
 2019-08-24 17:36:33,Mono Basin,Flow to West Portal,41.1
-2019-08-24 17:36:33,Southern District,Haiwee LAA #2 Current Flow,0.0
-2019-08-24 17:36:33,Southern District,Haiwee LAA #1 Current Flow,0.0
-2019-08-24 17:36:33,Southern District,LAA #1 Flow at Fairmont Reservoir,407.4
-2019-08-24 17:36:33,Southern District,LAA #2 Flow at Fairmont Res.,288.7
-2019-08-24 17:36:33,Southern District,Bouquet Reservoir Inflow,0.0
-2019-08-24 17:36:33,Southern District,Bouquet Reservoir Outflow,0.5
-2019-08-24 17:36:33,Southern District,LAA #1 at Soledad Flow,353.4
-2019-08-24 17:36:33,Southern District,LAA #2 at Soledad Flow,317.2
-2019-08-24 17:36:33,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,50.5
-2019-08-24 17:36:33,Northern Owens Valley,Pleasant Valley Outflow,495.4
-2019-08-24 17:36:33,Northern Owens Valley,Baker Ck. At LA Station Flow,12.4
-2019-08-24 17:36:33,Northern Owens Valley,Big Pine Ck. USGS Flow,69.7
-2019-08-24 17:36:33,Northern Owens Valley,O.R. Below Big Pine,521.4
-2019-08-24 17:36:33,Northern Owens Valley,Fish Springs At RR Flow,49.8
-2019-08-24 17:36:33,Northern Owens Valley,Tinemaha Reservoir Outflow,495.0
-2019-08-24 17:36:33,Northern Owens Valley,Bishop Creek Through Plant 6,148.4
-2019-08-24 17:36:33,Northern Owens Valley,Bishop Creek Around Plant 6,31.0
 2019-08-24 17:36:33,Long Valley,East Portal Flow,51.0
 2019-08-24 17:36:33,Long Valley,OR Below EP Flow,107.0
 2019-08-24 17:36:33,Long Valley,Hot Ck.at Hwy. Flow,29.0
@@ -1710,19 +1691,38 @@ date,district,source,value
 2019-08-24 17:36:33,Lower Owens River Project,LORP at Reinhackle Springs,60.0
 2019-08-24 17:36:33,Lower Owens River Project,LORP Above Pumpstation,42.0
 2019-08-24 17:36:33,Lower Owens River Project,LORP At Pump Station Discharge Flow,34.0
+2019-08-24 17:36:33,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,50.5
+2019-08-24 17:36:33,Northern Owens Valley,Pleasant Valley Outflow,495.4
+2019-08-24 17:36:33,Northern Owens Valley,Baker Ck. At LA Station Flow,12.4
+2019-08-24 17:36:33,Northern Owens Valley,Big Pine Ck. USGS Flow,69.7
+2019-08-24 17:36:33,Northern Owens Valley,O.R. Below Big Pine,521.4
+2019-08-24 17:36:33,Northern Owens Valley,Fish Springs At RR Flow,49.8
+2019-08-24 17:36:33,Northern Owens Valley,Tinemaha Reservoir Outflow,495.0
+2019-08-24 17:36:33,Northern Owens Valley,Bishop Creek Through Plant 6,148.4
+2019-08-24 17:36:33,Northern Owens Valley,Bishop Creek Around Plant 6,31.0
+2019-08-24 17:36:33,Southern Owens Valley,Tinemaha Reservoir Outflow,495.0
+2019-08-24 17:36:33,Southern Owens Valley,Indep. Ck. At Junction Flow,19.3
+2019-08-24 17:36:33,Southern Owens Valley,LAA at Alabama Flow,525.0
+2019-08-24 17:36:33,Southern Owens Valley,Cottonwood Ck. At LAA Flow,17.0
+2019-08-24 17:36:33,Southern Owens Valley,LAA at Cottonwood Flow,600.0
+2019-08-24 17:36:33,Southern Owens Valley,Haiwee LAA #1 Current Flow,0.0
+2019-08-24 17:36:33,Southern Owens Valley,Haiwee LAA #2 Current Flow,0.0
+2019-08-24 17:36:33,Southern Owens Valley,Reinhackel Flow,2.4
+2019-08-24 17:36:33,Southern Owens Valley,Lubkin Spillgate Outflow,0.2
+2019-08-24 17:36:33,Southern Owens Valley,Cartago Spillgate Outflow,0.0
 2019-08-24 17:36:34,Southern Owens Valley,LAA at Alabama Level,8.5
 2019-08-24 17:36:34,Southern Owens Valley,LAA at Alabama Water Temp,72.1
 2019-08-24 17:36:34,Southern Owens Valley,LAA at Cottonwood Level,9.9
 2019-08-24 17:36:34,Southern Owens Valley,LAA at Cotton. Water Temp,71.9
 2019-08-24 17:36:34,Southern Owens Valley,N. Haiwee Elevation,0.0
-2019-08-24 17:36:35,Southern Owens Valley,S. Haiwee Reservoir Elevation,3724.7
-2019-08-24 17:36:35,Mono Basin,Mono Lk. Elevation,6382.7
-2019-08-24 17:36:35,Mono Basin,Grant Lk. Elevation,7122.5
 2019-08-24 17:36:35,Southern District,S. Haiwee Reservoir Elevation,3724.7
 2019-08-24 17:36:35,Southern District,Fairmont Reservoir Elevation,3028.2
 2019-08-24 17:36:35,Southern District,Bouquet Reservoir Elevation,2982.6
-2019-08-24 17:36:35,Northern Owens Valley,Pleasant Valley Elevation,4386.5
+2019-08-24 17:36:35,Mono Basin,Mono Lk. Elevation,6382.7
+2019-08-24 17:36:35,Mono Basin,Grant Lk. Elevation,7122.5
 2019-08-24 17:36:35,Long Valley,Long Valley Elevation,6777.7
+2019-08-24 17:36:35,Northern Owens Valley,Pleasant Valley Elevation,4386.5
+2019-08-24 17:36:35,Southern Owens Valley,S. Haiwee Reservoir Elevation,3724.7
 2019-08-24 17:51:32,Southern Owens Valley,Tinemaha Reservoir Outflow,495.0
 2019-08-24 17:51:32,Southern Owens Valley,Indep. Ck. At Junction Flow,19.3
 2019-08-24 17:51:32,Southern Owens Valley,LAA at Alabama Flow,525.0
@@ -1775,8 +1775,8 @@ date,district,source,value
 2019-08-24 17:51:33,Long Valley,Rock Ck. Div. Flow,3.5
 2019-08-24 17:51:33,Long Valley,Upper Gorge at TRS,55.4
 2019-08-24 17:51:33,Long Valley,Release at Middle Gorge,55.4
-2019-08-24 17:51:34,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 17:51:34,Northern Owens Valley,Tinemaha Elevation,3861.2
+2019-08-24 17:51:34,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 17:51:34,Mono Basin,Mono Lk. Elevation,6382.7
 2019-08-24 17:51:34,Mono Basin,Grant Lk. Elevation,7122.5
 2019-08-24 17:51:34,Southern Owens Valley,LAA at Alabama Level,8.5
@@ -1907,8 +1907,8 @@ date,district,source,value
 2019-08-24 18:21:33,Northern Owens Valley,Fish Springs At RR Flow,49.8
 2019-08-24 18:21:33,Northern Owens Valley,Bishop Creek Through Plant 6,148.2
 2019-08-24 18:21:33,Northern Owens Valley,Bishop Creek Around Plant 6,30.8
-2019-08-24 18:21:34,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 18:21:34,Northern Owens Valley,Tinemaha Elevation,3861.2
+2019-08-24 18:21:34,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 18:21:34,Mono Basin,Mono Lk. Elevation,6382.7
 2019-08-24 18:21:34,Mono Basin,Grant Lk. Elevation,7122.5
 2019-08-24 18:21:34,Southern Owens Valley,LAA at Alabama Level,8.5
@@ -1922,28 +1922,9 @@ date,district,source,value
 2019-08-24 18:21:34,Southern District,Bouquet Reservoir Elevation,2982.6
 2019-08-24 18:21:34,Long Valley,Long Valley Elevation,0.0
 2019-08-24 18:21:34,Northern Owens Valley,Pleasant Valley Elevation,4386.7
-2019-08-24 18:36:32,Southern Owens Valley,Tinemaha Reservoir Outflow,494.1
-2019-08-24 18:36:32,Southern Owens Valley,Indep. Ck. At Junction Flow,19.3
-2019-08-24 18:36:32,Southern Owens Valley,LAA at Alabama Flow,525.0
-2019-08-24 18:36:32,Southern Owens Valley,Cottonwood Ck. At LAA Flow,17.0
-2019-08-24 18:36:32,Southern Owens Valley,LAA at Cottonwood Flow,601.0
-2019-08-24 18:36:32,Southern Owens Valley,Haiwee LAA #1 Current Flow,420.3
-2019-08-24 18:36:32,Southern Owens Valley,Haiwee LAA #2 Current Flow,269.3
-2019-08-24 18:36:32,Southern Owens Valley,Reinhackel Flow,2.4
-2019-08-24 18:36:32,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
-2019-08-24 18:36:32,Southern Owens Valley,Cartago Spillgate Outflow,0.0
-2019-08-24 18:36:32,Mono Basin,Walker Ck. Under Conduit Flow,9.0
 2019-08-24 18:36:32,Southern District,Haiwee LAA #2 Current Flow,269.3
 2019-08-24 18:36:32,Southern District,Haiwee LAA #1 Current Flow,420.3
-2019-08-24 18:36:32,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,49.8
-2019-08-24 18:36:32,Northern Owens Valley,Pleasant Valley Outflow,495.9
-2019-08-24 18:36:32,Northern Owens Valley,Baker Ck. At LA Station Flow,12.4
-2019-08-24 18:36:32,Northern Owens Valley,Big Pine Ck. USGS Flow,69.7
-2019-08-24 18:36:32,Northern Owens Valley,O.R. Below Big Pine,521.3
-2019-08-24 18:36:32,Northern Owens Valley,Fish Springs At RR Flow,49.7
-2019-08-24 18:36:32,Northern Owens Valley,Tinemaha Reservoir Outflow,494.1
-2019-08-24 18:36:32,Northern Owens Valley,Bishop Creek Through Plant 6,148.6
-2019-08-24 18:36:32,Northern Owens Valley,Bishop Creek Around Plant 6,30.7
+2019-08-24 18:36:32,Mono Basin,Walker Ck. Under Conduit Flow,9.0
 2019-08-24 18:36:32,Long Valley,Hot Ck.at Hwy. Flow,29.0
 2019-08-24 18:36:32,Long Valley,McGee Ck. Lower Sta. Flow,26.4
 2019-08-24 18:36:32,Long Valley,Long Valley Current Outflow,654.4
@@ -1955,6 +1936,31 @@ date,district,source,value
 2019-08-24 18:36:32,Lower Owens River Project,LORP at Reinhackle Springs,58.0
 2019-08-24 18:36:32,Lower Owens River Project,LORP Above Pumpstation,54.0
 2019-08-24 18:36:32,Lower Owens River Project,LORP At Pump Station Discharge Flow,47.0
+2019-08-24 18:36:32,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,49.8
+2019-08-24 18:36:32,Northern Owens Valley,Pleasant Valley Outflow,495.9
+2019-08-24 18:36:32,Northern Owens Valley,Baker Ck. At LA Station Flow,12.4
+2019-08-24 18:36:32,Northern Owens Valley,Big Pine Ck. USGS Flow,69.7
+2019-08-24 18:36:32,Northern Owens Valley,O.R. Below Big Pine,521.3
+2019-08-24 18:36:32,Northern Owens Valley,Fish Springs At RR Flow,49.7
+2019-08-24 18:36:32,Northern Owens Valley,Tinemaha Reservoir Outflow,494.1
+2019-08-24 18:36:32,Northern Owens Valley,Bishop Creek Through Plant 6,148.6
+2019-08-24 18:36:32,Northern Owens Valley,Bishop Creek Around Plant 6,30.7
+2019-08-24 18:36:32,Southern Owens Valley,Tinemaha Reservoir Outflow,494.1
+2019-08-24 18:36:32,Southern Owens Valley,Indep. Ck. At Junction Flow,19.3
+2019-08-24 18:36:32,Southern Owens Valley,LAA at Alabama Flow,525.0
+2019-08-24 18:36:32,Southern Owens Valley,Cottonwood Ck. At LAA Flow,17.0
+2019-08-24 18:36:32,Southern Owens Valley,LAA at Cottonwood Flow,601.0
+2019-08-24 18:36:32,Southern Owens Valley,Haiwee LAA #1 Current Flow,420.3
+2019-08-24 18:36:32,Southern Owens Valley,Haiwee LAA #2 Current Flow,269.3
+2019-08-24 18:36:32,Southern Owens Valley,Reinhackel Flow,2.4
+2019-08-24 18:36:32,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
+2019-08-24 18:36:32,Southern Owens Valley,Cartago Spillgate Outflow,0.0
+2019-08-24 18:36:33,Southern District,LAA #1 Flow at Fairmont Reservoir,407.4
+2019-08-24 18:36:33,Southern District,LAA #2 Flow at Fairmont Res.,288.7
+2019-08-24 18:36:33,Southern District,Bouquet Reservoir Inflow,0.0
+2019-08-24 18:36:33,Southern District,Bouquet Reservoir Outflow,0.5
+2019-08-24 18:36:33,Southern District,LAA #1 at Soledad Flow,353.4
+2019-08-24 18:36:33,Southern District,LAA #2 at Soledad Flow,317.2
 2019-08-24 18:36:33,Mono Basin,Lee Vining Intake Above Flow,66.8
 2019-08-24 18:36:33,Mono Basin,Lee Vining Intake Below Flow,71.6
 2019-08-24 18:36:33,Mono Basin,Walker Ck. Above Conduit Flow,9.0
@@ -1966,27 +1972,21 @@ date,district,source,value
 2019-08-24 18:36:33,Mono Basin,Grant Lk. Outflow,135.3
 2019-08-24 18:36:33,Mono Basin,Rush Ck. at Damsite Flow,22.5
 2019-08-24 18:36:33,Mono Basin,Flow to West Portal,41.1
-2019-08-24 18:36:33,Southern District,LAA #1 Flow at Fairmont Reservoir,407.4
-2019-08-24 18:36:33,Southern District,LAA #2 Flow at Fairmont Res.,288.7
-2019-08-24 18:36:33,Southern District,Bouquet Reservoir Inflow,0.0
-2019-08-24 18:36:33,Southern District,Bouquet Reservoir Outflow,0.5
-2019-08-24 18:36:33,Southern District,LAA #1 at Soledad Flow,353.4
-2019-08-24 18:36:33,Southern District,LAA #2 at Soledad Flow,317.2
 2019-08-24 18:36:33,Long Valley,East Portal Flow,52.0
 2019-08-24 18:36:33,Long Valley,OR Below EP Flow,108.0
+2019-08-24 18:36:34,Southern District,S. Haiwee Reservoir Elevation,3724.7
+2019-08-24 18:36:34,Southern District,Fairmont Reservoir Elevation,3028.2
+2019-08-24 18:36:34,Southern District,Bouquet Reservoir Elevation,2982.6
+2019-08-24 18:36:34,Mono Basin,Mono Lk. Elevation,6382.7
+2019-08-24 18:36:34,Mono Basin,Grant Lk. Elevation,7122.5
+2019-08-24 18:36:34,Long Valley,Long Valley Elevation,6777.7
+2019-08-24 18:36:34,Northern Owens Valley,Pleasant Valley Elevation,4386.7
 2019-08-24 18:36:34,Southern Owens Valley,LAA at Alabama Level,8.5
 2019-08-24 18:36:34,Southern Owens Valley,LAA at Alabama Water Temp,72.1
 2019-08-24 18:36:34,Southern Owens Valley,LAA at Cottonwood Level,9.9
 2019-08-24 18:36:34,Southern Owens Valley,LAA at Cotton. Water Temp,71.6
 2019-08-24 18:36:34,Southern Owens Valley,N. Haiwee Elevation,3756.9
 2019-08-24 18:36:34,Southern Owens Valley,S. Haiwee Reservoir Elevation,3724.7
-2019-08-24 18:36:34,Mono Basin,Mono Lk. Elevation,6382.7
-2019-08-24 18:36:34,Mono Basin,Grant Lk. Elevation,7122.5
-2019-08-24 18:36:34,Southern District,S. Haiwee Reservoir Elevation,3724.7
-2019-08-24 18:36:34,Southern District,Fairmont Reservoir Elevation,3028.2
-2019-08-24 18:36:34,Southern District,Bouquet Reservoir Elevation,2982.6
-2019-08-24 18:36:34,Northern Owens Valley,Pleasant Valley Elevation,4386.7
-2019-08-24 18:36:34,Long Valley,Long Valley Elevation,6777.7
 2019-08-24 18:51:32,Mono Basin,Lee Vining Intake Above Flow,66.8
 2019-08-24 18:51:32,Mono Basin,Lee Vining Intake Below Flow,71.6
 2019-08-24 18:51:32,Mono Basin,Walker Ck. Above Conduit Flow,9.0
@@ -2041,8 +2041,8 @@ date,district,source,value
 2019-08-24 18:51:32,Northern Owens Valley,Bishop Creek Around Plant 6,30.7
 2019-08-24 18:51:33,Southern Owens Valley,LAA at Alabama Water Temp,72.1
 2019-08-24 18:51:33,Southern Owens Valley,LAA at Cotton. Water Temp,71.6
-2019-08-24 18:51:34,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 18:51:34,Northern Owens Valley,Tinemaha Elevation,3861.2
+2019-08-24 18:51:34,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 18:51:34,Mono Basin,Mono Lk. Elevation,6382.7
 2019-08-24 18:51:34,Mono Basin,Grant Lk. Elevation,7122.5
 2019-08-24 18:51:34,Southern Owens Valley,LAA at Alabama Level,8.5
@@ -2173,8 +2173,8 @@ date,district,source,value
 2019-08-24 19:21:34,Southern District,Bouquet Reservoir Outflow,0.5
 2019-08-24 19:21:34,Southern District,LAA #1 at Soledad Flow,353.4
 2019-08-24 19:21:34,Southern District,LAA #2 at Soledad Flow,316.6
-2019-08-24 19:21:35,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 19:21:35,Northern Owens Valley,Tinemaha Elevation,3861.2
+2019-08-24 19:21:35,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 19:21:35,Mono Basin,Mono Lk. Elevation,6382.7
 2019-08-24 19:21:35,Mono Basin,Grant Lk. Elevation,7122.5
 2019-08-24 19:21:35,Southern Owens Valley,LAA at Alabama Level,8.5
@@ -2186,16 +2186,14 @@ date,district,source,value
 2019-08-24 19:21:35,Southern District,Bouquet Reservoir Elevation,2982.6
 2019-08-24 19:21:35,Long Valley,Long Valley Elevation,6777.7
 2019-08-24 19:21:35,Northern Owens Valley,Pleasant Valley Elevation,4386.9
-2019-08-24 19:36:32,Southern Owens Valley,Tinemaha Reservoir Outflow,494.2
-2019-08-24 19:36:32,Southern Owens Valley,Indep. Ck. At Junction Flow,19.3
-2019-08-24 19:36:32,Southern Owens Valley,LAA at Alabama Flow,525.0
-2019-08-24 19:36:32,Southern Owens Valley,Cottonwood Ck. At LAA Flow,17.0
-2019-08-24 19:36:32,Southern Owens Valley,LAA at Cottonwood Flow,601.0
-2019-08-24 19:36:32,Southern Owens Valley,Haiwee LAA #1 Current Flow,420.3
-2019-08-24 19:36:32,Southern Owens Valley,Haiwee LAA #2 Current Flow,269.3
-2019-08-24 19:36:32,Southern Owens Valley,Reinhackel Flow,2.4
-2019-08-24 19:36:32,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
-2019-08-24 19:36:32,Southern Owens Valley,Cartago Spillgate Outflow,0.0
+2019-08-24 19:36:32,Southern District,Haiwee LAA #2 Current Flow,269.3
+2019-08-24 19:36:32,Southern District,Haiwee LAA #1 Current Flow,420.3
+2019-08-24 19:36:32,Southern District,LAA #1 Flow at Fairmont Reservoir,406.7
+2019-08-24 19:36:32,Southern District,LAA #2 Flow at Fairmont Res.,289.0
+2019-08-24 19:36:32,Southern District,Bouquet Reservoir Inflow,0.0
+2019-08-24 19:36:32,Southern District,Bouquet Reservoir Outflow,0.5
+2019-08-24 19:36:32,Southern District,LAA #1 at Soledad Flow,353.4
+2019-08-24 19:36:32,Southern District,LAA #2 at Soledad Flow,316.6
 2019-08-24 19:36:32,Mono Basin,Lee Vining Intake Above Flow,66.8
 2019-08-24 19:36:32,Mono Basin,Lee Vining Intake Below Flow,71.6
 2019-08-24 19:36:32,Mono Basin,Walker Ck. Above Conduit Flow,9.0
@@ -2208,23 +2206,6 @@ date,district,source,value
 2019-08-24 19:36:32,Mono Basin,Grant Lk. Outflow,134.7
 2019-08-24 19:36:32,Mono Basin,Rush Ck. at Damsite Flow,22.5
 2019-08-24 19:36:32,Mono Basin,Flow to West Portal,41.1
-2019-08-24 19:36:32,Southern District,Haiwee LAA #2 Current Flow,269.3
-2019-08-24 19:36:32,Southern District,Haiwee LAA #1 Current Flow,420.3
-2019-08-24 19:36:32,Southern District,LAA #1 Flow at Fairmont Reservoir,406.7
-2019-08-24 19:36:32,Southern District,LAA #2 Flow at Fairmont Res.,289.0
-2019-08-24 19:36:32,Southern District,Bouquet Reservoir Inflow,0.0
-2019-08-24 19:36:32,Southern District,Bouquet Reservoir Outflow,0.5
-2019-08-24 19:36:32,Southern District,LAA #1 at Soledad Flow,353.4
-2019-08-24 19:36:32,Southern District,LAA #2 at Soledad Flow,316.6
-2019-08-24 19:36:32,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,49.4
-2019-08-24 19:36:32,Northern Owens Valley,Pleasant Valley Outflow,496.4
-2019-08-24 19:36:32,Northern Owens Valley,Baker Ck. At LA Station Flow,12.4
-2019-08-24 19:36:32,Northern Owens Valley,Big Pine Ck. USGS Flow,69.7
-2019-08-24 19:36:32,Northern Owens Valley,O.R. Below Big Pine,518.4
-2019-08-24 19:36:32,Northern Owens Valley,Fish Springs At RR Flow,49.2
-2019-08-24 19:36:32,Northern Owens Valley,Tinemaha Reservoir Outflow,494.2
-2019-08-24 19:36:32,Northern Owens Valley,Bishop Creek Through Plant 6,148.8
-2019-08-24 19:36:32,Northern Owens Valley,Bishop Creek Around Plant 6,30.6
 2019-08-24 19:36:32,Long Valley,East Portal Flow,54.0
 2019-08-24 19:36:32,Long Valley,OR Below EP Flow,110.0
 2019-08-24 19:36:32,Long Valley,Hot Ck.at Hwy. Flow,29.0
@@ -2238,17 +2219,36 @@ date,district,source,value
 2019-08-24 19:36:32,Lower Owens River Project,LORP at Reinhackle Springs,63.0
 2019-08-24 19:36:32,Lower Owens River Project,LORP Above Pumpstation,41.0
 2019-08-24 19:36:32,Lower Owens River Project,LORP At Pump Station Discharge Flow,33.0
+2019-08-24 19:36:32,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,49.4
+2019-08-24 19:36:32,Northern Owens Valley,Pleasant Valley Outflow,496.4
+2019-08-24 19:36:32,Northern Owens Valley,Baker Ck. At LA Station Flow,12.4
+2019-08-24 19:36:32,Northern Owens Valley,Big Pine Ck. USGS Flow,69.7
+2019-08-24 19:36:32,Northern Owens Valley,O.R. Below Big Pine,518.4
+2019-08-24 19:36:32,Northern Owens Valley,Fish Springs At RR Flow,49.2
+2019-08-24 19:36:32,Northern Owens Valley,Tinemaha Reservoir Outflow,494.2
+2019-08-24 19:36:32,Northern Owens Valley,Bishop Creek Through Plant 6,148.8
+2019-08-24 19:36:32,Northern Owens Valley,Bishop Creek Around Plant 6,30.6
+2019-08-24 19:36:32,Southern Owens Valley,Tinemaha Reservoir Outflow,494.2
+2019-08-24 19:36:32,Southern Owens Valley,Indep. Ck. At Junction Flow,19.3
+2019-08-24 19:36:32,Southern Owens Valley,LAA at Alabama Flow,525.0
+2019-08-24 19:36:32,Southern Owens Valley,Cottonwood Ck. At LAA Flow,17.0
+2019-08-24 19:36:32,Southern Owens Valley,LAA at Cottonwood Flow,601.0
+2019-08-24 19:36:32,Southern Owens Valley,Haiwee LAA #1 Current Flow,420.3
+2019-08-24 19:36:32,Southern Owens Valley,Haiwee LAA #2 Current Flow,269.3
+2019-08-24 19:36:32,Southern Owens Valley,Reinhackel Flow,2.4
+2019-08-24 19:36:32,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
+2019-08-24 19:36:32,Southern Owens Valley,Cartago Spillgate Outflow,0.0
+2019-08-24 19:36:33,Southern District,S. Haiwee Reservoir Elevation,3724.7
+2019-08-24 19:36:33,Mono Basin,Mono Lk. Elevation,6382.7
+2019-08-24 19:36:33,Mono Basin,Grant Lk. Elevation,7122.5
+2019-08-24 19:36:33,Long Valley,Long Valley Elevation,6777.7
+2019-08-24 19:36:33,Northern Owens Valley,Pleasant Valley Elevation,4386.9
 2019-08-24 19:36:33,Southern Owens Valley,LAA at Alabama Level,8.5
 2019-08-24 19:36:33,Southern Owens Valley,LAA at Alabama Water Temp,72.1
 2019-08-24 19:36:33,Southern Owens Valley,LAA at Cottonwood Level,9.9
 2019-08-24 19:36:33,Southern Owens Valley,LAA at Cotton. Water Temp,71.3
 2019-08-24 19:36:33,Southern Owens Valley,N. Haiwee Elevation,3757.0
 2019-08-24 19:36:33,Southern Owens Valley,S. Haiwee Reservoir Elevation,3724.7
-2019-08-24 19:36:33,Mono Basin,Mono Lk. Elevation,6382.7
-2019-08-24 19:36:33,Mono Basin,Grant Lk. Elevation,7122.5
-2019-08-24 19:36:33,Southern District,S. Haiwee Reservoir Elevation,3724.7
-2019-08-24 19:36:33,Northern Owens Valley,Pleasant Valley Elevation,4386.9
-2019-08-24 19:36:33,Long Valley,Long Valley Elevation,6777.7
 2019-08-24 19:36:34,Southern District,Fairmont Reservoir Elevation,3028.2
 2019-08-24 19:36:34,Southern District,Bouquet Reservoir Elevation,2982.6
 2019-08-24 19:51:32,Mono Basin,Lee Vining Intake Above Flow,66.8
@@ -2303,8 +2303,8 @@ date,district,source,value
 2019-08-24 19:51:32,Northern Owens Valley,Tinemaha Reservoir Outflow,494.2
 2019-08-24 19:51:32,Northern Owens Valley,Bishop Creek Through Plant 6,147.5
 2019-08-24 19:51:32,Northern Owens Valley,Bishop Creek Around Plant 6,30.5
-2019-08-24 19:51:33,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 19:51:33,Northern Owens Valley,Tinemaha Elevation,3861.2
+2019-08-24 19:51:33,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 19:51:33,Mono Basin,Mono Lk. Elevation,6382.7
 2019-08-24 19:51:33,Mono Basin,Grant Lk. Elevation,7122.5
 2019-08-24 19:51:33,Southern Owens Valley,LAA at Alabama Level,8.5
@@ -2435,8 +2435,8 @@ date,district,source,value
 2019-08-24 20:21:33,Northern Owens Valley,Tinemaha Reservoir Outflow,494.1
 2019-08-24 20:21:33,Northern Owens Valley,Bishop Creek Through Plant 6,147.0
 2019-08-24 20:21:33,Northern Owens Valley,Bishop Creek Around Plant 6,30.3
-2019-08-24 20:21:34,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 20:21:34,Northern Owens Valley,Tinemaha Elevation,3861.2
+2019-08-24 20:21:34,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 20:21:34,Mono Basin,Mono Lk. Elevation,6382.7
 2019-08-24 20:21:34,Mono Basin,Grant Lk. Elevation,7122.5
 2019-08-24 20:21:34,Southern Owens Valley,LAA at Alabama Level,8.5
@@ -2450,16 +2450,14 @@ date,district,source,value
 2019-08-24 20:21:34,Southern District,Bouquet Reservoir Elevation,2982.6
 2019-08-24 20:21:34,Long Valley,Long Valley Elevation,6777.7
 2019-08-24 20:21:34,Northern Owens Valley,Pleasant Valley Elevation,4387.2
-2019-08-24 20:36:32,Southern Owens Valley,Tinemaha Reservoir Outflow,494.1
-2019-08-24 20:36:32,Southern Owens Valley,Indep. Ck. At Junction Flow,19.5
-2019-08-24 20:36:32,Southern Owens Valley,LAA at Alabama Flow,524.0
-2019-08-24 20:36:32,Southern Owens Valley,Cottonwood Ck. At LAA Flow,17.0
-2019-08-24 20:36:32,Southern Owens Valley,LAA at Cottonwood Flow,601.0
-2019-08-24 20:36:32,Southern Owens Valley,Haiwee LAA #1 Current Flow,420.3
-2019-08-24 20:36:32,Southern Owens Valley,Haiwee LAA #2 Current Flow,269.3
-2019-08-24 20:36:32,Southern Owens Valley,Reinhackel Flow,2.4
-2019-08-24 20:36:32,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
-2019-08-24 20:36:32,Southern Owens Valley,Cartago Spillgate Outflow,0.0
+2019-08-24 20:36:32,Southern District,Haiwee LAA #2 Current Flow,269.3
+2019-08-24 20:36:32,Southern District,Haiwee LAA #1 Current Flow,420.3
+2019-08-24 20:36:32,Southern District,LAA #1 Flow at Fairmont Reservoir,407.1
+2019-08-24 20:36:32,Southern District,LAA #2 Flow at Fairmont Res.,289.2
+2019-08-24 20:36:32,Southern District,Bouquet Reservoir Inflow,0.0
+2019-08-24 20:36:32,Southern District,Bouquet Reservoir Outflow,0.5
+2019-08-24 20:36:32,Southern District,LAA #1 at Soledad Flow,358.6
+2019-08-24 20:36:32,Southern District,LAA #2 at Soledad Flow,316.6
 2019-08-24 20:36:32,Mono Basin,Lee Vining Intake Above Flow,66.8
 2019-08-24 20:36:32,Mono Basin,Lee Vining Intake Below Flow,71.6
 2019-08-24 20:36:32,Mono Basin,Walker Ck. Above Conduit Flow,9.0
@@ -2472,23 +2470,6 @@ date,district,source,value
 2019-08-24 20:36:32,Mono Basin,Grant Lk. Outflow,135.0
 2019-08-24 20:36:32,Mono Basin,Rush Ck. at Damsite Flow,22.5
 2019-08-24 20:36:32,Mono Basin,Flow to West Portal,41.1
-2019-08-24 20:36:32,Southern District,Haiwee LAA #2 Current Flow,269.3
-2019-08-24 20:36:32,Southern District,Haiwee LAA #1 Current Flow,420.3
-2019-08-24 20:36:32,Southern District,LAA #1 Flow at Fairmont Reservoir,407.1
-2019-08-24 20:36:32,Southern District,LAA #2 Flow at Fairmont Res.,289.2
-2019-08-24 20:36:32,Southern District,Bouquet Reservoir Inflow,0.0
-2019-08-24 20:36:32,Southern District,Bouquet Reservoir Outflow,0.5
-2019-08-24 20:36:32,Southern District,LAA #1 at Soledad Flow,358.6
-2019-08-24 20:36:32,Southern District,LAA #2 at Soledad Flow,316.6
-2019-08-24 20:36:32,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,49.4
-2019-08-24 20:36:32,Northern Owens Valley,Pleasant Valley Outflow,498.1
-2019-08-24 20:36:32,Northern Owens Valley,Baker Ck. At LA Station Flow,12.1
-2019-08-24 20:36:32,Northern Owens Valley,Big Pine Ck. USGS Flow,69.7
-2019-08-24 20:36:32,Northern Owens Valley,O.R. Below Big Pine,518.3
-2019-08-24 20:36:32,Northern Owens Valley,Fish Springs At RR Flow,48.7
-2019-08-24 20:36:32,Northern Owens Valley,Tinemaha Reservoir Outflow,494.1
-2019-08-24 20:36:32,Northern Owens Valley,Bishop Creek Through Plant 6,146.8
-2019-08-24 20:36:32,Northern Owens Valley,Bishop Creek Around Plant 6,30.1
 2019-08-24 20:36:32,Long Valley,East Portal Flow,53.0
 2019-08-24 20:36:32,Long Valley,OR Below EP Flow,109.0
 2019-08-24 20:36:32,Long Valley,Hot Ck.at Hwy. Flow,29.0
@@ -2502,19 +2483,38 @@ date,district,source,value
 2019-08-24 20:36:32,Lower Owens River Project,LORP at Reinhackle Springs,62.0
 2019-08-24 20:36:32,Lower Owens River Project,LORP Above Pumpstation,54.0
 2019-08-24 20:36:32,Lower Owens River Project,LORP At Pump Station Discharge Flow,47.0
+2019-08-24 20:36:32,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,49.4
+2019-08-24 20:36:32,Northern Owens Valley,Pleasant Valley Outflow,498.1
+2019-08-24 20:36:32,Northern Owens Valley,Baker Ck. At LA Station Flow,12.1
+2019-08-24 20:36:32,Northern Owens Valley,Big Pine Ck. USGS Flow,69.7
+2019-08-24 20:36:32,Northern Owens Valley,O.R. Below Big Pine,518.3
+2019-08-24 20:36:32,Northern Owens Valley,Fish Springs At RR Flow,48.7
+2019-08-24 20:36:32,Northern Owens Valley,Tinemaha Reservoir Outflow,494.1
+2019-08-24 20:36:32,Northern Owens Valley,Bishop Creek Through Plant 6,146.8
+2019-08-24 20:36:32,Northern Owens Valley,Bishop Creek Around Plant 6,30.1
+2019-08-24 20:36:32,Southern Owens Valley,Tinemaha Reservoir Outflow,494.1
+2019-08-24 20:36:32,Southern Owens Valley,Indep. Ck. At Junction Flow,19.5
+2019-08-24 20:36:32,Southern Owens Valley,LAA at Alabama Flow,524.0
+2019-08-24 20:36:32,Southern Owens Valley,Cottonwood Ck. At LAA Flow,17.0
+2019-08-24 20:36:32,Southern Owens Valley,LAA at Cottonwood Flow,601.0
+2019-08-24 20:36:32,Southern Owens Valley,Haiwee LAA #1 Current Flow,420.3
+2019-08-24 20:36:32,Southern Owens Valley,Haiwee LAA #2 Current Flow,269.3
+2019-08-24 20:36:32,Southern Owens Valley,Reinhackel Flow,2.4
+2019-08-24 20:36:32,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
+2019-08-24 20:36:32,Southern Owens Valley,Cartago Spillgate Outflow,0.0
+2019-08-24 20:36:33,Southern District,S. Haiwee Reservoir Elevation,3724.6
+2019-08-24 20:36:33,Southern District,Fairmont Reservoir Elevation,3028.2
+2019-08-24 20:36:33,Southern District,Bouquet Reservoir Elevation,2982.6
+2019-08-24 20:36:33,Mono Basin,Mono Lk. Elevation,6382.7
+2019-08-24 20:36:33,Mono Basin,Grant Lk. Elevation,7122.5
+2019-08-24 20:36:33,Long Valley,Long Valley Elevation,6777.7
+2019-08-24 20:36:33,Northern Owens Valley,Pleasant Valley Elevation,4387.2
 2019-08-24 20:36:33,Southern Owens Valley,LAA at Alabama Level,8.5
 2019-08-24 20:36:33,Southern Owens Valley,LAA at Alabama Water Temp,71.7
 2019-08-24 20:36:33,Southern Owens Valley,LAA at Cottonwood Level,9.9
 2019-08-24 20:36:33,Southern Owens Valley,LAA at Cotton. Water Temp,70.8
 2019-08-24 20:36:33,Southern Owens Valley,N. Haiwee Elevation,3757.0
 2019-08-24 20:36:33,Southern Owens Valley,S. Haiwee Reservoir Elevation,3724.6
-2019-08-24 20:36:33,Mono Basin,Mono Lk. Elevation,6382.7
-2019-08-24 20:36:33,Mono Basin,Grant Lk. Elevation,7122.5
-2019-08-24 20:36:33,Southern District,S. Haiwee Reservoir Elevation,3724.6
-2019-08-24 20:36:33,Southern District,Fairmont Reservoir Elevation,3028.2
-2019-08-24 20:36:33,Southern District,Bouquet Reservoir Elevation,2982.6
-2019-08-24 20:36:33,Northern Owens Valley,Pleasant Valley Elevation,4387.2
-2019-08-24 20:36:33,Long Valley,Long Valley Elevation,6777.7
 2019-08-24 20:51:32,Mono Basin,Lee Vining Intake Above Flow,66.8
 2019-08-24 20:51:32,Mono Basin,Lee Vining Intake Below Flow,71.6
 2019-08-24 20:51:32,Mono Basin,Walker Ck. Above Conduit Flow,9.0
@@ -2567,8 +2567,8 @@ date,district,source,value
 2019-08-24 20:51:32,Northern Owens Valley,Tinemaha Reservoir Outflow,494.1
 2019-08-24 20:51:32,Northern Owens Valley,Bishop Creek Through Plant 6,148.3
 2019-08-24 20:51:32,Northern Owens Valley,Bishop Creek Around Plant 6,30.0
-2019-08-24 20:51:33,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 20:51:33,Northern Owens Valley,Tinemaha Elevation,3861.2
+2019-08-24 20:51:33,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 20:51:33,Mono Basin,Mono Lk. Elevation,6382.7
 2019-08-24 20:51:33,Mono Basin,Grant Lk. Elevation,7122.5
 2019-08-24 20:51:33,Southern Owens Valley,LAA at Alabama Level,8.5
@@ -2582,18 +2582,16 @@ date,district,source,value
 2019-08-24 20:51:33,Southern District,Bouquet Reservoir Elevation,2982.6
 2019-08-24 20:51:33,Long Valley,Long Valley Elevation,6777.7
 2019-08-24 20:51:33,Northern Owens Valley,Pleasant Valley Elevation,4387.2
-2019-08-24 21:21:33,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 21:21:33,Northern Owens Valley,Tinemaha Elevation,3861.2
-2019-08-24 21:36:32,Southern Owens Valley,Tinemaha Reservoir Outflow,494.9
-2019-08-24 21:36:32,Southern Owens Valley,Indep. Ck. At Junction Flow,19.8
-2019-08-24 21:36:32,Southern Owens Valley,LAA at Alabama Flow,524.0
-2019-08-24 21:36:32,Southern Owens Valley,Cottonwood Ck. At LAA Flow,17.0
-2019-08-24 21:36:32,Southern Owens Valley,LAA at Cottonwood Flow,603.0
-2019-08-24 21:36:32,Southern Owens Valley,Haiwee LAA #1 Current Flow,420.3
-2019-08-24 21:36:32,Southern Owens Valley,Haiwee LAA #2 Current Flow,269.3
-2019-08-24 21:36:32,Southern Owens Valley,Reinhackel Flow,2.4
-2019-08-24 21:36:32,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
-2019-08-24 21:36:32,Southern Owens Valley,Cartago Spillgate Outflow,0.0
+2019-08-24 21:21:33,Southern Owens Valley,Tinemaha Elevation,3861.2
+2019-08-24 21:36:32,Southern District,Haiwee LAA #2 Current Flow,269.3
+2019-08-24 21:36:32,Southern District,Haiwee LAA #1 Current Flow,420.3
+2019-08-24 21:36:32,Southern District,LAA #1 Flow at Fairmont Reservoir,407.1
+2019-08-24 21:36:32,Southern District,LAA #2 Flow at Fairmont Res.,289.2
+2019-08-24 21:36:32,Southern District,Bouquet Reservoir Inflow,0.2
+2019-08-24 21:36:32,Southern District,Bouquet Reservoir Outflow,0.5
+2019-08-24 21:36:32,Southern District,LAA #1 at Soledad Flow,358.6
+2019-08-24 21:36:32,Southern District,LAA #2 at Soledad Flow,316.6
 2019-08-24 21:36:32,Mono Basin,Lee Vining Intake Above Flow,66.8
 2019-08-24 21:36:32,Mono Basin,Lee Vining Intake Below Flow,71.6
 2019-08-24 21:36:32,Mono Basin,Walker Ck. Above Conduit Flow,9.0
@@ -2606,23 +2604,6 @@ date,district,source,value
 2019-08-24 21:36:32,Mono Basin,Grant Lk. Outflow,135.3
 2019-08-24 21:36:32,Mono Basin,Rush Ck. at Damsite Flow,22.5
 2019-08-24 21:36:32,Mono Basin,Flow to West Portal,41.1
-2019-08-24 21:36:32,Southern District,Haiwee LAA #2 Current Flow,269.3
-2019-08-24 21:36:32,Southern District,Haiwee LAA #1 Current Flow,420.3
-2019-08-24 21:36:32,Southern District,LAA #1 Flow at Fairmont Reservoir,407.1
-2019-08-24 21:36:32,Southern District,LAA #2 Flow at Fairmont Res.,289.2
-2019-08-24 21:36:32,Southern District,Bouquet Reservoir Inflow,0.2
-2019-08-24 21:36:32,Southern District,Bouquet Reservoir Outflow,0.5
-2019-08-24 21:36:32,Southern District,LAA #1 at Soledad Flow,358.6
-2019-08-24 21:36:32,Southern District,LAA #2 at Soledad Flow,316.6
-2019-08-24 21:36:32,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,49.4
-2019-08-24 21:36:32,Northern Owens Valley,Pleasant Valley Outflow,498.2
-2019-08-24 21:36:32,Northern Owens Valley,Baker Ck. At LA Station Flow,12.1
-2019-08-24 21:36:32,Northern Owens Valley,Big Pine Ck. USGS Flow,69.7
-2019-08-24 21:36:32,Northern Owens Valley,O.R. Below Big Pine,518.0
-2019-08-24 21:36:32,Northern Owens Valley,Fish Springs At RR Flow,48.1
-2019-08-24 21:36:32,Northern Owens Valley,Tinemaha Reservoir Outflow,494.9
-2019-08-24 21:36:32,Northern Owens Valley,Bishop Creek Through Plant 6,147.9
-2019-08-24 21:36:32,Northern Owens Valley,Bishop Creek Around Plant 6,29.5
 2019-08-24 21:36:32,Long Valley,East Portal Flow,53.0
 2019-08-24 21:36:32,Long Valley,OR Below EP Flow,109.0
 2019-08-24 21:36:32,Long Valley,Hot Ck.at Hwy. Flow,29.0
@@ -2636,33 +2617,50 @@ date,district,source,value
 2019-08-24 21:36:32,Lower Owens River Project,LORP at Reinhackle Springs,60.0
 2019-08-24 21:36:32,Lower Owens River Project,LORP Above Pumpstation,41.0
 2019-08-24 21:36:32,Lower Owens River Project,LORP At Pump Station Discharge Flow,33.0
+2019-08-24 21:36:32,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,49.4
+2019-08-24 21:36:32,Northern Owens Valley,Pleasant Valley Outflow,498.2
+2019-08-24 21:36:32,Northern Owens Valley,Baker Ck. At LA Station Flow,12.1
+2019-08-24 21:36:32,Northern Owens Valley,Big Pine Ck. USGS Flow,69.7
+2019-08-24 21:36:32,Northern Owens Valley,O.R. Below Big Pine,518.0
+2019-08-24 21:36:32,Northern Owens Valley,Fish Springs At RR Flow,48.1
+2019-08-24 21:36:32,Northern Owens Valley,Tinemaha Reservoir Outflow,494.9
+2019-08-24 21:36:32,Northern Owens Valley,Bishop Creek Through Plant 6,147.9
+2019-08-24 21:36:32,Northern Owens Valley,Bishop Creek Around Plant 6,29.5
+2019-08-24 21:36:32,Southern Owens Valley,Tinemaha Reservoir Outflow,494.9
+2019-08-24 21:36:32,Southern Owens Valley,Indep. Ck. At Junction Flow,19.8
+2019-08-24 21:36:32,Southern Owens Valley,LAA at Alabama Flow,524.0
+2019-08-24 21:36:32,Southern Owens Valley,Cottonwood Ck. At LAA Flow,17.0
+2019-08-24 21:36:32,Southern Owens Valley,LAA at Cottonwood Flow,603.0
+2019-08-24 21:36:32,Southern Owens Valley,Haiwee LAA #1 Current Flow,420.3
+2019-08-24 21:36:32,Southern Owens Valley,Haiwee LAA #2 Current Flow,269.3
+2019-08-24 21:36:32,Southern Owens Valley,Reinhackel Flow,2.4
+2019-08-24 21:36:32,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
+2019-08-24 21:36:32,Southern Owens Valley,Cartago Spillgate Outflow,0.0
+2019-08-24 21:36:33,Southern District,S. Haiwee Reservoir Elevation,3724.6
+2019-08-24 21:36:33,Southern District,Fairmont Reservoir Elevation,3028.2
+2019-08-24 21:36:33,Southern District,Bouquet Reservoir Elevation,2982.6
+2019-08-24 21:36:33,Mono Basin,Mono Lk. Elevation,6382.7
+2019-08-24 21:36:33,Mono Basin,Grant Lk. Elevation,7122.5
+2019-08-24 21:36:33,Long Valley,Long Valley Elevation,6777.7
+2019-08-24 21:36:33,Northern Owens Valley,Pleasant Valley Elevation,4387.4
 2019-08-24 21:36:33,Southern Owens Valley,LAA at Alabama Level,8.5
 2019-08-24 21:36:33,Southern Owens Valley,LAA at Alabama Water Temp,71.4
 2019-08-24 21:36:33,Southern Owens Valley,LAA at Cottonwood Level,9.9
 2019-08-24 21:36:33,Southern Owens Valley,LAA at Cotton. Water Temp,70.7
 2019-08-24 21:36:33,Southern Owens Valley,N. Haiwee Elevation,3757.0
 2019-08-24 21:36:33,Southern Owens Valley,S. Haiwee Reservoir Elevation,3724.6
-2019-08-24 21:36:33,Mono Basin,Mono Lk. Elevation,6382.7
-2019-08-24 21:36:33,Mono Basin,Grant Lk. Elevation,7122.5
-2019-08-24 21:36:33,Southern District,S. Haiwee Reservoir Elevation,3724.6
-2019-08-24 21:36:33,Southern District,Fairmont Reservoir Elevation,3028.2
-2019-08-24 21:36:33,Southern District,Bouquet Reservoir Elevation,2982.6
-2019-08-24 21:36:33,Northern Owens Valley,Pleasant Valley Elevation,4387.4
-2019-08-24 21:36:33,Long Valley,Long Valley Elevation,6777.7
-2019-08-24 21:51:33,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 21:51:33,Northern Owens Valley,Tinemaha Elevation,3861.2
-2019-08-24 22:21:33,Southern Owens Valley,Tinemaha Elevation,3861.2
+2019-08-24 21:51:33,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 22:21:33,Northern Owens Valley,Tinemaha Elevation,3861.2
-2019-08-24 22:36:32,Southern Owens Valley,Tinemaha Reservoir Outflow,496.0
-2019-08-24 22:36:32,Southern Owens Valley,Indep. Ck. At Junction Flow,19.8
-2019-08-24 22:36:32,Southern Owens Valley,LAA at Alabama Flow,524.0
-2019-08-24 22:36:32,Southern Owens Valley,Cottonwood Ck. At LAA Flow,17.0
-2019-08-24 22:36:32,Southern Owens Valley,LAA at Cottonwood Flow,604.0
-2019-08-24 22:36:32,Southern Owens Valley,Haiwee LAA #1 Current Flow,420.3
-2019-08-24 22:36:32,Southern Owens Valley,Haiwee LAA #2 Current Flow,269.3
-2019-08-24 22:36:32,Southern Owens Valley,Reinhackel Flow,2.4
-2019-08-24 22:36:32,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
-2019-08-24 22:36:32,Southern Owens Valley,Cartago Spillgate Outflow,0.0
+2019-08-24 22:21:33,Southern Owens Valley,Tinemaha Elevation,3861.2
+2019-08-24 22:36:32,Southern District,Haiwee LAA #2 Current Flow,269.3
+2019-08-24 22:36:32,Southern District,Haiwee LAA #1 Current Flow,420.3
+2019-08-24 22:36:32,Southern District,LAA #1 Flow at Fairmont Reservoir,407.1
+2019-08-24 22:36:32,Southern District,LAA #2 Flow at Fairmont Res.,289.2
+2019-08-24 22:36:32,Southern District,Bouquet Reservoir Inflow,0.2
+2019-08-24 22:36:32,Southern District,Bouquet Reservoir Outflow,0.5
+2019-08-24 22:36:32,Southern District,LAA #1 at Soledad Flow,358.6
+2019-08-24 22:36:32,Southern District,LAA #2 at Soledad Flow,316.6
 2019-08-24 22:36:32,Mono Basin,Lee Vining Intake Above Flow,66.8
 2019-08-24 22:36:32,Mono Basin,Lee Vining Intake Below Flow,71.6
 2019-08-24 22:36:32,Mono Basin,Walker Ck. Above Conduit Flow,9.0
@@ -2675,23 +2673,6 @@ date,district,source,value
 2019-08-24 22:36:32,Mono Basin,Grant Lk. Outflow,135.1
 2019-08-24 22:36:32,Mono Basin,Rush Ck. at Damsite Flow,22.5
 2019-08-24 22:36:32,Mono Basin,Flow to West Portal,41.1
-2019-08-24 22:36:32,Southern District,Haiwee LAA #2 Current Flow,269.3
-2019-08-24 22:36:32,Southern District,Haiwee LAA #1 Current Flow,420.3
-2019-08-24 22:36:32,Southern District,LAA #1 Flow at Fairmont Reservoir,407.1
-2019-08-24 22:36:32,Southern District,LAA #2 Flow at Fairmont Res.,289.2
-2019-08-24 22:36:32,Southern District,Bouquet Reservoir Inflow,0.2
-2019-08-24 22:36:32,Southern District,Bouquet Reservoir Outflow,0.5
-2019-08-24 22:36:32,Southern District,LAA #1 at Soledad Flow,358.6
-2019-08-24 22:36:32,Southern District,LAA #2 at Soledad Flow,316.6
-2019-08-24 22:36:32,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,49.4
-2019-08-24 22:36:32,Northern Owens Valley,Pleasant Valley Outflow,499.1
-2019-08-24 22:36:32,Northern Owens Valley,Baker Ck. At LA Station Flow,12.1
-2019-08-24 22:36:32,Northern Owens Valley,Big Pine Ck. USGS Flow,69.7
-2019-08-24 22:36:32,Northern Owens Valley,O.R. Below Big Pine,515.2
-2019-08-24 22:36:32,Northern Owens Valley,Fish Springs At RR Flow,48.1
-2019-08-24 22:36:32,Northern Owens Valley,Tinemaha Reservoir Outflow,496.0
-2019-08-24 22:36:32,Northern Owens Valley,Bishop Creek Through Plant 6,147.8
-2019-08-24 22:36:32,Northern Owens Valley,Bishop Creek Around Plant 6,28.4
 2019-08-24 22:36:32,Long Valley,East Portal Flow,53.0
 2019-08-24 22:36:32,Long Valley,OR Below EP Flow,110.0
 2019-08-24 22:36:32,Long Valley,Hot Ck.at Hwy. Flow,29.0
@@ -2705,33 +2686,50 @@ date,district,source,value
 2019-08-24 22:36:32,Lower Owens River Project,LORP at Reinhackle Springs,62.0
 2019-08-24 22:36:32,Lower Owens River Project,LORP Above Pumpstation,53.0
 2019-08-24 22:36:32,Lower Owens River Project,LORP At Pump Station Discharge Flow,46.0
+2019-08-24 22:36:32,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,49.4
+2019-08-24 22:36:32,Northern Owens Valley,Pleasant Valley Outflow,499.1
+2019-08-24 22:36:32,Northern Owens Valley,Baker Ck. At LA Station Flow,12.1
+2019-08-24 22:36:32,Northern Owens Valley,Big Pine Ck. USGS Flow,69.7
+2019-08-24 22:36:32,Northern Owens Valley,O.R. Below Big Pine,515.2
+2019-08-24 22:36:32,Northern Owens Valley,Fish Springs At RR Flow,48.1
+2019-08-24 22:36:32,Northern Owens Valley,Tinemaha Reservoir Outflow,496.0
+2019-08-24 22:36:32,Northern Owens Valley,Bishop Creek Through Plant 6,147.8
+2019-08-24 22:36:32,Northern Owens Valley,Bishop Creek Around Plant 6,28.4
+2019-08-24 22:36:32,Southern Owens Valley,Tinemaha Reservoir Outflow,496.0
+2019-08-24 22:36:32,Southern Owens Valley,Indep. Ck. At Junction Flow,19.8
+2019-08-24 22:36:32,Southern Owens Valley,LAA at Alabama Flow,524.0
+2019-08-24 22:36:32,Southern Owens Valley,Cottonwood Ck. At LAA Flow,17.0
+2019-08-24 22:36:32,Southern Owens Valley,LAA at Cottonwood Flow,604.0
+2019-08-24 22:36:32,Southern Owens Valley,Haiwee LAA #1 Current Flow,420.3
+2019-08-24 22:36:32,Southern Owens Valley,Haiwee LAA #2 Current Flow,269.3
+2019-08-24 22:36:32,Southern Owens Valley,Reinhackel Flow,2.4
+2019-08-24 22:36:32,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
+2019-08-24 22:36:32,Southern Owens Valley,Cartago Spillgate Outflow,0.0
+2019-08-24 22:36:33,Southern District,S. Haiwee Reservoir Elevation,3724.6
+2019-08-24 22:36:33,Southern District,Fairmont Reservoir Elevation,3028.2
+2019-08-24 22:36:33,Southern District,Bouquet Reservoir Elevation,2982.6
+2019-08-24 22:36:33,Mono Basin,Mono Lk. Elevation,6382.7
+2019-08-24 22:36:33,Mono Basin,Grant Lk. Elevation,7122.5
+2019-08-24 22:36:33,Long Valley,Long Valley Elevation,6777.6
+2019-08-24 22:36:33,Northern Owens Valley,Pleasant Valley Elevation,4387.6
 2019-08-24 22:36:33,Southern Owens Valley,LAA at Alabama Level,8.5
 2019-08-24 22:36:33,Southern Owens Valley,LAA at Alabama Water Temp,71.0
 2019-08-24 22:36:33,Southern Owens Valley,LAA at Cottonwood Level,9.9
 2019-08-24 22:36:33,Southern Owens Valley,LAA at Cotton. Water Temp,70.6
 2019-08-24 22:36:33,Southern Owens Valley,N. Haiwee Elevation,3757.0
 2019-08-24 22:36:33,Southern Owens Valley,S. Haiwee Reservoir Elevation,3724.6
-2019-08-24 22:36:33,Mono Basin,Mono Lk. Elevation,6382.7
-2019-08-24 22:36:33,Mono Basin,Grant Lk. Elevation,7122.5
-2019-08-24 22:36:33,Southern District,S. Haiwee Reservoir Elevation,3724.6
-2019-08-24 22:36:33,Southern District,Fairmont Reservoir Elevation,3028.2
-2019-08-24 22:36:33,Southern District,Bouquet Reservoir Elevation,2982.6
-2019-08-24 22:36:33,Northern Owens Valley,Pleasant Valley Elevation,4387.6
-2019-08-24 22:36:33,Long Valley,Long Valley Elevation,6777.6
-2019-08-24 22:51:33,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 22:51:33,Northern Owens Valley,Tinemaha Elevation,3861.2
-2019-08-24 23:21:33,Southern Owens Valley,Tinemaha Elevation,3861.2
+2019-08-24 22:51:33,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 23:21:33,Northern Owens Valley,Tinemaha Elevation,3861.2
-2019-08-24 23:36:32,Southern Owens Valley,Tinemaha Reservoir Outflow,496.3
-2019-08-24 23:36:32,Southern Owens Valley,Indep. Ck. At Junction Flow,19.8
-2019-08-24 23:36:32,Southern Owens Valley,LAA at Alabama Flow,524.0
-2019-08-24 23:36:32,Southern Owens Valley,Cottonwood Ck. At LAA Flow,17.0
-2019-08-24 23:36:32,Southern Owens Valley,LAA at Cottonwood Flow,604.0
-2019-08-24 23:36:32,Southern Owens Valley,Haiwee LAA #1 Current Flow,420.3
-2019-08-24 23:36:32,Southern Owens Valley,Haiwee LAA #2 Current Flow,269.3
-2019-08-24 23:36:32,Southern Owens Valley,Reinhackel Flow,2.4
-2019-08-24 23:36:32,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
-2019-08-24 23:36:32,Southern Owens Valley,Cartago Spillgate Outflow,0.0
+2019-08-24 23:21:33,Southern Owens Valley,Tinemaha Elevation,3861.2
+2019-08-24 23:36:32,Southern District,Haiwee LAA #2 Current Flow,269.3
+2019-08-24 23:36:32,Southern District,Haiwee LAA #1 Current Flow,420.3
+2019-08-24 23:36:32,Southern District,LAA #1 Flow at Fairmont Reservoir,407.1
+2019-08-24 23:36:32,Southern District,LAA #2 Flow at Fairmont Res.,289.2
+2019-08-24 23:36:32,Southern District,Bouquet Reservoir Inflow,0.0
+2019-08-24 23:36:32,Southern District,Bouquet Reservoir Outflow,0.5
+2019-08-24 23:36:32,Southern District,LAA #1 at Soledad Flow,358.6
+2019-08-24 23:36:32,Southern District,LAA #2 at Soledad Flow,316.6
 2019-08-24 23:36:32,Mono Basin,Lee Vining Intake Above Flow,66.8
 2019-08-24 23:36:32,Mono Basin,Lee Vining Intake Below Flow,71.6
 2019-08-24 23:36:32,Mono Basin,Walker Ck. Above Conduit Flow,0.0
@@ -2744,23 +2742,6 @@ date,district,source,value
 2019-08-24 23:36:32,Mono Basin,Grant Lk. Outflow,135.3
 2019-08-24 23:36:32,Mono Basin,Rush Ck. at Damsite Flow,22.5
 2019-08-24 23:36:32,Mono Basin,Flow to West Portal,0.0
-2019-08-24 23:36:32,Southern District,Haiwee LAA #2 Current Flow,269.3
-2019-08-24 23:36:32,Southern District,Haiwee LAA #1 Current Flow,420.3
-2019-08-24 23:36:32,Southern District,LAA #1 Flow at Fairmont Reservoir,407.1
-2019-08-24 23:36:32,Southern District,LAA #2 Flow at Fairmont Res.,289.2
-2019-08-24 23:36:32,Southern District,Bouquet Reservoir Inflow,0.0
-2019-08-24 23:36:32,Southern District,Bouquet Reservoir Outflow,0.5
-2019-08-24 23:36:32,Southern District,LAA #1 at Soledad Flow,358.6
-2019-08-24 23:36:32,Southern District,LAA #2 at Soledad Flow,316.6
-2019-08-24 23:36:32,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,49.4
-2019-08-24 23:36:32,Northern Owens Valley,Pleasant Valley Outflow,499.7
-2019-08-24 23:36:32,Northern Owens Valley,Baker Ck. At LA Station Flow,12.1
-2019-08-24 23:36:32,Northern Owens Valley,Big Pine Ck. USGS Flow,79.5
-2019-08-24 23:36:32,Northern Owens Valley,O.R. Below Big Pine,515.2
-2019-08-24 23:36:32,Northern Owens Valley,Fish Springs At RR Flow,48.1
-2019-08-24 23:36:32,Northern Owens Valley,Tinemaha Reservoir Outflow,496.3
-2019-08-24 23:36:32,Northern Owens Valley,Bishop Creek Through Plant 6,149.1
-2019-08-24 23:36:32,Northern Owens Valley,Bishop Creek Around Plant 6,28.0
 2019-08-24 23:36:32,Long Valley,East Portal Flow,53.0
 2019-08-24 23:36:32,Long Valley,OR Below EP Flow,110.0
 2019-08-24 23:36:32,Long Valley,Hot Ck.at Hwy. Flow,28.0
@@ -2774,18 +2755,37 @@ date,district,source,value
 2019-08-24 23:36:32,Lower Owens River Project,LORP at Reinhackle Springs,61.0
 2019-08-24 23:36:32,Lower Owens River Project,LORP Above Pumpstation,54.0
 2019-08-24 23:36:32,Lower Owens River Project,LORP At Pump Station Discharge Flow,47.0
+2019-08-24 23:36:32,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,49.4
+2019-08-24 23:36:32,Northern Owens Valley,Pleasant Valley Outflow,499.7
+2019-08-24 23:36:32,Northern Owens Valley,Baker Ck. At LA Station Flow,12.1
+2019-08-24 23:36:32,Northern Owens Valley,Big Pine Ck. USGS Flow,79.5
+2019-08-24 23:36:32,Northern Owens Valley,O.R. Below Big Pine,515.2
+2019-08-24 23:36:32,Northern Owens Valley,Fish Springs At RR Flow,48.1
+2019-08-24 23:36:32,Northern Owens Valley,Tinemaha Reservoir Outflow,496.3
+2019-08-24 23:36:32,Northern Owens Valley,Bishop Creek Through Plant 6,149.1
+2019-08-24 23:36:32,Northern Owens Valley,Bishop Creek Around Plant 6,28.0
+2019-08-24 23:36:32,Southern Owens Valley,Tinemaha Reservoir Outflow,496.3
+2019-08-24 23:36:32,Southern Owens Valley,Indep. Ck. At Junction Flow,19.8
+2019-08-24 23:36:32,Southern Owens Valley,LAA at Alabama Flow,524.0
+2019-08-24 23:36:32,Southern Owens Valley,Cottonwood Ck. At LAA Flow,17.0
+2019-08-24 23:36:32,Southern Owens Valley,LAA at Cottonwood Flow,604.0
+2019-08-24 23:36:32,Southern Owens Valley,Haiwee LAA #1 Current Flow,420.3
+2019-08-24 23:36:32,Southern Owens Valley,Haiwee LAA #2 Current Flow,269.3
+2019-08-24 23:36:32,Southern Owens Valley,Reinhackel Flow,2.4
+2019-08-24 23:36:32,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
+2019-08-24 23:36:32,Southern Owens Valley,Cartago Spillgate Outflow,0.0
+2019-08-24 23:36:33,Southern District,S. Haiwee Reservoir Elevation,3724.6
+2019-08-24 23:36:33,Southern District,Fairmont Reservoir Elevation,3028.2
+2019-08-24 23:36:33,Southern District,Bouquet Reservoir Elevation,2982.6
+2019-08-24 23:36:33,Mono Basin,Mono Lk. Elevation,6382.7
+2019-08-24 23:36:33,Mono Basin,Grant Lk. Elevation,7122.5
+2019-08-24 23:36:33,Long Valley,Long Valley Elevation,6777.6
+2019-08-24 23:36:33,Northern Owens Valley,Pleasant Valley Elevation,4387.7
 2019-08-24 23:36:33,Southern Owens Valley,LAA at Alabama Level,8.5
 2019-08-24 23:36:33,Southern Owens Valley,LAA at Alabama Water Temp,70.7
 2019-08-24 23:36:33,Southern Owens Valley,LAA at Cottonwood Level,9.9
 2019-08-24 23:36:33,Southern Owens Valley,LAA at Cotton. Water Temp,70.8
 2019-08-24 23:36:33,Southern Owens Valley,N. Haiwee Elevation,3757.0
 2019-08-24 23:36:33,Southern Owens Valley,S. Haiwee Reservoir Elevation,3724.6
-2019-08-24 23:36:33,Mono Basin,Mono Lk. Elevation,6382.7
-2019-08-24 23:36:33,Mono Basin,Grant Lk. Elevation,7122.5
-2019-08-24 23:36:33,Southern District,S. Haiwee Reservoir Elevation,3724.6
-2019-08-24 23:36:33,Southern District,Fairmont Reservoir Elevation,3028.2
-2019-08-24 23:36:33,Southern District,Bouquet Reservoir Elevation,2982.6
-2019-08-24 23:36:33,Northern Owens Valley,Pleasant Valley Elevation,4387.7
-2019-08-24 23:36:33,Long Valley,Long Valley Elevation,6777.6
-2019-08-24 23:51:33,Southern Owens Valley,Tinemaha Elevation,3861.2
 2019-08-24 23:51:33,Northern Owens Valley,Tinemaha Elevation,3861.2
+2019-08-24 23:51:33,Southern Owens Valley,Tinemaha Elevation,3861.2
