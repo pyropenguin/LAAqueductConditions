@@ -1,13 +1,12 @@
 date,district,source,value
-2020-03-05 00:30:26,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.3
-2020-03-05 00:30:26,Northern Owens Valley,Pleasant Valley Outflow,127.1
-2020-03-05 00:30:26,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
-2020-03-05 00:30:26,Northern Owens Valley,Big Pine Ck. USGS Flow,11.6
-2020-03-05 00:30:26,Northern Owens Valley,O.R. Below Big Pine,244.5
-2020-03-05 00:30:26,Northern Owens Valley,Fish Springs At RR Flow,35.9
-2020-03-05 00:30:26,Northern Owens Valley,Tinemaha Reservoir Outflow,300.0
-2020-03-05 00:30:26,Northern Owens Valley,Bishop Creek Through Plant 6,59.1
-2020-03-05 00:30:26,Northern Owens Valley,Bishop Creek Around Plant 6,4.5
+2020-03-05 00:30:26,Long Valley,East Portal Flow,41.0
+2020-03-05 00:30:26,Long Valley,OR Below EP Flow,94.0
+2020-03-05 00:30:26,Long Valley,Hot Ck.at Hwy. Flow,6.0
+2020-03-05 00:30:26,Long Valley,McGee Ck. Lower Sta. Flow,11.3
+2020-03-05 00:30:26,Long Valley,Long Valley Current Outflow,0.0
+2020-03-05 00:30:26,Long Valley,Rock Ck. Div. Flow,0.0
+2020-03-05 00:30:26,Long Valley,Upper Gorge Total Release,85.0
+2020-03-05 00:30:26,Long Valley,Release at Middle Gorge,0.0
 2020-03-05 00:30:26,Southern Owens Valley,Tinemaha Reservoir Outflow,300.0
 2020-03-05 00:30:26,Southern Owens Valley,Indep. Ck. At Junction Flow,4.0
 2020-03-05 00:30:26,Southern Owens Valley,LAA at Alabama Flow,362.0
@@ -26,6 +25,20 @@ date,district,source,value
 2020-03-05 00:30:26,Southern District,Bouquet Reservoir Outflow,121.4
 2020-03-05 00:30:26,Southern District,LAA #1 at Soledad Flow,0.0
 2020-03-05 00:30:26,Southern District,LAA #2 at Soledad Flow,301.3
+2020-03-05 00:30:26,Lower Owens River Project,LORP Intake Flow,42.0
+2020-03-05 00:30:26,Lower Owens River Project,LORP at Mazourka Canyon Road,49.0
+2020-03-05 00:30:26,Lower Owens River Project,LORP at Reinhackle Springs,48.0
+2020-03-05 00:30:26,Lower Owens River Project,LORP Above Pumpstation,53.0
+2020-03-05 00:30:26,Lower Owens River Project,LORP At Pump Station Discharge Flow,45.0
+2020-03-05 00:30:26,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.3
+2020-03-05 00:30:26,Northern Owens Valley,Pleasant Valley Outflow,127.1
+2020-03-05 00:30:26,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
+2020-03-05 00:30:26,Northern Owens Valley,Big Pine Ck. USGS Flow,11.6
+2020-03-05 00:30:26,Northern Owens Valley,O.R. Below Big Pine,244.5
+2020-03-05 00:30:26,Northern Owens Valley,Fish Springs At RR Flow,35.9
+2020-03-05 00:30:26,Northern Owens Valley,Tinemaha Reservoir Outflow,300.0
+2020-03-05 00:30:26,Northern Owens Valley,Bishop Creek Through Plant 6,59.1
+2020-03-05 00:30:26,Northern Owens Valley,Bishop Creek Around Plant 6,4.5
 2020-03-05 00:30:26,Mono Basin,Lee Vining Intake Above Flow,22.0
 2020-03-05 00:30:26,Mono Basin,Lee Vining Intake Below Flow,19.8
 2020-03-05 00:30:26,Mono Basin,Walker Ck. Above Conduit Flow,4.0
@@ -38,20 +51,7 @@ date,district,source,value
 2020-03-05 00:30:26,Mono Basin,Grant Lk. Outflow,65.1
 2020-03-05 00:30:26,Mono Basin,Rush Ck. at Damsite Flow,48.8
 2020-03-05 00:30:26,Mono Basin,Flow to West Portal,29.6
-2020-03-05 00:30:26,Lower Owens River Project,LORP Intake Flow,42.0
-2020-03-05 00:30:26,Lower Owens River Project,LORP at Mazourka Canyon Road,49.0
-2020-03-05 00:30:26,Lower Owens River Project,LORP at Reinhackle Springs,48.0
-2020-03-05 00:30:26,Lower Owens River Project,LORP Above Pumpstation,53.0
-2020-03-05 00:30:26,Lower Owens River Project,LORP At Pump Station Discharge Flow,45.0
-2020-03-05 00:30:26,Long Valley,East Portal Flow,41.0
-2020-03-05 00:30:26,Long Valley,OR Below EP Flow,94.0
-2020-03-05 00:30:26,Long Valley,Hot Ck.at Hwy. Flow,6.0
-2020-03-05 00:30:26,Long Valley,McGee Ck. Lower Sta. Flow,11.3
-2020-03-05 00:30:26,Long Valley,Long Valley Current Outflow,0.0
-2020-03-05 00:30:26,Long Valley,Rock Ck. Div. Flow,0.0
-2020-03-05 00:30:26,Long Valley,Upper Gorge Total Release,85.0
-2020-03-05 00:30:26,Long Valley,Release at Middle Gorge,0.0
-2020-03-05 00:30:27,Northern Owens Valley,Pleasant Valley Elevation,4378.9
+2020-03-05 00:30:27,Long Valley,Long Valley Elevation,6773.7
 2020-03-05 00:30:27,Southern Owens Valley,LAA at Alabama Level,7.5
 2020-03-05 00:30:27,Southern Owens Valley,LAA at Alabama Water Temp,51.7
 2020-03-05 00:30:27,Southern Owens Valley,LAA at Cottonwood Level,7.8
@@ -61,18 +61,17 @@ date,district,source,value
 2020-03-05 00:30:27,Southern District,S. Haiwee Reservoir Elevation,3740.1
 2020-03-05 00:30:27,Southern District,Fairmont Reservoir Elevation,3025.9
 2020-03-05 00:30:27,Southern District,Bouquet Reservoir Elevation,2984.3
+2020-03-05 00:30:27,Northern Owens Valley,Pleasant Valley Elevation,4378.9
 2020-03-05 00:30:27,Mono Basin,Mono Lk. Elevation,6382.3
 2020-03-05 00:30:27,Mono Basin,Grant Lk. Elevation,7109.0
-2020-03-05 00:30:27,Long Valley,Long Valley Elevation,6773.7
-2020-03-05 01:30:26,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.3
-2020-03-05 01:30:26,Northern Owens Valley,Pleasant Valley Outflow,127.0
-2020-03-05 01:30:26,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
-2020-03-05 01:30:26,Northern Owens Valley,Big Pine Ck. USGS Flow,11.6
-2020-03-05 01:30:26,Northern Owens Valley,O.R. Below Big Pine,244.7
-2020-03-05 01:30:26,Northern Owens Valley,Fish Springs At RR Flow,35.9
-2020-03-05 01:30:26,Northern Owens Valley,Tinemaha Reservoir Outflow,300.0
-2020-03-05 01:30:26,Northern Owens Valley,Bishop Creek Through Plant 6,60.0
-2020-03-05 01:30:26,Northern Owens Valley,Bishop Creek Around Plant 6,4.5
+2020-03-05 01:30:26,Long Valley,East Portal Flow,41.0
+2020-03-05 01:30:26,Long Valley,OR Below EP Flow,94.0
+2020-03-05 01:30:26,Long Valley,Hot Ck.at Hwy. Flow,6.0
+2020-03-05 01:30:26,Long Valley,McGee Ck. Lower Sta. Flow,11.3
+2020-03-05 01:30:26,Long Valley,Long Valley Current Outflow,0.0
+2020-03-05 01:30:26,Long Valley,Rock Ck. Div. Flow,0.0
+2020-03-05 01:30:26,Long Valley,Upper Gorge Total Release,85.0
+2020-03-05 01:30:26,Long Valley,Release at Middle Gorge,0.0
 2020-03-05 01:30:26,Southern Owens Valley,Tinemaha Reservoir Outflow,300.0
 2020-03-05 01:30:26,Southern Owens Valley,Indep. Ck. At Junction Flow,4.0
 2020-03-05 01:30:26,Southern Owens Valley,LAA at Alabama Flow,360.0
@@ -91,6 +90,20 @@ date,district,source,value
 2020-03-05 01:30:26,Southern District,Bouquet Reservoir Outflow,126.6
 2020-03-05 01:30:26,Southern District,LAA #1 at Soledad Flow,0.0
 2020-03-05 01:30:26,Southern District,LAA #2 at Soledad Flow,301.3
+2020-03-05 01:30:26,Lower Owens River Project,LORP Intake Flow,42.0
+2020-03-05 01:30:26,Lower Owens River Project,LORP at Mazourka Canyon Road,48.0
+2020-03-05 01:30:26,Lower Owens River Project,LORP at Reinhackle Springs,46.0
+2020-03-05 01:30:26,Lower Owens River Project,LORP Above Pumpstation,53.0
+2020-03-05 01:30:26,Lower Owens River Project,LORP At Pump Station Discharge Flow,45.0
+2020-03-05 01:30:26,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.3
+2020-03-05 01:30:26,Northern Owens Valley,Pleasant Valley Outflow,127.0
+2020-03-05 01:30:26,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
+2020-03-05 01:30:26,Northern Owens Valley,Big Pine Ck. USGS Flow,11.6
+2020-03-05 01:30:26,Northern Owens Valley,O.R. Below Big Pine,244.7
+2020-03-05 01:30:26,Northern Owens Valley,Fish Springs At RR Flow,35.9
+2020-03-05 01:30:26,Northern Owens Valley,Tinemaha Reservoir Outflow,300.0
+2020-03-05 01:30:26,Northern Owens Valley,Bishop Creek Through Plant 6,60.0
+2020-03-05 01:30:26,Northern Owens Valley,Bishop Creek Around Plant 6,4.5
 2020-03-05 01:30:26,Mono Basin,Lee Vining Intake Above Flow,22.0
 2020-03-05 01:30:26,Mono Basin,Lee Vining Intake Below Flow,19.8
 2020-03-05 01:30:26,Mono Basin,Walker Ck. Above Conduit Flow,4.0
@@ -103,20 +116,7 @@ date,district,source,value
 2020-03-05 01:30:26,Mono Basin,Grant Lk. Outflow,65.1
 2020-03-05 01:30:26,Mono Basin,Rush Ck. at Damsite Flow,48.8
 2020-03-05 01:30:26,Mono Basin,Flow to West Portal,29.6
-2020-03-05 01:30:26,Lower Owens River Project,LORP Intake Flow,42.0
-2020-03-05 01:30:26,Lower Owens River Project,LORP at Mazourka Canyon Road,48.0
-2020-03-05 01:30:26,Lower Owens River Project,LORP at Reinhackle Springs,46.0
-2020-03-05 01:30:26,Lower Owens River Project,LORP Above Pumpstation,53.0
-2020-03-05 01:30:26,Lower Owens River Project,LORP At Pump Station Discharge Flow,45.0
-2020-03-05 01:30:26,Long Valley,East Portal Flow,41.0
-2020-03-05 01:30:26,Long Valley,OR Below EP Flow,94.0
-2020-03-05 01:30:26,Long Valley,Hot Ck.at Hwy. Flow,6.0
-2020-03-05 01:30:26,Long Valley,McGee Ck. Lower Sta. Flow,11.3
-2020-03-05 01:30:26,Long Valley,Long Valley Current Outflow,0.0
-2020-03-05 01:30:26,Long Valley,Rock Ck. Div. Flow,0.0
-2020-03-05 01:30:26,Long Valley,Upper Gorge Total Release,85.0
-2020-03-05 01:30:26,Long Valley,Release at Middle Gorge,0.0
-2020-03-05 01:30:27,Northern Owens Valley,Pleasant Valley Elevation,4378.9
+2020-03-05 01:30:27,Long Valley,Long Valley Elevation,6773.7
 2020-03-05 01:30:27,Southern Owens Valley,LAA at Alabama Level,7.5
 2020-03-05 01:30:27,Southern Owens Valley,LAA at Alabama Water Temp,51.3
 2020-03-05 01:30:27,Southern Owens Valley,LAA at Cottonwood Level,7.8
@@ -126,21 +126,20 @@ date,district,source,value
 2020-03-05 01:30:27,Southern District,S. Haiwee Reservoir Elevation,3740.1
 2020-03-05 01:30:27,Southern District,Fairmont Reservoir Elevation,3025.9
 2020-03-05 01:30:27,Southern District,Bouquet Reservoir Elevation,2984.3
+2020-03-05 01:30:27,Northern Owens Valley,Pleasant Valley Elevation,4378.9
 2020-03-05 01:30:27,Mono Basin,Mono Lk. Elevation,6382.3
 2020-03-05 01:30:27,Mono Basin,Grant Lk. Elevation,7109.0
-2020-03-05 01:30:27,Long Valley,Long Valley Elevation,6773.7
 2020-03-05 02:30:25,Southern Owens Valley,LAA at Alabama Flow,359.0
 2020-03-05 02:30:25,Southern Owens Valley,Cottonwood Ck. At LAA Flow,8.0
 2020-03-05 02:30:25,Southern Owens Valley,LAA at Cottonwood Flow,389.0
-2020-03-05 02:30:26,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.3
-2020-03-05 02:30:26,Northern Owens Valley,Pleasant Valley Outflow,126.9
-2020-03-05 02:30:26,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
-2020-03-05 02:30:26,Northern Owens Valley,Big Pine Ck. USGS Flow,11.6
-2020-03-05 02:30:26,Northern Owens Valley,O.R. Below Big Pine,244.5
-2020-03-05 02:30:26,Northern Owens Valley,Fish Springs At RR Flow,35.9
-2020-03-05 02:30:26,Northern Owens Valley,Tinemaha Reservoir Outflow,300.0
-2020-03-05 02:30:26,Northern Owens Valley,Bishop Creek Through Plant 6,59.0
-2020-03-05 02:30:26,Northern Owens Valley,Bishop Creek Around Plant 6,4.5
+2020-03-05 02:30:26,Long Valley,East Portal Flow,41.0
+2020-03-05 02:30:26,Long Valley,OR Below EP Flow,94.0
+2020-03-05 02:30:26,Long Valley,Hot Ck.at Hwy. Flow,6.0
+2020-03-05 02:30:26,Long Valley,McGee Ck. Lower Sta. Flow,11.3
+2020-03-05 02:30:26,Long Valley,Long Valley Current Outflow,0.0
+2020-03-05 02:30:26,Long Valley,Rock Ck. Div. Flow,0.0
+2020-03-05 02:30:26,Long Valley,Upper Gorge Total Release,85.0
+2020-03-05 02:30:26,Long Valley,Release at Middle Gorge,0.0
 2020-03-05 02:30:26,Southern Owens Valley,Tinemaha Reservoir Outflow,300.0
 2020-03-05 02:30:26,Southern Owens Valley,Indep. Ck. At Junction Flow,4.0
 2020-03-05 02:30:26,Southern Owens Valley,Haiwee LAA #1 Current Flow,100.1
@@ -156,6 +155,20 @@ date,district,source,value
 2020-03-05 02:30:26,Southern District,Bouquet Reservoir Outflow,126.8
 2020-03-05 02:30:26,Southern District,LAA #1 at Soledad Flow,0.0
 2020-03-05 02:30:26,Southern District,LAA #2 at Soledad Flow,301.3
+2020-03-05 02:30:26,Lower Owens River Project,LORP Intake Flow,42.0
+2020-03-05 02:30:26,Lower Owens River Project,LORP at Mazourka Canyon Road,48.0
+2020-03-05 02:30:26,Lower Owens River Project,LORP at Reinhackle Springs,44.0
+2020-03-05 02:30:26,Lower Owens River Project,LORP Above Pumpstation,53.0
+2020-03-05 02:30:26,Lower Owens River Project,LORP At Pump Station Discharge Flow,45.0
+2020-03-05 02:30:26,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.3
+2020-03-05 02:30:26,Northern Owens Valley,Pleasant Valley Outflow,126.9
+2020-03-05 02:30:26,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
+2020-03-05 02:30:26,Northern Owens Valley,Big Pine Ck. USGS Flow,11.6
+2020-03-05 02:30:26,Northern Owens Valley,O.R. Below Big Pine,244.5
+2020-03-05 02:30:26,Northern Owens Valley,Fish Springs At RR Flow,35.9
+2020-03-05 02:30:26,Northern Owens Valley,Tinemaha Reservoir Outflow,300.0
+2020-03-05 02:30:26,Northern Owens Valley,Bishop Creek Through Plant 6,59.0
+2020-03-05 02:30:26,Northern Owens Valley,Bishop Creek Around Plant 6,4.5
 2020-03-05 02:30:26,Mono Basin,Lee Vining Intake Above Flow,22.0
 2020-03-05 02:30:26,Mono Basin,Lee Vining Intake Below Flow,19.8
 2020-03-05 02:30:26,Mono Basin,Walker Ck. Above Conduit Flow,4.0
@@ -168,20 +181,7 @@ date,district,source,value
 2020-03-05 02:30:26,Mono Basin,Grant Lk. Outflow,64.6
 2020-03-05 02:30:26,Mono Basin,Rush Ck. at Damsite Flow,48.8
 2020-03-05 02:30:26,Mono Basin,Flow to West Portal,29.6
-2020-03-05 02:30:26,Lower Owens River Project,LORP Intake Flow,42.0
-2020-03-05 02:30:26,Lower Owens River Project,LORP at Mazourka Canyon Road,48.0
-2020-03-05 02:30:26,Lower Owens River Project,LORP at Reinhackle Springs,44.0
-2020-03-05 02:30:26,Lower Owens River Project,LORP Above Pumpstation,53.0
-2020-03-05 02:30:26,Lower Owens River Project,LORP At Pump Station Discharge Flow,45.0
-2020-03-05 02:30:26,Long Valley,East Portal Flow,41.0
-2020-03-05 02:30:26,Long Valley,OR Below EP Flow,94.0
-2020-03-05 02:30:26,Long Valley,Hot Ck.at Hwy. Flow,6.0
-2020-03-05 02:30:26,Long Valley,McGee Ck. Lower Sta. Flow,11.3
-2020-03-05 02:30:26,Long Valley,Long Valley Current Outflow,0.0
-2020-03-05 02:30:26,Long Valley,Rock Ck. Div. Flow,0.0
-2020-03-05 02:30:26,Long Valley,Upper Gorge Total Release,85.0
-2020-03-05 02:30:26,Long Valley,Release at Middle Gorge,0.0
-2020-03-05 02:30:27,Northern Owens Valley,Pleasant Valley Elevation,4378.9
+2020-03-05 02:30:27,Long Valley,Long Valley Elevation,6773.7
 2020-03-05 02:30:27,Southern Owens Valley,LAA at Alabama Level,7.5
 2020-03-05 02:30:27,Southern Owens Valley,LAA at Alabama Water Temp,51.0
 2020-03-05 02:30:27,Southern Owens Valley,LAA at Cottonwood Level,7.8
@@ -191,18 +191,17 @@ date,district,source,value
 2020-03-05 02:30:27,Southern District,S. Haiwee Reservoir Elevation,3740.1
 2020-03-05 02:30:27,Southern District,Fairmont Reservoir Elevation,3025.9
 2020-03-05 02:30:27,Southern District,Bouquet Reservoir Elevation,2984.3
+2020-03-05 02:30:27,Northern Owens Valley,Pleasant Valley Elevation,4378.9
 2020-03-05 02:30:27,Mono Basin,Mono Lk. Elevation,6382.3
 2020-03-05 02:30:27,Mono Basin,Grant Lk. Elevation,7109.0
-2020-03-05 02:30:27,Long Valley,Long Valley Elevation,6773.7
-2020-03-05 03:30:26,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.3
-2020-03-05 03:30:26,Northern Owens Valley,Pleasant Valley Outflow,126.6
-2020-03-05 03:30:26,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
-2020-03-05 03:30:26,Northern Owens Valley,Big Pine Ck. USGS Flow,11.6
-2020-03-05 03:30:26,Northern Owens Valley,O.R. Below Big Pine,244.6
-2020-03-05 03:30:26,Northern Owens Valley,Fish Springs At RR Flow,35.9
-2020-03-05 03:30:26,Northern Owens Valley,Tinemaha Reservoir Outflow,295.4
-2020-03-05 03:30:26,Northern Owens Valley,Bishop Creek Through Plant 6,56.6
-2020-03-05 03:30:26,Northern Owens Valley,Bishop Creek Around Plant 6,4.5
+2020-03-05 03:30:26,Long Valley,East Portal Flow,42.0
+2020-03-05 03:30:26,Long Valley,OR Below EP Flow,94.0
+2020-03-05 03:30:26,Long Valley,Hot Ck.at Hwy. Flow,6.0
+2020-03-05 03:30:26,Long Valley,McGee Ck. Lower Sta. Flow,11.3
+2020-03-05 03:30:26,Long Valley,Long Valley Current Outflow,0.0
+2020-03-05 03:30:26,Long Valley,Rock Ck. Div. Flow,0.0
+2020-03-05 03:30:26,Long Valley,Upper Gorge Total Release,85.0
+2020-03-05 03:30:26,Long Valley,Release at Middle Gorge,0.0
 2020-03-05 03:30:26,Southern Owens Valley,Tinemaha Reservoir Outflow,295.4
 2020-03-05 03:30:26,Southern Owens Valley,Indep. Ck. At Junction Flow,4.0
 2020-03-05 03:30:26,Southern Owens Valley,LAA at Alabama Flow,357.0
@@ -221,6 +220,20 @@ date,district,source,value
 2020-03-05 03:30:26,Southern District,Bouquet Reservoir Outflow,116.0
 2020-03-05 03:30:26,Southern District,LAA #1 at Soledad Flow,0.0
 2020-03-05 03:30:26,Southern District,LAA #2 at Soledad Flow,301.3
+2020-03-05 03:30:26,Lower Owens River Project,LORP Intake Flow,42.0
+2020-03-05 03:30:26,Lower Owens River Project,LORP at Mazourka Canyon Road,48.0
+2020-03-05 03:30:26,Lower Owens River Project,LORP at Reinhackle Springs,49.0
+2020-03-05 03:30:26,Lower Owens River Project,LORP Above Pumpstation,55.0
+2020-03-05 03:30:26,Lower Owens River Project,LORP At Pump Station Discharge Flow,46.0
+2020-03-05 03:30:26,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.3
+2020-03-05 03:30:26,Northern Owens Valley,Pleasant Valley Outflow,126.6
+2020-03-05 03:30:26,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
+2020-03-05 03:30:26,Northern Owens Valley,Big Pine Ck. USGS Flow,11.6
+2020-03-05 03:30:26,Northern Owens Valley,O.R. Below Big Pine,244.6
+2020-03-05 03:30:26,Northern Owens Valley,Fish Springs At RR Flow,35.9
+2020-03-05 03:30:26,Northern Owens Valley,Tinemaha Reservoir Outflow,295.4
+2020-03-05 03:30:26,Northern Owens Valley,Bishop Creek Through Plant 6,56.6
+2020-03-05 03:30:26,Northern Owens Valley,Bishop Creek Around Plant 6,4.5
 2020-03-05 03:30:26,Mono Basin,Lee Vining Intake Above Flow,22.0
 2020-03-05 03:30:26,Mono Basin,Lee Vining Intake Below Flow,19.8
 2020-03-05 03:30:26,Mono Basin,Walker Ck. Above Conduit Flow,4.0
@@ -233,20 +246,7 @@ date,district,source,value
 2020-03-05 03:30:26,Mono Basin,Grant Lk. Outflow,64.7
 2020-03-05 03:30:26,Mono Basin,Rush Ck. at Damsite Flow,48.8
 2020-03-05 03:30:26,Mono Basin,Flow to West Portal,29.6
-2020-03-05 03:30:26,Lower Owens River Project,LORP Intake Flow,42.0
-2020-03-05 03:30:26,Lower Owens River Project,LORP at Mazourka Canyon Road,48.0
-2020-03-05 03:30:26,Lower Owens River Project,LORP at Reinhackle Springs,49.0
-2020-03-05 03:30:26,Lower Owens River Project,LORP Above Pumpstation,55.0
-2020-03-05 03:30:26,Lower Owens River Project,LORP At Pump Station Discharge Flow,46.0
-2020-03-05 03:30:26,Long Valley,East Portal Flow,42.0
-2020-03-05 03:30:26,Long Valley,OR Below EP Flow,94.0
-2020-03-05 03:30:26,Long Valley,Hot Ck.at Hwy. Flow,6.0
-2020-03-05 03:30:26,Long Valley,McGee Ck. Lower Sta. Flow,11.3
-2020-03-05 03:30:26,Long Valley,Long Valley Current Outflow,0.0
-2020-03-05 03:30:26,Long Valley,Rock Ck. Div. Flow,0.0
-2020-03-05 03:30:26,Long Valley,Upper Gorge Total Release,85.0
-2020-03-05 03:30:26,Long Valley,Release at Middle Gorge,0.0
-2020-03-05 03:30:27,Northern Owens Valley,Pleasant Valley Elevation,4378.9
+2020-03-05 03:30:27,Long Valley,Long Valley Elevation,6773.7
 2020-03-05 03:30:27,Southern Owens Valley,LAA at Alabama Level,7.5
 2020-03-05 03:30:27,Southern Owens Valley,LAA at Alabama Water Temp,50.8
 2020-03-05 03:30:27,Southern Owens Valley,LAA at Cottonwood Level,7.8
@@ -256,22 +256,21 @@ date,district,source,value
 2020-03-05 03:30:27,Southern District,S. Haiwee Reservoir Elevation,3740.1
 2020-03-05 03:30:27,Southern District,Fairmont Reservoir Elevation,3025.9
 2020-03-05 03:30:27,Southern District,Bouquet Reservoir Elevation,2984.3
+2020-03-05 03:30:27,Northern Owens Valley,Pleasant Valley Elevation,4378.9
 2020-03-05 03:30:27,Mono Basin,Mono Lk. Elevation,6382.3
 2020-03-05 03:30:27,Mono Basin,Grant Lk. Elevation,7109.0
-2020-03-05 03:30:27,Long Valley,Long Valley Elevation,6773.7
 2020-03-05 04:30:25,Southern Owens Valley,Indep. Ck. At Junction Flow,4.0
 2020-03-05 04:30:25,Southern Owens Valley,LAA at Alabama Flow,357.0
 2020-03-05 04:30:25,Southern Owens Valley,Cottonwood Ck. At LAA Flow,8.0
 2020-03-05 04:30:25,Southern Owens Valley,LAA at Cottonwood Flow,387.0
-2020-03-05 04:30:26,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.3
-2020-03-05 04:30:26,Northern Owens Valley,Pleasant Valley Outflow,126.9
-2020-03-05 04:30:26,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
-2020-03-05 04:30:26,Northern Owens Valley,Big Pine Ck. USGS Flow,11.6
-2020-03-05 04:30:26,Northern Owens Valley,O.R. Below Big Pine,244.6
-2020-03-05 04:30:26,Northern Owens Valley,Fish Springs At RR Flow,35.9
-2020-03-05 04:30:26,Northern Owens Valley,Tinemaha Reservoir Outflow,301.5
-2020-03-05 04:30:26,Northern Owens Valley,Bishop Creek Through Plant 6,58.9
-2020-03-05 04:30:26,Northern Owens Valley,Bishop Creek Around Plant 6,4.5
+2020-03-05 04:30:26,Long Valley,East Portal Flow,41.0
+2020-03-05 04:30:26,Long Valley,OR Below EP Flow,93.0
+2020-03-05 04:30:26,Long Valley,Hot Ck.at Hwy. Flow,6.0
+2020-03-05 04:30:26,Long Valley,McGee Ck. Lower Sta. Flow,11.3
+2020-03-05 04:30:26,Long Valley,Long Valley Current Outflow,0.0
+2020-03-05 04:30:26,Long Valley,Rock Ck. Div. Flow,0.0
+2020-03-05 04:30:26,Long Valley,Upper Gorge Total Release,85.0
+2020-03-05 04:30:26,Long Valley,Release at Middle Gorge,0.0
 2020-03-05 04:30:26,Southern Owens Valley,Tinemaha Reservoir Outflow,301.5
 2020-03-05 04:30:26,Southern Owens Valley,Haiwee LAA #1 Current Flow,100.1
 2020-03-05 04:30:26,Southern Owens Valley,Haiwee LAA #2 Current Flow,192.1
@@ -286,6 +285,20 @@ date,district,source,value
 2020-03-05 04:30:26,Southern District,Bouquet Reservoir Outflow,120.7
 2020-03-05 04:30:26,Southern District,LAA #1 at Soledad Flow,0.0
 2020-03-05 04:30:26,Southern District,LAA #2 at Soledad Flow,301.9
+2020-03-05 04:30:26,Lower Owens River Project,LORP Intake Flow,42.0
+2020-03-05 04:30:26,Lower Owens River Project,LORP at Mazourka Canyon Road,47.0
+2020-03-05 04:30:26,Lower Owens River Project,LORP at Reinhackle Springs,45.0
+2020-03-05 04:30:26,Lower Owens River Project,LORP Above Pumpstation,54.0
+2020-03-05 04:30:26,Lower Owens River Project,LORP At Pump Station Discharge Flow,45.0
+2020-03-05 04:30:26,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.3
+2020-03-05 04:30:26,Northern Owens Valley,Pleasant Valley Outflow,126.9
+2020-03-05 04:30:26,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
+2020-03-05 04:30:26,Northern Owens Valley,Big Pine Ck. USGS Flow,11.6
+2020-03-05 04:30:26,Northern Owens Valley,O.R. Below Big Pine,244.6
+2020-03-05 04:30:26,Northern Owens Valley,Fish Springs At RR Flow,35.9
+2020-03-05 04:30:26,Northern Owens Valley,Tinemaha Reservoir Outflow,301.5
+2020-03-05 04:30:26,Northern Owens Valley,Bishop Creek Through Plant 6,58.9
+2020-03-05 04:30:26,Northern Owens Valley,Bishop Creek Around Plant 6,4.5
 2020-03-05 04:30:26,Mono Basin,Lee Vining Intake Above Flow,22.0
 2020-03-05 04:30:26,Mono Basin,Lee Vining Intake Below Flow,19.8
 2020-03-05 04:30:26,Mono Basin,Walker Ck. Above Conduit Flow,4.0
@@ -298,20 +311,7 @@ date,district,source,value
 2020-03-05 04:30:26,Mono Basin,Grant Lk. Outflow,64.6
 2020-03-05 04:30:26,Mono Basin,Rush Ck. at Damsite Flow,48.8
 2020-03-05 04:30:26,Mono Basin,Flow to West Portal,29.6
-2020-03-05 04:30:26,Lower Owens River Project,LORP Intake Flow,42.0
-2020-03-05 04:30:26,Lower Owens River Project,LORP at Mazourka Canyon Road,47.0
-2020-03-05 04:30:26,Lower Owens River Project,LORP at Reinhackle Springs,45.0
-2020-03-05 04:30:26,Lower Owens River Project,LORP Above Pumpstation,54.0
-2020-03-05 04:30:26,Lower Owens River Project,LORP At Pump Station Discharge Flow,45.0
-2020-03-05 04:30:26,Long Valley,East Portal Flow,41.0
-2020-03-05 04:30:26,Long Valley,OR Below EP Flow,93.0
-2020-03-05 04:30:26,Long Valley,Hot Ck.at Hwy. Flow,6.0
-2020-03-05 04:30:26,Long Valley,McGee Ck. Lower Sta. Flow,11.3
-2020-03-05 04:30:26,Long Valley,Long Valley Current Outflow,0.0
-2020-03-05 04:30:26,Long Valley,Rock Ck. Div. Flow,0.0
-2020-03-05 04:30:26,Long Valley,Upper Gorge Total Release,85.0
-2020-03-05 04:30:26,Long Valley,Release at Middle Gorge,0.0
-2020-03-05 04:30:27,Northern Owens Valley,Pleasant Valley Elevation,4378.9
+2020-03-05 04:30:27,Long Valley,Long Valley Elevation,6773.8
 2020-03-05 04:30:27,Southern Owens Valley,LAA at Alabama Level,7.5
 2020-03-05 04:30:27,Southern Owens Valley,LAA at Alabama Water Temp,50.4
 2020-03-05 04:30:27,Southern Owens Valley,LAA at Cottonwood Level,7.8
@@ -321,10 +321,9 @@ date,district,source,value
 2020-03-05 04:30:27,Southern District,S. Haiwee Reservoir Elevation,3740.1
 2020-03-05 04:30:27,Southern District,Fairmont Reservoir Elevation,3025.9
 2020-03-05 04:30:27,Southern District,Bouquet Reservoir Elevation,2984.3
+2020-03-05 04:30:27,Northern Owens Valley,Pleasant Valley Elevation,4378.9
 2020-03-05 04:30:27,Mono Basin,Mono Lk. Elevation,6382.3
 2020-03-05 04:30:27,Mono Basin,Grant Lk. Elevation,7109.0
-2020-03-05 04:30:27,Long Valley,Long Valley Elevation,6773.8
-2020-03-05 05:30:25,Northern Owens Valley,Tinemaha Reservoir Outflow,300.9
 2020-03-05 05:30:25,Southern Owens Valley,Tinemaha Reservoir Outflow,300.9
 2020-03-05 05:30:25,Southern Owens Valley,Indep. Ck. At Junction Flow,4.0
 2020-03-05 05:30:25,Southern Owens Valley,LAA at Alabama Flow,355.0
@@ -340,6 +339,23 @@ date,district,source,value
 2020-03-05 05:30:25,Lower Owens River Project,LORP Intake Flow,42.0
 2020-03-05 05:30:25,Lower Owens River Project,LORP at Mazourka Canyon Road,48.0
 2020-03-05 05:30:25,Lower Owens River Project,LORP at Reinhackle Springs,46.0
+2020-03-05 05:30:25,Northern Owens Valley,Tinemaha Reservoir Outflow,300.9
+2020-03-05 05:30:26,Long Valley,East Portal Flow,42.0
+2020-03-05 05:30:26,Long Valley,OR Below EP Flow,93.0
+2020-03-05 05:30:26,Long Valley,Hot Ck.at Hwy. Flow,6.0
+2020-03-05 05:30:26,Long Valley,McGee Ck. Lower Sta. Flow,11.3
+2020-03-05 05:30:26,Long Valley,Long Valley Current Outflow,0.0
+2020-03-05 05:30:26,Long Valley,Rock Ck. Div. Flow,0.0
+2020-03-05 05:30:26,Long Valley,Upper Gorge Total Release,85.0
+2020-03-05 05:30:26,Long Valley,Release at Middle Gorge,0.0
+2020-03-05 05:30:26,Southern District,LAA #1 Flow at Fairmont Reservoir,368.0
+2020-03-05 05:30:26,Southern District,LAA #2 Flow at Fairmont Res.,204.3
+2020-03-05 05:30:26,Southern District,Bouquet Reservoir Inflow,0.2
+2020-03-05 05:30:26,Southern District,Bouquet Reservoir Outflow,115.6
+2020-03-05 05:30:26,Southern District,LAA #1 at Soledad Flow,0.0
+2020-03-05 05:30:26,Southern District,LAA #2 at Soledad Flow,301.9
+2020-03-05 05:30:26,Lower Owens River Project,LORP Above Pumpstation,54.0
+2020-03-05 05:30:26,Lower Owens River Project,LORP At Pump Station Discharge Flow,45.0
 2020-03-05 05:30:26,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.3
 2020-03-05 05:30:26,Northern Owens Valley,Pleasant Valley Outflow,127.2
 2020-03-05 05:30:26,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
@@ -348,12 +364,6 @@ date,district,source,value
 2020-03-05 05:30:26,Northern Owens Valley,Fish Springs At RR Flow,35.9
 2020-03-05 05:30:26,Northern Owens Valley,Bishop Creek Through Plant 6,56.7
 2020-03-05 05:30:26,Northern Owens Valley,Bishop Creek Around Plant 6,4.5
-2020-03-05 05:30:26,Southern District,LAA #1 Flow at Fairmont Reservoir,368.0
-2020-03-05 05:30:26,Southern District,LAA #2 Flow at Fairmont Res.,204.3
-2020-03-05 05:30:26,Southern District,Bouquet Reservoir Inflow,0.2
-2020-03-05 05:30:26,Southern District,Bouquet Reservoir Outflow,115.6
-2020-03-05 05:30:26,Southern District,LAA #1 at Soledad Flow,0.0
-2020-03-05 05:30:26,Southern District,LAA #2 at Soledad Flow,301.9
 2020-03-05 05:30:26,Mono Basin,Lee Vining Intake Above Flow,22.0
 2020-03-05 05:30:26,Mono Basin,Lee Vining Intake Below Flow,19.8
 2020-03-05 05:30:26,Mono Basin,Walker Ck. Above Conduit Flow,4.0
@@ -366,17 +376,7 @@ date,district,source,value
 2020-03-05 05:30:26,Mono Basin,Grant Lk. Outflow,64.9
 2020-03-05 05:30:26,Mono Basin,Rush Ck. at Damsite Flow,48.8
 2020-03-05 05:30:26,Mono Basin,Flow to West Portal,29.6
-2020-03-05 05:30:26,Lower Owens River Project,LORP Above Pumpstation,54.0
-2020-03-05 05:30:26,Lower Owens River Project,LORP At Pump Station Discharge Flow,45.0
-2020-03-05 05:30:26,Long Valley,East Portal Flow,42.0
-2020-03-05 05:30:26,Long Valley,OR Below EP Flow,93.0
-2020-03-05 05:30:26,Long Valley,Hot Ck.at Hwy. Flow,6.0
-2020-03-05 05:30:26,Long Valley,McGee Ck. Lower Sta. Flow,11.3
-2020-03-05 05:30:26,Long Valley,Long Valley Current Outflow,0.0
-2020-03-05 05:30:26,Long Valley,Rock Ck. Div. Flow,0.0
-2020-03-05 05:30:26,Long Valley,Upper Gorge Total Release,85.0
-2020-03-05 05:30:26,Long Valley,Release at Middle Gorge,0.0
-2020-03-05 05:30:27,Northern Owens Valley,Pleasant Valley Elevation,4378.9
+2020-03-05 05:30:27,Long Valley,Long Valley Elevation,6773.7
 2020-03-05 05:30:27,Southern Owens Valley,LAA at Alabama Level,7.5
 2020-03-05 05:30:27,Southern Owens Valley,LAA at Alabama Water Temp,50.1
 2020-03-05 05:30:27,Southern Owens Valley,LAA at Cottonwood Level,7.8
@@ -386,18 +386,17 @@ date,district,source,value
 2020-03-05 05:30:27,Southern District,S. Haiwee Reservoir Elevation,3740.1
 2020-03-05 05:30:27,Southern District,Fairmont Reservoir Elevation,3025.9
 2020-03-05 05:30:27,Southern District,Bouquet Reservoir Elevation,2984.3
+2020-03-05 05:30:27,Northern Owens Valley,Pleasant Valley Elevation,4378.9
 2020-03-05 05:30:27,Mono Basin,Mono Lk. Elevation,6382.3
 2020-03-05 05:30:27,Mono Basin,Grant Lk. Elevation,7109.0
-2020-03-05 05:30:27,Long Valley,Long Valley Elevation,6773.7
-2020-03-05 06:30:26,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.3
-2020-03-05 06:30:26,Northern Owens Valley,Pleasant Valley Outflow,126.8
-2020-03-05 06:30:26,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
-2020-03-05 06:30:26,Northern Owens Valley,Big Pine Ck. USGS Flow,11.3
-2020-03-05 06:30:26,Northern Owens Valley,O.R. Below Big Pine,244.5
-2020-03-05 06:30:26,Northern Owens Valley,Fish Springs At RR Flow,35.9
-2020-03-05 06:30:26,Northern Owens Valley,Tinemaha Reservoir Outflow,273.5
-2020-03-05 06:30:26,Northern Owens Valley,Bishop Creek Through Plant 6,57.2
-2020-03-05 06:30:26,Northern Owens Valley,Bishop Creek Around Plant 6,4.5
+2020-03-05 06:30:26,Long Valley,East Portal Flow,41.0
+2020-03-05 06:30:26,Long Valley,OR Below EP Flow,93.0
+2020-03-05 06:30:26,Long Valley,Hot Ck.at Hwy. Flow,6.0
+2020-03-05 06:30:26,Long Valley,McGee Ck. Lower Sta. Flow,11.3
+2020-03-05 06:30:26,Long Valley,Long Valley Current Outflow,0.0
+2020-03-05 06:30:26,Long Valley,Rock Ck. Div. Flow,0.0
+2020-03-05 06:30:26,Long Valley,Upper Gorge Total Release,85.0
+2020-03-05 06:30:26,Long Valley,Release at Middle Gorge,0.0
 2020-03-05 06:30:26,Southern Owens Valley,Tinemaha Reservoir Outflow,273.5
 2020-03-05 06:30:26,Southern Owens Valley,Indep. Ck. At Junction Flow,4.1
 2020-03-05 06:30:26,Southern Owens Valley,LAA at Alabama Flow,354.0
@@ -416,6 +415,20 @@ date,district,source,value
 2020-03-05 06:30:26,Southern District,Bouquet Reservoir Outflow,119.3
 2020-03-05 06:30:26,Southern District,LAA #1 at Soledad Flow,0.0
 2020-03-05 06:30:26,Southern District,LAA #2 at Soledad Flow,301.9
+2020-03-05 06:30:26,Lower Owens River Project,LORP Intake Flow,42.0
+2020-03-05 06:30:26,Lower Owens River Project,LORP at Mazourka Canyon Road,46.0
+2020-03-05 06:30:26,Lower Owens River Project,LORP at Reinhackle Springs,47.0
+2020-03-05 06:30:26,Lower Owens River Project,LORP Above Pumpstation,54.0
+2020-03-05 06:30:26,Lower Owens River Project,LORP At Pump Station Discharge Flow,45.0
+2020-03-05 06:30:26,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.3
+2020-03-05 06:30:26,Northern Owens Valley,Pleasant Valley Outflow,126.8
+2020-03-05 06:30:26,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
+2020-03-05 06:30:26,Northern Owens Valley,Big Pine Ck. USGS Flow,11.3
+2020-03-05 06:30:26,Northern Owens Valley,O.R. Below Big Pine,244.5
+2020-03-05 06:30:26,Northern Owens Valley,Fish Springs At RR Flow,35.9
+2020-03-05 06:30:26,Northern Owens Valley,Tinemaha Reservoir Outflow,273.5
+2020-03-05 06:30:26,Northern Owens Valley,Bishop Creek Through Plant 6,57.2
+2020-03-05 06:30:26,Northern Owens Valley,Bishop Creek Around Plant 6,4.5
 2020-03-05 06:30:26,Mono Basin,Lee Vining Intake Above Flow,24.9
 2020-03-05 06:30:26,Mono Basin,Lee Vining Intake Below Flow,20.9
 2020-03-05 06:30:26,Mono Basin,Walker Ck. Above Conduit Flow,4.0
@@ -428,20 +441,7 @@ date,district,source,value
 2020-03-05 06:30:26,Mono Basin,Grant Lk. Outflow,64.4
 2020-03-05 06:30:26,Mono Basin,Rush Ck. at Damsite Flow,48.0
 2020-03-05 06:30:26,Mono Basin,Flow to West Portal,29.7
-2020-03-05 06:30:26,Lower Owens River Project,LORP Intake Flow,42.0
-2020-03-05 06:30:26,Lower Owens River Project,LORP at Mazourka Canyon Road,46.0
-2020-03-05 06:30:26,Lower Owens River Project,LORP at Reinhackle Springs,47.0
-2020-03-05 06:30:26,Lower Owens River Project,LORP Above Pumpstation,54.0
-2020-03-05 06:30:26,Lower Owens River Project,LORP At Pump Station Discharge Flow,45.0
-2020-03-05 06:30:26,Long Valley,East Portal Flow,41.0
-2020-03-05 06:30:26,Long Valley,OR Below EP Flow,93.0
-2020-03-05 06:30:26,Long Valley,Hot Ck.at Hwy. Flow,6.0
-2020-03-05 06:30:26,Long Valley,McGee Ck. Lower Sta. Flow,11.3
-2020-03-05 06:30:26,Long Valley,Long Valley Current Outflow,0.0
-2020-03-05 06:30:26,Long Valley,Rock Ck. Div. Flow,0.0
-2020-03-05 06:30:26,Long Valley,Upper Gorge Total Release,85.0
-2020-03-05 06:30:26,Long Valley,Release at Middle Gorge,0.0
-2020-03-05 06:30:27,Northern Owens Valley,Pleasant Valley Elevation,4378.9
+2020-03-05 06:30:27,Long Valley,Long Valley Elevation,6773.8
 2020-03-05 06:30:27,Southern Owens Valley,LAA at Alabama Level,7.4
 2020-03-05 06:30:27,Southern Owens Valley,LAA at Alabama Water Temp,49.7
 2020-03-05 06:30:27,Southern Owens Valley,LAA at Cottonwood Level,7.8
@@ -451,24 +451,23 @@ date,district,source,value
 2020-03-05 06:30:27,Southern District,S. Haiwee Reservoir Elevation,3740.1
 2020-03-05 06:30:27,Southern District,Fairmont Reservoir Elevation,3025.9
 2020-03-05 06:30:27,Southern District,Bouquet Reservoir Elevation,2984.2
+2020-03-05 06:30:27,Northern Owens Valley,Pleasant Valley Elevation,4378.9
 2020-03-05 06:30:27,Mono Basin,Mono Lk. Elevation,6382.3
 2020-03-05 06:30:27,Mono Basin,Grant Lk. Elevation,7109.0
-2020-03-05 06:30:27,Long Valley,Long Valley Elevation,6773.8
 2020-03-05 07:15:27,Northern Owens Valley,Tinemaha Elevation,3860.8
 2020-03-05 07:15:27,Southern Owens Valley,Tinemaha Elevation,3860.8
 2020-03-05 07:30:25,Southern Owens Valley,Indep. Ck. At Junction Flow,4.0
 2020-03-05 07:30:25,Southern Owens Valley,LAA at Alabama Flow,353.0
 2020-03-05 07:30:25,Southern Owens Valley,Cottonwood Ck. At LAA Flow,8.0
 2020-03-05 07:30:25,Southern Owens Valley,LAA at Cottonwood Flow,378.0
-2020-03-05 07:30:26,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.3
-2020-03-05 07:30:26,Northern Owens Valley,Pleasant Valley Outflow,127.0
-2020-03-05 07:30:26,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
-2020-03-05 07:30:26,Northern Owens Valley,Big Pine Ck. USGS Flow,11.3
-2020-03-05 07:30:26,Northern Owens Valley,O.R. Below Big Pine,244.6
-2020-03-05 07:30:26,Northern Owens Valley,Fish Springs At RR Flow,35.9
-2020-03-05 07:30:26,Northern Owens Valley,Tinemaha Reservoir Outflow,271.4
-2020-03-05 07:30:26,Northern Owens Valley,Bishop Creek Through Plant 6,58.3
-2020-03-05 07:30:26,Northern Owens Valley,Bishop Creek Around Plant 6,4.4
+2020-03-05 07:30:26,Long Valley,East Portal Flow,42.0
+2020-03-05 07:30:26,Long Valley,OR Below EP Flow,93.0
+2020-03-05 07:30:26,Long Valley,Hot Ck.at Hwy. Flow,6.0
+2020-03-05 07:30:26,Long Valley,McGee Ck. Lower Sta. Flow,11.3
+2020-03-05 07:30:26,Long Valley,Long Valley Current Outflow,0.0
+2020-03-05 07:30:26,Long Valley,Rock Ck. Div. Flow,0.0
+2020-03-05 07:30:26,Long Valley,Upper Gorge Total Release,85.0
+2020-03-05 07:30:26,Long Valley,Release at Middle Gorge,0.0
 2020-03-05 07:30:26,Southern Owens Valley,Tinemaha Reservoir Outflow,271.4
 2020-03-05 07:30:26,Southern Owens Valley,Haiwee LAA #1 Current Flow,99.5
 2020-03-05 07:30:26,Southern Owens Valley,Haiwee LAA #2 Current Flow,192.0
@@ -483,6 +482,20 @@ date,district,source,value
 2020-03-05 07:30:26,Southern District,Bouquet Reservoir Outflow,115.7
 2020-03-05 07:30:26,Southern District,LAA #1 at Soledad Flow,0.0
 2020-03-05 07:30:26,Southern District,LAA #2 at Soledad Flow,302.2
+2020-03-05 07:30:26,Lower Owens River Project,LORP Intake Flow,42.0
+2020-03-05 07:30:26,Lower Owens River Project,LORP at Mazourka Canyon Road,50.0
+2020-03-05 07:30:26,Lower Owens River Project,LORP at Reinhackle Springs,46.0
+2020-03-05 07:30:26,Lower Owens River Project,LORP Above Pumpstation,53.0
+2020-03-05 07:30:26,Lower Owens River Project,LORP At Pump Station Discharge Flow,45.0
+2020-03-05 07:30:26,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.3
+2020-03-05 07:30:26,Northern Owens Valley,Pleasant Valley Outflow,127.0
+2020-03-05 07:30:26,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
+2020-03-05 07:30:26,Northern Owens Valley,Big Pine Ck. USGS Flow,11.3
+2020-03-05 07:30:26,Northern Owens Valley,O.R. Below Big Pine,244.6
+2020-03-05 07:30:26,Northern Owens Valley,Fish Springs At RR Flow,35.9
+2020-03-05 07:30:26,Northern Owens Valley,Tinemaha Reservoir Outflow,271.4
+2020-03-05 07:30:26,Northern Owens Valley,Bishop Creek Through Plant 6,58.3
+2020-03-05 07:30:26,Northern Owens Valley,Bishop Creek Around Plant 6,4.4
 2020-03-05 07:30:26,Mono Basin,Lee Vining Intake Above Flow,24.9
 2020-03-05 07:30:26,Mono Basin,Lee Vining Intake Below Flow,20.9
 2020-03-05 07:30:26,Mono Basin,Walker Ck. Above Conduit Flow,4.0
@@ -495,20 +508,7 @@ date,district,source,value
 2020-03-05 07:30:26,Mono Basin,Grant Lk. Outflow,64.9
 2020-03-05 07:30:26,Mono Basin,Rush Ck. at Damsite Flow,48.0
 2020-03-05 07:30:26,Mono Basin,Flow to West Portal,29.7
-2020-03-05 07:30:26,Lower Owens River Project,LORP Intake Flow,42.0
-2020-03-05 07:30:26,Lower Owens River Project,LORP at Mazourka Canyon Road,50.0
-2020-03-05 07:30:26,Lower Owens River Project,LORP at Reinhackle Springs,46.0
-2020-03-05 07:30:26,Lower Owens River Project,LORP Above Pumpstation,53.0
-2020-03-05 07:30:26,Lower Owens River Project,LORP At Pump Station Discharge Flow,45.0
-2020-03-05 07:30:26,Long Valley,East Portal Flow,42.0
-2020-03-05 07:30:26,Long Valley,OR Below EP Flow,93.0
-2020-03-05 07:30:26,Long Valley,Hot Ck.at Hwy. Flow,6.0
-2020-03-05 07:30:26,Long Valley,McGee Ck. Lower Sta. Flow,11.3
-2020-03-05 07:30:26,Long Valley,Long Valley Current Outflow,0.0
-2020-03-05 07:30:26,Long Valley,Rock Ck. Div. Flow,0.0
-2020-03-05 07:30:26,Long Valley,Upper Gorge Total Release,85.0
-2020-03-05 07:30:26,Long Valley,Release at Middle Gorge,0.0
-2020-03-05 07:30:27,Northern Owens Valley,Pleasant Valley Elevation,4378.9
+2020-03-05 07:30:27,Long Valley,Long Valley Elevation,6773.8
 2020-03-05 07:30:27,Southern Owens Valley,LAA at Alabama Level,7.4
 2020-03-05 07:30:27,Southern Owens Valley,LAA at Alabama Water Temp,49.4
 2020-03-05 07:30:27,Southern Owens Valley,LAA at Cottonwood Level,7.7
@@ -518,22 +518,21 @@ date,district,source,value
 2020-03-05 07:30:27,Southern District,S. Haiwee Reservoir Elevation,3740.1
 2020-03-05 07:30:27,Southern District,Fairmont Reservoir Elevation,3025.9
 2020-03-05 07:30:27,Southern District,Bouquet Reservoir Elevation,2984.2
+2020-03-05 07:30:27,Northern Owens Valley,Pleasant Valley Elevation,4378.9
 2020-03-05 07:30:27,Mono Basin,Mono Lk. Elevation,6382.3
 2020-03-05 07:30:27,Mono Basin,Grant Lk. Elevation,7109.0
-2020-03-05 07:30:27,Long Valley,Long Valley Elevation,6773.8
 2020-03-05 07:45:27,Northern Owens Valley,Tinemaha Elevation,3860.8
 2020-03-05 07:45:27,Southern Owens Valley,Tinemaha Elevation,3860.8
 2020-03-05 08:15:27,Northern Owens Valley,Tinemaha Elevation,3860.8
 2020-03-05 08:15:27,Southern Owens Valley,Tinemaha Elevation,3860.8
-2020-03-05 08:30:26,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.3
-2020-03-05 08:30:26,Northern Owens Valley,Pleasant Valley Outflow,127.0
-2020-03-05 08:30:26,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
-2020-03-05 08:30:26,Northern Owens Valley,Big Pine Ck. USGS Flow,11.3
-2020-03-05 08:30:26,Northern Owens Valley,O.R. Below Big Pine,244.7
-2020-03-05 08:30:26,Northern Owens Valley,Fish Springs At RR Flow,35.9
-2020-03-05 08:30:26,Northern Owens Valley,Tinemaha Reservoir Outflow,271.6
-2020-03-05 08:30:26,Northern Owens Valley,Bishop Creek Through Plant 6,58.7
-2020-03-05 08:30:26,Northern Owens Valley,Bishop Creek Around Plant 6,4.2
+2020-03-05 08:30:26,Long Valley,East Portal Flow,41.0
+2020-03-05 08:30:26,Long Valley,OR Below EP Flow,93.0
+2020-03-05 08:30:26,Long Valley,Hot Ck.at Hwy. Flow,7.0
+2020-03-05 08:30:26,Long Valley,McGee Ck. Lower Sta. Flow,11.2
+2020-03-05 08:30:26,Long Valley,Long Valley Current Outflow,0.0
+2020-03-05 08:30:26,Long Valley,Rock Ck. Div. Flow,0.0
+2020-03-05 08:30:26,Long Valley,Upper Gorge Total Release,85.0
+2020-03-05 08:30:26,Long Valley,Release at Middle Gorge,0.0
 2020-03-05 08:30:26,Southern Owens Valley,Tinemaha Reservoir Outflow,271.6
 2020-03-05 08:30:26,Southern Owens Valley,Indep. Ck. At Junction Flow,4.0
 2020-03-05 08:30:26,Southern Owens Valley,LAA at Alabama Flow,351.0
@@ -552,6 +551,20 @@ date,district,source,value
 2020-03-05 08:30:26,Southern District,Bouquet Reservoir Outflow,116.0
 2020-03-05 08:30:26,Southern District,LAA #1 at Soledad Flow,0.0
 2020-03-05 08:30:26,Southern District,LAA #2 at Soledad Flow,302.3
+2020-03-05 08:30:26,Lower Owens River Project,LORP Intake Flow,44.0
+2020-03-05 08:30:26,Lower Owens River Project,LORP at Mazourka Canyon Road,49.0
+2020-03-05 08:30:26,Lower Owens River Project,LORP at Reinhackle Springs,49.0
+2020-03-05 08:30:26,Lower Owens River Project,LORP Above Pumpstation,52.0
+2020-03-05 08:30:26,Lower Owens River Project,LORP At Pump Station Discharge Flow,45.0
+2020-03-05 08:30:26,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.3
+2020-03-05 08:30:26,Northern Owens Valley,Pleasant Valley Outflow,127.0
+2020-03-05 08:30:26,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
+2020-03-05 08:30:26,Northern Owens Valley,Big Pine Ck. USGS Flow,11.3
+2020-03-05 08:30:26,Northern Owens Valley,O.R. Below Big Pine,244.7
+2020-03-05 08:30:26,Northern Owens Valley,Fish Springs At RR Flow,35.9
+2020-03-05 08:30:26,Northern Owens Valley,Tinemaha Reservoir Outflow,271.6
+2020-03-05 08:30:26,Northern Owens Valley,Bishop Creek Through Plant 6,58.7
+2020-03-05 08:30:26,Northern Owens Valley,Bishop Creek Around Plant 6,4.2
 2020-03-05 08:30:26,Mono Basin,Lee Vining Intake Above Flow,24.9
 2020-03-05 08:30:26,Mono Basin,Lee Vining Intake Below Flow,20.9
 2020-03-05 08:30:26,Mono Basin,Walker Ck. Above Conduit Flow,4.0
@@ -564,20 +577,7 @@ date,district,source,value
 2020-03-05 08:30:26,Mono Basin,Grant Lk. Outflow,65.0
 2020-03-05 08:30:26,Mono Basin,Rush Ck. at Damsite Flow,48.0
 2020-03-05 08:30:26,Mono Basin,Flow to West Portal,29.7
-2020-03-05 08:30:26,Lower Owens River Project,LORP Intake Flow,44.0
-2020-03-05 08:30:26,Lower Owens River Project,LORP at Mazourka Canyon Road,49.0
-2020-03-05 08:30:26,Lower Owens River Project,LORP at Reinhackle Springs,49.0
-2020-03-05 08:30:26,Lower Owens River Project,LORP Above Pumpstation,52.0
-2020-03-05 08:30:26,Lower Owens River Project,LORP At Pump Station Discharge Flow,45.0
-2020-03-05 08:30:26,Long Valley,East Portal Flow,41.0
-2020-03-05 08:30:26,Long Valley,OR Below EP Flow,93.0
-2020-03-05 08:30:26,Long Valley,Hot Ck.at Hwy. Flow,7.0
-2020-03-05 08:30:26,Long Valley,McGee Ck. Lower Sta. Flow,11.2
-2020-03-05 08:30:26,Long Valley,Long Valley Current Outflow,0.0
-2020-03-05 08:30:26,Long Valley,Rock Ck. Div. Flow,0.0
-2020-03-05 08:30:26,Long Valley,Upper Gorge Total Release,85.0
-2020-03-05 08:30:26,Long Valley,Release at Middle Gorge,0.0
-2020-03-05 08:30:27,Northern Owens Valley,Pleasant Valley Elevation,4378.9
+2020-03-05 08:30:27,Long Valley,Long Valley Elevation,6773.7
 2020-03-05 08:30:27,Southern Owens Valley,LAA at Alabama Level,7.4
 2020-03-05 08:30:27,Southern Owens Valley,LAA at Alabama Water Temp,49.3
 2020-03-05 08:30:27,Southern Owens Valley,LAA at Cottonwood Level,7.7
@@ -587,21 +587,13 @@ date,district,source,value
 2020-03-05 08:30:27,Southern District,S. Haiwee Reservoir Elevation,3740.1
 2020-03-05 08:30:27,Southern District,Fairmont Reservoir Elevation,3025.9
 2020-03-05 08:30:27,Southern District,Bouquet Reservoir Elevation,2984.2
+2020-03-05 08:30:27,Northern Owens Valley,Pleasant Valley Elevation,4378.9
 2020-03-05 08:30:27,Mono Basin,Mono Lk. Elevation,6382.3
 2020-03-05 08:30:27,Mono Basin,Grant Lk. Elevation,7109.0
-2020-03-05 08:30:27,Long Valley,Long Valley Elevation,6773.7
 2020-03-05 08:45:27,Northern Owens Valley,Tinemaha Elevation,3860.8
 2020-03-05 08:45:27,Southern Owens Valley,Tinemaha Elevation,3860.8
 2020-03-05 09:15:27,Northern Owens Valley,Tinemaha Elevation,3860.8
 2020-03-05 09:15:27,Southern Owens Valley,Tinemaha Elevation,3860.8
-2020-03-05 09:30:25,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.3
-2020-03-05 09:30:25,Northern Owens Valley,Pleasant Valley Outflow,127.2
-2020-03-05 09:30:25,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
-2020-03-05 09:30:25,Northern Owens Valley,Big Pine Ck. USGS Flow,11.3
-2020-03-05 09:30:25,Northern Owens Valley,O.R. Below Big Pine,244.6
-2020-03-05 09:30:25,Northern Owens Valley,Fish Springs At RR Flow,35.9
-2020-03-05 09:30:25,Northern Owens Valley,Tinemaha Reservoir Outflow,272.3
-2020-03-05 09:30:25,Northern Owens Valley,Bishop Creek Around Plant 6,4.1
 2020-03-05 09:30:25,Southern Owens Valley,Tinemaha Reservoir Outflow,272.3
 2020-03-05 09:30:25,Southern Owens Valley,Indep. Ck. At Junction Flow,4.0
 2020-03-05 09:30:25,Southern Owens Valley,LAA at Alabama Flow,352.0
@@ -619,13 +611,29 @@ date,district,source,value
 2020-03-05 09:30:25,Lower Owens River Project,LORP at Reinhackle Springs,47.0
 2020-03-05 09:30:25,Lower Owens River Project,LORP Above Pumpstation,52.0
 2020-03-05 09:30:25,Lower Owens River Project,LORP At Pump Station Discharge Flow,46.0
-2020-03-05 09:30:26,Northern Owens Valley,Bishop Creek Through Plant 6,58.5
+2020-03-05 09:30:25,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.3
+2020-03-05 09:30:25,Northern Owens Valley,Pleasant Valley Outflow,127.2
+2020-03-05 09:30:25,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
+2020-03-05 09:30:25,Northern Owens Valley,Big Pine Ck. USGS Flow,11.3
+2020-03-05 09:30:25,Northern Owens Valley,O.R. Below Big Pine,244.6
+2020-03-05 09:30:25,Northern Owens Valley,Fish Springs At RR Flow,35.9
+2020-03-05 09:30:25,Northern Owens Valley,Tinemaha Reservoir Outflow,272.3
+2020-03-05 09:30:25,Northern Owens Valley,Bishop Creek Around Plant 6,4.1
+2020-03-05 09:30:26,Long Valley,East Portal Flow,42.0
+2020-03-05 09:30:26,Long Valley,OR Below EP Flow,93.0
+2020-03-05 09:30:26,Long Valley,Hot Ck.at Hwy. Flow,7.0
+2020-03-05 09:30:26,Long Valley,McGee Ck. Lower Sta. Flow,11.2
+2020-03-05 09:30:26,Long Valley,Long Valley Current Outflow,0.0
+2020-03-05 09:30:26,Long Valley,Rock Ck. Div. Flow,0.0
+2020-03-05 09:30:26,Long Valley,Upper Gorge Total Release,85.0
+2020-03-05 09:30:26,Long Valley,Release at Middle Gorge,0.0
 2020-03-05 09:30:26,Southern District,LAA #1 Flow at Fairmont Reservoir,367.1
 2020-03-05 09:30:26,Southern District,LAA #2 Flow at Fairmont Res.,203.2
 2020-03-05 09:30:26,Southern District,Bouquet Reservoir Inflow,0.2
 2020-03-05 09:30:26,Southern District,Bouquet Reservoir Outflow,114.1
 2020-03-05 09:30:26,Southern District,LAA #1 at Soledad Flow,0.0
 2020-03-05 09:30:26,Southern District,LAA #2 at Soledad Flow,302.3
+2020-03-05 09:30:26,Northern Owens Valley,Bishop Creek Through Plant 6,58.5
 2020-03-05 09:30:26,Mono Basin,Lee Vining Intake Above Flow,24.9
 2020-03-05 09:30:26,Mono Basin,Lee Vining Intake Below Flow,20.9
 2020-03-05 09:30:26,Mono Basin,Walker Ck. Above Conduit Flow,4.0
@@ -638,15 +646,7 @@ date,district,source,value
 2020-03-05 09:30:26,Mono Basin,Grant Lk. Outflow,64.4
 2020-03-05 09:30:26,Mono Basin,Rush Ck. at Damsite Flow,48.0
 2020-03-05 09:30:26,Mono Basin,Flow to West Portal,29.7
-2020-03-05 09:30:26,Long Valley,East Portal Flow,42.0
-2020-03-05 09:30:26,Long Valley,OR Below EP Flow,93.0
-2020-03-05 09:30:26,Long Valley,Hot Ck.at Hwy. Flow,7.0
-2020-03-05 09:30:26,Long Valley,McGee Ck. Lower Sta. Flow,11.2
-2020-03-05 09:30:26,Long Valley,Long Valley Current Outflow,0.0
-2020-03-05 09:30:26,Long Valley,Rock Ck. Div. Flow,0.0
-2020-03-05 09:30:26,Long Valley,Upper Gorge Total Release,85.0
-2020-03-05 09:30:26,Long Valley,Release at Middle Gorge,0.0
-2020-03-05 09:30:27,Northern Owens Valley,Pleasant Valley Elevation,4378.9
+2020-03-05 09:30:27,Long Valley,Long Valley Elevation,6773.8
 2020-03-05 09:30:27,Southern Owens Valley,LAA at Alabama Level,7.4
 2020-03-05 09:30:27,Southern Owens Valley,LAA at Alabama Water Temp,49.4
 2020-03-05 09:30:27,Southern Owens Valley,LAA at Cottonwood Level,7.6
@@ -656,22 +656,13 @@ date,district,source,value
 2020-03-05 09:30:27,Southern District,S. Haiwee Reservoir Elevation,3740.1
 2020-03-05 09:30:27,Southern District,Fairmont Reservoir Elevation,3025.9
 2020-03-05 09:30:27,Southern District,Bouquet Reservoir Elevation,2984.2
+2020-03-05 09:30:27,Northern Owens Valley,Pleasant Valley Elevation,4378.9
 2020-03-05 09:30:27,Mono Basin,Mono Lk. Elevation,6382.3
 2020-03-05 09:30:27,Mono Basin,Grant Lk. Elevation,7109.0
-2020-03-05 09:30:27,Long Valley,Long Valley Elevation,6773.8
 2020-03-05 09:45:27,Northern Owens Valley,Tinemaha Elevation,3860.8
 2020-03-05 09:45:27,Southern Owens Valley,Tinemaha Elevation,3860.8
 2020-03-05 10:15:27,Northern Owens Valley,Tinemaha Elevation,3860.8
 2020-03-05 10:15:27,Southern Owens Valley,Tinemaha Elevation,3860.8
-2020-03-05 10:30:25,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.3
-2020-03-05 10:30:25,Northern Owens Valley,Pleasant Valley Outflow,127.5
-2020-03-05 10:30:25,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
-2020-03-05 10:30:25,Northern Owens Valley,Big Pine Ck. USGS Flow,11.3
-2020-03-05 10:30:25,Northern Owens Valley,O.R. Below Big Pine,244.5
-2020-03-05 10:30:25,Northern Owens Valley,Fish Springs At RR Flow,35.9
-2020-03-05 10:30:25,Northern Owens Valley,Tinemaha Reservoir Outflow,271.3
-2020-03-05 10:30:25,Northern Owens Valley,Bishop Creek Through Plant 6,56.7
-2020-03-05 10:30:25,Northern Owens Valley,Bishop Creek Around Plant 6,4.0
 2020-03-05 10:30:25,Southern Owens Valley,Tinemaha Reservoir Outflow,271.3
 2020-03-05 10:30:25,Southern Owens Valley,Indep. Ck. At Junction Flow,4.0
 2020-03-05 10:30:25,Southern Owens Valley,LAA at Alabama Flow,351.0
@@ -689,6 +680,23 @@ date,district,source,value
 2020-03-05 10:30:25,Lower Owens River Project,LORP at Reinhackle Springs,46.0
 2020-03-05 10:30:25,Lower Owens River Project,LORP Above Pumpstation,52.0
 2020-03-05 10:30:25,Lower Owens River Project,LORP At Pump Station Discharge Flow,45.0
+2020-03-05 10:30:25,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.3
+2020-03-05 10:30:25,Northern Owens Valley,Pleasant Valley Outflow,127.5
+2020-03-05 10:30:25,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
+2020-03-05 10:30:25,Northern Owens Valley,Big Pine Ck. USGS Flow,11.3
+2020-03-05 10:30:25,Northern Owens Valley,O.R. Below Big Pine,244.5
+2020-03-05 10:30:25,Northern Owens Valley,Fish Springs At RR Flow,35.9
+2020-03-05 10:30:25,Northern Owens Valley,Tinemaha Reservoir Outflow,271.3
+2020-03-05 10:30:25,Northern Owens Valley,Bishop Creek Through Plant 6,56.7
+2020-03-05 10:30:25,Northern Owens Valley,Bishop Creek Around Plant 6,4.0
+2020-03-05 10:30:26,Long Valley,East Portal Flow,41.0
+2020-03-05 10:30:26,Long Valley,OR Below EP Flow,93.0
+2020-03-05 10:30:26,Long Valley,Hot Ck.at Hwy. Flow,7.0
+2020-03-05 10:30:26,Long Valley,McGee Ck. Lower Sta. Flow,11.2
+2020-03-05 10:30:26,Long Valley,Long Valley Current Outflow,0.0
+2020-03-05 10:30:26,Long Valley,Rock Ck. Div. Flow,0.0
+2020-03-05 10:30:26,Long Valley,Upper Gorge Total Release,85.0
+2020-03-05 10:30:26,Long Valley,Release at Middle Gorge,0.0
 2020-03-05 10:30:26,Southern District,LAA #1 Flow at Fairmont Reservoir,351.3
 2020-03-05 10:30:26,Southern District,LAA #2 Flow at Fairmont Res.,203.8
 2020-03-05 10:30:26,Southern District,Bouquet Reservoir Inflow,0.2
@@ -707,15 +715,7 @@ date,district,source,value
 2020-03-05 10:30:26,Mono Basin,Grant Lk. Outflow,65.1
 2020-03-05 10:30:26,Mono Basin,Rush Ck. at Damsite Flow,48.0
 2020-03-05 10:30:26,Mono Basin,Flow to West Portal,29.7
-2020-03-05 10:30:26,Long Valley,East Portal Flow,41.0
-2020-03-05 10:30:26,Long Valley,OR Below EP Flow,93.0
-2020-03-05 10:30:26,Long Valley,Hot Ck.at Hwy. Flow,7.0
-2020-03-05 10:30:26,Long Valley,McGee Ck. Lower Sta. Flow,11.2
-2020-03-05 10:30:26,Long Valley,Long Valley Current Outflow,0.0
-2020-03-05 10:30:26,Long Valley,Rock Ck. Div. Flow,0.0
-2020-03-05 10:30:26,Long Valley,Upper Gorge Total Release,85.0
-2020-03-05 10:30:26,Long Valley,Release at Middle Gorge,0.0
-2020-03-05 10:30:27,Northern Owens Valley,Pleasant Valley Elevation,4378.8
+2020-03-05 10:30:27,Long Valley,Long Valley Elevation,6773.8
 2020-03-05 10:30:27,Southern Owens Valley,LAA at Alabama Level,7.4
 2020-03-05 10:30:27,Southern Owens Valley,LAA at Alabama Water Temp,49.7
 2020-03-05 10:30:27,Southern Owens Valley,LAA at Cottonwood Level,7.6
@@ -725,14 +725,13 @@ date,district,source,value
 2020-03-05 10:30:27,Southern District,S. Haiwee Reservoir Elevation,3740.1
 2020-03-05 10:30:27,Southern District,Fairmont Reservoir Elevation,3025.9
 2020-03-05 10:30:27,Southern District,Bouquet Reservoir Elevation,2984.2
+2020-03-05 10:30:27,Northern Owens Valley,Pleasant Valley Elevation,4378.8
 2020-03-05 10:30:27,Mono Basin,Mono Lk. Elevation,6382.3
 2020-03-05 10:30:27,Mono Basin,Grant Lk. Elevation,7109.0
-2020-03-05 10:30:27,Long Valley,Long Valley Elevation,6773.8
 2020-03-05 10:45:27,Northern Owens Valley,Tinemaha Elevation,3860.8
 2020-03-05 10:45:27,Southern Owens Valley,Tinemaha Elevation,3860.8
 2020-03-05 11:15:27,Northern Owens Valley,Tinemaha Elevation,3860.8
 2020-03-05 11:15:27,Southern Owens Valley,Tinemaha Elevation,3860.8
-2020-03-05 11:30:25,Northern Owens Valley,Tinemaha Reservoir Outflow,274.0
 2020-03-05 11:30:25,Southern Owens Valley,Tinemaha Reservoir Outflow,274.0
 2020-03-05 11:30:25,Southern Owens Valley,Indep. Ck. At Junction Flow,4.0
 2020-03-05 11:30:25,Southern Owens Valley,LAA at Alabama Flow,351.0
@@ -749,6 +748,22 @@ date,district,source,value
 2020-03-05 11:30:25,Lower Owens River Project,LORP at Mazourka Canyon Road,48.0
 2020-03-05 11:30:25,Lower Owens River Project,LORP at Reinhackle Springs,47.0
 2020-03-05 11:30:25,Lower Owens River Project,LORP At Pump Station Discharge Flow,45.0
+2020-03-05 11:30:25,Northern Owens Valley,Tinemaha Reservoir Outflow,274.0
+2020-03-05 11:30:26,Long Valley,East Portal Flow,41.0
+2020-03-05 11:30:26,Long Valley,OR Below EP Flow,93.0
+2020-03-05 11:30:26,Long Valley,Hot Ck.at Hwy. Flow,7.0
+2020-03-05 11:30:26,Long Valley,McGee Ck. Lower Sta. Flow,11.2
+2020-03-05 11:30:26,Long Valley,Long Valley Current Outflow,0.0
+2020-03-05 11:30:26,Long Valley,Rock Ck. Div. Flow,0.0
+2020-03-05 11:30:26,Long Valley,Upper Gorge Total Release,85.0
+2020-03-05 11:30:26,Long Valley,Release at Middle Gorge,0.0
+2020-03-05 11:30:26,Southern District,LAA #1 Flow at Fairmont Reservoir,326.9
+2020-03-05 11:30:26,Southern District,LAA #2 Flow at Fairmont Res.,203.8
+2020-03-05 11:30:26,Southern District,Bouquet Reservoir Inflow,0.2
+2020-03-05 11:30:26,Southern District,Bouquet Reservoir Outflow,116.2
+2020-03-05 11:30:26,Southern District,LAA #1 at Soledad Flow,2.1
+2020-03-05 11:30:26,Southern District,LAA #2 at Soledad Flow,302.3
+2020-03-05 11:30:26,Lower Owens River Project,LORP Above Pumpstation,54.0
 2020-03-05 11:30:26,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.3
 2020-03-05 11:30:26,Northern Owens Valley,Pleasant Valley Outflow,128.0
 2020-03-05 11:30:26,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
@@ -757,12 +772,6 @@ date,district,source,value
 2020-03-05 11:30:26,Northern Owens Valley,Fish Springs At RR Flow,35.9
 2020-03-05 11:30:26,Northern Owens Valley,Bishop Creek Through Plant 6,57.9
 2020-03-05 11:30:26,Northern Owens Valley,Bishop Creek Around Plant 6,3.9
-2020-03-05 11:30:26,Southern District,LAA #1 Flow at Fairmont Reservoir,326.9
-2020-03-05 11:30:26,Southern District,LAA #2 Flow at Fairmont Res.,203.8
-2020-03-05 11:30:26,Southern District,Bouquet Reservoir Inflow,0.2
-2020-03-05 11:30:26,Southern District,Bouquet Reservoir Outflow,116.2
-2020-03-05 11:30:26,Southern District,LAA #1 at Soledad Flow,2.1
-2020-03-05 11:30:26,Southern District,LAA #2 at Soledad Flow,302.3
 2020-03-05 11:30:26,Mono Basin,Lee Vining Intake Above Flow,24.9
 2020-03-05 11:30:26,Mono Basin,Lee Vining Intake Below Flow,20.9
 2020-03-05 11:30:26,Mono Basin,Walker Ck. Above Conduit Flow,4.0
@@ -775,16 +784,7 @@ date,district,source,value
 2020-03-05 11:30:26,Mono Basin,Grant Lk. Outflow,64.8
 2020-03-05 11:30:26,Mono Basin,Rush Ck. at Damsite Flow,48.0
 2020-03-05 11:30:26,Mono Basin,Flow to West Portal,29.7
-2020-03-05 11:30:26,Lower Owens River Project,LORP Above Pumpstation,54.0
-2020-03-05 11:30:26,Long Valley,East Portal Flow,41.0
-2020-03-05 11:30:26,Long Valley,OR Below EP Flow,93.0
-2020-03-05 11:30:26,Long Valley,Hot Ck.at Hwy. Flow,7.0
-2020-03-05 11:30:26,Long Valley,McGee Ck. Lower Sta. Flow,11.2
-2020-03-05 11:30:26,Long Valley,Long Valley Current Outflow,0.0
-2020-03-05 11:30:26,Long Valley,Rock Ck. Div. Flow,0.0
-2020-03-05 11:30:26,Long Valley,Upper Gorge Total Release,85.0
-2020-03-05 11:30:26,Long Valley,Release at Middle Gorge,0.0
-2020-03-05 11:30:27,Northern Owens Valley,Pleasant Valley Elevation,4378.8
+2020-03-05 11:30:27,Long Valley,Long Valley Elevation,6773.8
 2020-03-05 11:30:27,Southern Owens Valley,LAA at Alabama Level,7.4
 2020-03-05 11:30:27,Southern Owens Valley,LAA at Alabama Water Temp,50.5
 2020-03-05 11:30:27,Southern Owens Valley,LAA at Cottonwood Level,7.5
@@ -794,22 +794,17 @@ date,district,source,value
 2020-03-05 11:30:27,Southern District,S. Haiwee Reservoir Elevation,3740.1
 2020-03-05 11:30:27,Southern District,Fairmont Reservoir Elevation,3026.1
 2020-03-05 11:30:27,Southern District,Bouquet Reservoir Elevation,2984.2
+2020-03-05 11:30:27,Northern Owens Valley,Pleasant Valley Elevation,4378.8
 2020-03-05 11:30:27,Mono Basin,Mono Lk. Elevation,6382.3
 2020-03-05 11:30:27,Mono Basin,Grant Lk. Elevation,7109.0
-2020-03-05 11:30:27,Long Valley,Long Valley Elevation,6773.8
 2020-03-05 11:45:27,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 11:45:27,Southern Owens Valley,Tinemaha Elevation,3860.7
-2020-03-05 12:15:27,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 12:15:27,Southern Owens Valley,Tinemaha Elevation,3860.7
-2020-03-05 12:30:25,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.0
-2020-03-05 12:30:25,Northern Owens Valley,Pleasant Valley Outflow,127.6
-2020-03-05 12:30:25,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
-2020-03-05 12:30:25,Northern Owens Valley,Big Pine Ck. USGS Flow,11.3
-2020-03-05 12:30:25,Northern Owens Valley,O.R. Below Big Pine,244.6
-2020-03-05 12:30:25,Northern Owens Valley,Fish Springs At RR Flow,35.9
-2020-03-05 12:30:25,Northern Owens Valley,Tinemaha Reservoir Outflow,273.9
-2020-03-05 12:30:25,Northern Owens Valley,Bishop Creek Through Plant 6,55.4
-2020-03-05 12:30:25,Northern Owens Valley,Bishop Creek Around Plant 6,3.8
+2020-03-05 12:15:27,Northern Owens Valley,Tinemaha Elevation,3860.7
+2020-03-05 12:30:25,Long Valley,Hot Ck.at Hwy. Flow,6.0
+2020-03-05 12:30:25,Long Valley,McGee Ck. Lower Sta. Flow,11.3
+2020-03-05 12:30:25,Long Valley,Long Valley Current Outflow,0.0
+2020-03-05 12:30:25,Long Valley,Rock Ck. Div. Flow,0.0
 2020-03-05 12:30:25,Southern Owens Valley,Tinemaha Reservoir Outflow,273.9
 2020-03-05 12:30:25,Southern Owens Valley,Indep. Ck. At Junction Flow,4.0
 2020-03-05 12:30:25,Southern Owens Valley,LAA at Alabama Flow,351.0
@@ -827,10 +822,19 @@ date,district,source,value
 2020-03-05 12:30:25,Lower Owens River Project,LORP at Reinhackle Springs,45.0
 2020-03-05 12:30:25,Lower Owens River Project,LORP Above Pumpstation,53.0
 2020-03-05 12:30:25,Lower Owens River Project,LORP At Pump Station Discharge Flow,45.0
-2020-03-05 12:30:25,Long Valley,Hot Ck.at Hwy. Flow,6.0
-2020-03-05 12:30:25,Long Valley,McGee Ck. Lower Sta. Flow,11.3
-2020-03-05 12:30:25,Long Valley,Long Valley Current Outflow,0.0
-2020-03-05 12:30:25,Long Valley,Rock Ck. Div. Flow,0.0
+2020-03-05 12:30:25,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.0
+2020-03-05 12:30:25,Northern Owens Valley,Pleasant Valley Outflow,127.6
+2020-03-05 12:30:25,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
+2020-03-05 12:30:25,Northern Owens Valley,Big Pine Ck. USGS Flow,11.3
+2020-03-05 12:30:25,Northern Owens Valley,O.R. Below Big Pine,244.6
+2020-03-05 12:30:25,Northern Owens Valley,Fish Springs At RR Flow,35.9
+2020-03-05 12:30:25,Northern Owens Valley,Tinemaha Reservoir Outflow,273.9
+2020-03-05 12:30:25,Northern Owens Valley,Bishop Creek Through Plant 6,55.4
+2020-03-05 12:30:25,Northern Owens Valley,Bishop Creek Around Plant 6,3.8
+2020-03-05 12:30:26,Long Valley,East Portal Flow,41.0
+2020-03-05 12:30:26,Long Valley,OR Below EP Flow,93.0
+2020-03-05 12:30:26,Long Valley,Upper Gorge Total Release,85.0
+2020-03-05 12:30:26,Long Valley,Release at Middle Gorge,0.0
 2020-03-05 12:30:26,Southern District,LAA #1 Flow at Fairmont Reservoir,296.8
 2020-03-05 12:30:26,Southern District,LAA #2 Flow at Fairmont Res.,204.2
 2020-03-05 12:30:26,Southern District,Bouquet Reservoir Inflow,0.2
@@ -849,11 +853,7 @@ date,district,source,value
 2020-03-05 12:30:26,Mono Basin,Grant Lk. Outflow,64.7
 2020-03-05 12:30:26,Mono Basin,Rush Ck. at Damsite Flow,48.0
 2020-03-05 12:30:26,Mono Basin,Flow to West Portal,29.5
-2020-03-05 12:30:26,Long Valley,East Portal Flow,41.0
-2020-03-05 12:30:26,Long Valley,OR Below EP Flow,93.0
-2020-03-05 12:30:26,Long Valley,Upper Gorge Total Release,85.0
-2020-03-05 12:30:26,Long Valley,Release at Middle Gorge,0.0
-2020-03-05 12:30:27,Northern Owens Valley,Pleasant Valley Elevation,4378.8
+2020-03-05 12:30:27,Long Valley,Long Valley Elevation,6773.8
 2020-03-05 12:30:27,Southern Owens Valley,LAA at Alabama Level,7.4
 2020-03-05 12:30:27,Southern Owens Valley,LAA at Alabama Water Temp,51.5
 2020-03-05 12:30:27,Southern Owens Valley,LAA at Cottonwood Level,7.5
@@ -863,22 +863,19 @@ date,district,source,value
 2020-03-05 12:30:27,Southern District,S. Haiwee Reservoir Elevation,3740.1
 2020-03-05 12:30:27,Southern District,Fairmont Reservoir Elevation,3026.4
 2020-03-05 12:30:27,Southern District,Bouquet Reservoir Elevation,2984.1
+2020-03-05 12:30:27,Northern Owens Valley,Pleasant Valley Elevation,4378.8
 2020-03-05 12:30:27,Mono Basin,Mono Lk. Elevation,6382.3
 2020-03-05 12:30:27,Mono Basin,Grant Lk. Elevation,7109.0
-2020-03-05 12:30:27,Long Valley,Long Valley Elevation,6773.8
-2020-03-05 12:45:27,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 12:45:27,Southern Owens Valley,Tinemaha Elevation,3860.7
-2020-03-05 13:15:27,Northern Owens Valley,Tinemaha Elevation,3860.7
+2020-03-05 12:45:27,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 13:15:27,Southern Owens Valley,Tinemaha Elevation,3860.7
-2020-03-05 13:30:25,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.0
-2020-03-05 13:30:25,Northern Owens Valley,Pleasant Valley Outflow,128.7
-2020-03-05 13:30:25,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
-2020-03-05 13:30:25,Northern Owens Valley,Big Pine Ck. USGS Flow,11.3
-2020-03-05 13:30:25,Northern Owens Valley,O.R. Below Big Pine,242.4
-2020-03-05 13:30:25,Northern Owens Valley,Fish Springs At RR Flow,35.9
-2020-03-05 13:30:25,Northern Owens Valley,Tinemaha Reservoir Outflow,273.9
-2020-03-05 13:30:25,Northern Owens Valley,Bishop Creek Through Plant 6,55.8
-2020-03-05 13:30:25,Northern Owens Valley,Bishop Creek Around Plant 6,3.8
+2020-03-05 13:15:27,Northern Owens Valley,Tinemaha Elevation,3860.7
+2020-03-05 13:30:25,Long Valley,Hot Ck.at Hwy. Flow,6.0
+2020-03-05 13:30:25,Long Valley,McGee Ck. Lower Sta. Flow,11.3
+2020-03-05 13:30:25,Long Valley,Long Valley Current Outflow,0.0
+2020-03-05 13:30:25,Long Valley,Rock Ck. Div. Flow,0.0
+2020-03-05 13:30:25,Long Valley,Upper Gorge Total Release,85.0
+2020-03-05 13:30:25,Long Valley,Release at Middle Gorge,0.0
 2020-03-05 13:30:25,Southern Owens Valley,Tinemaha Reservoir Outflow,273.9
 2020-03-05 13:30:25,Southern Owens Valley,Indep. Ck. At Junction Flow,4.0
 2020-03-05 13:30:25,Southern Owens Valley,LAA at Alabama Flow,350.0
@@ -891,22 +888,27 @@ date,district,source,value
 2020-03-05 13:30:25,Southern Owens Valley,Cartago Spillgate Outflow,12.0
 2020-03-05 13:30:25,Southern District,Haiwee LAA #2 Current Flow,142.4
 2020-03-05 13:30:25,Southern District,Haiwee LAA #1 Current Flow,144.2
-2020-03-05 13:30:25,Mono Basin,Lee Vining Intake Above Flow,25.5
-2020-03-05 13:30:25,Mono Basin,Lee Vining Intake Below Flow,20.2
-2020-03-05 13:30:25,Mono Basin,L.V. Conduit Below Intake Flow,0.4
-2020-03-05 13:30:25,Mono Basin,Walker Ck. Under Conduit Flow,4.0
-2020-03-05 13:30:25,Mono Basin,Parker Ck. Under Conduit Flow,4.0
 2020-03-05 13:30:25,Lower Owens River Project,LORP Intake Flow,41.0
 2020-03-05 13:30:25,Lower Owens River Project,LORP at Mazourka Canyon Road,50.0
 2020-03-05 13:30:25,Lower Owens River Project,LORP at Reinhackle Springs,45.0
 2020-03-05 13:30:25,Lower Owens River Project,LORP Above Pumpstation,55.0
 2020-03-05 13:30:25,Lower Owens River Project,LORP At Pump Station Discharge Flow,48.0
-2020-03-05 13:30:25,Long Valley,Hot Ck.at Hwy. Flow,6.0
-2020-03-05 13:30:25,Long Valley,McGee Ck. Lower Sta. Flow,11.3
-2020-03-05 13:30:25,Long Valley,Long Valley Current Outflow,0.0
-2020-03-05 13:30:25,Long Valley,Rock Ck. Div. Flow,0.0
-2020-03-05 13:30:25,Long Valley,Upper Gorge Total Release,85.0
-2020-03-05 13:30:25,Long Valley,Release at Middle Gorge,0.0
+2020-03-05 13:30:25,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.0
+2020-03-05 13:30:25,Northern Owens Valley,Pleasant Valley Outflow,128.7
+2020-03-05 13:30:25,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
+2020-03-05 13:30:25,Northern Owens Valley,Big Pine Ck. USGS Flow,11.3
+2020-03-05 13:30:25,Northern Owens Valley,O.R. Below Big Pine,242.4
+2020-03-05 13:30:25,Northern Owens Valley,Fish Springs At RR Flow,35.9
+2020-03-05 13:30:25,Northern Owens Valley,Tinemaha Reservoir Outflow,273.9
+2020-03-05 13:30:25,Northern Owens Valley,Bishop Creek Through Plant 6,55.8
+2020-03-05 13:30:25,Northern Owens Valley,Bishop Creek Around Plant 6,3.8
+2020-03-05 13:30:25,Mono Basin,Lee Vining Intake Above Flow,25.5
+2020-03-05 13:30:25,Mono Basin,Lee Vining Intake Below Flow,20.2
+2020-03-05 13:30:25,Mono Basin,L.V. Conduit Below Intake Flow,0.4
+2020-03-05 13:30:25,Mono Basin,Walker Ck. Under Conduit Flow,4.0
+2020-03-05 13:30:25,Mono Basin,Parker Ck. Under Conduit Flow,4.0
+2020-03-05 13:30:26,Long Valley,East Portal Flow,41.0
+2020-03-05 13:30:26,Long Valley,OR Below EP Flow,95.0
 2020-03-05 13:30:26,Southern District,LAA #1 Flow at Fairmont Reservoir,276.7
 2020-03-05 13:30:26,Southern District,LAA #2 Flow at Fairmont Res.,203.6
 2020-03-05 13:30:26,Southern District,Bouquet Reservoir Inflow,0.2
@@ -920,9 +922,7 @@ date,district,source,value
 2020-03-05 13:30:26,Mono Basin,Grant Lk. Outflow,64.0
 2020-03-05 13:30:26,Mono Basin,Rush Ck. at Damsite Flow,48.0
 2020-03-05 13:30:26,Mono Basin,Flow to West Portal,29.5
-2020-03-05 13:30:26,Long Valley,East Portal Flow,41.0
-2020-03-05 13:30:26,Long Valley,OR Below EP Flow,95.0
-2020-03-05 13:30:27,Northern Owens Valley,Pleasant Valley Elevation,4378.8
+2020-03-05 13:30:27,Long Valley,Long Valley Elevation,6773.8
 2020-03-05 13:30:27,Southern Owens Valley,LAA at Alabama Level,7.4
 2020-03-05 13:30:27,Southern Owens Valley,LAA at Alabama Water Temp,52.6
 2020-03-05 13:30:27,Southern Owens Valley,LAA at Cottonwood Level,7.5
@@ -932,11 +932,11 @@ date,district,source,value
 2020-03-05 13:30:27,Southern District,S. Haiwee Reservoir Elevation,3740.1
 2020-03-05 13:30:27,Southern District,Fairmont Reservoir Elevation,3026.6
 2020-03-05 13:30:27,Southern District,Bouquet Reservoir Elevation,2984.1
+2020-03-05 13:30:27,Northern Owens Valley,Pleasant Valley Elevation,4378.8
 2020-03-05 13:30:27,Mono Basin,Mono Lk. Elevation,6382.3
 2020-03-05 13:30:27,Mono Basin,Grant Lk. Elevation,7108.9
-2020-03-05 13:30:27,Long Valley,Long Valley Elevation,6773.8
-2020-03-05 13:45:27,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 13:45:27,Southern Owens Valley,Tinemaha Elevation,3860.7
+2020-03-05 13:45:27,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 14:00:25,Mono Basin,Lee Vining Intake Above Flow,25.5
 2020-03-05 14:00:25,Mono Basin,Lee Vining Intake Below Flow,20.2
 2020-03-05 14:00:25,Mono Basin,Walker Ck. Above Conduit Flow,4.0
@@ -1035,8 +1035,8 @@ date,district,source,value
 2020-03-05 14:15:26,Southern District,Bouquet Reservoir Outflow,107.3
 2020-03-05 14:15:26,Southern District,LAA #1 at Soledad Flow,2.1
 2020-03-05 14:15:26,Southern District,LAA #2 at Soledad Flow,302.3
-2020-03-05 14:15:27,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 14:15:27,Southern Owens Valley,Tinemaha Elevation,3860.7
+2020-03-05 14:15:27,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 14:15:27,Mono Basin,Mono Lk. Elevation,6382.3
 2020-03-05 14:15:27,Mono Basin,Grant Lk. Elevation,7108.9
 2020-03-05 14:15:27,Southern District,S. Haiwee Reservoir Elevation,3740.1
@@ -1045,15 +1045,6 @@ date,district,source,value
 2020-03-05 14:15:27,Northern Owens Valley,Pleasant Valley Elevation,4378.8
 2020-03-05 14:15:27,Southern Owens Valley,S. Haiwee Reservoir Elevation,3740.1
 2020-03-05 14:15:27,Long Valley,Long Valley Elevation,6773.8
-2020-03-05 14:30:25,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.0
-2020-03-05 14:30:25,Northern Owens Valley,Pleasant Valley Outflow,128.0
-2020-03-05 14:30:25,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
-2020-03-05 14:30:25,Northern Owens Valley,Big Pine Ck. USGS Flow,11.3
-2020-03-05 14:30:25,Northern Owens Valley,O.R. Below Big Pine,242.4
-2020-03-05 14:30:25,Northern Owens Valley,Fish Springs At RR Flow,35.3
-2020-03-05 14:30:25,Northern Owens Valley,Tinemaha Reservoir Outflow,323.2
-2020-03-05 14:30:25,Northern Owens Valley,Bishop Creek Through Plant 6,57.0
-2020-03-05 14:30:25,Northern Owens Valley,Bishop Creek Around Plant 6,3.9
 2020-03-05 14:30:25,Southern Owens Valley,Tinemaha Reservoir Outflow,323.2
 2020-03-05 14:30:25,Southern Owens Valley,Indep. Ck. At Junction Flow,4.0
 2020-03-05 14:30:25,Southern Owens Valley,LAA at Alabama Flow,351.0
@@ -1071,6 +1062,23 @@ date,district,source,value
 2020-03-05 14:30:25,Lower Owens River Project,LORP at Reinhackle Springs,44.0
 2020-03-05 14:30:25,Lower Owens River Project,LORP Above Pumpstation,51.0
 2020-03-05 14:30:25,Lower Owens River Project,LORP At Pump Station Discharge Flow,45.0
+2020-03-05 14:30:25,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.0
+2020-03-05 14:30:25,Northern Owens Valley,Pleasant Valley Outflow,128.0
+2020-03-05 14:30:25,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
+2020-03-05 14:30:25,Northern Owens Valley,Big Pine Ck. USGS Flow,11.3
+2020-03-05 14:30:25,Northern Owens Valley,O.R. Below Big Pine,242.4
+2020-03-05 14:30:25,Northern Owens Valley,Fish Springs At RR Flow,35.3
+2020-03-05 14:30:25,Northern Owens Valley,Tinemaha Reservoir Outflow,323.2
+2020-03-05 14:30:25,Northern Owens Valley,Bishop Creek Through Plant 6,57.0
+2020-03-05 14:30:25,Northern Owens Valley,Bishop Creek Around Plant 6,3.9
+2020-03-05 14:30:26,Long Valley,East Portal Flow,41.0
+2020-03-05 14:30:26,Long Valley,OR Below EP Flow,94.0
+2020-03-05 14:30:26,Long Valley,Hot Ck.at Hwy. Flow,6.0
+2020-03-05 14:30:26,Long Valley,McGee Ck. Lower Sta. Flow,11.3
+2020-03-05 14:30:26,Long Valley,Long Valley Current Outflow,0.0
+2020-03-05 14:30:26,Long Valley,Rock Ck. Div. Flow,0.0
+2020-03-05 14:30:26,Long Valley,Upper Gorge Total Release,85.0
+2020-03-05 14:30:26,Long Valley,Release at Middle Gorge,0.0
 2020-03-05 14:30:26,Southern District,LAA #1 Flow at Fairmont Reservoir,266.7
 2020-03-05 14:30:26,Southern District,LAA #2 Flow at Fairmont Res.,203.8
 2020-03-05 14:30:26,Southern District,Bouquet Reservoir Inflow,0.2
@@ -1089,15 +1097,7 @@ date,district,source,value
 2020-03-05 14:30:26,Mono Basin,Grant Lk. Outflow,64.8
 2020-03-05 14:30:26,Mono Basin,Rush Ck. at Damsite Flow,48.0
 2020-03-05 14:30:26,Mono Basin,Flow to West Portal,29.5
-2020-03-05 14:30:26,Long Valley,East Portal Flow,41.0
-2020-03-05 14:30:26,Long Valley,OR Below EP Flow,94.0
-2020-03-05 14:30:26,Long Valley,Hot Ck.at Hwy. Flow,6.0
-2020-03-05 14:30:26,Long Valley,McGee Ck. Lower Sta. Flow,11.3
-2020-03-05 14:30:26,Long Valley,Long Valley Current Outflow,0.0
-2020-03-05 14:30:26,Long Valley,Rock Ck. Div. Flow,0.0
-2020-03-05 14:30:26,Long Valley,Upper Gorge Total Release,85.0
-2020-03-05 14:30:26,Long Valley,Release at Middle Gorge,0.0
-2020-03-05 14:30:27,Northern Owens Valley,Pleasant Valley Elevation,4378.8
+2020-03-05 14:30:27,Long Valley,Long Valley Elevation,6773.8
 2020-03-05 14:30:27,Southern Owens Valley,LAA at Alabama Level,7.4
 2020-03-05 14:30:27,Southern Owens Valley,LAA at Alabama Water Temp,53.2
 2020-03-05 14:30:27,Southern Owens Valley,LAA at Cottonwood Level,7.5
@@ -1107,9 +1107,9 @@ date,district,source,value
 2020-03-05 14:30:27,Southern District,S. Haiwee Reservoir Elevation,3740.1
 2020-03-05 14:30:27,Southern District,Fairmont Reservoir Elevation,3026.9
 2020-03-05 14:30:27,Southern District,Bouquet Reservoir Elevation,2984.1
+2020-03-05 14:30:27,Northern Owens Valley,Pleasant Valley Elevation,4378.8
 2020-03-05 14:30:27,Mono Basin,Mono Lk. Elevation,6382.3
 2020-03-05 14:30:27,Mono Basin,Grant Lk. Elevation,7109.0
-2020-03-05 14:30:27,Long Valley,Long Valley Elevation,6773.8
 2020-03-05 14:45:25,Mono Basin,Lee Vining Intake Above Flow,25.5
 2020-03-05 14:45:25,Mono Basin,Lee Vining Intake Below Flow,20.2
 2020-03-05 14:45:25,Mono Basin,Walker Ck. Above Conduit Flow,4.0
@@ -1155,8 +1155,8 @@ date,district,source,value
 2020-03-05 14:45:25,Long Valley,Rock Ck. Div. Flow,0.0
 2020-03-05 14:45:25,Long Valley,Upper Gorge Total Release,85.0
 2020-03-05 14:45:25,Long Valley,Release at Middle Gorge,0.0
-2020-03-05 14:45:26,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 14:45:26,Southern Owens Valley,Tinemaha Elevation,3860.7
+2020-03-05 14:45:26,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 14:45:26,Southern District,S. Haiwee Reservoir Elevation,3740.1
 2020-03-05 14:45:26,Southern Owens Valley,S. Haiwee Reservoir Elevation,3740.1
 2020-03-05 14:45:27,Mono Basin,Mono Lk. Elevation,6382.3
@@ -1283,8 +1283,8 @@ date,district,source,value
 2020-03-05 15:15:26,Southern District,LAA #2 at Soledad Flow,302.3
 2020-03-05 15:15:26,Long Valley,East Portal Flow,41.0
 2020-03-05 15:15:26,Long Valley,OR Below EP Flow,94.0
-2020-03-05 15:15:27,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 15:15:27,Southern Owens Valley,Tinemaha Elevation,3860.7
+2020-03-05 15:15:27,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 15:15:27,Southern Owens Valley,LAA at Alabama Level,7.4
 2020-03-05 15:15:27,Southern Owens Valley,LAA at Alabama Water Temp,53.8
 2020-03-05 15:15:27,Southern Owens Valley,LAA at Cottonwood Level,7.5
@@ -1297,15 +1297,14 @@ date,district,source,value
 2020-03-05 15:15:27,Northern Owens Valley,Pleasant Valley Elevation,4378.8
 2020-03-05 15:15:27,Southern Owens Valley,S. Haiwee Reservoir Elevation,3740.1
 2020-03-05 15:15:27,Long Valley,Long Valley Elevation,6773.8
-2020-03-05 15:30:25,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.0
-2020-03-05 15:30:25,Northern Owens Valley,Pleasant Valley Outflow,128.4
-2020-03-05 15:30:25,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
-2020-03-05 15:30:25,Northern Owens Valley,Big Pine Ck. USGS Flow,11.3
-2020-03-05 15:30:25,Northern Owens Valley,O.R. Below Big Pine,242.5
-2020-03-05 15:30:25,Northern Owens Valley,Fish Springs At RR Flow,34.3
-2020-03-05 15:30:25,Northern Owens Valley,Tinemaha Reservoir Outflow,270.7
-2020-03-05 15:30:25,Northern Owens Valley,Bishop Creek Through Plant 6,57.6
-2020-03-05 15:30:25,Northern Owens Valley,Bishop Creek Around Plant 6,4.0
+2020-03-05 15:30:25,Long Valley,East Portal Flow,41.0
+2020-03-05 15:30:25,Long Valley,OR Below EP Flow,94.0
+2020-03-05 15:30:25,Long Valley,Hot Ck.at Hwy. Flow,6.0
+2020-03-05 15:30:25,Long Valley,McGee Ck. Lower Sta. Flow,10.8
+2020-03-05 15:30:25,Long Valley,Long Valley Current Outflow,0.0
+2020-03-05 15:30:25,Long Valley,Rock Ck. Div. Flow,0.0
+2020-03-05 15:30:25,Long Valley,Upper Gorge Total Release,85.0
+2020-03-05 15:30:25,Long Valley,Release at Middle Gorge,0.0
 2020-03-05 15:30:25,Southern Owens Valley,Tinemaha Reservoir Outflow,270.7
 2020-03-05 15:30:25,Southern Owens Valley,Indep. Ck. At Junction Flow,4.0
 2020-03-05 15:30:25,Southern Owens Valley,LAA at Alabama Flow,351.0
@@ -1318,6 +1317,20 @@ date,district,source,value
 2020-03-05 15:30:25,Southern Owens Valley,Cartago Spillgate Outflow,36.2
 2020-03-05 15:30:25,Southern District,Haiwee LAA #2 Current Flow,142.4
 2020-03-05 15:30:25,Southern District,Haiwee LAA #1 Current Flow,144.2
+2020-03-05 15:30:25,Lower Owens River Project,LORP Intake Flow,44.0
+2020-03-05 15:30:25,Lower Owens River Project,LORP at Mazourka Canyon Road,47.0
+2020-03-05 15:30:25,Lower Owens River Project,LORP at Reinhackle Springs,46.0
+2020-03-05 15:30:25,Lower Owens River Project,LORP Above Pumpstation,53.0
+2020-03-05 15:30:25,Lower Owens River Project,LORP At Pump Station Discharge Flow,48.0
+2020-03-05 15:30:25,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.0
+2020-03-05 15:30:25,Northern Owens Valley,Pleasant Valley Outflow,128.4
+2020-03-05 15:30:25,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
+2020-03-05 15:30:25,Northern Owens Valley,Big Pine Ck. USGS Flow,11.3
+2020-03-05 15:30:25,Northern Owens Valley,O.R. Below Big Pine,242.5
+2020-03-05 15:30:25,Northern Owens Valley,Fish Springs At RR Flow,34.3
+2020-03-05 15:30:25,Northern Owens Valley,Tinemaha Reservoir Outflow,270.7
+2020-03-05 15:30:25,Northern Owens Valley,Bishop Creek Through Plant 6,57.6
+2020-03-05 15:30:25,Northern Owens Valley,Bishop Creek Around Plant 6,4.0
 2020-03-05 15:30:25,Mono Basin,Lee Vining Intake Above Flow,25.8
 2020-03-05 15:30:25,Mono Basin,Lee Vining Intake Below Flow,20.5
 2020-03-05 15:30:25,Mono Basin,Walker Ck. Above Conduit Flow,4.0
@@ -1330,26 +1343,13 @@ date,district,source,value
 2020-03-05 15:30:25,Mono Basin,Grant Lk. Outflow,64.1
 2020-03-05 15:30:25,Mono Basin,Rush Ck. at Damsite Flow,47.3
 2020-03-05 15:30:25,Mono Basin,Flow to West Portal,29.6
-2020-03-05 15:30:25,Lower Owens River Project,LORP Intake Flow,44.0
-2020-03-05 15:30:25,Lower Owens River Project,LORP at Mazourka Canyon Road,47.0
-2020-03-05 15:30:25,Lower Owens River Project,LORP at Reinhackle Springs,46.0
-2020-03-05 15:30:25,Lower Owens River Project,LORP Above Pumpstation,53.0
-2020-03-05 15:30:25,Lower Owens River Project,LORP At Pump Station Discharge Flow,48.0
-2020-03-05 15:30:25,Long Valley,East Portal Flow,41.0
-2020-03-05 15:30:25,Long Valley,OR Below EP Flow,94.0
-2020-03-05 15:30:25,Long Valley,Hot Ck.at Hwy. Flow,6.0
-2020-03-05 15:30:25,Long Valley,McGee Ck. Lower Sta. Flow,10.8
-2020-03-05 15:30:25,Long Valley,Long Valley Current Outflow,0.0
-2020-03-05 15:30:25,Long Valley,Rock Ck. Div. Flow,0.0
-2020-03-05 15:30:25,Long Valley,Upper Gorge Total Release,85.0
-2020-03-05 15:30:25,Long Valley,Release at Middle Gorge,0.0
 2020-03-05 15:30:26,Southern District,LAA #1 Flow at Fairmont Reservoir,261.7
 2020-03-05 15:30:26,Southern District,LAA #2 Flow at Fairmont Res.,203.3
 2020-03-05 15:30:26,Southern District,Bouquet Reservoir Inflow,0.2
 2020-03-05 15:30:26,Southern District,Bouquet Reservoir Outflow,105.4
 2020-03-05 15:30:26,Southern District,LAA #1 at Soledad Flow,2.1
 2020-03-05 15:30:26,Southern District,LAA #2 at Soledad Flow,302.3
-2020-03-05 15:30:27,Northern Owens Valley,Pleasant Valley Elevation,4378.8
+2020-03-05 15:30:27,Long Valley,Long Valley Elevation,6773.8
 2020-03-05 15:30:27,Southern Owens Valley,LAA at Alabama Level,7.4
 2020-03-05 15:30:27,Southern Owens Valley,LAA at Alabama Water Temp,53.8
 2020-03-05 15:30:27,Southern Owens Valley,LAA at Cottonwood Level,7.5
@@ -1359,9 +1359,9 @@ date,district,source,value
 2020-03-05 15:30:27,Southern District,S. Haiwee Reservoir Elevation,3740.1
 2020-03-05 15:30:27,Southern District,Fairmont Reservoir Elevation,3027.0
 2020-03-05 15:30:27,Southern District,Bouquet Reservoir Elevation,2984.1
+2020-03-05 15:30:27,Northern Owens Valley,Pleasant Valley Elevation,4378.8
 2020-03-05 15:30:27,Mono Basin,Mono Lk. Elevation,6382.3
 2020-03-05 15:30:27,Mono Basin,Grant Lk. Elevation,7109.0
-2020-03-05 15:30:27,Long Valley,Long Valley Elevation,6773.8
 2020-03-05 15:45:25,Southern Owens Valley,Indep. Ck. At Junction Flow,4.0
 2020-03-05 15:45:25,Southern Owens Valley,LAA at Alabama Flow,351.0
 2020-03-05 15:45:25,Southern Owens Valley,Cottonwood Ck. At LAA Flow,7.0
@@ -1414,8 +1414,8 @@ date,district,source,value
 2020-03-05 15:45:26,Southern District,LAA #2 at Soledad Flow,302.3
 2020-03-05 15:45:26,Long Valley,East Portal Flow,41.0
 2020-03-05 15:45:26,Long Valley,OR Below EP Flow,93.0
-2020-03-05 15:45:27,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 15:45:27,Southern Owens Valley,Tinemaha Elevation,3860.7
+2020-03-05 15:45:27,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 15:45:27,Southern Owens Valley,LAA at Alabama Level,7.4
 2020-03-05 15:45:27,Southern Owens Valley,LAA at Alabama Water Temp,53.8
 2020-03-05 15:45:27,Southern Owens Valley,LAA at Cottonwood Level,7.5
@@ -1550,8 +1550,8 @@ date,district,source,value
 2020-03-05 16:15:26,Southern Owens Valley,LAA at Alabama Water Temp,54.1
 2020-03-05 16:15:26,Southern Owens Valley,LAA at Cottonwood Level,7.5
 2020-03-05 16:15:26,Southern Owens Valley,LAA at Cotton. Water Temp,54.1
-2020-03-05 16:15:27,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 16:15:27,Southern Owens Valley,Tinemaha Elevation,3860.7
+2020-03-05 16:15:27,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 16:15:27,Southern Owens Valley,N. Haiwee Elevation,3756.8
 2020-03-05 16:15:27,Mono Basin,Mono Lk. Elevation,6382.3
 2020-03-05 16:15:27,Mono Basin,Grant Lk. Elevation,7109.0
@@ -1561,15 +1561,14 @@ date,district,source,value
 2020-03-05 16:15:27,Northern Owens Valley,Pleasant Valley Elevation,4378.8
 2020-03-05 16:15:27,Southern Owens Valley,S. Haiwee Reservoir Elevation,3740.1
 2020-03-05 16:15:27,Long Valley,Long Valley Elevation,6773.8
-2020-03-05 16:30:25,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.0
-2020-03-05 16:30:25,Northern Owens Valley,Pleasant Valley Outflow,128.4
-2020-03-05 16:30:25,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
-2020-03-05 16:30:25,Northern Owens Valley,Big Pine Ck. USGS Flow,11.3
-2020-03-05 16:30:25,Northern Owens Valley,O.R. Below Big Pine,242.4
-2020-03-05 16:30:25,Northern Owens Valley,Fish Springs At RR Flow,33.8
-2020-03-05 16:30:25,Northern Owens Valley,Tinemaha Reservoir Outflow,271.2
-2020-03-05 16:30:25,Northern Owens Valley,Bishop Creek Through Plant 6,58.2
-2020-03-05 16:30:25,Northern Owens Valley,Bishop Creek Around Plant 6,4.1
+2020-03-05 16:30:25,Long Valley,East Portal Flow,41.0
+2020-03-05 16:30:25,Long Valley,OR Below EP Flow,93.0
+2020-03-05 16:30:25,Long Valley,Hot Ck.at Hwy. Flow,6.0
+2020-03-05 16:30:25,Long Valley,McGee Ck. Lower Sta. Flow,10.8
+2020-03-05 16:30:25,Long Valley,Long Valley Current Outflow,0.0
+2020-03-05 16:30:25,Long Valley,Rock Ck. Div. Flow,0.0
+2020-03-05 16:30:25,Long Valley,Upper Gorge Total Release,85.0
+2020-03-05 16:30:25,Long Valley,Release at Middle Gorge,0.0
 2020-03-05 16:30:25,Southern Owens Valley,Tinemaha Reservoir Outflow,271.2
 2020-03-05 16:30:25,Southern Owens Valley,Indep. Ck. At Junction Flow,4.0
 2020-03-05 16:30:25,Southern Owens Valley,LAA at Alabama Flow,350.0
@@ -1583,6 +1582,20 @@ date,district,source,value
 2020-03-05 16:30:25,Southern District,Haiwee LAA #2 Current Flow,142.4
 2020-03-05 16:30:25,Southern District,Haiwee LAA #1 Current Flow,144.2
 2020-03-05 16:30:25,Southern District,LAA #1 Flow at Fairmont Reservoir,266.7
+2020-03-05 16:30:25,Lower Owens River Project,LORP Intake Flow,44.0
+2020-03-05 16:30:25,Lower Owens River Project,LORP at Mazourka Canyon Road,50.0
+2020-03-05 16:30:25,Lower Owens River Project,LORP at Reinhackle Springs,42.0
+2020-03-05 16:30:25,Lower Owens River Project,LORP Above Pumpstation,53.0
+2020-03-05 16:30:25,Lower Owens River Project,LORP At Pump Station Discharge Flow,48.0
+2020-03-05 16:30:25,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.0
+2020-03-05 16:30:25,Northern Owens Valley,Pleasant Valley Outflow,128.4
+2020-03-05 16:30:25,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
+2020-03-05 16:30:25,Northern Owens Valley,Big Pine Ck. USGS Flow,11.3
+2020-03-05 16:30:25,Northern Owens Valley,O.R. Below Big Pine,242.4
+2020-03-05 16:30:25,Northern Owens Valley,Fish Springs At RR Flow,33.8
+2020-03-05 16:30:25,Northern Owens Valley,Tinemaha Reservoir Outflow,271.2
+2020-03-05 16:30:25,Northern Owens Valley,Bishop Creek Through Plant 6,58.2
+2020-03-05 16:30:25,Northern Owens Valley,Bishop Creek Around Plant 6,4.1
 2020-03-05 16:30:25,Mono Basin,Lee Vining Intake Above Flow,25.3
 2020-03-05 16:30:25,Mono Basin,Lee Vining Intake Below Flow,20.9
 2020-03-05 16:30:25,Mono Basin,Walker Ck. Above Conduit Flow,4.0
@@ -1595,25 +1608,12 @@ date,district,source,value
 2020-03-05 16:30:25,Mono Basin,Grant Lk. Outflow,64.6
 2020-03-05 16:30:25,Mono Basin,Rush Ck. at Damsite Flow,47.3
 2020-03-05 16:30:25,Mono Basin,Flow to West Portal,29.6
-2020-03-05 16:30:25,Lower Owens River Project,LORP Intake Flow,44.0
-2020-03-05 16:30:25,Lower Owens River Project,LORP at Mazourka Canyon Road,50.0
-2020-03-05 16:30:25,Lower Owens River Project,LORP at Reinhackle Springs,42.0
-2020-03-05 16:30:25,Lower Owens River Project,LORP Above Pumpstation,53.0
-2020-03-05 16:30:25,Lower Owens River Project,LORP At Pump Station Discharge Flow,48.0
-2020-03-05 16:30:25,Long Valley,East Portal Flow,41.0
-2020-03-05 16:30:25,Long Valley,OR Below EP Flow,93.0
-2020-03-05 16:30:25,Long Valley,Hot Ck.at Hwy. Flow,6.0
-2020-03-05 16:30:25,Long Valley,McGee Ck. Lower Sta. Flow,10.8
-2020-03-05 16:30:25,Long Valley,Long Valley Current Outflow,0.0
-2020-03-05 16:30:25,Long Valley,Rock Ck. Div. Flow,0.0
-2020-03-05 16:30:25,Long Valley,Upper Gorge Total Release,85.0
-2020-03-05 16:30:25,Long Valley,Release at Middle Gorge,0.0
 2020-03-05 16:30:26,Southern District,LAA #2 Flow at Fairmont Res.,203.2
 2020-03-05 16:30:26,Southern District,Bouquet Reservoir Inflow,0.2
 2020-03-05 16:30:26,Southern District,Bouquet Reservoir Outflow,107.9
 2020-03-05 16:30:26,Southern District,LAA #1 at Soledad Flow,2.1
 2020-03-05 16:30:26,Southern District,LAA #2 at Soledad Flow,302.3
-2020-03-05 16:30:27,Northern Owens Valley,Pleasant Valley Elevation,4378.8
+2020-03-05 16:30:27,Long Valley,Long Valley Elevation,6773.8
 2020-03-05 16:30:27,Southern Owens Valley,LAA at Alabama Level,7.4
 2020-03-05 16:30:27,Southern Owens Valley,LAA at Alabama Water Temp,54.1
 2020-03-05 16:30:27,Southern Owens Valley,LAA at Cottonwood Level,7.5
@@ -1623,9 +1623,9 @@ date,district,source,value
 2020-03-05 16:30:27,Southern District,S. Haiwee Reservoir Elevation,3740.1
 2020-03-05 16:30:27,Southern District,Fairmont Reservoir Elevation,3027.3
 2020-03-05 16:30:27,Southern District,Bouquet Reservoir Elevation,2984.1
+2020-03-05 16:30:27,Northern Owens Valley,Pleasant Valley Elevation,4378.8
 2020-03-05 16:30:27,Mono Basin,Mono Lk. Elevation,6382.3
 2020-03-05 16:30:27,Mono Basin,Grant Lk. Elevation,7109.0
-2020-03-05 16:30:27,Long Valley,Long Valley Elevation,6773.8
 2020-03-05 16:45:27,Southern Owens Valley,Indep. Ck. At Junction Flow,4.0
 2020-03-05 16:45:27,Southern Owens Valley,LAA at Alabama Flow,350.0
 2020-03-05 16:45:27,Southern Owens Valley,Cottonwood Ck. At LAA Flow,7.0
@@ -1678,8 +1678,8 @@ date,district,source,value
 2020-03-05 16:45:27,Long Valley,Rock Ck. Div. Flow,0.0
 2020-03-05 16:45:27,Long Valley,Upper Gorge Total Release,85.0
 2020-03-05 16:45:27,Long Valley,Release at Middle Gorge,0.0
-2020-03-05 16:45:28,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 16:45:28,Southern Owens Valley,Tinemaha Elevation,3860.7
+2020-03-05 16:45:28,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 16:45:28,Southern Owens Valley,LAA at Alabama Level,7.4
 2020-03-05 16:45:28,Southern Owens Valley,LAA at Alabama Water Temp,54.1
 2020-03-05 16:45:28,Southern Owens Valley,LAA at Cottonwood Level,7.5
@@ -1810,8 +1810,8 @@ date,district,source,value
 2020-03-05 17:15:27,Long Valley,Rock Ck. Div. Flow,0.0
 2020-03-05 17:15:27,Long Valley,Upper Gorge Total Release,85.0
 2020-03-05 17:15:27,Long Valley,Release at Middle Gorge,0.0
-2020-03-05 17:15:28,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 17:15:28,Southern Owens Valley,Tinemaha Elevation,3860.7
+2020-03-05 17:15:28,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 17:15:28,Southern Owens Valley,LAA at Alabama Level,7.4
 2020-03-05 17:15:28,Southern Owens Valley,LAA at Alabama Water Temp,54.2
 2020-03-05 17:15:28,Southern Owens Valley,LAA at Cottonwood Level,7.6
@@ -1825,15 +1825,14 @@ date,district,source,value
 2020-03-05 17:15:28,Northern Owens Valley,Pleasant Valley Elevation,4378.8
 2020-03-05 17:15:28,Southern Owens Valley,S. Haiwee Reservoir Elevation,3740.1
 2020-03-05 17:15:28,Long Valley,Long Valley Elevation,6773.8
-2020-03-05 17:30:27,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.0
-2020-03-05 17:30:27,Northern Owens Valley,Pleasant Valley Outflow,127.7
-2020-03-05 17:30:27,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
-2020-03-05 17:30:27,Northern Owens Valley,Big Pine Ck. USGS Flow,11.3
-2020-03-05 17:30:27,Northern Owens Valley,O.R. Below Big Pine,242.3
-2020-03-05 17:30:27,Northern Owens Valley,Fish Springs At RR Flow,34.8
-2020-03-05 17:30:27,Northern Owens Valley,Tinemaha Reservoir Outflow,271.4
-2020-03-05 17:30:27,Northern Owens Valley,Bishop Creek Through Plant 6,56.3
-2020-03-05 17:30:27,Northern Owens Valley,Bishop Creek Around Plant 6,4.4
+2020-03-05 17:30:27,Long Valley,East Portal Flow,41.0
+2020-03-05 17:30:27,Long Valley,OR Below EP Flow,93.0
+2020-03-05 17:30:27,Long Valley,Hot Ck.at Hwy. Flow,6.0
+2020-03-05 17:30:27,Long Valley,McGee Ck. Lower Sta. Flow,10.8
+2020-03-05 17:30:27,Long Valley,Long Valley Current Outflow,147.5
+2020-03-05 17:30:27,Long Valley,Rock Ck. Div. Flow,0.0
+2020-03-05 17:30:27,Long Valley,Upper Gorge Total Release,85.0
+2020-03-05 17:30:27,Long Valley,Release at Middle Gorge,0.0
 2020-03-05 17:30:27,Southern Owens Valley,Tinemaha Reservoir Outflow,271.4
 2020-03-05 17:30:27,Southern Owens Valley,Indep. Ck. At Junction Flow,4.0
 2020-03-05 17:30:27,Southern Owens Valley,LAA at Alabama Flow,351.0
@@ -1852,6 +1851,20 @@ date,district,source,value
 2020-03-05 17:30:27,Southern District,Bouquet Reservoir Outflow,108.1
 2020-03-05 17:30:27,Southern District,LAA #1 at Soledad Flow,2.1
 2020-03-05 17:30:27,Southern District,LAA #2 at Soledad Flow,302.3
+2020-03-05 17:30:27,Lower Owens River Project,LORP Intake Flow,44.0
+2020-03-05 17:30:27,Lower Owens River Project,LORP at Mazourka Canyon Road,48.0
+2020-03-05 17:30:27,Lower Owens River Project,LORP at Reinhackle Springs,46.0
+2020-03-05 17:30:27,Lower Owens River Project,LORP Above Pumpstation,52.0
+2020-03-05 17:30:27,Lower Owens River Project,LORP At Pump Station Discharge Flow,47.0
+2020-03-05 17:30:27,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.0
+2020-03-05 17:30:27,Northern Owens Valley,Pleasant Valley Outflow,127.7
+2020-03-05 17:30:27,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
+2020-03-05 17:30:27,Northern Owens Valley,Big Pine Ck. USGS Flow,11.3
+2020-03-05 17:30:27,Northern Owens Valley,O.R. Below Big Pine,242.3
+2020-03-05 17:30:27,Northern Owens Valley,Fish Springs At RR Flow,34.8
+2020-03-05 17:30:27,Northern Owens Valley,Tinemaha Reservoir Outflow,271.4
+2020-03-05 17:30:27,Northern Owens Valley,Bishop Creek Through Plant 6,56.3
+2020-03-05 17:30:27,Northern Owens Valley,Bishop Creek Around Plant 6,4.4
 2020-03-05 17:30:27,Mono Basin,Lee Vining Intake Above Flow,25.3
 2020-03-05 17:30:27,Mono Basin,Lee Vining Intake Below Flow,20.9
 2020-03-05 17:30:27,Mono Basin,Walker Ck. Above Conduit Flow,4.0
@@ -1864,22 +1877,9 @@ date,district,source,value
 2020-03-05 17:30:27,Mono Basin,Grant Lk. Outflow,64.4
 2020-03-05 17:30:27,Mono Basin,Rush Ck. at Damsite Flow,47.3
 2020-03-05 17:30:27,Mono Basin,Flow to West Portal,29.6
-2020-03-05 17:30:27,Lower Owens River Project,LORP Intake Flow,44.0
-2020-03-05 17:30:27,Lower Owens River Project,LORP at Mazourka Canyon Road,48.0
-2020-03-05 17:30:27,Lower Owens River Project,LORP at Reinhackle Springs,46.0
-2020-03-05 17:30:27,Lower Owens River Project,LORP Above Pumpstation,52.0
-2020-03-05 17:30:27,Lower Owens River Project,LORP At Pump Station Discharge Flow,47.0
-2020-03-05 17:30:27,Long Valley,East Portal Flow,41.0
-2020-03-05 17:30:27,Long Valley,OR Below EP Flow,93.0
-2020-03-05 17:30:27,Long Valley,Hot Ck.at Hwy. Flow,6.0
-2020-03-05 17:30:27,Long Valley,McGee Ck. Lower Sta. Flow,10.8
-2020-03-05 17:30:27,Long Valley,Long Valley Current Outflow,147.5
-2020-03-05 17:30:27,Long Valley,Rock Ck. Div. Flow,0.0
-2020-03-05 17:30:27,Long Valley,Upper Gorge Total Release,85.0
-2020-03-05 17:30:27,Long Valley,Release at Middle Gorge,0.0
 2020-03-05 17:30:28,Southern Owens Valley,LAA at Alabama Water Temp,54.2
 2020-03-05 17:30:28,Southern Owens Valley,LAA at Cotton. Water Temp,53.8
-2020-03-05 17:30:29,Northern Owens Valley,Pleasant Valley Elevation,4378.8
+2020-03-05 17:30:29,Long Valley,Long Valley Elevation,6773.8
 2020-03-05 17:30:29,Southern Owens Valley,LAA at Alabama Level,7.4
 2020-03-05 17:30:29,Southern Owens Valley,LAA at Cottonwood Level,7.6
 2020-03-05 17:30:29,Southern Owens Valley,N. Haiwee Elevation,3756.8
@@ -1887,9 +1887,9 @@ date,district,source,value
 2020-03-05 17:30:29,Southern District,S. Haiwee Reservoir Elevation,3740.1
 2020-03-05 17:30:29,Southern District,Fairmont Reservoir Elevation,3027.6
 2020-03-05 17:30:29,Southern District,Bouquet Reservoir Elevation,2984.1
+2020-03-05 17:30:29,Northern Owens Valley,Pleasant Valley Elevation,4378.8
 2020-03-05 17:30:29,Mono Basin,Mono Lk. Elevation,6382.3
 2020-03-05 17:30:29,Mono Basin,Grant Lk. Elevation,7108.9
-2020-03-05 17:30:29,Long Valley,Long Valley Elevation,6773.8
 2020-03-05 17:45:27,Southern Owens Valley,Indep. Ck. At Junction Flow,4.0
 2020-03-05 17:45:27,Southern Owens Valley,LAA at Alabama Flow,351.0
 2020-03-05 17:45:27,Southern Owens Valley,Cottonwood Ck. At LAA Flow,7.0
@@ -1942,8 +1942,8 @@ date,district,source,value
 2020-03-05 17:45:27,Long Valley,Rock Ck. Div. Flow,0.0
 2020-03-05 17:45:27,Long Valley,Upper Gorge Total Release,85.0
 2020-03-05 17:45:27,Long Valley,Release at Middle Gorge,0.0
-2020-03-05 17:45:28,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 17:45:28,Southern Owens Valley,Tinemaha Elevation,3860.7
+2020-03-05 17:45:28,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 17:45:28,Southern Owens Valley,LAA at Alabama Level,7.4
 2020-03-05 17:45:28,Southern Owens Valley,LAA at Alabama Water Temp,54.1
 2020-03-05 17:45:28,Southern Owens Valley,LAA at Cottonwood Level,7.6
@@ -2074,8 +2074,8 @@ date,district,source,value
 2020-03-05 18:15:27,Long Valley,Rock Ck. Div. Flow,0.0
 2020-03-05 18:15:27,Long Valley,Upper Gorge Total Release,85.0
 2020-03-05 18:15:27,Long Valley,Release at Middle Gorge,0.0
-2020-03-05 18:15:28,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 18:15:28,Southern Owens Valley,Tinemaha Elevation,3860.7
+2020-03-05 18:15:28,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 18:15:28,Southern Owens Valley,LAA at Alabama Level,7.4
 2020-03-05 18:15:28,Southern Owens Valley,LAA at Alabama Water Temp,54.2
 2020-03-05 18:15:28,Southern Owens Valley,LAA at Cottonwood Level,7.6
@@ -2089,15 +2089,14 @@ date,district,source,value
 2020-03-05 18:15:28,Northern Owens Valley,Pleasant Valley Elevation,4378.8
 2020-03-05 18:15:28,Southern Owens Valley,S. Haiwee Reservoir Elevation,3740.1
 2020-03-05 18:15:28,Long Valley,Long Valley Elevation,6773.8
-2020-03-05 18:30:27,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.0
-2020-03-05 18:30:27,Northern Owens Valley,Pleasant Valley Outflow,128.0
-2020-03-05 18:30:27,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
-2020-03-05 18:30:27,Northern Owens Valley,Big Pine Ck. USGS Flow,11.3
-2020-03-05 18:30:27,Northern Owens Valley,O.R. Below Big Pine,240.3
-2020-03-05 18:30:27,Northern Owens Valley,Fish Springs At RR Flow,36.4
-2020-03-05 18:30:27,Northern Owens Valley,Tinemaha Reservoir Outflow,271.7
-2020-03-05 18:30:27,Northern Owens Valley,Bishop Creek Through Plant 6,57.2
-2020-03-05 18:30:27,Northern Owens Valley,Bishop Creek Around Plant 6,4.6
+2020-03-05 18:30:27,Long Valley,East Portal Flow,41.0
+2020-03-05 18:30:27,Long Valley,OR Below EP Flow,93.0
+2020-03-05 18:30:27,Long Valley,Hot Ck.at Hwy. Flow,6.0
+2020-03-05 18:30:27,Long Valley,McGee Ck. Lower Sta. Flow,10.8
+2020-03-05 18:30:27,Long Valley,Long Valley Current Outflow,0.0
+2020-03-05 18:30:27,Long Valley,Rock Ck. Div. Flow,0.0
+2020-03-05 18:30:27,Long Valley,Upper Gorge Total Release,85.0
+2020-03-05 18:30:27,Long Valley,Release at Middle Gorge,0.0
 2020-03-05 18:30:27,Southern Owens Valley,Tinemaha Reservoir Outflow,271.7
 2020-03-05 18:30:27,Southern Owens Valley,Indep. Ck. At Junction Flow,4.0
 2020-03-05 18:30:27,Southern Owens Valley,LAA at Alabama Flow,350.0
@@ -2116,6 +2115,20 @@ date,district,source,value
 2020-03-05 18:30:27,Southern District,Bouquet Reservoir Outflow,57.2
 2020-03-05 18:30:27,Southern District,LAA #1 at Soledad Flow,2.1
 2020-03-05 18:30:27,Southern District,LAA #2 at Soledad Flow,302.3
+2020-03-05 18:30:27,Lower Owens River Project,LORP Intake Flow,44.0
+2020-03-05 18:30:27,Lower Owens River Project,LORP at Mazourka Canyon Road,49.0
+2020-03-05 18:30:27,Lower Owens River Project,LORP at Reinhackle Springs,46.0
+2020-03-05 18:30:27,Lower Owens River Project,LORP Above Pumpstation,54.0
+2020-03-05 18:30:27,Lower Owens River Project,LORP At Pump Station Discharge Flow,48.0
+2020-03-05 18:30:27,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.0
+2020-03-05 18:30:27,Northern Owens Valley,Pleasant Valley Outflow,128.0
+2020-03-05 18:30:27,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
+2020-03-05 18:30:27,Northern Owens Valley,Big Pine Ck. USGS Flow,11.3
+2020-03-05 18:30:27,Northern Owens Valley,O.R. Below Big Pine,240.3
+2020-03-05 18:30:27,Northern Owens Valley,Fish Springs At RR Flow,36.4
+2020-03-05 18:30:27,Northern Owens Valley,Tinemaha Reservoir Outflow,271.7
+2020-03-05 18:30:27,Northern Owens Valley,Bishop Creek Through Plant 6,57.2
+2020-03-05 18:30:27,Northern Owens Valley,Bishop Creek Around Plant 6,4.6
 2020-03-05 18:30:27,Mono Basin,Lee Vining Intake Above Flow,25.3
 2020-03-05 18:30:27,Mono Basin,Lee Vining Intake Below Flow,20.9
 2020-03-05 18:30:27,Mono Basin,Walker Ck. Above Conduit Flow,4.0
@@ -2128,20 +2141,7 @@ date,district,source,value
 2020-03-05 18:30:27,Mono Basin,Grant Lk. Outflow,65.1
 2020-03-05 18:30:27,Mono Basin,Rush Ck. at Damsite Flow,47.3
 2020-03-05 18:30:27,Mono Basin,Flow to West Portal,29.6
-2020-03-05 18:30:27,Lower Owens River Project,LORP Intake Flow,44.0
-2020-03-05 18:30:27,Lower Owens River Project,LORP at Mazourka Canyon Road,49.0
-2020-03-05 18:30:27,Lower Owens River Project,LORP at Reinhackle Springs,46.0
-2020-03-05 18:30:27,Lower Owens River Project,LORP Above Pumpstation,54.0
-2020-03-05 18:30:27,Lower Owens River Project,LORP At Pump Station Discharge Flow,48.0
-2020-03-05 18:30:27,Long Valley,East Portal Flow,41.0
-2020-03-05 18:30:27,Long Valley,OR Below EP Flow,93.0
-2020-03-05 18:30:27,Long Valley,Hot Ck.at Hwy. Flow,6.0
-2020-03-05 18:30:27,Long Valley,McGee Ck. Lower Sta. Flow,10.8
-2020-03-05 18:30:27,Long Valley,Long Valley Current Outflow,0.0
-2020-03-05 18:30:27,Long Valley,Rock Ck. Div. Flow,0.0
-2020-03-05 18:30:27,Long Valley,Upper Gorge Total Release,85.0
-2020-03-05 18:30:27,Long Valley,Release at Middle Gorge,0.0
-2020-03-05 18:30:28,Northern Owens Valley,Pleasant Valley Elevation,4378.8
+2020-03-05 18:30:28,Long Valley,Long Valley Elevation,6773.8
 2020-03-05 18:30:28,Southern Owens Valley,LAA at Alabama Level,7.4
 2020-03-05 18:30:28,Southern Owens Valley,LAA at Alabama Water Temp,54.2
 2020-03-05 18:30:28,Southern Owens Valley,LAA at Cottonwood Level,7.6
@@ -2151,9 +2151,9 @@ date,district,source,value
 2020-03-05 18:30:28,Southern District,S. Haiwee Reservoir Elevation,3740.1
 2020-03-05 18:30:28,Southern District,Fairmont Reservoir Elevation,3027.8
 2020-03-05 18:30:28,Southern District,Bouquet Reservoir Elevation,2984.0
+2020-03-05 18:30:28,Northern Owens Valley,Pleasant Valley Elevation,4378.8
 2020-03-05 18:30:28,Mono Basin,Mono Lk. Elevation,6382.3
 2020-03-05 18:30:28,Mono Basin,Grant Lk. Elevation,7108.9
-2020-03-05 18:30:28,Long Valley,Long Valley Elevation,6773.8
 2020-03-05 18:45:27,Southern Owens Valley,Indep. Ck. At Junction Flow,4.0
 2020-03-05 18:45:27,Southern Owens Valley,LAA at Alabama Flow,350.0
 2020-03-05 18:45:27,Southern Owens Valley,Cottonwood Ck. At LAA Flow,8.0
@@ -2206,8 +2206,8 @@ date,district,source,value
 2020-03-05 18:45:27,Long Valley,Rock Ck. Div. Flow,0.0
 2020-03-05 18:45:27,Long Valley,Upper Gorge Total Release,85.0
 2020-03-05 18:45:27,Long Valley,Release at Middle Gorge,0.0
-2020-03-05 18:45:28,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 18:45:28,Southern Owens Valley,Tinemaha Elevation,3860.7
+2020-03-05 18:45:28,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 18:45:28,Southern Owens Valley,LAA at Alabama Level,7.4
 2020-03-05 18:45:28,Southern Owens Valley,LAA at Alabama Water Temp,54.2
 2020-03-05 18:45:28,Southern Owens Valley,LAA at Cottonwood Level,7.6
@@ -2338,8 +2338,8 @@ date,district,source,value
 2020-03-05 19:15:27,Long Valley,Rock Ck. Div. Flow,0.0
 2020-03-05 19:15:27,Long Valley,Upper Gorge Total Release,85.0
 2020-03-05 19:15:27,Long Valley,Release at Middle Gorge,0.0
-2020-03-05 19:15:28,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 19:15:28,Southern Owens Valley,Tinemaha Elevation,3860.7
+2020-03-05 19:15:28,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 19:15:28,Southern Owens Valley,LAA at Alabama Level,7.4
 2020-03-05 19:15:28,Southern Owens Valley,LAA at Alabama Water Temp,54.0
 2020-03-05 19:15:28,Southern Owens Valley,LAA at Cottonwood Level,7.6
@@ -2353,15 +2353,14 @@ date,district,source,value
 2020-03-05 19:15:28,Northern Owens Valley,Pleasant Valley Elevation,4378.8
 2020-03-05 19:15:28,Southern Owens Valley,S. Haiwee Reservoir Elevation,3740.1
 2020-03-05 19:15:28,Long Valley,Long Valley Elevation,6773.8
-2020-03-05 19:30:27,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.0
-2020-03-05 19:30:27,Northern Owens Valley,Pleasant Valley Outflow,127.8
-2020-03-05 19:30:27,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
-2020-03-05 19:30:27,Northern Owens Valley,Big Pine Ck. USGS Flow,11.3
-2020-03-05 19:30:27,Northern Owens Valley,O.R. Below Big Pine,240.2
-2020-03-05 19:30:27,Northern Owens Valley,Fish Springs At RR Flow,37.4
-2020-03-05 19:30:27,Northern Owens Valley,Tinemaha Reservoir Outflow,270.5
-2020-03-05 19:30:27,Northern Owens Valley,Bishop Creek Through Plant 6,56.8
-2020-03-05 19:30:27,Northern Owens Valley,Bishop Creek Around Plant 6,4.6
+2020-03-05 19:30:27,Long Valley,East Portal Flow,41.0
+2020-03-05 19:30:27,Long Valley,OR Below EP Flow,94.0
+2020-03-05 19:30:27,Long Valley,Hot Ck.at Hwy. Flow,6.0
+2020-03-05 19:30:27,Long Valley,McGee Ck. Lower Sta. Flow,10.8
+2020-03-05 19:30:27,Long Valley,Long Valley Current Outflow,0.0
+2020-03-05 19:30:27,Long Valley,Rock Ck. Div. Flow,0.0
+2020-03-05 19:30:27,Long Valley,Upper Gorge Total Release,85.0
+2020-03-05 19:30:27,Long Valley,Release at Middle Gorge,0.0
 2020-03-05 19:30:27,Southern Owens Valley,Tinemaha Reservoir Outflow,270.5
 2020-03-05 19:30:27,Southern Owens Valley,Indep. Ck. At Junction Flow,4.1
 2020-03-05 19:30:27,Southern Owens Valley,LAA at Alabama Flow,350.0
@@ -2380,6 +2379,20 @@ date,district,source,value
 2020-03-05 19:30:27,Southern District,Bouquet Reservoir Outflow,29.8
 2020-03-05 19:30:27,Southern District,LAA #1 at Soledad Flow,0.0
 2020-03-05 19:30:27,Southern District,LAA #2 at Soledad Flow,302.3
+2020-03-05 19:30:27,Lower Owens River Project,LORP Intake Flow,44.0
+2020-03-05 19:30:27,Lower Owens River Project,LORP at Mazourka Canyon Road,48.0
+2020-03-05 19:30:27,Lower Owens River Project,LORP at Reinhackle Springs,45.0
+2020-03-05 19:30:27,Lower Owens River Project,LORP Above Pumpstation,54.0
+2020-03-05 19:30:27,Lower Owens River Project,LORP At Pump Station Discharge Flow,48.0
+2020-03-05 19:30:27,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.0
+2020-03-05 19:30:27,Northern Owens Valley,Pleasant Valley Outflow,127.8
+2020-03-05 19:30:27,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
+2020-03-05 19:30:27,Northern Owens Valley,Big Pine Ck. USGS Flow,11.3
+2020-03-05 19:30:27,Northern Owens Valley,O.R. Below Big Pine,240.2
+2020-03-05 19:30:27,Northern Owens Valley,Fish Springs At RR Flow,37.4
+2020-03-05 19:30:27,Northern Owens Valley,Tinemaha Reservoir Outflow,270.5
+2020-03-05 19:30:27,Northern Owens Valley,Bishop Creek Through Plant 6,56.8
+2020-03-05 19:30:27,Northern Owens Valley,Bishop Creek Around Plant 6,4.6
 2020-03-05 19:30:27,Mono Basin,Lee Vining Intake Above Flow,25.3
 2020-03-05 19:30:27,Mono Basin,Lee Vining Intake Below Flow,20.9
 2020-03-05 19:30:27,Mono Basin,Walker Ck. Above Conduit Flow,4.0
@@ -2392,20 +2405,7 @@ date,district,source,value
 2020-03-05 19:30:27,Mono Basin,Grant Lk. Outflow,64.6
 2020-03-05 19:30:27,Mono Basin,Rush Ck. at Damsite Flow,47.3
 2020-03-05 19:30:27,Mono Basin,Flow to West Portal,29.6
-2020-03-05 19:30:27,Lower Owens River Project,LORP Intake Flow,44.0
-2020-03-05 19:30:27,Lower Owens River Project,LORP at Mazourka Canyon Road,48.0
-2020-03-05 19:30:27,Lower Owens River Project,LORP at Reinhackle Springs,45.0
-2020-03-05 19:30:27,Lower Owens River Project,LORP Above Pumpstation,54.0
-2020-03-05 19:30:27,Lower Owens River Project,LORP At Pump Station Discharge Flow,48.0
-2020-03-05 19:30:27,Long Valley,East Portal Flow,41.0
-2020-03-05 19:30:27,Long Valley,OR Below EP Flow,94.0
-2020-03-05 19:30:27,Long Valley,Hot Ck.at Hwy. Flow,6.0
-2020-03-05 19:30:27,Long Valley,McGee Ck. Lower Sta. Flow,10.8
-2020-03-05 19:30:27,Long Valley,Long Valley Current Outflow,0.0
-2020-03-05 19:30:27,Long Valley,Rock Ck. Div. Flow,0.0
-2020-03-05 19:30:27,Long Valley,Upper Gorge Total Release,85.0
-2020-03-05 19:30:27,Long Valley,Release at Middle Gorge,0.0
-2020-03-05 19:30:28,Northern Owens Valley,Pleasant Valley Elevation,4378.8
+2020-03-05 19:30:28,Long Valley,Long Valley Elevation,6773.8
 2020-03-05 19:30:28,Southern Owens Valley,LAA at Alabama Level,7.4
 2020-03-05 19:30:28,Southern Owens Valley,LAA at Alabama Water Temp,54.0
 2020-03-05 19:30:28,Southern Owens Valley,LAA at Cottonwood Level,7.6
@@ -2415,9 +2415,9 @@ date,district,source,value
 2020-03-05 19:30:28,Southern District,S. Haiwee Reservoir Elevation,3740.1
 2020-03-05 19:30:28,Southern District,Fairmont Reservoir Elevation,3027.9
 2020-03-05 19:30:28,Southern District,Bouquet Reservoir Elevation,2984.0
+2020-03-05 19:30:28,Northern Owens Valley,Pleasant Valley Elevation,4378.8
 2020-03-05 19:30:28,Mono Basin,Mono Lk. Elevation,6382.3
 2020-03-05 19:30:28,Mono Basin,Grant Lk. Elevation,7108.9
-2020-03-05 19:30:28,Long Valley,Long Valley Elevation,6773.8
 2020-03-05 19:45:27,Southern Owens Valley,Indep. Ck. At Junction Flow,4.1
 2020-03-05 19:45:27,Southern Owens Valley,LAA at Alabama Flow,350.0
 2020-03-05 19:45:27,Southern Owens Valley,Cottonwood Ck. At LAA Flow,7.0
@@ -2470,8 +2470,8 @@ date,district,source,value
 2020-03-05 19:45:27,Long Valley,Rock Ck. Div. Flow,0.0
 2020-03-05 19:45:27,Long Valley,Upper Gorge Total Release,85.0
 2020-03-05 19:45:27,Long Valley,Release at Middle Gorge,0.0
-2020-03-05 19:45:28,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 19:45:28,Southern Owens Valley,Tinemaha Elevation,3860.7
+2020-03-05 19:45:28,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 19:45:28,Southern Owens Valley,LAA at Alabama Level,7.4
 2020-03-05 19:45:28,Southern Owens Valley,LAA at Alabama Water Temp,54.0
 2020-03-05 19:45:28,Southern Owens Valley,LAA at Cottonwood Level,7.6
@@ -2504,22 +2504,21 @@ date,district,source,value
 2020-03-05 20:15:27,Southern Owens Valley,Reinhackel Flow,1.9
 2020-03-05 20:15:27,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
 2020-03-05 20:15:27,Southern Owens Valley,Cartago Spillgate Outflow,22.1
-2020-03-05 20:15:28,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 20:15:28,Southern Owens Valley,Tinemaha Elevation,3860.7
+2020-03-05 20:15:28,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 20:15:28,Southern Owens Valley,LAA at Alabama Level,7.4
 2020-03-05 20:15:28,Southern Owens Valley,LAA at Alabama Water Temp,53.8
 2020-03-05 20:15:28,Southern Owens Valley,LAA at Cottonwood Level,7.6
 2020-03-05 20:15:28,Southern Owens Valley,LAA at Cotton. Water Temp,53.2
 2020-03-05 20:15:28,Southern Owens Valley,N. Haiwee Elevation,3756.8
-2020-03-05 20:30:27,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.0
-2020-03-05 20:30:27,Northern Owens Valley,Pleasant Valley Outflow,127.7
-2020-03-05 20:30:27,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
-2020-03-05 20:30:27,Northern Owens Valley,Big Pine Ck. USGS Flow,11.3
-2020-03-05 20:30:27,Northern Owens Valley,O.R. Below Big Pine,240.2
-2020-03-05 20:30:27,Northern Owens Valley,Fish Springs At RR Flow,37.9
-2020-03-05 20:30:27,Northern Owens Valley,Tinemaha Reservoir Outflow,271.2
-2020-03-05 20:30:27,Northern Owens Valley,Bishop Creek Through Plant 6,56.7
-2020-03-05 20:30:27,Northern Owens Valley,Bishop Creek Around Plant 6,4.6
+2020-03-05 20:30:27,Long Valley,East Portal Flow,41.0
+2020-03-05 20:30:27,Long Valley,OR Below EP Flow,94.0
+2020-03-05 20:30:27,Long Valley,Hot Ck.at Hwy. Flow,6.0
+2020-03-05 20:30:27,Long Valley,McGee Ck. Lower Sta. Flow,10.8
+2020-03-05 20:30:27,Long Valley,Long Valley Current Outflow,0.0
+2020-03-05 20:30:27,Long Valley,Rock Ck. Div. Flow,0.0
+2020-03-05 20:30:27,Long Valley,Upper Gorge Total Release,85.0
+2020-03-05 20:30:27,Long Valley,Release at Middle Gorge,0.0
 2020-03-05 20:30:27,Southern Owens Valley,Tinemaha Reservoir Outflow,271.2
 2020-03-05 20:30:27,Southern Owens Valley,Indep. Ck. At Junction Flow,4.1
 2020-03-05 20:30:27,Southern Owens Valley,LAA at Alabama Flow,351.0
@@ -2538,6 +2537,20 @@ date,district,source,value
 2020-03-05 20:30:27,Southern District,Bouquet Reservoir Outflow,42.4
 2020-03-05 20:30:27,Southern District,LAA #1 at Soledad Flow,0.0
 2020-03-05 20:30:27,Southern District,LAA #2 at Soledad Flow,300.7
+2020-03-05 20:30:27,Lower Owens River Project,LORP Intake Flow,44.0
+2020-03-05 20:30:27,Lower Owens River Project,LORP at Mazourka Canyon Road,49.0
+2020-03-05 20:30:27,Lower Owens River Project,LORP at Reinhackle Springs,51.0
+2020-03-05 20:30:27,Lower Owens River Project,LORP Above Pumpstation,54.0
+2020-03-05 20:30:27,Lower Owens River Project,LORP At Pump Station Discharge Flow,48.0
+2020-03-05 20:30:27,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.0
+2020-03-05 20:30:27,Northern Owens Valley,Pleasant Valley Outflow,127.7
+2020-03-05 20:30:27,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
+2020-03-05 20:30:27,Northern Owens Valley,Big Pine Ck. USGS Flow,11.3
+2020-03-05 20:30:27,Northern Owens Valley,O.R. Below Big Pine,240.2
+2020-03-05 20:30:27,Northern Owens Valley,Fish Springs At RR Flow,37.9
+2020-03-05 20:30:27,Northern Owens Valley,Tinemaha Reservoir Outflow,271.2
+2020-03-05 20:30:27,Northern Owens Valley,Bishop Creek Through Plant 6,56.7
+2020-03-05 20:30:27,Northern Owens Valley,Bishop Creek Around Plant 6,4.6
 2020-03-05 20:30:27,Mono Basin,Lee Vining Intake Above Flow,25.3
 2020-03-05 20:30:27,Mono Basin,Lee Vining Intake Below Flow,20.9
 2020-03-05 20:30:27,Mono Basin,Walker Ck. Above Conduit Flow,4.0
@@ -2550,20 +2563,7 @@ date,district,source,value
 2020-03-05 20:30:27,Mono Basin,Grant Lk. Outflow,64.7
 2020-03-05 20:30:27,Mono Basin,Rush Ck. at Damsite Flow,47.3
 2020-03-05 20:30:27,Mono Basin,Flow to West Portal,29.6
-2020-03-05 20:30:27,Lower Owens River Project,LORP Intake Flow,44.0
-2020-03-05 20:30:27,Lower Owens River Project,LORP at Mazourka Canyon Road,49.0
-2020-03-05 20:30:27,Lower Owens River Project,LORP at Reinhackle Springs,51.0
-2020-03-05 20:30:27,Lower Owens River Project,LORP Above Pumpstation,54.0
-2020-03-05 20:30:27,Lower Owens River Project,LORP At Pump Station Discharge Flow,48.0
-2020-03-05 20:30:27,Long Valley,East Portal Flow,41.0
-2020-03-05 20:30:27,Long Valley,OR Below EP Flow,94.0
-2020-03-05 20:30:27,Long Valley,Hot Ck.at Hwy. Flow,6.0
-2020-03-05 20:30:27,Long Valley,McGee Ck. Lower Sta. Flow,10.8
-2020-03-05 20:30:27,Long Valley,Long Valley Current Outflow,0.0
-2020-03-05 20:30:27,Long Valley,Rock Ck. Div. Flow,0.0
-2020-03-05 20:30:27,Long Valley,Upper Gorge Total Release,85.0
-2020-03-05 20:30:27,Long Valley,Release at Middle Gorge,0.0
-2020-03-05 20:30:28,Northern Owens Valley,Pleasant Valley Elevation,4378.7
+2020-03-05 20:30:28,Long Valley,Long Valley Elevation,6773.8
 2020-03-05 20:30:28,Southern Owens Valley,LAA at Alabama Level,7.4
 2020-03-05 20:30:28,Southern Owens Valley,LAA at Alabama Water Temp,53.8
 2020-03-05 20:30:28,Southern Owens Valley,LAA at Cottonwood Level,7.6
@@ -2573,9 +2573,9 @@ date,district,source,value
 2020-03-05 20:30:28,Southern District,S. Haiwee Reservoir Elevation,3740.1
 2020-03-05 20:30:28,Southern District,Fairmont Reservoir Elevation,3027.9
 2020-03-05 20:30:28,Southern District,Bouquet Reservoir Elevation,2984.0
+2020-03-05 20:30:28,Northern Owens Valley,Pleasant Valley Elevation,4378.7
 2020-03-05 20:30:28,Mono Basin,Mono Lk. Elevation,6382.3
 2020-03-05 20:30:28,Mono Basin,Grant Lk. Elevation,7109.0
-2020-03-05 20:30:28,Long Valley,Long Valley Elevation,6773.8
 2020-03-05 20:45:27,Southern Owens Valley,Indep. Ck. At Junction Flow,4.1
 2020-03-05 20:45:27,Southern Owens Valley,LAA at Alabama Flow,350.0
 2020-03-05 20:45:27,Southern Owens Valley,Cottonwood Ck. At LAA Flow,8.0
@@ -2583,24 +2583,23 @@ date,district,source,value
 2020-03-05 20:45:27,Southern Owens Valley,Reinhackel Flow,1.9
 2020-03-05 20:45:27,Southern Owens Valley,Lubkin Spillgate Outflow,0.0
 2020-03-05 20:45:27,Southern Owens Valley,Cartago Spillgate Outflow,15.1
-2020-03-05 20:45:28,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 20:45:28,Southern Owens Valley,Tinemaha Elevation,3860.7
+2020-03-05 20:45:28,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 20:45:28,Southern Owens Valley,LAA at Alabama Level,7.4
 2020-03-05 20:45:28,Southern Owens Valley,LAA at Alabama Water Temp,53.6
 2020-03-05 20:45:28,Southern Owens Valley,LAA at Cottonwood Level,7.6
 2020-03-05 20:45:28,Southern Owens Valley,LAA at Cotton. Water Temp,53.3
 2020-03-05 20:45:28,Southern Owens Valley,N. Haiwee Elevation,3756.8
-2020-03-05 21:15:28,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 21:15:28,Southern Owens Valley,Tinemaha Elevation,3860.7
-2020-03-05 21:30:27,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.0
-2020-03-05 21:30:27,Northern Owens Valley,Pleasant Valley Outflow,127.5
-2020-03-05 21:30:27,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
-2020-03-05 21:30:27,Northern Owens Valley,Big Pine Ck. USGS Flow,11.3
-2020-03-05 21:30:27,Northern Owens Valley,O.R. Below Big Pine,240.1
-2020-03-05 21:30:27,Northern Owens Valley,Fish Springs At RR Flow,37.9
-2020-03-05 21:30:27,Northern Owens Valley,Tinemaha Reservoir Outflow,271.4
-2020-03-05 21:30:27,Northern Owens Valley,Bishop Creek Through Plant 6,59.8
-2020-03-05 21:30:27,Northern Owens Valley,Bishop Creek Around Plant 6,4.7
+2020-03-05 21:15:28,Northern Owens Valley,Tinemaha Elevation,3860.7
+2020-03-05 21:30:27,Long Valley,East Portal Flow,41.0
+2020-03-05 21:30:27,Long Valley,OR Below EP Flow,94.0
+2020-03-05 21:30:27,Long Valley,Hot Ck.at Hwy. Flow,6.0
+2020-03-05 21:30:27,Long Valley,McGee Ck. Lower Sta. Flow,10.8
+2020-03-05 21:30:27,Long Valley,Long Valley Current Outflow,0.0
+2020-03-05 21:30:27,Long Valley,Rock Ck. Div. Flow,0.0
+2020-03-05 21:30:27,Long Valley,Upper Gorge Total Release,85.0
+2020-03-05 21:30:27,Long Valley,Release at Middle Gorge,0.0
 2020-03-05 21:30:27,Southern Owens Valley,Tinemaha Reservoir Outflow,271.4
 2020-03-05 21:30:27,Southern Owens Valley,Indep. Ck. At Junction Flow,4.1
 2020-03-05 21:30:27,Southern Owens Valley,LAA at Alabama Flow,349.0
@@ -2619,6 +2618,20 @@ date,district,source,value
 2020-03-05 21:30:27,Southern District,Bouquet Reservoir Outflow,1.1
 2020-03-05 21:30:27,Southern District,LAA #1 at Soledad Flow,0.0
 2020-03-05 21:30:27,Southern District,LAA #2 at Soledad Flow,300.7
+2020-03-05 21:30:27,Lower Owens River Project,LORP Intake Flow,44.0
+2020-03-05 21:30:27,Lower Owens River Project,LORP at Mazourka Canyon Road,49.0
+2020-03-05 21:30:27,Lower Owens River Project,LORP at Reinhackle Springs,48.0
+2020-03-05 21:30:27,Lower Owens River Project,LORP Above Pumpstation,54.0
+2020-03-05 21:30:27,Lower Owens River Project,LORP At Pump Station Discharge Flow,48.0
+2020-03-05 21:30:27,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.0
+2020-03-05 21:30:27,Northern Owens Valley,Pleasant Valley Outflow,127.5
+2020-03-05 21:30:27,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
+2020-03-05 21:30:27,Northern Owens Valley,Big Pine Ck. USGS Flow,11.3
+2020-03-05 21:30:27,Northern Owens Valley,O.R. Below Big Pine,240.1
+2020-03-05 21:30:27,Northern Owens Valley,Fish Springs At RR Flow,37.9
+2020-03-05 21:30:27,Northern Owens Valley,Tinemaha Reservoir Outflow,271.4
+2020-03-05 21:30:27,Northern Owens Valley,Bishop Creek Through Plant 6,59.8
+2020-03-05 21:30:27,Northern Owens Valley,Bishop Creek Around Plant 6,4.7
 2020-03-05 21:30:27,Mono Basin,Lee Vining Intake Above Flow,25.3
 2020-03-05 21:30:27,Mono Basin,Lee Vining Intake Below Flow,20.9
 2020-03-05 21:30:27,Mono Basin,Walker Ck. Above Conduit Flow,4.0
@@ -2631,20 +2644,7 @@ date,district,source,value
 2020-03-05 21:30:27,Mono Basin,Grant Lk. Outflow,64.3
 2020-03-05 21:30:27,Mono Basin,Rush Ck. at Damsite Flow,47.3
 2020-03-05 21:30:27,Mono Basin,Flow to West Portal,29.6
-2020-03-05 21:30:27,Lower Owens River Project,LORP Intake Flow,44.0
-2020-03-05 21:30:27,Lower Owens River Project,LORP at Mazourka Canyon Road,49.0
-2020-03-05 21:30:27,Lower Owens River Project,LORP at Reinhackle Springs,48.0
-2020-03-05 21:30:27,Lower Owens River Project,LORP Above Pumpstation,54.0
-2020-03-05 21:30:27,Lower Owens River Project,LORP At Pump Station Discharge Flow,48.0
-2020-03-05 21:30:27,Long Valley,East Portal Flow,41.0
-2020-03-05 21:30:27,Long Valley,OR Below EP Flow,94.0
-2020-03-05 21:30:27,Long Valley,Hot Ck.at Hwy. Flow,6.0
-2020-03-05 21:30:27,Long Valley,McGee Ck. Lower Sta. Flow,10.8
-2020-03-05 21:30:27,Long Valley,Long Valley Current Outflow,0.0
-2020-03-05 21:30:27,Long Valley,Rock Ck. Div. Flow,0.0
-2020-03-05 21:30:27,Long Valley,Upper Gorge Total Release,85.0
-2020-03-05 21:30:27,Long Valley,Release at Middle Gorge,0.0
-2020-03-05 21:30:28,Northern Owens Valley,Pleasant Valley Elevation,4378.8
+2020-03-05 21:30:28,Long Valley,Long Valley Elevation,6773.8
 2020-03-05 21:30:28,Southern Owens Valley,LAA at Alabama Level,7.4
 2020-03-05 21:30:28,Southern Owens Valley,LAA at Alabama Water Temp,53.6
 2020-03-05 21:30:28,Southern Owens Valley,LAA at Cottonwood Level,7.6
@@ -2654,17 +2654,13 @@ date,district,source,value
 2020-03-05 21:30:28,Southern District,S. Haiwee Reservoir Elevation,3740.1
 2020-03-05 21:30:28,Southern District,Fairmont Reservoir Elevation,3027.9
 2020-03-05 21:30:28,Southern District,Bouquet Reservoir Elevation,2984.0
+2020-03-05 21:30:28,Northern Owens Valley,Pleasant Valley Elevation,4378.8
 2020-03-05 21:30:28,Mono Basin,Mono Lk. Elevation,6382.3
 2020-03-05 21:30:28,Mono Basin,Grant Lk. Elevation,7109.0
-2020-03-05 21:30:28,Long Valley,Long Valley Elevation,6773.8
-2020-03-05 21:45:28,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 21:45:28,Southern Owens Valley,Tinemaha Elevation,3860.7
-2020-03-05 22:15:28,Northern Owens Valley,Tinemaha Elevation,3860.7
+2020-03-05 21:45:28,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 22:15:28,Southern Owens Valley,Tinemaha Elevation,3860.7
-2020-03-05 22:30:26,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
-2020-03-05 22:30:26,Northern Owens Valley,Big Pine Ck. USGS Flow,11.3
-2020-03-05 22:30:26,Northern Owens Valley,Fish Springs At RR Flow,38.4
-2020-03-05 22:30:26,Northern Owens Valley,Tinemaha Reservoir Outflow,271.4
+2020-03-05 22:15:28,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 22:30:26,Southern Owens Valley,Tinemaha Reservoir Outflow,271.4
 2020-03-05 22:30:26,Southern Owens Valley,Indep. Ck. At Junction Flow,4.1
 2020-03-05 22:30:26,Southern Owens Valley,LAA at Alabama Flow,348.0
@@ -2682,17 +2678,29 @@ date,district,source,value
 2020-03-05 22:30:26,Lower Owens River Project,LORP at Reinhackle Springs,47.0
 2020-03-05 22:30:26,Lower Owens River Project,LORP Above Pumpstation,53.0
 2020-03-05 22:30:26,Lower Owens River Project,LORP At Pump Station Discharge Flow,48.0
-2020-03-05 22:30:27,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.0
-2020-03-05 22:30:27,Northern Owens Valley,Pleasant Valley Outflow,127.1
-2020-03-05 22:30:27,Northern Owens Valley,O.R. Below Big Pine,240.2
-2020-03-05 22:30:27,Northern Owens Valley,Bishop Creek Through Plant 6,60.0
-2020-03-05 22:30:27,Northern Owens Valley,Bishop Creek Around Plant 6,4.6
+2020-03-05 22:30:26,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
+2020-03-05 22:30:26,Northern Owens Valley,Big Pine Ck. USGS Flow,11.3
+2020-03-05 22:30:26,Northern Owens Valley,Fish Springs At RR Flow,38.4
+2020-03-05 22:30:26,Northern Owens Valley,Tinemaha Reservoir Outflow,271.4
+2020-03-05 22:30:27,Long Valley,East Portal Flow,41.0
+2020-03-05 22:30:27,Long Valley,OR Below EP Flow,94.0
+2020-03-05 22:30:27,Long Valley,Hot Ck.at Hwy. Flow,6.0
+2020-03-05 22:30:27,Long Valley,McGee Ck. Lower Sta. Flow,10.8
+2020-03-05 22:30:27,Long Valley,Long Valley Current Outflow,0.0
+2020-03-05 22:30:27,Long Valley,Rock Ck. Div. Flow,0.0
+2020-03-05 22:30:27,Long Valley,Upper Gorge Total Release,85.0
+2020-03-05 22:30:27,Long Valley,Release at Middle Gorge,0.0
 2020-03-05 22:30:27,Southern District,LAA #1 Flow at Fairmont Reservoir,408.9
 2020-03-05 22:30:27,Southern District,LAA #2 Flow at Fairmont Res.,194.2
 2020-03-05 22:30:27,Southern District,Bouquet Reservoir Inflow,0.2
 2020-03-05 22:30:27,Southern District,Bouquet Reservoir Outflow,1.1
 2020-03-05 22:30:27,Southern District,LAA #1 at Soledad Flow,0.0
 2020-03-05 22:30:27,Southern District,LAA #2 at Soledad Flow,300.7
+2020-03-05 22:30:27,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.0
+2020-03-05 22:30:27,Northern Owens Valley,Pleasant Valley Outflow,127.1
+2020-03-05 22:30:27,Northern Owens Valley,O.R. Below Big Pine,240.2
+2020-03-05 22:30:27,Northern Owens Valley,Bishop Creek Through Plant 6,60.0
+2020-03-05 22:30:27,Northern Owens Valley,Bishop Creek Around Plant 6,4.6
 2020-03-05 22:30:27,Mono Basin,Lee Vining Intake Above Flow,25.3
 2020-03-05 22:30:27,Mono Basin,Lee Vining Intake Below Flow,20.9
 2020-03-05 22:30:27,Mono Basin,Walker Ck. Above Conduit Flow,4.0
@@ -2705,15 +2713,7 @@ date,district,source,value
 2020-03-05 22:30:27,Mono Basin,Grant Lk. Outflow,65.0
 2020-03-05 22:30:27,Mono Basin,Rush Ck. at Damsite Flow,47.3
 2020-03-05 22:30:27,Mono Basin,Flow to West Portal,29.6
-2020-03-05 22:30:27,Long Valley,East Portal Flow,41.0
-2020-03-05 22:30:27,Long Valley,OR Below EP Flow,94.0
-2020-03-05 22:30:27,Long Valley,Hot Ck.at Hwy. Flow,6.0
-2020-03-05 22:30:27,Long Valley,McGee Ck. Lower Sta. Flow,10.8
-2020-03-05 22:30:27,Long Valley,Long Valley Current Outflow,0.0
-2020-03-05 22:30:27,Long Valley,Rock Ck. Div. Flow,0.0
-2020-03-05 22:30:27,Long Valley,Upper Gorge Total Release,85.0
-2020-03-05 22:30:27,Long Valley,Release at Middle Gorge,0.0
-2020-03-05 22:30:28,Northern Owens Valley,Pleasant Valley Elevation,4378.7
+2020-03-05 22:30:28,Long Valley,Long Valley Elevation,6773.8
 2020-03-05 22:30:28,Southern Owens Valley,LAA at Alabama Level,7.4
 2020-03-05 22:30:28,Southern Owens Valley,LAA at Alabama Water Temp,53.5
 2020-03-05 22:30:28,Southern Owens Valley,LAA at Cottonwood Level,7.6
@@ -2723,22 +2723,21 @@ date,district,source,value
 2020-03-05 22:30:28,Southern District,S. Haiwee Reservoir Elevation,3740.1
 2020-03-05 22:30:28,Southern District,Fairmont Reservoir Elevation,3027.9
 2020-03-05 22:30:28,Southern District,Bouquet Reservoir Elevation,2984.0
+2020-03-05 22:30:28,Northern Owens Valley,Pleasant Valley Elevation,4378.7
 2020-03-05 22:30:28,Mono Basin,Mono Lk. Elevation,6382.3
 2020-03-05 22:30:28,Mono Basin,Grant Lk. Elevation,7108.9
-2020-03-05 22:30:28,Long Valley,Long Valley Elevation,6773.8
-2020-03-05 22:45:28,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 22:45:28,Southern Owens Valley,Tinemaha Elevation,3860.7
-2020-03-05 23:15:28,Northern Owens Valley,Tinemaha Elevation,3860.7
+2020-03-05 22:45:28,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 23:15:28,Southern Owens Valley,Tinemaha Elevation,3860.7
-2020-03-05 23:30:27,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.0
-2020-03-05 23:30:27,Northern Owens Valley,Pleasant Valley Outflow,127.6
-2020-03-05 23:30:27,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
-2020-03-05 23:30:27,Northern Owens Valley,Big Pine Ck. USGS Flow,11.3
-2020-03-05 23:30:27,Northern Owens Valley,O.R. Below Big Pine,240.1
-2020-03-05 23:30:27,Northern Owens Valley,Fish Springs At RR Flow,38.4
-2020-03-05 23:30:27,Northern Owens Valley,Tinemaha Reservoir Outflow,271.4
-2020-03-05 23:30:27,Northern Owens Valley,Bishop Creek Through Plant 6,60.0
-2020-03-05 23:30:27,Northern Owens Valley,Bishop Creek Around Plant 6,4.6
+2020-03-05 23:15:28,Northern Owens Valley,Tinemaha Elevation,3860.7
+2020-03-05 23:30:27,Long Valley,East Portal Flow,41.0
+2020-03-05 23:30:27,Long Valley,OR Below EP Flow,94.0
+2020-03-05 23:30:27,Long Valley,Hot Ck.at Hwy. Flow,6.0
+2020-03-05 23:30:27,Long Valley,McGee Ck. Lower Sta. Flow,10.8
+2020-03-05 23:30:27,Long Valley,Long Valley Current Outflow,0.0
+2020-03-05 23:30:27,Long Valley,Rock Ck. Div. Flow,0.0
+2020-03-05 23:30:27,Long Valley,Upper Gorge Total Release,85.0
+2020-03-05 23:30:27,Long Valley,Release at Middle Gorge,0.0
 2020-03-05 23:30:27,Southern Owens Valley,Tinemaha Reservoir Outflow,271.4
 2020-03-05 23:30:27,Southern Owens Valley,Indep. Ck. At Junction Flow,4.1
 2020-03-05 23:30:27,Southern Owens Valley,LAA at Alabama Flow,346.0
@@ -2757,6 +2756,20 @@ date,district,source,value
 2020-03-05 23:30:27,Southern District,Bouquet Reservoir Outflow,1.1
 2020-03-05 23:30:27,Southern District,LAA #1 at Soledad Flow,0.0
 2020-03-05 23:30:27,Southern District,LAA #2 at Soledad Flow,300.7
+2020-03-05 23:30:27,Lower Owens River Project,LORP Intake Flow,44.0
+2020-03-05 23:30:27,Lower Owens River Project,LORP at Mazourka Canyon Road,46.0
+2020-03-05 23:30:27,Lower Owens River Project,LORP at Reinhackle Springs,44.0
+2020-03-05 23:30:27,Lower Owens River Project,LORP Above Pumpstation,54.0
+2020-03-05 23:30:27,Lower Owens River Project,LORP At Pump Station Discharge Flow,48.0
+2020-03-05 23:30:27,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,44.0
+2020-03-05 23:30:27,Northern Owens Valley,Pleasant Valley Outflow,127.6
+2020-03-05 23:30:27,Northern Owens Valley,Baker Ck. At LA Station Flow,9.4
+2020-03-05 23:30:27,Northern Owens Valley,Big Pine Ck. USGS Flow,11.3
+2020-03-05 23:30:27,Northern Owens Valley,O.R. Below Big Pine,240.1
+2020-03-05 23:30:27,Northern Owens Valley,Fish Springs At RR Flow,38.4
+2020-03-05 23:30:27,Northern Owens Valley,Tinemaha Reservoir Outflow,271.4
+2020-03-05 23:30:27,Northern Owens Valley,Bishop Creek Through Plant 6,60.0
+2020-03-05 23:30:27,Northern Owens Valley,Bishop Creek Around Plant 6,4.6
 2020-03-05 23:30:27,Mono Basin,Lee Vining Intake Above Flow,25.3
 2020-03-05 23:30:27,Mono Basin,Lee Vining Intake Below Flow,20.9
 2020-03-05 23:30:27,Mono Basin,Walker Ck. Above Conduit Flow,4.0
@@ -2769,20 +2782,7 @@ date,district,source,value
 2020-03-05 23:30:27,Mono Basin,Grant Lk. Outflow,65.0
 2020-03-05 23:30:27,Mono Basin,Rush Ck. at Damsite Flow,47.3
 2020-03-05 23:30:27,Mono Basin,Flow to West Portal,29.6
-2020-03-05 23:30:27,Lower Owens River Project,LORP Intake Flow,44.0
-2020-03-05 23:30:27,Lower Owens River Project,LORP at Mazourka Canyon Road,46.0
-2020-03-05 23:30:27,Lower Owens River Project,LORP at Reinhackle Springs,44.0
-2020-03-05 23:30:27,Lower Owens River Project,LORP Above Pumpstation,54.0
-2020-03-05 23:30:27,Lower Owens River Project,LORP At Pump Station Discharge Flow,48.0
-2020-03-05 23:30:27,Long Valley,East Portal Flow,41.0
-2020-03-05 23:30:27,Long Valley,OR Below EP Flow,94.0
-2020-03-05 23:30:27,Long Valley,Hot Ck.at Hwy. Flow,6.0
-2020-03-05 23:30:27,Long Valley,McGee Ck. Lower Sta. Flow,10.8
-2020-03-05 23:30:27,Long Valley,Long Valley Current Outflow,0.0
-2020-03-05 23:30:27,Long Valley,Rock Ck. Div. Flow,0.0
-2020-03-05 23:30:27,Long Valley,Upper Gorge Total Release,85.0
-2020-03-05 23:30:27,Long Valley,Release at Middle Gorge,0.0
-2020-03-05 23:30:28,Northern Owens Valley,Pleasant Valley Elevation,4378.7
+2020-03-05 23:30:28,Long Valley,Long Valley Elevation,6773.8
 2020-03-05 23:30:28,Southern Owens Valley,LAA at Alabama Level,7.4
 2020-03-05 23:30:28,Southern Owens Valley,LAA at Alabama Water Temp,53.5
 2020-03-05 23:30:28,Southern Owens Valley,LAA at Cottonwood Level,7.6
@@ -2792,8 +2792,8 @@ date,district,source,value
 2020-03-05 23:30:28,Southern District,S. Haiwee Reservoir Elevation,3740.1
 2020-03-05 23:30:28,Southern District,Fairmont Reservoir Elevation,3027.6
 2020-03-05 23:30:28,Southern District,Bouquet Reservoir Elevation,2984.0
+2020-03-05 23:30:28,Northern Owens Valley,Pleasant Valley Elevation,4378.7
 2020-03-05 23:30:28,Mono Basin,Mono Lk. Elevation,6382.3
 2020-03-05 23:30:28,Mono Basin,Grant Lk. Elevation,7109.1
-2020-03-05 23:30:28,Long Valley,Long Valley Elevation,6773.8
-2020-03-05 23:45:28,Northern Owens Valley,Tinemaha Elevation,3860.7
 2020-03-05 23:45:28,Southern Owens Valley,Tinemaha Elevation,3860.7
+2020-03-05 23:45:28,Northern Owens Valley,Tinemaha Elevation,3860.7
