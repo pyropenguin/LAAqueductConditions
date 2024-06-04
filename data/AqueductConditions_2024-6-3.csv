@@ -1,26 +1,554 @@
 date,district,source,value
+2024-06-03 00:33:47,Mono Basin,Lee Vining Intake Above Flow,249.6
+2024-06-03 00:33:47,Mono Basin,Lee Vining Intake Below Flow,333.0
+2024-06-03 00:33:47,Mono Basin,Mono Lk. Elevation,6383.5
+2024-06-03 00:33:47,Mono Basin,Walker Ck. Above Conduit Flow,21.0
+2024-06-03 00:33:47,Mono Basin,L.V. Conduit Below Intake Flow,22.7
+2024-06-03 00:33:47,Mono Basin,Walker Ck. Under Conduit Flow,20.0
+2024-06-03 00:33:47,Mono Basin,Parker Ck. Under Conduit Flow,36.0
+2024-06-03 00:33:47,Mono Basin,Parker Ck. Above Conduit Flow,37.0
+2024-06-03 00:33:47,Mono Basin,Grant Lk. Spill Flow,121.0
+2024-06-03 00:33:47,Mono Basin,Mono Gate 1 Return Ditch Flow,102.7
+2024-06-03 00:33:47,Mono Basin,Grant Lk. Elevation,7130.9
+2024-06-03 00:33:47,Mono Basin,Grant Lk. Outflow,108.8
+2024-06-03 00:33:47,Mono Basin,Rush Ck. at Damsite Flow,197.0
+2024-06-03 00:33:47,Mono Basin,Flow to West Portal,0.0
+2024-06-03 00:33:47,Long Valley,East Portal Flow,14.0
+2024-06-03 00:33:47,Long Valley,OR Below EP Flow,102.0
+2024-06-03 00:33:47,Long Valley,Hot Ck.at Hwy. Flow,90.0
+2024-06-03 00:33:47,Long Valley,McGee Ck. Lower Sta. Flow,47.9
+2024-06-03 00:33:47,Long Valley,Long Valley Elevation,6778.2
+2024-06-03 00:33:47,Long Valley,Long Valley Current Outflow,222.1
+2024-06-03 00:33:47,Long Valley,Rock Ck. Div. Flow,32.5
+2024-06-03 00:33:47,Long Valley,Upper Gorge Total Release,85.8
+2024-06-03 00:33:47,Long Valley,Release at Middle Gorge,0.0
+2024-06-03 00:33:47,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,127.5
+2024-06-03 00:33:47,Northern Owens Valley,Pleasant Valley Elevation,4384.0
+2024-06-03 00:33:47,Northern Owens Valley,Pleasant Valley Outflow,548.2
+2024-06-03 00:33:47,Northern Owens Valley,Baker Ck. At LA Station Flow,10.8
+2024-06-03 00:33:47,Northern Owens Valley,Big Pine Ck. USGS Flow,118.9
+2024-06-03 00:33:47,Northern Owens Valley,O.R. Below Big Pine,581.8
+2024-06-03 00:33:47,Northern Owens Valley,Fish Springs At RR Flow,45.6
+2024-06-03 00:33:47,Northern Owens Valley,Tinemaha Reservoir Outflow,529.4
+2024-06-03 00:33:47,Northern Owens Valley,Bishop Creek Through Plant 6,125.2
+2024-06-03 00:33:47,Northern Owens Valley,Bishop Creek Around Plant 6,37.2
+2024-06-03 00:33:47,Southern Owens Valley,Tinemaha Reservoir Outflow,529.4
+2024-06-03 00:33:47,Southern Owens Valley,Indep. Ck. At Junction Flow,44.9
+2024-06-03 00:33:47,Southern Owens Valley,LAA at Alabama Flow,578.0
+2024-06-03 00:33:47,Southern Owens Valley,LAA at Alabama Level,9.8
+2024-06-03 00:33:47,Southern Owens Valley,LAA at Alabama Water Temp,68.5
+2024-06-03 00:33:47,Southern Owens Valley,Cottonwood Ck. At LAA Flow,64.0
+2024-06-03 00:33:47,Southern Owens Valley,LAA at Cottonwood Flow,664.0
+2024-06-03 00:33:47,Southern Owens Valley,LAA at Cottonwood Level,10.5
+2024-06-03 00:33:47,Southern Owens Valley,LAA at Cotton. Water Temp,69.2
+2024-06-03 00:33:47,Southern Owens Valley,N. Haiwee Elevation,3757.0
+2024-06-03 00:33:47,Southern Owens Valley,S. Haiwee Reservoir Elevation,3740.8
+2024-06-03 00:33:47,Southern Owens Valley,Haiwee LAA #1 Current Flow,238.2
+2024-06-03 00:33:47,Southern Owens Valley,Haiwee LAA #2 Current Flow,265.3
+2024-06-03 00:33:47,Southern Owens Valley,Reinhackel Flow,2.1
+2024-06-03 00:33:47,Southern Owens Valley,Lubkin Spillgate Outflow,34.7
+2024-06-03 00:33:47,Southern Owens Valley,Cartago Spillgate Outflow,44.7
+2024-06-03 00:33:47,Southern Owens Valley,Lone Pine Creek Flow,35.3
+2024-06-03 00:33:47,Lower Owens River Project,LORP Intake Flow,42.0
+2024-06-03 00:33:47,Lower Owens River Project,LORP at Mazourka Canyon Road,57.0
+2024-06-03 00:33:47,Lower Owens River Project,LORP at Reinhackle Springs,56.0
+2024-06-03 00:33:47,Lower Owens River Project,LORP Above Pumpstation,51.0
+2024-06-03 00:33:47,Lower Owens River Project,LORP At Pump Station Discharge Flow,48.0
+2024-06-03 00:33:47,Southern District,Haiwee LAA #2 Current Flow,265.3
+2024-06-03 00:33:47,Southern District,S. Haiwee Reservoir Elevation,3740.8
+2024-06-03 00:33:47,Southern District,Haiwee LAA #1 Current Flow,238.2
+2024-06-03 00:33:47,Southern District,Fairmont Reservoir Elevation,3023.2
+2024-06-03 00:33:47,Southern District,LAA #1 Flow at Fairmont Reservoir,314.8
+2024-06-03 00:33:47,Southern District,LAA #2 Flow at Fairmont Res.,291.4
+2024-06-03 00:33:47,Southern District,Bouquet Reservoir Elevation,2967.6
+2024-06-03 00:33:47,Southern District,Bouquet Reservoir Inflow,52.1
+2024-06-03 00:33:47,Southern District,Bouquet Reservoir Outflow,0.5
+2024-06-03 00:33:47,Southern District,LAA #1 at Soledad Flow,230.3
+2024-06-03 00:33:47,Southern District,LAA #2 at Soledad Flow,295.9
+2024-06-03 01:33:46,Mono Basin,Lee Vining Intake Above Flow,249.6
+2024-06-03 01:33:46,Mono Basin,Lee Vining Intake Below Flow,333.0
+2024-06-03 01:33:46,Mono Basin,Walker Ck. Above Conduit Flow,21.0
+2024-06-03 01:33:46,Mono Basin,L.V. Conduit Below Intake Flow,22.7
+2024-06-03 01:33:46,Mono Basin,Walker Ck. Under Conduit Flow,20.0
+2024-06-03 01:33:46,Mono Basin,Parker Ck. Under Conduit Flow,36.0
+2024-06-03 01:33:46,Mono Basin,Parker Ck. Above Conduit Flow,37.0
+2024-06-03 01:33:46,Mono Basin,Grant Lk. Spill Flow,121.0
+2024-06-03 01:33:46,Mono Basin,Mono Gate 1 Return Ditch Flow,102.7
+2024-06-03 01:33:46,Mono Basin,Grant Lk. Outflow,108.5
+2024-06-03 01:33:46,Mono Basin,Rush Ck. at Damsite Flow,197.0
+2024-06-03 01:33:46,Mono Basin,Flow to West Portal,0.0
+2024-06-03 01:33:46,Long Valley,East Portal Flow,14.0
+2024-06-03 01:33:46,Long Valley,OR Below EP Flow,103.0
+2024-06-03 01:33:46,Long Valley,Hot Ck.at Hwy. Flow,89.0
+2024-06-03 01:33:46,Long Valley,McGee Ck. Lower Sta. Flow,47.9
+2024-06-03 01:33:46,Long Valley,Long Valley Current Outflow,216.7
+2024-06-03 01:33:46,Long Valley,Rock Ck. Div. Flow,32.7
+2024-06-03 01:33:46,Long Valley,Upper Gorge Total Release,85.9
+2024-06-03 01:33:46,Long Valley,Release at Middle Gorge,0.0
+2024-06-03 01:33:46,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,131.9
+2024-06-03 01:33:46,Northern Owens Valley,Pleasant Valley Outflow,547.0
+2024-06-03 01:33:46,Northern Owens Valley,Baker Ck. At LA Station Flow,10.8
+2024-06-03 01:33:46,Northern Owens Valley,Big Pine Ck. USGS Flow,118.9
+2024-06-03 01:33:46,Northern Owens Valley,O.R. Below Big Pine,581.4
+2024-06-03 01:33:46,Northern Owens Valley,Fish Springs At RR Flow,45.6
+2024-06-03 01:33:46,Northern Owens Valley,Tinemaha Reservoir Outflow,529.4
+2024-06-03 01:33:46,Northern Owens Valley,Bishop Creek Through Plant 6,130.0
+2024-06-03 01:33:46,Northern Owens Valley,Bishop Creek Around Plant 6,37.5
+2024-06-03 01:33:46,Southern Owens Valley,Tinemaha Reservoir Outflow,529.4
+2024-06-03 01:33:46,Southern Owens Valley,Indep. Ck. At Junction Flow,44.9
+2024-06-03 01:33:46,Southern Owens Valley,LAA at Alabama Flow,579.0
+2024-06-03 01:33:46,Southern Owens Valley,Cottonwood Ck. At LAA Flow,64.0
+2024-06-03 01:33:46,Southern Owens Valley,LAA at Cottonwood Flow,664.0
+2024-06-03 01:33:46,Southern Owens Valley,Haiwee LAA #1 Current Flow,241.2
+2024-06-03 01:33:46,Southern Owens Valley,Haiwee LAA #2 Current Flow,265.9
+2024-06-03 01:33:46,Southern Owens Valley,Reinhackel Flow,2.1
+2024-06-03 01:33:46,Southern Owens Valley,Lubkin Spillgate Outflow,41.2
+2024-06-03 01:33:46,Southern Owens Valley,Cartago Spillgate Outflow,41.0
+2024-06-03 01:33:46,Southern Owens Valley,Lone Pine Creek Flow,35.3
+2024-06-03 01:33:46,Lower Owens River Project,LORP Intake Flow,42.0
+2024-06-03 01:33:46,Lower Owens River Project,LORP at Mazourka Canyon Road,57.0
+2024-06-03 01:33:46,Lower Owens River Project,LORP at Reinhackle Springs,56.0
+2024-06-03 01:33:46,Lower Owens River Project,LORP Above Pumpstation,37.0
+2024-06-03 01:33:46,Lower Owens River Project,LORP At Pump Station Discharge Flow,34.0
+2024-06-03 01:33:46,Southern District,Haiwee LAA #2 Current Flow,265.9
+2024-06-03 01:33:46,Southern District,Haiwee LAA #1 Current Flow,241.2
+2024-06-03 01:33:46,Southern District,LAA #1 Flow at Fairmont Reservoir,315.5
+2024-06-03 01:33:46,Southern District,LAA #2 Flow at Fairmont Res.,291.4
+2024-06-03 01:33:46,Southern District,Bouquet Reservoir Inflow,47.1
+2024-06-03 01:33:46,Southern District,Bouquet Reservoir Outflow,0.5
+2024-06-03 01:33:47,Mono Basin,Mono Lk. Elevation,6383.5
+2024-06-03 01:33:47,Mono Basin,Grant Lk. Elevation,7130.9
+2024-06-03 01:33:47,Long Valley,Long Valley Elevation,6778.3
+2024-06-03 01:33:47,Northern Owens Valley,Pleasant Valley Elevation,4383.8
+2024-06-03 01:33:47,Southern Owens Valley,LAA at Alabama Level,9.9
+2024-06-03 01:33:47,Southern Owens Valley,LAA at Alabama Water Temp,68.4
+2024-06-03 01:33:47,Southern Owens Valley,LAA at Cottonwood Level,10.5
+2024-06-03 01:33:47,Southern Owens Valley,LAA at Cotton. Water Temp,69.2
+2024-06-03 01:33:47,Southern Owens Valley,N. Haiwee Elevation,3757.0
+2024-06-03 01:33:47,Southern Owens Valley,S. Haiwee Reservoir Elevation,3740.8
+2024-06-03 01:33:47,Southern District,S. Haiwee Reservoir Elevation,3740.8
+2024-06-03 01:33:47,Southern District,Fairmont Reservoir Elevation,3023.2
+2024-06-03 01:33:47,Southern District,Bouquet Reservoir Elevation,2967.6
+2024-06-03 01:33:47,Southern District,LAA #1 at Soledad Flow,230.3
+2024-06-03 01:33:47,Southern District,LAA #2 at Soledad Flow,295.9
 2024-06-03 02:18:47,Northern Owens Valley,Tinemaha Elevation,3863.8
 2024-06-03 02:18:47,Southern Owens Valley,Tinemaha Elevation,3863.8
+2024-06-03 02:33:46,Mono Basin,Lee Vining Intake Above Flow,249.6
+2024-06-03 02:33:46,Mono Basin,Lee Vining Intake Below Flow,333.0
+2024-06-03 02:33:46,Mono Basin,Walker Ck. Above Conduit Flow,21.0
+2024-06-03 02:33:46,Mono Basin,L.V. Conduit Below Intake Flow,22.7
+2024-06-03 02:33:46,Mono Basin,Walker Ck. Under Conduit Flow,20.0
+2024-06-03 02:33:46,Mono Basin,Parker Ck. Under Conduit Flow,36.0
+2024-06-03 02:33:46,Mono Basin,Parker Ck. Above Conduit Flow,37.0
+2024-06-03 02:33:46,Mono Basin,Grant Lk. Spill Flow,121.0
+2024-06-03 02:33:46,Mono Basin,Mono Gate 1 Return Ditch Flow,102.9
+2024-06-03 02:33:46,Mono Basin,Grant Lk. Outflow,107.8
+2024-06-03 02:33:46,Mono Basin,Rush Ck. at Damsite Flow,197.0
+2024-06-03 02:33:46,Mono Basin,Flow to West Portal,0.0
+2024-06-03 02:33:46,Long Valley,East Portal Flow,14.0
+2024-06-03 02:33:46,Long Valley,OR Below EP Flow,103.0
+2024-06-03 02:33:46,Long Valley,Hot Ck.at Hwy. Flow,87.0
+2024-06-03 02:33:46,Long Valley,McGee Ck. Lower Sta. Flow,47.9
+2024-06-03 02:33:46,Long Valley,Long Valley Current Outflow,227.8
+2024-06-03 02:33:46,Long Valley,Rock Ck. Div. Flow,32.9
+2024-06-03 02:33:46,Long Valley,Upper Gorge Total Release,85.6
+2024-06-03 02:33:46,Long Valley,Release at Middle Gorge,0.0
+2024-06-03 02:33:46,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,134.3
+2024-06-03 02:33:46,Northern Owens Valley,Pleasant Valley Outflow,545.9
+2024-06-03 02:33:46,Northern Owens Valley,Baker Ck. At LA Station Flow,10.8
+2024-06-03 02:33:46,Northern Owens Valley,Big Pine Ck. USGS Flow,118.9
+2024-06-03 02:33:46,Northern Owens Valley,O.R. Below Big Pine,582.5
+2024-06-03 02:33:46,Northern Owens Valley,Fish Springs At RR Flow,45.6
+2024-06-03 02:33:46,Northern Owens Valley,Tinemaha Reservoir Outflow,529.4
+2024-06-03 02:33:46,Northern Owens Valley,Bishop Creek Through Plant 6,123.7
+2024-06-03 02:33:46,Northern Owens Valley,Bishop Creek Around Plant 6,37.3
+2024-06-03 02:33:46,Southern Owens Valley,Tinemaha Reservoir Outflow,529.4
+2024-06-03 02:33:46,Southern Owens Valley,Indep. Ck. At Junction Flow,44.9
+2024-06-03 02:33:46,Southern Owens Valley,LAA at Alabama Flow,579.0
+2024-06-03 02:33:46,Southern Owens Valley,Cottonwood Ck. At LAA Flow,65.0
+2024-06-03 02:33:46,Southern Owens Valley,LAA at Cottonwood Flow,666.0
+2024-06-03 02:33:46,Southern Owens Valley,Haiwee LAA #1 Current Flow,241.2
+2024-06-03 02:33:46,Southern Owens Valley,Haiwee LAA #2 Current Flow,265.9
+2024-06-03 02:33:46,Southern Owens Valley,Reinhackel Flow,2.1
+2024-06-03 02:33:46,Southern Owens Valley,Lubkin Spillgate Outflow,39.5
+2024-06-03 02:33:46,Southern Owens Valley,Cartago Spillgate Outflow,39.2
+2024-06-03 02:33:46,Southern Owens Valley,Lone Pine Creek Flow,35.3
+2024-06-03 02:33:46,Lower Owens River Project,LORP Intake Flow,42.0
+2024-06-03 02:33:46,Lower Owens River Project,LORP at Mazourka Canyon Road,54.0
+2024-06-03 02:33:46,Lower Owens River Project,LORP at Reinhackle Springs,54.0
+2024-06-03 02:33:46,Lower Owens River Project,LORP Above Pumpstation,37.0
+2024-06-03 02:33:46,Lower Owens River Project,LORP At Pump Station Discharge Flow,34.0
+2024-06-03 02:33:46,Southern District,Haiwee LAA #2 Current Flow,265.9
+2024-06-03 02:33:46,Southern District,Haiwee LAA #1 Current Flow,241.2
+2024-06-03 02:33:46,Southern District,LAA #1 Flow at Fairmont Reservoir,315.3
+2024-06-03 02:33:46,Southern District,LAA #2 Flow at Fairmont Res.,291.6
+2024-06-03 02:33:46,Southern District,Bouquet Reservoir Inflow,47.6
+2024-06-03 02:33:46,Southern District,Bouquet Reservoir Outflow,0.5
+2024-06-03 02:33:46,Southern District,LAA #1 at Soledad Flow,230.3
+2024-06-03 02:33:46,Southern District,LAA #2 at Soledad Flow,295.9
+2024-06-03 02:33:47,Mono Basin,Mono Lk. Elevation,6383.5
+2024-06-03 02:33:47,Mono Basin,Grant Lk. Elevation,7130.9
+2024-06-03 02:33:47,Long Valley,Long Valley Elevation,6778.2
+2024-06-03 02:33:47,Northern Owens Valley,Pleasant Valley Elevation,4383.7
+2024-06-03 02:33:47,Southern Owens Valley,LAA at Alabama Level,9.9
+2024-06-03 02:33:47,Southern Owens Valley,LAA at Alabama Water Temp,68.2
+2024-06-03 02:33:47,Southern Owens Valley,LAA at Cottonwood Level,10.5
+2024-06-03 02:33:47,Southern Owens Valley,LAA at Cotton. Water Temp,68.4
+2024-06-03 02:33:47,Southern Owens Valley,N. Haiwee Elevation,3757.0
+2024-06-03 02:33:47,Southern Owens Valley,S. Haiwee Reservoir Elevation,3740.8
+2024-06-03 02:33:47,Southern District,S. Haiwee Reservoir Elevation,3740.8
+2024-06-03 02:33:47,Southern District,Fairmont Reservoir Elevation,3023.2
+2024-06-03 02:33:47,Southern District,Bouquet Reservoir Elevation,2967.6
 2024-06-03 02:48:49,Northern Owens Valley,Tinemaha Elevation,3863.8
 2024-06-03 02:48:49,Southern Owens Valley,Tinemaha Elevation,3863.8
 2024-06-03 03:18:47,Northern Owens Valley,Tinemaha Elevation,3863.9
 2024-06-03 03:18:47,Southern Owens Valley,Tinemaha Elevation,3863.9
+2024-06-03 03:33:46,Mono Basin,Lee Vining Intake Above Flow,249.6
+2024-06-03 03:33:46,Mono Basin,Lee Vining Intake Below Flow,333.0
+2024-06-03 03:33:46,Mono Basin,Walker Ck. Above Conduit Flow,21.0
+2024-06-03 03:33:46,Mono Basin,L.V. Conduit Below Intake Flow,22.7
+2024-06-03 03:33:46,Mono Basin,Walker Ck. Under Conduit Flow,20.0
+2024-06-03 03:33:46,Mono Basin,Parker Ck. Under Conduit Flow,36.0
+2024-06-03 03:33:46,Mono Basin,Rush Ck. at Damsite Flow,197.0
+2024-06-03 03:33:46,Long Valley,Hot Ck.at Hwy. Flow,86.0
+2024-06-03 03:33:46,Long Valley,McGee Ck. Lower Sta. Flow,47.9
+2024-06-03 03:33:46,Long Valley,Long Valley Current Outflow,220.7
+2024-06-03 03:33:46,Long Valley,Rock Ck. Div. Flow,32.9
+2024-06-03 03:33:46,Long Valley,Upper Gorge Total Release,86.3
+2024-06-03 03:33:46,Long Valley,Release at Middle Gorge,0.0
+2024-06-03 03:33:46,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,136.3
+2024-06-03 03:33:46,Northern Owens Valley,Pleasant Valley Outflow,545.6
+2024-06-03 03:33:46,Northern Owens Valley,Baker Ck. At LA Station Flow,10.8
+2024-06-03 03:33:46,Northern Owens Valley,Big Pine Ck. USGS Flow,118.9
+2024-06-03 03:33:46,Northern Owens Valley,O.R. Below Big Pine,581.4
+2024-06-03 03:33:46,Northern Owens Valley,Fish Springs At RR Flow,45.6
+2024-06-03 03:33:46,Northern Owens Valley,Tinemaha Reservoir Outflow,528.5
+2024-06-03 03:33:46,Northern Owens Valley,Bishop Creek Through Plant 6,129.7
+2024-06-03 03:33:46,Northern Owens Valley,Bishop Creek Around Plant 6,37.7
+2024-06-03 03:33:46,Southern Owens Valley,Tinemaha Reservoir Outflow,528.5
+2024-06-03 03:33:46,Southern Owens Valley,Indep. Ck. At Junction Flow,44.9
+2024-06-03 03:33:46,Southern Owens Valley,LAA at Alabama Flow,579.0
+2024-06-03 03:33:46,Southern Owens Valley,Cottonwood Ck. At LAA Flow,66.0
+2024-06-03 03:33:46,Southern Owens Valley,LAA at Cottonwood Flow,667.0
+2024-06-03 03:33:46,Southern Owens Valley,Haiwee LAA #1 Current Flow,241.2
+2024-06-03 03:33:46,Southern Owens Valley,Haiwee LAA #2 Current Flow,265.9
+2024-06-03 03:33:46,Southern Owens Valley,Reinhackel Flow,2.1
+2024-06-03 03:33:46,Southern Owens Valley,Lubkin Spillgate Outflow,33.8
+2024-06-03 03:33:46,Southern Owens Valley,Cartago Spillgate Outflow,30.1
+2024-06-03 03:33:46,Southern Owens Valley,Lone Pine Creek Flow,35.6
+2024-06-03 03:33:46,Lower Owens River Project,LORP Intake Flow,42.0
+2024-06-03 03:33:46,Lower Owens River Project,LORP at Mazourka Canyon Road,51.0
+2024-06-03 03:33:46,Lower Owens River Project,LORP at Reinhackle Springs,54.0
+2024-06-03 03:33:46,Lower Owens River Project,LORP Above Pumpstation,37.0
+2024-06-03 03:33:46,Lower Owens River Project,LORP At Pump Station Discharge Flow,34.0
+2024-06-03 03:33:46,Southern District,Haiwee LAA #2 Current Flow,265.9
+2024-06-03 03:33:46,Southern District,Haiwee LAA #1 Current Flow,241.2
+2024-06-03 03:33:47,Mono Basin,Mono Lk. Elevation,6383.5
+2024-06-03 03:33:47,Mono Basin,Parker Ck. Above Conduit Flow,37.0
+2024-06-03 03:33:47,Mono Basin,Grant Lk. Spill Flow,121.0
+2024-06-03 03:33:47,Mono Basin,Mono Gate 1 Return Ditch Flow,102.9
+2024-06-03 03:33:47,Mono Basin,Grant Lk. Elevation,7130.9
+2024-06-03 03:33:47,Mono Basin,Grant Lk. Outflow,107.4
+2024-06-03 03:33:47,Mono Basin,Flow to West Portal,0.0
+2024-06-03 03:33:47,Long Valley,East Portal Flow,14.0
+2024-06-03 03:33:47,Long Valley,OR Below EP Flow,103.0
+2024-06-03 03:33:47,Long Valley,Long Valley Elevation,6778.3
+2024-06-03 03:33:47,Northern Owens Valley,Pleasant Valley Elevation,4383.5
+2024-06-03 03:33:47,Southern Owens Valley,LAA at Alabama Level,9.9
+2024-06-03 03:33:47,Southern Owens Valley,LAA at Alabama Water Temp,68.2
+2024-06-03 03:33:47,Southern Owens Valley,LAA at Cottonwood Level,10.5
+2024-06-03 03:33:47,Southern Owens Valley,LAA at Cotton. Water Temp,68.2
+2024-06-03 03:33:47,Southern Owens Valley,N. Haiwee Elevation,3757.0
+2024-06-03 03:33:47,Southern Owens Valley,S. Haiwee Reservoir Elevation,3740.8
+2024-06-03 03:33:47,Southern District,S. Haiwee Reservoir Elevation,3740.8
+2024-06-03 03:33:47,Southern District,Fairmont Reservoir Elevation,3023.2
+2024-06-03 03:33:47,Southern District,LAA #1 Flow at Fairmont Reservoir,315.2
+2024-06-03 03:33:47,Southern District,LAA #2 Flow at Fairmont Res.,291.6
+2024-06-03 03:33:47,Southern District,Bouquet Reservoir Elevation,2967.6
+2024-06-03 03:33:47,Southern District,Bouquet Reservoir Inflow,51.2
+2024-06-03 03:33:47,Southern District,Bouquet Reservoir Outflow,0.5
+2024-06-03 03:33:47,Southern District,LAA #1 at Soledad Flow,230.3
+2024-06-03 03:33:47,Southern District,LAA #2 at Soledad Flow,295.4
 2024-06-03 03:48:49,Northern Owens Valley,Tinemaha Elevation,3863.9
 2024-06-03 03:48:49,Southern Owens Valley,Tinemaha Elevation,3863.9
 2024-06-03 04:18:47,Northern Owens Valley,Tinemaha Elevation,3863.9
 2024-06-03 04:18:47,Southern Owens Valley,Tinemaha Elevation,3863.9
+2024-06-03 04:33:46,Mono Basin,Lee Vining Intake Above Flow,249.6
+2024-06-03 04:33:46,Mono Basin,Lee Vining Intake Below Flow,333.0
+2024-06-03 04:33:46,Mono Basin,Walker Ck. Above Conduit Flow,21.0
+2024-06-03 04:33:46,Mono Basin,L.V. Conduit Below Intake Flow,22.7
+2024-06-03 04:33:46,Mono Basin,Walker Ck. Under Conduit Flow,20.0
+2024-06-03 04:33:46,Mono Basin,Parker Ck. Under Conduit Flow,36.0
+2024-06-03 04:33:46,Mono Basin,Parker Ck. Above Conduit Flow,37.0
+2024-06-03 04:33:46,Mono Basin,Grant Lk. Spill Flow,121.0
+2024-06-03 04:33:46,Mono Basin,Mono Gate 1 Return Ditch Flow,102.7
+2024-06-03 04:33:46,Mono Basin,Grant Lk. Outflow,108.3
+2024-06-03 04:33:46,Mono Basin,Rush Ck. at Damsite Flow,197.0
+2024-06-03 04:33:46,Mono Basin,Flow to West Portal,0.0
+2024-06-03 04:33:46,Long Valley,East Portal Flow,14.0
+2024-06-03 04:33:46,Long Valley,OR Below EP Flow,104.0
+2024-06-03 04:33:46,Long Valley,Hot Ck.at Hwy. Flow,86.0
+2024-06-03 04:33:46,Long Valley,McGee Ck. Lower Sta. Flow,47.9
+2024-06-03 04:33:46,Long Valley,Long Valley Current Outflow,217.8
+2024-06-03 04:33:46,Long Valley,Rock Ck. Div. Flow,33.1
+2024-06-03 04:33:46,Long Valley,Upper Gorge Total Release,86.2
+2024-06-03 04:33:46,Long Valley,Release at Middle Gorge,0.0
+2024-06-03 04:33:46,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,137.7
+2024-06-03 04:33:46,Northern Owens Valley,Pleasant Valley Outflow,545.0
+2024-06-03 04:33:46,Northern Owens Valley,Baker Ck. At LA Station Flow,11.1
+2024-06-03 04:33:46,Northern Owens Valley,Big Pine Ck. USGS Flow,118.9
+2024-06-03 04:33:46,Northern Owens Valley,O.R. Below Big Pine,584.2
+2024-06-03 04:33:46,Northern Owens Valley,Fish Springs At RR Flow,45.6
+2024-06-03 04:33:46,Northern Owens Valley,Tinemaha Reservoir Outflow,528.5
+2024-06-03 04:33:46,Northern Owens Valley,Bishop Creek Through Plant 6,129.7
+2024-06-03 04:33:46,Northern Owens Valley,Bishop Creek Around Plant 6,37.7
+2024-06-03 04:33:46,Southern Owens Valley,Tinemaha Reservoir Outflow,528.5
+2024-06-03 04:33:46,Southern Owens Valley,Indep. Ck. At Junction Flow,44.9
+2024-06-03 04:33:46,Southern Owens Valley,LAA at Alabama Flow,579.0
+2024-06-03 04:33:46,Southern Owens Valley,Cottonwood Ck. At LAA Flow,66.0
+2024-06-03 04:33:46,Southern Owens Valley,LAA at Cottonwood Flow,667.0
+2024-06-03 04:33:46,Southern Owens Valley,Haiwee LAA #1 Current Flow,241.2
+2024-06-03 04:33:46,Southern Owens Valley,Haiwee LAA #2 Current Flow,265.9
+2024-06-03 04:33:46,Southern Owens Valley,Reinhackel Flow,2.1
+2024-06-03 04:33:46,Southern Owens Valley,Lubkin Spillgate Outflow,24.9
+2024-06-03 04:33:46,Southern Owens Valley,Cartago Spillgate Outflow,33.8
+2024-06-03 04:33:46,Southern Owens Valley,Lone Pine Creek Flow,35.9
+2024-06-03 04:33:46,Lower Owens River Project,LORP Intake Flow,42.0
+2024-06-03 04:33:46,Lower Owens River Project,LORP at Mazourka Canyon Road,54.0
+2024-06-03 04:33:46,Lower Owens River Project,LORP at Reinhackle Springs,54.0
+2024-06-03 04:33:46,Lower Owens River Project,LORP Above Pumpstation,51.0
+2024-06-03 04:33:46,Lower Owens River Project,LORP At Pump Station Discharge Flow,48.0
+2024-06-03 04:33:46,Southern District,Haiwee LAA #2 Current Flow,265.9
+2024-06-03 04:33:46,Southern District,Haiwee LAA #1 Current Flow,241.2
+2024-06-03 04:33:46,Southern District,LAA #1 Flow at Fairmont Reservoir,315.4
+2024-06-03 04:33:46,Southern District,LAA #2 Flow at Fairmont Res.,291.6
+2024-06-03 04:33:47,Mono Basin,Mono Lk. Elevation,6383.5
+2024-06-03 04:33:47,Mono Basin,Grant Lk. Elevation,7130.9
+2024-06-03 04:33:47,Long Valley,Long Valley Elevation,6778.3
+2024-06-03 04:33:47,Northern Owens Valley,Pleasant Valley Elevation,4383.3
+2024-06-03 04:33:47,Southern Owens Valley,LAA at Alabama Level,9.9
+2024-06-03 04:33:47,Southern Owens Valley,LAA at Alabama Water Temp,68.2
+2024-06-03 04:33:47,Southern Owens Valley,LAA at Cottonwood Level,10.5
+2024-06-03 04:33:47,Southern Owens Valley,LAA at Cotton. Water Temp,67.9
+2024-06-03 04:33:47,Southern Owens Valley,N. Haiwee Elevation,3757.0
+2024-06-03 04:33:47,Southern Owens Valley,S. Haiwee Reservoir Elevation,3740.8
+2024-06-03 04:33:47,Southern District,S. Haiwee Reservoir Elevation,3740.8
+2024-06-03 04:33:47,Southern District,Fairmont Reservoir Elevation,3023.1
+2024-06-03 04:33:47,Southern District,Bouquet Reservoir Elevation,2967.6
+2024-06-03 04:33:47,Southern District,Bouquet Reservoir Inflow,51.7
+2024-06-03 04:33:47,Southern District,Bouquet Reservoir Outflow,0.5
+2024-06-03 04:33:47,Southern District,LAA #1 at Soledad Flow,226.9
+2024-06-03 04:33:47,Southern District,LAA #2 at Soledad Flow,295.4
 2024-06-03 04:48:48,Northern Owens Valley,Tinemaha Elevation,3863.9
 2024-06-03 04:48:48,Southern Owens Valley,Tinemaha Elevation,3863.9
 2024-06-03 05:18:47,Northern Owens Valley,Tinemaha Elevation,3863.9
 2024-06-03 05:18:47,Southern Owens Valley,Tinemaha Elevation,3863.9
+2024-06-03 05:33:46,Mono Basin,Lee Vining Intake Above Flow,249.6
+2024-06-03 05:33:46,Mono Basin,Lee Vining Intake Below Flow,333.0
+2024-06-03 05:33:46,Mono Basin,Walker Ck. Above Conduit Flow,21.0
+2024-06-03 05:33:46,Mono Basin,L.V. Conduit Below Intake Flow,22.7
+2024-06-03 05:33:46,Mono Basin,Walker Ck. Under Conduit Flow,20.0
+2024-06-03 05:33:46,Mono Basin,Parker Ck. Under Conduit Flow,36.0
+2024-06-03 05:33:46,Mono Basin,Parker Ck. Above Conduit Flow,37.0
+2024-06-03 05:33:46,Mono Basin,Grant Lk. Spill Flow,121.0
+2024-06-03 05:33:46,Mono Basin,Mono Gate 1 Return Ditch Flow,102.7
+2024-06-03 05:33:46,Mono Basin,Grant Lk. Outflow,108.1
+2024-06-03 05:33:46,Mono Basin,Rush Ck. at Damsite Flow,197.0
+2024-06-03 05:33:46,Mono Basin,Flow to West Portal,0.0
+2024-06-03 05:33:46,Long Valley,East Portal Flow,14.0
+2024-06-03 05:33:46,Long Valley,OR Below EP Flow,104.0
+2024-06-03 05:33:46,Long Valley,Hot Ck.at Hwy. Flow,85.0
+2024-06-03 05:33:46,Long Valley,McGee Ck. Lower Sta. Flow,47.9
+2024-06-03 05:33:46,Long Valley,Long Valley Current Outflow,216.9
+2024-06-03 05:33:46,Long Valley,Rock Ck. Div. Flow,33.6
+2024-06-03 05:33:46,Long Valley,Upper Gorge Total Release,86.1
+2024-06-03 05:33:46,Long Valley,Release at Middle Gorge,0.0
+2024-06-03 05:33:46,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,137.7
+2024-06-03 05:33:46,Northern Owens Valley,Pleasant Valley Outflow,544.4
+2024-06-03 05:33:46,Northern Owens Valley,Baker Ck. At LA Station Flow,12.4
+2024-06-03 05:33:46,Northern Owens Valley,Big Pine Ck. USGS Flow,118.9
+2024-06-03 05:33:46,Northern Owens Valley,O.R. Below Big Pine,584.7
+2024-06-03 05:33:46,Northern Owens Valley,Fish Springs At RR Flow,45.6
+2024-06-03 05:33:46,Northern Owens Valley,Tinemaha Reservoir Outflow,530.2
+2024-06-03 05:33:46,Northern Owens Valley,Bishop Creek Through Plant 6,129.7
+2024-06-03 05:33:46,Northern Owens Valley,Bishop Creek Around Plant 6,37.7
+2024-06-03 05:33:46,Southern Owens Valley,Tinemaha Reservoir Outflow,530.2
+2024-06-03 05:33:46,Southern Owens Valley,Indep. Ck. At Junction Flow,44.9
+2024-06-03 05:33:46,Southern Owens Valley,LAA at Alabama Flow,582.0
+2024-06-03 05:33:46,Southern Owens Valley,Cottonwood Ck. At LAA Flow,66.0
+2024-06-03 05:33:46,Southern Owens Valley,LAA at Cottonwood Flow,667.0
+2024-06-03 05:33:46,Southern Owens Valley,Haiwee LAA #1 Current Flow,241.2
+2024-06-03 05:33:46,Southern Owens Valley,Haiwee LAA #2 Current Flow,265.9
+2024-06-03 05:33:46,Southern Owens Valley,Reinhackel Flow,2.1
+2024-06-03 05:33:46,Southern Owens Valley,Lubkin Spillgate Outflow,44.4
+2024-06-03 05:33:46,Southern Owens Valley,Cartago Spillgate Outflow,43.0
+2024-06-03 05:33:46,Southern Owens Valley,Lone Pine Creek Flow,35.7
+2024-06-03 05:33:46,Lower Owens River Project,LORP Intake Flow,42.0
+2024-06-03 05:33:46,Lower Owens River Project,LORP at Mazourka Canyon Road,52.0
+2024-06-03 05:33:46,Lower Owens River Project,LORP at Reinhackle Springs,58.0
+2024-06-03 05:33:46,Lower Owens River Project,LORP Above Pumpstation,38.0
+2024-06-03 05:33:46,Lower Owens River Project,LORP At Pump Station Discharge Flow,35.0
+2024-06-03 05:33:46,Southern District,Haiwee LAA #2 Current Flow,265.9
+2024-06-03 05:33:46,Southern District,Haiwee LAA #1 Current Flow,241.2
+2024-06-03 05:33:46,Southern District,LAA #1 Flow at Fairmont Reservoir,315.2
+2024-06-03 05:33:46,Southern District,LAA #2 Flow at Fairmont Res.,291.6
+2024-06-03 05:33:47,Mono Basin,Mono Lk. Elevation,6383.5
+2024-06-03 05:33:47,Mono Basin,Grant Lk. Elevation,7130.9
+2024-06-03 05:33:47,Long Valley,Long Valley Elevation,6778.3
+2024-06-03 05:33:47,Northern Owens Valley,Pleasant Valley Elevation,4383.2
+2024-06-03 05:33:47,Southern Owens Valley,LAA at Alabama Level,9.9
+2024-06-03 05:33:47,Southern Owens Valley,LAA at Alabama Water Temp,67.8
+2024-06-03 05:33:47,Southern Owens Valley,LAA at Cottonwood Level,10.5
+2024-06-03 05:33:47,Southern Owens Valley,LAA at Cotton. Water Temp,67.7
+2024-06-03 05:33:47,Southern Owens Valley,N. Haiwee Elevation,3757.0
+2024-06-03 05:33:47,Southern Owens Valley,S. Haiwee Reservoir Elevation,3740.8
+2024-06-03 05:33:47,Southern District,S. Haiwee Reservoir Elevation,3740.8
+2024-06-03 05:33:47,Southern District,Fairmont Reservoir Elevation,3023.1
+2024-06-03 05:33:47,Southern District,Bouquet Reservoir Elevation,2967.6
+2024-06-03 05:33:47,Southern District,Bouquet Reservoir Inflow,46.3
+2024-06-03 05:33:47,Southern District,Bouquet Reservoir Outflow,0.5
+2024-06-03 05:33:47,Southern District,LAA #1 at Soledad Flow,226.9
+2024-06-03 05:33:47,Southern District,LAA #2 at Soledad Flow,295.4
 2024-06-03 05:48:49,Northern Owens Valley,Tinemaha Elevation,3863.9
 2024-06-03 05:48:49,Southern Owens Valley,Tinemaha Elevation,3863.9
 2024-06-03 06:18:47,Northern Owens Valley,Tinemaha Elevation,3863.9
 2024-06-03 06:18:47,Southern Owens Valley,Tinemaha Elevation,3863.9
+2024-06-03 06:33:48,Mono Basin,Lee Vining Intake Above Flow,249.6
+2024-06-03 06:33:48,Mono Basin,Lee Vining Intake Below Flow,333.0
+2024-06-03 06:33:48,Mono Basin,Walker Ck. Above Conduit Flow,21.0
+2024-06-03 06:33:48,Mono Basin,L.V. Conduit Below Intake Flow,22.7
+2024-06-03 06:33:48,Mono Basin,Walker Ck. Under Conduit Flow,20.0
+2024-06-03 06:33:48,Mono Basin,Parker Ck. Under Conduit Flow,37.0
+2024-06-03 06:33:48,Mono Basin,Parker Ck. Above Conduit Flow,38.0
+2024-06-03 06:33:48,Mono Basin,Grant Lk. Spill Flow,121.0
+2024-06-03 06:33:48,Mono Basin,Mono Gate 1 Return Ditch Flow,102.5
+2024-06-03 06:33:48,Mono Basin,Grant Lk. Outflow,107.7
+2024-06-03 06:33:48,Mono Basin,Rush Ck. at Damsite Flow,199.0
+2024-06-03 06:33:48,Mono Basin,Flow to West Portal,0.0
+2024-06-03 06:33:48,Long Valley,East Portal Flow,14.0
+2024-06-03 06:33:48,Long Valley,OR Below EP Flow,104.0
+2024-06-03 06:33:48,Long Valley,Hot Ck.at Hwy. Flow,84.0
+2024-06-03 06:33:48,Long Valley,McGee Ck. Lower Sta. Flow,43.7
+2024-06-03 06:33:48,Long Valley,Long Valley Current Outflow,217.2
+2024-06-03 06:33:48,Long Valley,Rock Ck. Div. Flow,33.6
+2024-06-03 06:33:48,Long Valley,Upper Gorge Total Release,86.3
+2024-06-03 06:33:48,Long Valley,Release at Middle Gorge,0.0
+2024-06-03 06:33:48,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,138.4
+2024-06-03 06:33:48,Northern Owens Valley,Pleasant Valley Outflow,552.1
+2024-06-03 06:33:48,Northern Owens Valley,Baker Ck. At LA Station Flow,11.0
+2024-06-03 06:33:48,Northern Owens Valley,Big Pine Ck. USGS Flow,120.3
+2024-06-03 06:33:48,Northern Owens Valley,O.R. Below Big Pine,586.3
+2024-06-03 06:33:48,Northern Owens Valley,Fish Springs At RR Flow,45.6
+2024-06-03 06:33:48,Northern Owens Valley,Tinemaha Reservoir Outflow,530.2
+2024-06-03 06:33:48,Northern Owens Valley,Bishop Creek Through Plant 6,129.6
+2024-06-03 06:33:48,Northern Owens Valley,Bishop Creek Around Plant 6,38.5
+2024-06-03 06:33:48,Southern Owens Valley,Tinemaha Reservoir Outflow,530.2
+2024-06-03 06:33:48,Southern Owens Valley,Indep. Ck. At Junction Flow,46.3
+2024-06-03 06:33:48,Southern Owens Valley,LAA at Alabama Flow,581.0
+2024-06-03 06:33:48,Southern Owens Valley,Cottonwood Ck. At LAA Flow,67.0
+2024-06-03 06:33:48,Southern Owens Valley,LAA at Cottonwood Flow,669.0
+2024-06-03 06:33:48,Southern Owens Valley,Haiwee LAA #1 Current Flow,240.0
+2024-06-03 06:33:48,Southern Owens Valley,Haiwee LAA #2 Current Flow,264.4
+2024-06-03 06:33:48,Southern Owens Valley,Reinhackel Flow,2.1
+2024-06-03 06:33:48,Southern Owens Valley,Lubkin Spillgate Outflow,34.5
+2024-06-03 06:33:48,Southern Owens Valley,Cartago Spillgate Outflow,40.3
+2024-06-03 06:33:48,Southern Owens Valley,Lone Pine Creek Flow,35.7
+2024-06-03 06:33:48,Lower Owens River Project,LORP Intake Flow,41.0
+2024-06-03 06:33:48,Lower Owens River Project,LORP at Mazourka Canyon Road,52.0
+2024-06-03 06:33:48,Lower Owens River Project,LORP at Reinhackle Springs,58.0
+2024-06-03 06:33:48,Lower Owens River Project,LORP Above Pumpstation,37.0
+2024-06-03 06:33:48,Lower Owens River Project,LORP At Pump Station Discharge Flow,34.0
+2024-06-03 06:33:48,Southern District,Haiwee LAA #2 Current Flow,264.4
+2024-06-03 06:33:48,Southern District,Haiwee LAA #1 Current Flow,240.0
+2024-06-03 06:33:48,Southern District,LAA #1 Flow at Fairmont Reservoir,315.0
+2024-06-03 06:33:48,Southern District,LAA #2 Flow at Fairmont Res.,291.5
+2024-06-03 06:33:48,Southern District,Bouquet Reservoir Inflow,51.4
+2024-06-03 06:33:48,Southern District,Bouquet Reservoir Outflow,0.5
+2024-06-03 06:33:48,Southern District,LAA #1 at Soledad Flow,226.9
+2024-06-03 06:33:48,Southern District,LAA #2 at Soledad Flow,295.5
+2024-06-03 06:33:49,Mono Basin,Mono Lk. Elevation,6383.5
+2024-06-03 06:33:49,Mono Basin,Grant Lk. Elevation,7130.9
+2024-06-03 06:33:49,Long Valley,Long Valley Elevation,6778.3
+2024-06-03 06:33:49,Northern Owens Valley,Pleasant Valley Elevation,4383.1
+2024-06-03 06:33:49,Southern Owens Valley,LAA at Alabama Level,9.9
+2024-06-03 06:33:49,Southern Owens Valley,LAA at Alabama Water Temp,67.6
+2024-06-03 06:33:49,Southern Owens Valley,LAA at Cottonwood Level,10.6
+2024-06-03 06:33:49,Southern Owens Valley,LAA at Cotton. Water Temp,67.2
+2024-06-03 06:33:49,Southern Owens Valley,N. Haiwee Elevation,3757.0
+2024-06-03 06:33:49,Southern Owens Valley,S. Haiwee Reservoir Elevation,3740.8
+2024-06-03 06:33:49,Southern District,S. Haiwee Reservoir Elevation,3740.8
+2024-06-03 06:33:49,Southern District,Fairmont Reservoir Elevation,3023.1
+2024-06-03 06:33:49,Southern District,Bouquet Reservoir Elevation,2967.6
 2024-06-03 06:48:48,Northern Owens Valley,Tinemaha Elevation,3863.9
 2024-06-03 06:48:48,Southern Owens Valley,Tinemaha Elevation,3863.9
 2024-06-03 07:18:47,Northern Owens Valley,Tinemaha Elevation,3863.9
 2024-06-03 07:18:47,Southern Owens Valley,Tinemaha Elevation,3863.9
+2024-06-03 07:33:46,Mono Basin,Lee Vining Intake Above Flow,249.6
+2024-06-03 07:33:46,Mono Basin,Lee Vining Intake Below Flow,333.0
+2024-06-03 07:33:46,Mono Basin,Walker Ck. Above Conduit Flow,21.0
+2024-06-03 07:33:46,Mono Basin,L.V. Conduit Below Intake Flow,22.7
+2024-06-03 07:33:46,Mono Basin,Walker Ck. Under Conduit Flow,20.0
+2024-06-03 07:33:46,Mono Basin,Parker Ck. Under Conduit Flow,37.0
+2024-06-03 07:33:46,Mono Basin,Parker Ck. Above Conduit Flow,38.0
+2024-06-03 07:33:46,Mono Basin,Rush Ck. at Damsite Flow,199.0
+2024-06-03 07:33:46,Long Valley,Hot Ck.at Hwy. Flow,84.0
+2024-06-03 07:33:46,Long Valley,McGee Ck. Lower Sta. Flow,43.7
+2024-06-03 07:33:46,Long Valley,Long Valley Current Outflow,219.0
+2024-06-03 07:33:46,Long Valley,Rock Ck. Div. Flow,33.6
+2024-06-03 07:33:46,Long Valley,Upper Gorge Total Release,86.5
+2024-06-03 07:33:46,Long Valley,Release at Middle Gorge,0.0
+2024-06-03 07:33:46,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,138.8
+2024-06-03 07:33:46,Northern Owens Valley,Pleasant Valley Outflow,551.3
+2024-06-03 07:33:46,Northern Owens Valley,Baker Ck. At LA Station Flow,11.0
+2024-06-03 07:33:46,Northern Owens Valley,Big Pine Ck. USGS Flow,120.3
+2024-06-03 07:33:46,Northern Owens Valley,O.R. Below Big Pine,586.0
+2024-06-03 07:33:46,Northern Owens Valley,Fish Springs At RR Flow,45.6
+2024-06-03 07:33:46,Northern Owens Valley,Tinemaha Reservoir Outflow,524.2
+2024-06-03 07:33:46,Northern Owens Valley,Bishop Creek Through Plant 6,129.6
+2024-06-03 07:33:46,Northern Owens Valley,Bishop Creek Around Plant 6,38.5
+2024-06-03 07:33:46,Southern Owens Valley,Tinemaha Reservoir Outflow,524.2
+2024-06-03 07:33:46,Southern Owens Valley,Indep. Ck. At Junction Flow,46.3
+2024-06-03 07:33:46,Southern Owens Valley,LAA at Alabama Flow,583.0
+2024-06-03 07:33:46,Southern Owens Valley,Cottonwood Ck. At LAA Flow,67.0
+2024-06-03 07:33:46,Southern Owens Valley,LAA at Cottonwood Flow,669.0
+2024-06-03 07:33:46,Southern Owens Valley,Haiwee LAA #1 Current Flow,240.0
+2024-06-03 07:33:46,Southern Owens Valley,Haiwee LAA #2 Current Flow,264.4
+2024-06-03 07:33:46,Southern Owens Valley,Reinhackel Flow,2.1
+2024-06-03 07:33:46,Southern Owens Valley,Lubkin Spillgate Outflow,38.6
+2024-06-03 07:33:46,Southern Owens Valley,Cartago Spillgate Outflow,60.3
+2024-06-03 07:33:46,Southern Owens Valley,Lone Pine Creek Flow,35.7
+2024-06-03 07:33:46,Lower Owens River Project,LORP Intake Flow,41.0
+2024-06-03 07:33:46,Lower Owens River Project,LORP at Mazourka Canyon Road,51.0
+2024-06-03 07:33:46,Lower Owens River Project,LORP at Reinhackle Springs,54.0
+2024-06-03 07:33:46,Lower Owens River Project,LORP Above Pumpstation,37.0
+2024-06-03 07:33:46,Lower Owens River Project,LORP At Pump Station Discharge Flow,34.0
+2024-06-03 07:33:46,Southern District,Haiwee LAA #2 Current Flow,264.4
+2024-06-03 07:33:46,Southern District,Haiwee LAA #1 Current Flow,240.0
+2024-06-03 07:33:47,Mono Basin,Mono Lk. Elevation,6383.5
+2024-06-03 07:33:47,Mono Basin,Grant Lk. Spill Flow,121.0
+2024-06-03 07:33:47,Mono Basin,Mono Gate 1 Return Ditch Flow,102.9
+2024-06-03 07:33:47,Mono Basin,Grant Lk. Elevation,7130.9
+2024-06-03 07:33:47,Mono Basin,Grant Lk. Outflow,107.7
+2024-06-03 07:33:47,Mono Basin,Flow to West Portal,0.0
+2024-06-03 07:33:47,Long Valley,East Portal Flow,14.0
+2024-06-03 07:33:47,Long Valley,OR Below EP Flow,105.0
+2024-06-03 07:33:47,Long Valley,Long Valley Elevation,6778.3
+2024-06-03 07:33:47,Northern Owens Valley,Pleasant Valley Elevation,4383.0
+2024-06-03 07:33:47,Southern Owens Valley,LAA at Alabama Level,9.9
+2024-06-03 07:33:47,Southern Owens Valley,LAA at Alabama Water Temp,67.5
+2024-06-03 07:33:47,Southern Owens Valley,LAA at Cottonwood Level,10.6
+2024-06-03 07:33:47,Southern Owens Valley,LAA at Cotton. Water Temp,67.0
+2024-06-03 07:33:47,Southern Owens Valley,N. Haiwee Elevation,3757.0
+2024-06-03 07:33:47,Southern Owens Valley,S. Haiwee Reservoir Elevation,3740.9
+2024-06-03 07:33:47,Southern District,S. Haiwee Reservoir Elevation,3740.9
+2024-06-03 07:33:47,Southern District,Fairmont Reservoir Elevation,3023.1
+2024-06-03 07:33:47,Southern District,LAA #1 Flow at Fairmont Reservoir,315.1
+2024-06-03 07:33:47,Southern District,LAA #2 Flow at Fairmont Res.,291.2
+2024-06-03 07:33:47,Southern District,Bouquet Reservoir Elevation,2967.7
+2024-06-03 07:33:47,Southern District,Bouquet Reservoir Inflow,46.1
+2024-06-03 07:33:47,Southern District,Bouquet Reservoir Outflow,0.5
+2024-06-03 07:33:47,Southern District,LAA #1 at Soledad Flow,229.9
+2024-06-03 07:33:47,Southern District,LAA #2 at Soledad Flow,295.6
 2024-06-03 07:48:49,Northern Owens Valley,Tinemaha Elevation,3863.9
 2024-06-03 07:48:49,Southern Owens Valley,Tinemaha Elevation,3863.9
 2024-06-03 08:03:47,Mono Basin,Lee Vining Intake Above Flow,249.6
@@ -1161,6 +1689,8 @@ date,district,source,value
 2024-06-03 12:03:47,Southern District,S. Haiwee Reservoir Elevation,3740.9
 2024-06-03 12:03:47,Southern District,Fairmont Reservoir Elevation,3022.7
 2024-06-03 12:03:47,Southern District,Bouquet Reservoir Elevation,2967.7
+2024-06-03 12:18:47,Northern Owens Valley,Tinemaha Elevation,3863.9
+2024-06-03 12:18:47,Southern Owens Valley,Tinemaha Elevation,3863.9
 2024-06-03 12:18:47,Mono Basin,Lee Vining Intake Above Flow,154.5
 2024-06-03 12:18:47,Mono Basin,Lee Vining Intake Below Flow,110.2
 2024-06-03 12:18:47,Mono Basin,Mono Lk. Elevation,6383.5
@@ -1191,11 +1721,9 @@ date,district,source,value
 2024-06-03 12:18:47,Northern Owens Valley,Big Pine Ck. USGS Flow,118.7
 2024-06-03 12:18:47,Northern Owens Valley,O.R. Below Big Pine,596.4
 2024-06-03 12:18:47,Northern Owens Valley,Fish Springs At RR Flow,47.4
-2024-06-03 12:18:47,Northern Owens Valley,Tinemaha Elevation,3863.9
 2024-06-03 12:18:47,Northern Owens Valley,Tinemaha Reservoir Outflow,522.5
 2024-06-03 12:18:47,Northern Owens Valley,Bishop Creek Through Plant 6,128.7
 2024-06-03 12:18:47,Northern Owens Valley,Bishop Creek Around Plant 6,38.0
-2024-06-03 12:18:47,Southern Owens Valley,Tinemaha Elevation,3863.9
 2024-06-03 12:18:47,Southern Owens Valley,Tinemaha Reservoir Outflow,522.5
 2024-06-03 12:18:47,Southern Owens Valley,Indep. Ck. At Junction Flow,46.3
 2024-06-03 12:18:47,Southern Owens Valley,LAA at Alabama Flow,583.0
@@ -1348,12 +1876,12 @@ date,district,source,value
 2024-06-03 12:48:48,Southern District,Bouquet Reservoir Outflow,0.5
 2024-06-03 12:48:48,Southern District,LAA #1 at Soledad Flow,228.0
 2024-06-03 12:48:48,Southern District,LAA #2 at Soledad Flow,296.5
+2024-06-03 12:48:49,Northern Owens Valley,Tinemaha Elevation,3863.9
+2024-06-03 12:48:49,Southern Owens Valley,Tinemaha Elevation,3863.9
 2024-06-03 12:48:49,Mono Basin,Mono Lk. Elevation,6383.5
 2024-06-03 12:48:49,Mono Basin,Grant Lk. Elevation,7130.9
 2024-06-03 12:48:49,Long Valley,Long Valley Elevation,6778.3
 2024-06-03 12:48:49,Northern Owens Valley,Pleasant Valley Elevation,4382.1
-2024-06-03 12:48:49,Northern Owens Valley,Tinemaha Elevation,3863.9
-2024-06-03 12:48:49,Southern Owens Valley,Tinemaha Elevation,3863.9
 2024-06-03 12:48:49,Southern Owens Valley,LAA at Alabama Level,9.9
 2024-06-03 12:48:49,Southern Owens Valley,LAA at Alabama Water Temp,68.0
 2024-06-03 12:48:49,Southern Owens Valley,LAA at Cottonwood Level,10.5
@@ -1429,6 +1957,8 @@ date,district,source,value
 2024-06-03 13:03:47,Southern District,S. Haiwee Reservoir Elevation,3740.9
 2024-06-03 13:03:47,Southern District,Fairmont Reservoir Elevation,3022.5
 2024-06-03 13:03:47,Southern District,Bouquet Reservoir Elevation,2967.7
+2024-06-03 13:18:47,Northern Owens Valley,Tinemaha Elevation,3863.9
+2024-06-03 13:18:47,Southern Owens Valley,Tinemaha Elevation,3863.9
 2024-06-03 13:18:47,Mono Basin,Lee Vining Intake Above Flow,156.2
 2024-06-03 13:18:47,Mono Basin,Lee Vining Intake Below Flow,129.4
 2024-06-03 13:18:47,Mono Basin,Mono Lk. Elevation,6383.5
@@ -1459,11 +1989,9 @@ date,district,source,value
 2024-06-03 13:18:47,Northern Owens Valley,Big Pine Ck. USGS Flow,117.1
 2024-06-03 13:18:47,Northern Owens Valley,O.R. Below Big Pine,597.5
 2024-06-03 13:18:47,Northern Owens Valley,Fish Springs At RR Flow,47.4
-2024-06-03 13:18:47,Northern Owens Valley,Tinemaha Elevation,3863.9
 2024-06-03 13:18:47,Northern Owens Valley,Tinemaha Reservoir Outflow,522.5
 2024-06-03 13:18:47,Northern Owens Valley,Bishop Creek Through Plant 6,129.6
 2024-06-03 13:18:47,Northern Owens Valley,Bishop Creek Around Plant 6,37.9
-2024-06-03 13:18:47,Southern Owens Valley,Tinemaha Elevation,3863.9
 2024-06-03 13:18:47,Southern Owens Valley,Tinemaha Reservoir Outflow,522.5
 2024-06-03 13:18:47,Southern Owens Valley,Indep. Ck. At Junction Flow,46.3
 2024-06-03 13:18:47,Southern Owens Valley,LAA at Alabama Flow,584.0
@@ -1563,6 +2091,8 @@ date,district,source,value
 2024-06-03 13:33:47,Southern District,S. Haiwee Reservoir Elevation,3740.9
 2024-06-03 13:33:47,Southern District,Fairmont Reservoir Elevation,3022.4
 2024-06-03 13:33:47,Southern District,Bouquet Reservoir Elevation,2967.7
+2024-06-03 13:48:48,Northern Owens Valley,Tinemaha Elevation,3863.9
+2024-06-03 13:48:48,Southern Owens Valley,Tinemaha Elevation,3863.9
 2024-06-03 13:48:48,Mono Basin,Lee Vining Intake Above Flow,156.2
 2024-06-03 13:48:48,Mono Basin,Lee Vining Intake Below Flow,129.4
 2024-06-03 13:48:48,Mono Basin,Mono Lk. Elevation,6383.5
@@ -1593,11 +2123,9 @@ date,district,source,value
 2024-06-03 13:48:48,Northern Owens Valley,Big Pine Ck. USGS Flow,117.1
 2024-06-03 13:48:48,Northern Owens Valley,O.R. Below Big Pine,599.7
 2024-06-03 13:48:48,Northern Owens Valley,Fish Springs At RR Flow,47.4
-2024-06-03 13:48:48,Northern Owens Valley,Tinemaha Elevation,3863.9
 2024-06-03 13:48:48,Northern Owens Valley,Tinemaha Reservoir Outflow,522.5
 2024-06-03 13:48:48,Northern Owens Valley,Bishop Creek Through Plant 6,129.6
 2024-06-03 13:48:48,Northern Owens Valley,Bishop Creek Around Plant 6,37.9
-2024-06-03 13:48:48,Southern Owens Valley,Tinemaha Elevation,3863.9
 2024-06-03 13:48:48,Southern Owens Valley,Tinemaha Reservoir Outflow,522.5
 2024-06-03 13:48:48,Southern Owens Valley,Indep. Ck. At Junction Flow,46.3
 2024-06-03 13:48:48,Southern Owens Valley,LAA at Alabama Flow,585.0
@@ -1631,3 +2159,703 @@ date,district,source,value
 2024-06-03 13:48:48,Southern District,Bouquet Reservoir Outflow,0.6
 2024-06-03 13:48:48,Southern District,LAA #1 at Soledad Flow,228.0
 2024-06-03 13:48:48,Southern District,LAA #2 at Soledad Flow,296.5
+2024-06-03 14:18:47,Northern Owens Valley,Tinemaha Elevation,3863.9
+2024-06-03 14:18:47,Southern Owens Valley,Tinemaha Elevation,3863.9
+2024-06-03 14:33:46,Mono Basin,Lee Vining Intake Above Flow,163.7
+2024-06-03 14:33:46,Mono Basin,Lee Vining Intake Below Flow,130.7
+2024-06-03 14:33:46,Mono Basin,Walker Ck. Above Conduit Flow,21.0
+2024-06-03 14:33:46,Mono Basin,L.V. Conduit Below Intake Flow,9.0
+2024-06-03 14:33:46,Mono Basin,Walker Ck. Under Conduit Flow,21.0
+2024-06-03 14:33:46,Mono Basin,Parker Ck. Under Conduit Flow,36.0
+2024-06-03 14:33:46,Mono Basin,Parker Ck. Above Conduit Flow,37.0
+2024-06-03 14:33:46,Mono Basin,Grant Lk. Spill Flow,100.0
+2024-06-03 14:33:46,Mono Basin,Mono Gate 1 Return Ditch Flow,103.0
+2024-06-03 14:33:46,Mono Basin,Grant Lk. Outflow,108.6
+2024-06-03 14:33:46,Mono Basin,Rush Ck. at Damsite Flow,199.3
+2024-06-03 14:33:46,Mono Basin,Flow to West Portal,0.0
+2024-06-03 14:33:46,Long Valley,East Portal Flow,14.0
+2024-06-03 14:33:46,Long Valley,OR Below EP Flow,104.0
+2024-06-03 14:33:46,Long Valley,Hot Ck.at Hwy. Flow,88.0
+2024-06-03 14:33:46,Long Valley,McGee Ck. Lower Sta. Flow,39.9
+2024-06-03 14:33:46,Long Valley,Long Valley Current Outflow,217.9
+2024-06-03 14:33:46,Long Valley,Rock Ck. Div. Flow,34.4
+2024-06-03 14:33:46,Long Valley,Upper Gorge Total Release,86.2
+2024-06-03 14:33:46,Long Valley,Release at Middle Gorge,0.0
+2024-06-03 14:33:46,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,126.9
+2024-06-03 14:33:46,Northern Owens Valley,Pleasant Valley Outflow,548.3
+2024-06-03 14:33:46,Northern Owens Valley,Baker Ck. At LA Station Flow,11.1
+2024-06-03 14:33:46,Northern Owens Valley,Big Pine Ck. USGS Flow,117.1
+2024-06-03 14:33:46,Northern Owens Valley,O.R. Below Big Pine,598.1
+2024-06-03 14:33:46,Northern Owens Valley,Fish Springs At RR Flow,47.9
+2024-06-03 14:33:46,Northern Owens Valley,Tinemaha Reservoir Outflow,522.5
+2024-06-03 14:33:46,Northern Owens Valley,Bishop Creek Through Plant 6,129.6
+2024-06-03 14:33:46,Northern Owens Valley,Bishop Creek Around Plant 6,37.9
+2024-06-03 14:33:46,Southern Owens Valley,Tinemaha Reservoir Outflow,522.5
+2024-06-03 14:33:46,Southern Owens Valley,Indep. Ck. At Junction Flow,46.3
+2024-06-03 14:33:46,Southern Owens Valley,LAA at Alabama Flow,584.0
+2024-06-03 14:33:46,Southern Owens Valley,Cottonwood Ck. At LAA Flow,66.0
+2024-06-03 14:33:46,Southern Owens Valley,LAA at Cottonwood Flow,662.0
+2024-06-03 14:33:46,Southern Owens Valley,Haiwee LAA #1 Current Flow,241.4
+2024-06-03 14:33:46,Southern Owens Valley,Haiwee LAA #2 Current Flow,265.2
+2024-06-03 14:33:46,Southern Owens Valley,Reinhackel Flow,2.1
+2024-06-03 14:33:46,Southern Owens Valley,Lubkin Spillgate Outflow,37.4
+2024-06-03 14:33:46,Southern Owens Valley,Cartago Spillgate Outflow,56.6
+2024-06-03 14:33:46,Southern Owens Valley,Lone Pine Creek Flow,34.1
+2024-06-03 14:33:46,Lower Owens River Project,LORP Intake Flow,44.0
+2024-06-03 14:33:46,Lower Owens River Project,LORP at Mazourka Canyon Road,51.0
+2024-06-03 14:33:46,Lower Owens River Project,LORP at Reinhackle Springs,55.0
+2024-06-03 14:33:46,Lower Owens River Project,LORP Above Pumpstation,50.0
+2024-06-03 14:33:46,Lower Owens River Project,LORP At Pump Station Discharge Flow,48.0
+2024-06-03 14:33:46,Southern District,Haiwee LAA #2 Current Flow,265.2
+2024-06-03 14:33:46,Southern District,Haiwee LAA #1 Current Flow,241.4
+2024-06-03 14:33:46,Southern District,LAA #1 Flow at Fairmont Reservoir,314.6
+2024-06-03 14:33:46,Southern District,LAA #2 Flow at Fairmont Res.,291.4
+2024-06-03 14:33:46,Southern District,Bouquet Reservoir Inflow,85.2
+2024-06-03 14:33:46,Southern District,Bouquet Reservoir Outflow,0.5
+2024-06-03 14:33:46,Southern District,LAA #1 at Soledad Flow,228.0
+2024-06-03 14:33:46,Southern District,LAA #2 at Soledad Flow,296.5
+2024-06-03 14:33:47,Mono Basin,Mono Lk. Elevation,6383.5
+2024-06-03 14:33:47,Mono Basin,Grant Lk. Elevation,7130.8
+2024-06-03 14:33:47,Long Valley,Long Valley Elevation,6778.3
+2024-06-03 14:33:47,Northern Owens Valley,Pleasant Valley Elevation,4381.9
+2024-06-03 14:33:47,Southern Owens Valley,LAA at Alabama Level,9.9
+2024-06-03 14:33:47,Southern Owens Valley,LAA at Alabama Water Temp,67.7
+2024-06-03 14:33:47,Southern Owens Valley,LAA at Cottonwood Level,10.5
+2024-06-03 14:33:47,Southern Owens Valley,LAA at Cotton. Water Temp,68.5
+2024-06-03 14:33:47,Southern Owens Valley,N. Haiwee Elevation,3757.0
+2024-06-03 14:33:47,Southern Owens Valley,S. Haiwee Reservoir Elevation,3740.9
+2024-06-03 14:33:47,Southern District,S. Haiwee Reservoir Elevation,3740.9
+2024-06-03 14:33:47,Southern District,Fairmont Reservoir Elevation,3022.2
+2024-06-03 14:33:47,Southern District,Bouquet Reservoir Elevation,2967.8
+2024-06-03 14:48:48,Northern Owens Valley,Tinemaha Elevation,3863.9
+2024-06-03 14:48:48,Southern Owens Valley,Tinemaha Elevation,3863.9
+2024-06-03 15:18:47,Northern Owens Valley,Tinemaha Elevation,3863.9
+2024-06-03 15:18:47,Southern Owens Valley,Tinemaha Elevation,3863.9
+2024-06-03 15:33:46,Mono Basin,Lee Vining Intake Above Flow,164.3
+2024-06-03 15:33:46,Mono Basin,Lee Vining Intake Below Flow,131.7
+2024-06-03 15:33:46,Mono Basin,Walker Ck. Above Conduit Flow,22.0
+2024-06-03 15:33:46,Mono Basin,L.V. Conduit Below Intake Flow,10.2
+2024-06-03 15:33:46,Mono Basin,Walker Ck. Under Conduit Flow,21.0
+2024-06-03 15:33:46,Mono Basin,Parker Ck. Under Conduit Flow,34.0
+2024-06-03 15:33:46,Mono Basin,Parker Ck. Above Conduit Flow,36.0
+2024-06-03 15:33:46,Mono Basin,Grant Lk. Spill Flow,121.0
+2024-06-03 15:33:46,Mono Basin,Mono Gate 1 Return Ditch Flow,102.8
+2024-06-03 15:33:46,Mono Basin,Grant Lk. Outflow,107.6
+2024-06-03 15:33:46,Mono Basin,Rush Ck. at Damsite Flow,198.3
+2024-06-03 15:33:46,Mono Basin,Flow to West Portal,0.0
+2024-06-03 15:33:46,Long Valley,East Portal Flow,14.0
+2024-06-03 15:33:46,Long Valley,OR Below EP Flow,104.0
+2024-06-03 15:33:46,Long Valley,Hot Ck.at Hwy. Flow,90.0
+2024-06-03 15:33:46,Long Valley,McGee Ck. Lower Sta. Flow,39.9
+2024-06-03 15:33:46,Long Valley,Long Valley Current Outflow,220.0
+2024-06-03 15:33:46,Long Valley,Rock Ck. Div. Flow,34.6
+2024-06-03 15:33:46,Long Valley,Upper Gorge Total Release,86.0
+2024-06-03 15:33:46,Long Valley,Release at Middle Gorge,0.0
+2024-06-03 15:33:46,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,124.5
+2024-06-03 15:33:46,Northern Owens Valley,Pleasant Valley Outflow,547.8
+2024-06-03 15:33:46,Northern Owens Valley,Baker Ck. At LA Station Flow,11.0
+2024-06-03 15:33:46,Northern Owens Valley,Big Pine Ck. USGS Flow,117.1
+2024-06-03 15:33:46,Northern Owens Valley,O.R. Below Big Pine,599.7
+2024-06-03 15:33:46,Northern Owens Valley,Fish Springs At RR Flow,47.9
+2024-06-03 15:33:46,Northern Owens Valley,Tinemaha Reservoir Outflow,522.5
+2024-06-03 15:33:46,Northern Owens Valley,Bishop Creek Through Plant 6,127.4
+2024-06-03 15:33:46,Northern Owens Valley,Bishop Creek Around Plant 6,36.9
+2024-06-03 15:33:46,Southern Owens Valley,Tinemaha Reservoir Outflow,522.5
+2024-06-03 15:33:46,Southern Owens Valley,Indep. Ck. At Junction Flow,46.3
+2024-06-03 15:33:46,Southern Owens Valley,LAA at Alabama Flow,584.0
+2024-06-03 15:33:46,Southern Owens Valley,Cottonwood Ck. At LAA Flow,66.0
+2024-06-03 15:33:46,Southern Owens Valley,LAA at Cottonwood Flow,662.0
+2024-06-03 15:33:46,Southern Owens Valley,Haiwee LAA #1 Current Flow,241.4
+2024-06-03 15:33:46,Southern Owens Valley,Haiwee LAA #2 Current Flow,265.2
+2024-06-03 15:33:46,Southern Owens Valley,Reinhackel Flow,2.1
+2024-06-03 15:33:46,Southern Owens Valley,Lubkin Spillgate Outflow,37.4
+2024-06-03 15:33:46,Southern Owens Valley,Cartago Spillgate Outflow,55.4
+2024-06-03 15:33:46,Southern Owens Valley,Lone Pine Creek Flow,34.1
+2024-06-03 15:33:46,Lower Owens River Project,LORP Intake Flow,44.0
+2024-06-03 15:33:46,Lower Owens River Project,LORP at Mazourka Canyon Road,51.0
+2024-06-03 15:33:46,Lower Owens River Project,LORP at Reinhackle Springs,55.0
+2024-06-03 15:33:46,Lower Owens River Project,LORP Above Pumpstation,38.0
+2024-06-03 15:33:46,Lower Owens River Project,LORP At Pump Station Discharge Flow,35.0
+2024-06-03 15:33:46,Southern District,Haiwee LAA #2 Current Flow,265.2
+2024-06-03 15:33:46,Southern District,Haiwee LAA #1 Current Flow,241.4
+2024-06-03 15:33:46,Southern District,LAA #1 Flow at Fairmont Reservoir,314.8
+2024-06-03 15:33:46,Southern District,LAA #2 Flow at Fairmont Res.,291.2
+2024-06-03 15:33:46,Southern District,Bouquet Reservoir Inflow,86.2
+2024-06-03 15:33:46,Southern District,Bouquet Reservoir Outflow,0.5
+2024-06-03 15:33:46,Southern District,LAA #1 at Soledad Flow,228.0
+2024-06-03 15:33:46,Southern District,LAA #2 at Soledad Flow,296.5
+2024-06-03 15:33:47,Mono Basin,Mono Lk. Elevation,6383.5
+2024-06-03 15:33:47,Mono Basin,Grant Lk. Elevation,7130.9
+2024-06-03 15:33:47,Long Valley,Long Valley Elevation,6778.3
+2024-06-03 15:33:47,Northern Owens Valley,Pleasant Valley Elevation,4381.7
+2024-06-03 15:33:47,Southern Owens Valley,LAA at Alabama Level,9.9
+2024-06-03 15:33:47,Southern Owens Valley,LAA at Alabama Water Temp,67.7
+2024-06-03 15:33:47,Southern Owens Valley,LAA at Cottonwood Level,10.5
+2024-06-03 15:33:47,Southern Owens Valley,LAA at Cotton. Water Temp,68.5
+2024-06-03 15:33:47,Southern Owens Valley,N. Haiwee Elevation,3757.0
+2024-06-03 15:33:47,Southern Owens Valley,S. Haiwee Reservoir Elevation,3741.0
+2024-06-03 15:33:47,Southern District,S. Haiwee Reservoir Elevation,3741.0
+2024-06-03 15:33:47,Southern District,Fairmont Reservoir Elevation,3022.1
+2024-06-03 15:33:47,Southern District,Bouquet Reservoir Elevation,2967.8
+2024-06-03 15:48:48,Northern Owens Valley,Tinemaha Elevation,3863.9
+2024-06-03 15:48:48,Southern Owens Valley,Tinemaha Elevation,3863.9
+2024-06-03 16:18:47,Northern Owens Valley,Tinemaha Elevation,3863.9
+2024-06-03 16:18:47,Southern Owens Valley,Tinemaha Elevation,3863.9
+2024-06-03 16:33:46,Mono Basin,Lee Vining Intake Above Flow,164.3
+2024-06-03 16:33:46,Mono Basin,Lee Vining Intake Below Flow,131.7
+2024-06-03 16:33:46,Mono Basin,Walker Ck. Above Conduit Flow,22.0
+2024-06-03 16:33:46,Mono Basin,L.V. Conduit Below Intake Flow,10.2
+2024-06-03 16:33:46,Mono Basin,Walker Ck. Under Conduit Flow,21.0
+2024-06-03 16:33:46,Mono Basin,Parker Ck. Under Conduit Flow,34.0
+2024-06-03 16:33:46,Mono Basin,Rush Ck. at Damsite Flow,198.3
+2024-06-03 16:33:46,Long Valley,Hot Ck.at Hwy. Flow,92.0
+2024-06-03 16:33:46,Long Valley,McGee Ck. Lower Sta. Flow,39.9
+2024-06-03 16:33:46,Long Valley,Long Valley Current Outflow,222.7
+2024-06-03 16:33:46,Long Valley,Rock Ck. Div. Flow,34.6
+2024-06-03 16:33:46,Long Valley,Upper Gorge Total Release,86.1
+2024-06-03 16:33:46,Long Valley,Release at Middle Gorge,0.0
+2024-06-03 16:33:46,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,121.2
+2024-06-03 16:33:46,Northern Owens Valley,Pleasant Valley Outflow,547.2
+2024-06-03 16:33:46,Northern Owens Valley,Baker Ck. At LA Station Flow,11.0
+2024-06-03 16:33:46,Northern Owens Valley,Big Pine Ck. USGS Flow,111.6
+2024-06-03 16:33:46,Northern Owens Valley,O.R. Below Big Pine,600.7
+2024-06-03 16:33:46,Northern Owens Valley,Fish Springs At RR Flow,47.9
+2024-06-03 16:33:46,Northern Owens Valley,Tinemaha Reservoir Outflow,522.5
+2024-06-03 16:33:46,Northern Owens Valley,Bishop Creek Through Plant 6,126.2
+2024-06-03 16:33:46,Northern Owens Valley,Bishop Creek Around Plant 6,35.0
+2024-06-03 16:33:46,Southern Owens Valley,Tinemaha Reservoir Outflow,522.5
+2024-06-03 16:33:46,Southern Owens Valley,Indep. Ck. At Junction Flow,46.3
+2024-06-03 16:33:46,Southern Owens Valley,LAA at Alabama Flow,582.0
+2024-06-03 16:33:46,Southern Owens Valley,Cottonwood Ck. At LAA Flow,65.0
+2024-06-03 16:33:46,Southern Owens Valley,LAA at Cottonwood Flow,659.0
+2024-06-03 16:33:46,Southern Owens Valley,Haiwee LAA #1 Current Flow,241.4
+2024-06-03 16:33:46,Southern Owens Valley,Haiwee LAA #2 Current Flow,265.2
+2024-06-03 16:33:46,Southern Owens Valley,Reinhackel Flow,2.1
+2024-06-03 16:33:46,Southern Owens Valley,Lubkin Spillgate Outflow,47.7
+2024-06-03 16:33:46,Southern Owens Valley,Cartago Spillgate Outflow,59.5
+2024-06-03 16:33:46,Southern Owens Valley,Lone Pine Creek Flow,34.1
+2024-06-03 16:33:46,Lower Owens River Project,LORP Intake Flow,44.0
+2024-06-03 16:33:46,Lower Owens River Project,LORP at Mazourka Canyon Road,53.0
+2024-06-03 16:33:46,Lower Owens River Project,LORP at Reinhackle Springs,59.0
+2024-06-03 16:33:46,Lower Owens River Project,LORP Above Pumpstation,38.0
+2024-06-03 16:33:46,Lower Owens River Project,LORP At Pump Station Discharge Flow,35.0
+2024-06-03 16:33:46,Southern District,Haiwee LAA #2 Current Flow,265.2
+2024-06-03 16:33:46,Southern District,Haiwee LAA #1 Current Flow,241.4
+2024-06-03 16:33:47,Mono Basin,Mono Lk. Elevation,6383.5
+2024-06-03 16:33:47,Mono Basin,Parker Ck. Above Conduit Flow,36.0
+2024-06-03 16:33:47,Mono Basin,Grant Lk. Spill Flow,100.0
+2024-06-03 16:33:47,Mono Basin,Mono Gate 1 Return Ditch Flow,102.9
+2024-06-03 16:33:47,Mono Basin,Grant Lk. Elevation,7130.8
+2024-06-03 16:33:47,Mono Basin,Grant Lk. Outflow,108.5
+2024-06-03 16:33:47,Mono Basin,Flow to West Portal,0.0
+2024-06-03 16:33:47,Long Valley,East Portal Flow,14.0
+2024-06-03 16:33:47,Long Valley,OR Below EP Flow,104.0
+2024-06-03 16:33:47,Long Valley,Long Valley Elevation,6778.3
+2024-06-03 16:33:47,Northern Owens Valley,Pleasant Valley Elevation,4381.5
+2024-06-03 16:33:47,Southern Owens Valley,LAA at Alabama Level,9.9
+2024-06-03 16:33:47,Southern Owens Valley,LAA at Alabama Water Temp,67.8
+2024-06-03 16:33:47,Southern Owens Valley,LAA at Cottonwood Level,10.5
+2024-06-03 16:33:47,Southern Owens Valley,LAA at Cotton. Water Temp,68.5
+2024-06-03 16:33:47,Southern Owens Valley,N. Haiwee Elevation,3757.0
+2024-06-03 16:33:47,Southern Owens Valley,S. Haiwee Reservoir Elevation,3741.0
+2024-06-03 16:33:47,Southern District,S. Haiwee Reservoir Elevation,3741.0
+2024-06-03 16:33:47,Southern District,Fairmont Reservoir Elevation,3021.9
+2024-06-03 16:33:47,Southern District,LAA #1 Flow at Fairmont Reservoir,315.5
+2024-06-03 16:33:47,Southern District,LAA #2 Flow at Fairmont Res.,291.2
+2024-06-03 16:33:47,Southern District,Bouquet Reservoir Elevation,2967.8
+2024-06-03 16:33:47,Southern District,Bouquet Reservoir Inflow,85.8
+2024-06-03 16:33:47,Southern District,Bouquet Reservoir Outflow,0.5
+2024-06-03 16:33:47,Southern District,LAA #1 at Soledad Flow,228.0
+2024-06-03 16:33:47,Southern District,LAA #2 at Soledad Flow,296.5
+2024-06-03 16:48:48,Northern Owens Valley,Tinemaha Elevation,3863.9
+2024-06-03 16:48:48,Southern Owens Valley,Tinemaha Elevation,3863.9
+2024-06-03 17:18:47,Northern Owens Valley,Tinemaha Elevation,3864.0
+2024-06-03 17:18:47,Southern Owens Valley,Tinemaha Elevation,3864.0
+2024-06-03 17:33:46,Mono Basin,Lee Vining Intake Above Flow,164.3
+2024-06-03 17:33:46,Mono Basin,Lee Vining Intake Below Flow,131.7
+2024-06-03 17:33:46,Mono Basin,Walker Ck. Above Conduit Flow,22.0
+2024-06-03 17:33:46,Mono Basin,L.V. Conduit Below Intake Flow,10.2
+2024-06-03 17:33:46,Mono Basin,Walker Ck. Under Conduit Flow,21.0
+2024-06-03 17:33:46,Mono Basin,Parker Ck. Under Conduit Flow,34.0
+2024-06-03 17:33:46,Mono Basin,Parker Ck. Above Conduit Flow,36.0
+2024-06-03 17:33:46,Mono Basin,Grant Lk. Spill Flow,121.0
+2024-06-03 17:33:46,Mono Basin,Mono Gate 1 Return Ditch Flow,102.9
+2024-06-03 17:33:46,Mono Basin,Grant Lk. Outflow,109.0
+2024-06-03 17:33:46,Mono Basin,Rush Ck. at Damsite Flow,198.3
+2024-06-03 17:33:46,Mono Basin,Flow to West Portal,0.0
+2024-06-03 17:33:46,Long Valley,East Portal Flow,14.0
+2024-06-03 17:33:46,Long Valley,OR Below EP Flow,103.0
+2024-06-03 17:33:46,Long Valley,Hot Ck.at Hwy. Flow,94.0
+2024-06-03 17:33:46,Long Valley,McGee Ck. Lower Sta. Flow,39.9
+2024-06-03 17:33:46,Long Valley,Long Valley Current Outflow,217.6
+2024-06-03 17:33:46,Long Valley,Rock Ck. Div. Flow,34.4
+2024-06-03 17:33:46,Long Valley,Upper Gorge Total Release,86.2
+2024-06-03 17:33:46,Long Valley,Release at Middle Gorge,0.0
+2024-06-03 17:33:46,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,118.5
+2024-06-03 17:33:46,Northern Owens Valley,Pleasant Valley Outflow,545.9
+2024-06-03 17:33:46,Northern Owens Valley,Baker Ck. At LA Station Flow,11.0
+2024-06-03 17:33:46,Northern Owens Valley,Big Pine Ck. USGS Flow,111.6
+2024-06-03 17:33:46,Northern Owens Valley,O.R. Below Big Pine,600.9
+2024-06-03 17:33:46,Northern Owens Valley,Fish Springs At RR Flow,47.9
+2024-06-03 17:33:46,Northern Owens Valley,Tinemaha Reservoir Outflow,525.9
+2024-06-03 17:33:46,Northern Owens Valley,Bishop Creek Through Plant 6,125.9
+2024-06-03 17:33:46,Northern Owens Valley,Bishop Creek Around Plant 6,34.6
+2024-06-03 17:33:46,Southern Owens Valley,Tinemaha Reservoir Outflow,525.9
+2024-06-03 17:33:46,Southern Owens Valley,Indep. Ck. At Junction Flow,46.3
+2024-06-03 17:33:46,Southern Owens Valley,LAA at Alabama Flow,581.0
+2024-06-03 17:33:46,Southern Owens Valley,Cottonwood Ck. At LAA Flow,65.0
+2024-06-03 17:33:46,Southern Owens Valley,LAA at Cottonwood Flow,659.0
+2024-06-03 17:33:46,Southern Owens Valley,Haiwee LAA #1 Current Flow,241.4
+2024-06-03 17:33:46,Southern Owens Valley,Haiwee LAA #2 Current Flow,265.2
+2024-06-03 17:33:46,Southern Owens Valley,Reinhackel Flow,2.1
+2024-06-03 17:33:46,Southern Owens Valley,Lubkin Spillgate Outflow,29.5
+2024-06-03 17:33:46,Southern Owens Valley,Cartago Spillgate Outflow,50.1
+2024-06-03 17:33:46,Southern Owens Valley,Lone Pine Creek Flow,34.1
+2024-06-03 17:33:46,Lower Owens River Project,LORP Intake Flow,44.0
+2024-06-03 17:33:46,Lower Owens River Project,LORP at Mazourka Canyon Road,50.0
+2024-06-03 17:33:46,Lower Owens River Project,LORP at Reinhackle Springs,59.0
+2024-06-03 17:33:46,Lower Owens River Project,LORP Above Pumpstation,51.0
+2024-06-03 17:33:46,Lower Owens River Project,LORP At Pump Station Discharge Flow,48.0
+2024-06-03 17:33:46,Southern District,Haiwee LAA #2 Current Flow,265.2
+2024-06-03 17:33:46,Southern District,Haiwee LAA #1 Current Flow,241.4
+2024-06-03 17:33:46,Southern District,LAA #1 Flow at Fairmont Reservoir,315.3
+2024-06-03 17:33:46,Southern District,LAA #2 Flow at Fairmont Res.,291.2
+2024-06-03 17:33:46,Southern District,Bouquet Reservoir Inflow,86.2
+2024-06-03 17:33:46,Southern District,Bouquet Reservoir Outflow,0.5
+2024-06-03 17:33:46,Southern District,LAA #1 at Soledad Flow,228.0
+2024-06-03 17:33:46,Southern District,LAA #2 at Soledad Flow,298.0
+2024-06-03 17:33:47,Mono Basin,Mono Lk. Elevation,6383.5
+2024-06-03 17:33:47,Mono Basin,Grant Lk. Elevation,7130.9
+2024-06-03 17:33:47,Long Valley,Long Valley Elevation,6778.3
+2024-06-03 17:33:47,Northern Owens Valley,Pleasant Valley Elevation,4381.2
+2024-06-03 17:33:47,Southern Owens Valley,LAA at Alabama Level,9.9
+2024-06-03 17:33:47,Southern Owens Valley,LAA at Alabama Water Temp,68.0
+2024-06-03 17:33:47,Southern Owens Valley,LAA at Cottonwood Level,10.5
+2024-06-03 17:33:47,Southern Owens Valley,LAA at Cotton. Water Temp,68.5
+2024-06-03 17:33:47,Southern Owens Valley,N. Haiwee Elevation,3757.0
+2024-06-03 17:33:47,Southern Owens Valley,S. Haiwee Reservoir Elevation,3741.0
+2024-06-03 17:33:47,Southern District,S. Haiwee Reservoir Elevation,3741.0
+2024-06-03 17:33:47,Southern District,Fairmont Reservoir Elevation,3021.7
+2024-06-03 17:33:47,Southern District,Bouquet Reservoir Elevation,2967.8
+2024-06-03 17:48:48,Northern Owens Valley,Tinemaha Elevation,3864.0
+2024-06-03 17:48:48,Southern Owens Valley,Tinemaha Elevation,3864.0
+2024-06-03 18:18:47,Northern Owens Valley,Tinemaha Elevation,3864.0
+2024-06-03 18:18:47,Southern Owens Valley,Tinemaha Elevation,3864.0
+2024-06-03 18:33:46,Mono Basin,Lee Vining Intake Above Flow,164.3
+2024-06-03 18:33:46,Mono Basin,Lee Vining Intake Below Flow,131.7
+2024-06-03 18:33:46,Mono Basin,Walker Ck. Above Conduit Flow,22.0
+2024-06-03 18:33:46,Mono Basin,L.V. Conduit Below Intake Flow,10.2
+2024-06-03 18:33:46,Mono Basin,Walker Ck. Under Conduit Flow,21.0
+2024-06-03 18:33:46,Mono Basin,Parker Ck. Under Conduit Flow,34.0
+2024-06-03 18:33:46,Mono Basin,Parker Ck. Above Conduit Flow,36.0
+2024-06-03 18:33:46,Mono Basin,Grant Lk. Spill Flow,121.0
+2024-06-03 18:33:46,Mono Basin,Mono Gate 1 Return Ditch Flow,103.0
+2024-06-03 18:33:46,Mono Basin,Grant Lk. Outflow,108.4
+2024-06-03 18:33:46,Mono Basin,Rush Ck. at Damsite Flow,198.3
+2024-06-03 18:33:46,Mono Basin,Flow to West Portal,0.0
+2024-06-03 18:33:46,Long Valley,East Portal Flow,14.0
+2024-06-03 18:33:46,Long Valley,OR Below EP Flow,103.0
+2024-06-03 18:33:46,Long Valley,Hot Ck.at Hwy. Flow,95.0
+2024-06-03 18:33:46,Long Valley,McGee Ck. Lower Sta. Flow,39.9
+2024-06-03 18:33:46,Long Valley,Long Valley Current Outflow,211.8
+2024-06-03 18:33:46,Long Valley,Rock Ck. Div. Flow,34.7
+2024-06-03 18:33:46,Long Valley,Upper Gorge Total Release,86.3
+2024-06-03 18:33:46,Long Valley,Release at Middle Gorge,0.0
+2024-06-03 18:33:46,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,117.6
+2024-06-03 18:33:46,Northern Owens Valley,Pleasant Valley Outflow,544.9
+2024-06-03 18:33:46,Northern Owens Valley,Baker Ck. At LA Station Flow,11.0
+2024-06-03 18:33:46,Northern Owens Valley,Big Pine Ck. USGS Flow,111.6
+2024-06-03 18:33:46,Northern Owens Valley,O.R. Below Big Pine,601.9
+2024-06-03 18:33:46,Northern Owens Valley,Fish Springs At RR Flow,47.9
+2024-06-03 18:33:46,Northern Owens Valley,Tinemaha Reservoir Outflow,525.9
+2024-06-03 18:33:46,Northern Owens Valley,Bishop Creek Through Plant 6,125.6
+2024-06-03 18:33:46,Northern Owens Valley,Bishop Creek Around Plant 6,34.9
+2024-06-03 18:33:46,Southern Owens Valley,Tinemaha Reservoir Outflow,525.9
+2024-06-03 18:33:46,Southern Owens Valley,Indep. Ck. At Junction Flow,46.3
+2024-06-03 18:33:46,Southern Owens Valley,LAA at Alabama Flow,581.0
+2024-06-03 18:33:46,Southern Owens Valley,Cottonwood Ck. At LAA Flow,64.0
+2024-06-03 18:33:46,Southern Owens Valley,LAA at Cottonwood Flow,658.0
+2024-06-03 18:33:46,Southern Owens Valley,Haiwee LAA #1 Current Flow,235.5
+2024-06-03 18:33:46,Southern Owens Valley,Haiwee LAA #2 Current Flow,265.7
+2024-06-03 18:33:46,Southern Owens Valley,Reinhackel Flow,2.1
+2024-06-03 18:33:46,Southern Owens Valley,Lubkin Spillgate Outflow,41.5
+2024-06-03 18:33:46,Southern Owens Valley,Cartago Spillgate Outflow,54.0
+2024-06-03 18:33:46,Southern Owens Valley,Lone Pine Creek Flow,34.1
+2024-06-03 18:33:46,Lower Owens River Project,LORP Intake Flow,44.0
+2024-06-03 18:33:46,Lower Owens River Project,LORP at Mazourka Canyon Road,50.0
+2024-06-03 18:33:46,Lower Owens River Project,LORP at Reinhackle Springs,59.0
+2024-06-03 18:33:46,Lower Owens River Project,LORP Above Pumpstation,39.0
+2024-06-03 18:33:46,Lower Owens River Project,LORP At Pump Station Discharge Flow,35.0
+2024-06-03 18:33:46,Southern District,Haiwee LAA #2 Current Flow,265.7
+2024-06-03 18:33:46,Southern District,Haiwee LAA #1 Current Flow,235.5
+2024-06-03 18:33:46,Southern District,LAA #1 Flow at Fairmont Reservoir,316.0
+2024-06-03 18:33:46,Southern District,LAA #2 Flow at Fairmont Res.,291.2
+2024-06-03 18:33:46,Southern District,Bouquet Reservoir Inflow,84.9
+2024-06-03 18:33:46,Southern District,Bouquet Reservoir Outflow,0.5
+2024-06-03 18:33:46,Southern District,LAA #1 at Soledad Flow,228.0
+2024-06-03 18:33:46,Southern District,LAA #2 at Soledad Flow,298.0
+2024-06-03 18:33:47,Mono Basin,Mono Lk. Elevation,6383.5
+2024-06-03 18:33:47,Mono Basin,Grant Lk. Elevation,7130.9
+2024-06-03 18:33:47,Long Valley,Long Valley Elevation,6778.3
+2024-06-03 18:33:47,Northern Owens Valley,Pleasant Valley Elevation,4381.2
+2024-06-03 18:33:47,Southern Owens Valley,LAA at Alabama Level,9.9
+2024-06-03 18:33:47,Southern Owens Valley,LAA at Alabama Water Temp,68.0
+2024-06-03 18:33:47,Southern Owens Valley,LAA at Cottonwood Level,10.5
+2024-06-03 18:33:47,Southern Owens Valley,LAA at Cotton. Water Temp,68.5
+2024-06-03 18:33:47,Southern Owens Valley,N. Haiwee Elevation,3757.0
+2024-06-03 18:33:47,Southern Owens Valley,S. Haiwee Reservoir Elevation,3741.0
+2024-06-03 18:33:47,Southern District,S. Haiwee Reservoir Elevation,3741.0
+2024-06-03 18:33:47,Southern District,Fairmont Reservoir Elevation,3021.6
+2024-06-03 18:33:47,Southern District,Bouquet Reservoir Elevation,2967.8
+2024-06-03 18:48:48,Northern Owens Valley,Tinemaha Elevation,3864.0
+2024-06-03 18:48:48,Southern Owens Valley,Tinemaha Elevation,3864.0
+2024-06-03 19:18:47,Northern Owens Valley,Tinemaha Elevation,3864.0
+2024-06-03 19:18:47,Southern Owens Valley,Tinemaha Elevation,3864.0
+2024-06-03 19:33:46,Long Valley,Hot Ck.at Hwy. Flow,94.0
+2024-06-03 19:33:46,Long Valley,McGee Ck. Lower Sta. Flow,39.9
+2024-06-03 19:33:46,Long Valley,Long Valley Current Outflow,214.4
+2024-06-03 19:33:46,Long Valley,Rock Ck. Div. Flow,34.1
+2024-06-03 19:33:46,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,115.9
+2024-06-03 19:33:46,Northern Owens Valley,Pleasant Valley Outflow,544.7
+2024-06-03 19:33:46,Northern Owens Valley,Baker Ck. At LA Station Flow,10.8
+2024-06-03 19:33:46,Northern Owens Valley,Big Pine Ck. USGS Flow,111.6
+2024-06-03 19:33:46,Northern Owens Valley,O.R. Below Big Pine,602.2
+2024-06-03 19:33:46,Northern Owens Valley,Fish Springs At RR Flow,47.9
+2024-06-03 19:33:46,Northern Owens Valley,Tinemaha Reservoir Outflow,525.1
+2024-06-03 19:33:46,Northern Owens Valley,Bishop Creek Through Plant 6,130.9
+2024-06-03 19:33:46,Northern Owens Valley,Bishop Creek Around Plant 6,35.0
+2024-06-03 19:33:46,Southern Owens Valley,Tinemaha Reservoir Outflow,525.1
+2024-06-03 19:33:46,Southern Owens Valley,Indep. Ck. At Junction Flow,44.4
+2024-06-03 19:33:46,Southern Owens Valley,LAA at Alabama Flow,581.0
+2024-06-03 19:33:46,Southern Owens Valley,Cottonwood Ck. At LAA Flow,64.0
+2024-06-03 19:33:46,Southern Owens Valley,LAA at Cottonwood Flow,658.0
+2024-06-03 19:33:46,Southern Owens Valley,Haiwee LAA #1 Current Flow,235.5
+2024-06-03 19:33:46,Southern Owens Valley,Haiwee LAA #2 Current Flow,265.7
+2024-06-03 19:33:46,Southern Owens Valley,Reinhackel Flow,2.1
+2024-06-03 19:33:46,Southern Owens Valley,Lubkin Spillgate Outflow,45.0
+2024-06-03 19:33:46,Southern Owens Valley,Cartago Spillgate Outflow,55.1
+2024-06-03 19:33:46,Southern Owens Valley,Lone Pine Creek Flow,32.7
+2024-06-03 19:33:46,Lower Owens River Project,LORP Intake Flow,44.0
+2024-06-03 19:33:46,Lower Owens River Project,LORP at Mazourka Canyon Road,51.0
+2024-06-03 19:33:46,Lower Owens River Project,LORP at Reinhackle Springs,54.0
+2024-06-03 19:33:46,Lower Owens River Project,LORP Above Pumpstation,50.0
+2024-06-03 19:33:46,Lower Owens River Project,LORP At Pump Station Discharge Flow,47.0
+2024-06-03 19:33:46,Southern District,Haiwee LAA #2 Current Flow,265.7
+2024-06-03 19:33:46,Southern District,Haiwee LAA #1 Current Flow,235.5
+2024-06-03 19:33:47,Mono Basin,Lee Vining Intake Above Flow,164.3
+2024-06-03 19:33:47,Mono Basin,Lee Vining Intake Below Flow,131.7
+2024-06-03 19:33:47,Mono Basin,Mono Lk. Elevation,6383.5
+2024-06-03 19:33:47,Mono Basin,Walker Ck. Above Conduit Flow,22.0
+2024-06-03 19:33:47,Mono Basin,L.V. Conduit Below Intake Flow,10.2
+2024-06-03 19:33:47,Mono Basin,Walker Ck. Under Conduit Flow,21.0
+2024-06-03 19:33:47,Mono Basin,Parker Ck. Under Conduit Flow,34.0
+2024-06-03 19:33:47,Mono Basin,Parker Ck. Above Conduit Flow,36.0
+2024-06-03 19:33:47,Mono Basin,Grant Lk. Spill Flow,121.0
+2024-06-03 19:33:47,Mono Basin,Mono Gate 1 Return Ditch Flow,102.8
+2024-06-03 19:33:47,Mono Basin,Grant Lk. Elevation,7130.9
+2024-06-03 19:33:47,Mono Basin,Grant Lk. Outflow,108.1
+2024-06-03 19:33:47,Mono Basin,Rush Ck. at Damsite Flow,198.3
+2024-06-03 19:33:47,Mono Basin,Flow to West Portal,0.0
+2024-06-03 19:33:47,Long Valley,East Portal Flow,14.0
+2024-06-03 19:33:47,Long Valley,OR Below EP Flow,103.0
+2024-06-03 19:33:47,Long Valley,Long Valley Elevation,6778.3
+2024-06-03 19:33:47,Long Valley,Upper Gorge Total Release,86.2
+2024-06-03 19:33:47,Long Valley,Release at Middle Gorge,0.0
+2024-06-03 19:33:47,Northern Owens Valley,Pleasant Valley Elevation,4381.0
+2024-06-03 19:33:47,Southern Owens Valley,LAA at Alabama Level,9.9
+2024-06-03 19:33:47,Southern Owens Valley,LAA at Alabama Water Temp,68.0
+2024-06-03 19:33:47,Southern Owens Valley,LAA at Cottonwood Level,10.5
+2024-06-03 19:33:47,Southern Owens Valley,LAA at Cotton. Water Temp,68.4
+2024-06-03 19:33:47,Southern Owens Valley,N. Haiwee Elevation,3757.0
+2024-06-03 19:33:47,Southern Owens Valley,S. Haiwee Reservoir Elevation,3741.0
+2024-06-03 19:33:47,Southern District,S. Haiwee Reservoir Elevation,3741.0
+2024-06-03 19:33:47,Southern District,Fairmont Reservoir Elevation,3021.4
+2024-06-03 19:33:47,Southern District,LAA #1 Flow at Fairmont Reservoir,315.3
+2024-06-03 19:33:47,Southern District,LAA #2 Flow at Fairmont Res.,291.2
+2024-06-03 19:33:47,Southern District,Bouquet Reservoir Elevation,2967.8
+2024-06-03 19:33:47,Southern District,Bouquet Reservoir Inflow,82.7
+2024-06-03 19:33:47,Southern District,Bouquet Reservoir Outflow,0.5
+2024-06-03 19:33:47,Southern District,LAA #1 at Soledad Flow,228.0
+2024-06-03 19:33:47,Southern District,LAA #2 at Soledad Flow,298.3
+2024-06-03 19:48:48,Northern Owens Valley,Tinemaha Elevation,3864.0
+2024-06-03 19:48:48,Southern Owens Valley,Tinemaha Elevation,3864.0
+2024-06-03 20:18:51,Northern Owens Valley,Tinemaha Elevation,3864.0
+2024-06-03 20:18:51,Southern Owens Valley,Tinemaha Elevation,3864.0
+2024-06-03 20:33:46,Mono Basin,Lee Vining Intake Above Flow,164.3
+2024-06-03 20:33:46,Mono Basin,Lee Vining Intake Below Flow,131.7
+2024-06-03 20:33:46,Mono Basin,L.V. Conduit Below Intake Flow,10.2
+2024-06-03 20:33:46,Mono Basin,Walker Ck. Under Conduit Flow,21.0
+2024-06-03 20:33:46,Mono Basin,Parker Ck. Under Conduit Flow,34.0
+2024-06-03 20:33:46,Mono Basin,Rush Ck. at Damsite Flow,198.3
+2024-06-03 20:33:46,Long Valley,Hot Ck.at Hwy. Flow,91.0
+2024-06-03 20:33:46,Long Valley,McGee Ck. Lower Sta. Flow,39.9
+2024-06-03 20:33:46,Long Valley,Long Valley Current Outflow,222.3
+2024-06-03 20:33:46,Long Valley,Rock Ck. Div. Flow,34.4
+2024-06-03 20:33:46,Long Valley,Upper Gorge Total Release,86.4
+2024-06-03 20:33:46,Long Valley,Release at Middle Gorge,0.0
+2024-06-03 20:33:46,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,114.6
+2024-06-03 20:33:46,Northern Owens Valley,Pleasant Valley Outflow,543.6
+2024-06-03 20:33:46,Northern Owens Valley,Baker Ck. At LA Station Flow,10.8
+2024-06-03 20:33:46,Northern Owens Valley,Big Pine Ck. USGS Flow,111.6
+2024-06-03 20:33:46,Northern Owens Valley,O.R. Below Big Pine,604.1
+2024-06-03 20:33:46,Northern Owens Valley,Fish Springs At RR Flow,47.8
+2024-06-03 20:33:46,Northern Owens Valley,Tinemaha Reservoir Outflow,525.1
+2024-06-03 20:33:46,Northern Owens Valley,Bishop Creek Through Plant 6,130.4
+2024-06-03 20:33:46,Northern Owens Valley,Bishop Creek Around Plant 6,35.2
+2024-06-03 20:33:46,Southern Owens Valley,Tinemaha Reservoir Outflow,525.1
+2024-06-03 20:33:46,Southern Owens Valley,Indep. Ck. At Junction Flow,44.7
+2024-06-03 20:33:46,Southern Owens Valley,LAA at Alabama Flow,576.0
+2024-06-03 20:33:46,Southern Owens Valley,Cottonwood Ck. At LAA Flow,64.0
+2024-06-03 20:33:46,Southern Owens Valley,LAA at Cottonwood Flow,658.0
+2024-06-03 20:33:46,Southern Owens Valley,Haiwee LAA #1 Current Flow,235.5
+2024-06-03 20:33:46,Southern Owens Valley,Haiwee LAA #2 Current Flow,265.7
+2024-06-03 20:33:46,Southern Owens Valley,Reinhackel Flow,2.1
+2024-06-03 20:33:46,Southern Owens Valley,Lubkin Spillgate Outflow,38.5
+2024-06-03 20:33:46,Southern Owens Valley,Cartago Spillgate Outflow,49.1
+2024-06-03 20:33:46,Southern Owens Valley,Lone Pine Creek Flow,32.6
+2024-06-03 20:33:46,Lower Owens River Project,LORP Intake Flow,44.0
+2024-06-03 20:33:46,Lower Owens River Project,LORP at Mazourka Canyon Road,51.0
+2024-06-03 20:33:46,Lower Owens River Project,LORP at Reinhackle Springs,54.0
+2024-06-03 20:33:46,Lower Owens River Project,LORP Above Pumpstation,37.0
+2024-06-03 20:33:46,Lower Owens River Project,LORP At Pump Station Discharge Flow,34.0
+2024-06-03 20:33:46,Southern District,Haiwee LAA #2 Current Flow,265.7
+2024-06-03 20:33:46,Southern District,Haiwee LAA #1 Current Flow,235.5
+2024-06-03 20:33:47,Mono Basin,Mono Lk. Elevation,6383.5
+2024-06-03 20:33:47,Mono Basin,Walker Ck. Above Conduit Flow,22.0
+2024-06-03 20:33:47,Mono Basin,Parker Ck. Above Conduit Flow,36.0
+2024-06-03 20:33:47,Mono Basin,Grant Lk. Spill Flow,121.0
+2024-06-03 20:33:47,Mono Basin,Mono Gate 1 Return Ditch Flow,102.8
+2024-06-03 20:33:47,Mono Basin,Grant Lk. Elevation,7130.9
+2024-06-03 20:33:47,Mono Basin,Grant Lk. Outflow,108.4
+2024-06-03 20:33:47,Mono Basin,Flow to West Portal,0.0
+2024-06-03 20:33:47,Long Valley,East Portal Flow,14.0
+2024-06-03 20:33:47,Long Valley,OR Below EP Flow,103.0
+2024-06-03 20:33:47,Long Valley,Long Valley Elevation,6778.3
+2024-06-03 20:33:47,Northern Owens Valley,Pleasant Valley Elevation,4380.8
+2024-06-03 20:33:47,Southern Owens Valley,LAA at Alabama Level,9.8
+2024-06-03 20:33:47,Southern Owens Valley,LAA at Alabama Water Temp,68.0
+2024-06-03 20:33:47,Southern Owens Valley,LAA at Cottonwood Level,10.5
+2024-06-03 20:33:47,Southern Owens Valley,LAA at Cotton. Water Temp,68.4
+2024-06-03 20:33:47,Southern Owens Valley,N. Haiwee Elevation,3757.0
+2024-06-03 20:33:47,Southern Owens Valley,S. Haiwee Reservoir Elevation,3741.0
+2024-06-03 20:33:47,Southern District,S. Haiwee Reservoir Elevation,3741.0
+2024-06-03 20:33:47,Southern District,Fairmont Reservoir Elevation,3021.3
+2024-06-03 20:33:47,Southern District,LAA #1 Flow at Fairmont Reservoir,315.1
+2024-06-03 20:33:47,Southern District,LAA #2 Flow at Fairmont Res.,291.5
+2024-06-03 20:33:47,Southern District,Bouquet Reservoir Elevation,2967.8
+2024-06-03 20:33:47,Southern District,Bouquet Reservoir Inflow,83.5
+2024-06-03 20:33:47,Southern District,Bouquet Reservoir Outflow,0.5
+2024-06-03 20:33:47,Southern District,LAA #1 at Soledad Flow,230.0
+2024-06-03 20:33:47,Southern District,LAA #2 at Soledad Flow,298.3
+2024-06-03 20:48:48,Northern Owens Valley,Tinemaha Elevation,3864.0
+2024-06-03 20:48:48,Southern Owens Valley,Tinemaha Elevation,3864.0
+2024-06-03 21:18:47,Northern Owens Valley,Tinemaha Elevation,3864.0
+2024-06-03 21:18:47,Southern Owens Valley,Tinemaha Elevation,3864.0
+2024-06-03 21:33:46,Mono Basin,Lee Vining Intake Above Flow,164.3
+2024-06-03 21:33:46,Mono Basin,Lee Vining Intake Below Flow,131.7
+2024-06-03 21:33:46,Mono Basin,Walker Ck. Above Conduit Flow,22.0
+2024-06-03 21:33:46,Mono Basin,L.V. Conduit Below Intake Flow,10.2
+2024-06-03 21:33:46,Mono Basin,Walker Ck. Under Conduit Flow,21.0
+2024-06-03 21:33:46,Mono Basin,Parker Ck. Under Conduit Flow,34.0
+2024-06-03 21:33:46,Mono Basin,Parker Ck. Above Conduit Flow,36.0
+2024-06-03 21:33:46,Mono Basin,Grant Lk. Spill Flow,121.0
+2024-06-03 21:33:46,Mono Basin,Mono Gate 1 Return Ditch Flow,102.8
+2024-06-03 21:33:46,Mono Basin,Grant Lk. Outflow,108.1
+2024-06-03 21:33:46,Mono Basin,Rush Ck. at Damsite Flow,198.3
+2024-06-03 21:33:46,Mono Basin,Flow to West Portal,0.0
+2024-06-03 21:33:46,Long Valley,East Portal Flow,14.0
+2024-06-03 21:33:46,Long Valley,OR Below EP Flow,103.0
+2024-06-03 21:33:46,Long Valley,Hot Ck.at Hwy. Flow,88.0
+2024-06-03 21:33:46,Long Valley,McGee Ck. Lower Sta. Flow,39.9
+2024-06-03 21:33:46,Long Valley,Long Valley Current Outflow,215.2
+2024-06-03 21:33:46,Long Valley,Rock Ck. Div. Flow,34.1
+2024-06-03 21:33:46,Long Valley,Upper Gorge Total Release,86.5
+2024-06-03 21:33:46,Long Valley,Release at Middle Gorge,0.0
+2024-06-03 21:33:46,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,114.0
+2024-06-03 21:33:46,Northern Owens Valley,Pleasant Valley Outflow,542.5
+2024-06-03 21:33:46,Northern Owens Valley,Baker Ck. At LA Station Flow,10.9
+2024-06-03 21:33:46,Northern Owens Valley,Big Pine Ck. USGS Flow,104.9
+2024-06-03 21:33:46,Northern Owens Valley,O.R. Below Big Pine,602.3
+2024-06-03 21:33:46,Northern Owens Valley,Fish Springs At RR Flow,47.7
+2024-06-03 21:33:46,Northern Owens Valley,Tinemaha Reservoir Outflow,525.1
+2024-06-03 21:33:46,Northern Owens Valley,Bishop Creek Through Plant 6,125.6
+2024-06-03 21:33:46,Northern Owens Valley,Bishop Creek Around Plant 6,35.3
+2024-06-03 21:33:46,Southern Owens Valley,Tinemaha Reservoir Outflow,525.1
+2024-06-03 21:33:46,Southern Owens Valley,Indep. Ck. At Junction Flow,44.7
+2024-06-03 21:33:46,Southern Owens Valley,LAA at Alabama Flow,575.0
+2024-06-03 21:33:46,Southern Owens Valley,Cottonwood Ck. At LAA Flow,65.0
+2024-06-03 21:33:46,Southern Owens Valley,LAA at Cottonwood Flow,658.0
+2024-06-03 21:33:46,Southern Owens Valley,Haiwee LAA #1 Current Flow,235.5
+2024-06-03 21:33:46,Southern Owens Valley,Haiwee LAA #2 Current Flow,265.7
+2024-06-03 21:33:46,Southern Owens Valley,Reinhackel Flow,2.1
+2024-06-03 21:33:46,Southern Owens Valley,Lubkin Spillgate Outflow,33.8
+2024-06-03 21:33:46,Southern Owens Valley,Cartago Spillgate Outflow,47.1
+2024-06-03 21:33:46,Southern Owens Valley,Lone Pine Creek Flow,32.6
+2024-06-03 21:33:46,Lower Owens River Project,LORP Intake Flow,44.0
+2024-06-03 21:33:46,Lower Owens River Project,LORP at Mazourka Canyon Road,51.0
+2024-06-03 21:33:46,Lower Owens River Project,LORP at Reinhackle Springs,55.0
+2024-06-03 21:33:46,Lower Owens River Project,LORP Above Pumpstation,37.0
+2024-06-03 21:33:46,Lower Owens River Project,LORP At Pump Station Discharge Flow,34.0
+2024-06-03 21:33:46,Southern District,Haiwee LAA #2 Current Flow,265.7
+2024-06-03 21:33:46,Southern District,Haiwee LAA #1 Current Flow,235.5
+2024-06-03 21:33:46,Southern District,LAA #1 Flow at Fairmont Reservoir,315.7
+2024-06-03 21:33:46,Southern District,LAA #2 Flow at Fairmont Res.,291.4
+2024-06-03 21:33:46,Southern District,Bouquet Reservoir Inflow,84.7
+2024-06-03 21:33:46,Southern District,Bouquet Reservoir Outflow,0.5
+2024-06-03 21:33:46,Southern District,LAA #1 at Soledad Flow,230.0
+2024-06-03 21:33:46,Southern District,LAA #2 at Soledad Flow,298.3
+2024-06-03 21:33:47,Mono Basin,Mono Lk. Elevation,6383.5
+2024-06-03 21:33:47,Mono Basin,Grant Lk. Elevation,7130.9
+2024-06-03 21:33:47,Long Valley,Long Valley Elevation,6778.3
+2024-06-03 21:33:47,Northern Owens Valley,Pleasant Valley Elevation,4380.6
+2024-06-03 21:33:47,Southern Owens Valley,LAA at Alabama Level,9.8
+2024-06-03 21:33:47,Southern Owens Valley,LAA at Alabama Water Temp,67.8
+2024-06-03 21:33:47,Southern Owens Valley,LAA at Cottonwood Level,10.5
+2024-06-03 21:33:47,Southern Owens Valley,LAA at Cotton. Water Temp,68.0
+2024-06-03 21:33:47,Southern Owens Valley,N. Haiwee Elevation,3757.0
+2024-06-03 21:33:47,Southern Owens Valley,S. Haiwee Reservoir Elevation,3741.0
+2024-06-03 21:33:47,Southern District,S. Haiwee Reservoir Elevation,3741.0
+2024-06-03 21:33:47,Southern District,Fairmont Reservoir Elevation,3021.1
+2024-06-03 21:33:47,Southern District,Bouquet Reservoir Elevation,2967.9
+2024-06-03 21:48:48,Northern Owens Valley,Tinemaha Elevation,3864.0
+2024-06-03 21:48:48,Southern Owens Valley,Tinemaha Elevation,3864.0
+2024-06-03 22:18:47,Northern Owens Valley,Tinemaha Elevation,3864.0
+2024-06-03 22:18:47,Southern Owens Valley,Tinemaha Elevation,3864.0
+2024-06-03 22:33:46,Mono Basin,Lee Vining Intake Above Flow,164.3
+2024-06-03 22:33:46,Mono Basin,Lee Vining Intake Below Flow,131.7
+2024-06-03 22:33:46,Mono Basin,Walker Ck. Above Conduit Flow,22.0
+2024-06-03 22:33:46,Mono Basin,L.V. Conduit Below Intake Flow,10.2
+2024-06-03 22:33:46,Mono Basin,Walker Ck. Under Conduit Flow,21.0
+2024-06-03 22:33:46,Mono Basin,Parker Ck. Under Conduit Flow,34.0
+2024-06-03 22:33:46,Mono Basin,Parker Ck. Above Conduit Flow,36.0
+2024-06-03 22:33:46,Mono Basin,Grant Lk. Spill Flow,121.0
+2024-06-03 22:33:46,Mono Basin,Mono Gate 1 Return Ditch Flow,102.7
+2024-06-03 22:33:46,Mono Basin,Grant Lk. Outflow,108.4
+2024-06-03 22:33:46,Mono Basin,Rush Ck. at Damsite Flow,198.3
+2024-06-03 22:33:46,Mono Basin,Flow to West Portal,0.0
+2024-06-03 22:33:46,Long Valley,East Portal Flow,14.0
+2024-06-03 22:33:46,Long Valley,OR Below EP Flow,103.0
+2024-06-03 22:33:46,Long Valley,Hot Ck.at Hwy. Flow,86.0
+2024-06-03 22:33:46,Long Valley,McGee Ck. Lower Sta. Flow,39.9
+2024-06-03 22:33:46,Long Valley,Long Valley Current Outflow,212.5
+2024-06-03 22:33:46,Long Valley,Rock Ck. Div. Flow,34.5
+2024-06-03 22:33:46,Long Valley,Upper Gorge Total Release,86.2
+2024-06-03 22:33:46,Long Valley,Release at Middle Gorge,0.0
+2024-06-03 22:33:46,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,114.0
+2024-06-03 22:33:46,Northern Owens Valley,Pleasant Valley Outflow,541.3
+2024-06-03 22:33:46,Northern Owens Valley,Baker Ck. At LA Station Flow,11.0
+2024-06-03 22:33:46,Northern Owens Valley,Big Pine Ck. USGS Flow,104.9
+2024-06-03 22:33:46,Northern Owens Valley,O.R. Below Big Pine,604.0
+2024-06-03 22:33:46,Northern Owens Valley,Fish Springs At RR Flow,47.7
+2024-06-03 22:33:46,Northern Owens Valley,Tinemaha Reservoir Outflow,528.5
+2024-06-03 22:33:46,Northern Owens Valley,Bishop Creek Through Plant 6,130.5
+2024-06-03 22:33:46,Northern Owens Valley,Bishop Creek Around Plant 6,35.6
+2024-06-03 22:33:46,Southern Owens Valley,Tinemaha Reservoir Outflow,528.5
+2024-06-03 22:33:46,Southern Owens Valley,Indep. Ck. At Junction Flow,44.7
+2024-06-03 22:33:46,Southern Owens Valley,LAA at Alabama Flow,575.0
+2024-06-03 22:33:46,Southern Owens Valley,Cottonwood Ck. At LAA Flow,64.0
+2024-06-03 22:33:46,Southern Owens Valley,LAA at Cottonwood Flow,660.0
+2024-06-03 22:33:46,Southern Owens Valley,Haiwee LAA #1 Current Flow,235.5
+2024-06-03 22:33:46,Southern Owens Valley,Haiwee LAA #2 Current Flow,265.7
+2024-06-03 22:33:46,Southern Owens Valley,Reinhackel Flow,2.1
+2024-06-03 22:33:46,Southern Owens Valley,Lubkin Spillgate Outflow,8.9
+2024-06-03 22:33:46,Southern Owens Valley,Cartago Spillgate Outflow,41.3
+2024-06-03 22:33:46,Southern Owens Valley,Lone Pine Creek Flow,32.6
+2024-06-03 22:33:46,Lower Owens River Project,LORP Intake Flow,44.0
+2024-06-03 22:33:46,Lower Owens River Project,LORP at Mazourka Canyon Road,51.0
+2024-06-03 22:33:46,Lower Owens River Project,LORP at Reinhackle Springs,57.0
+2024-06-03 22:33:46,Lower Owens River Project,LORP Above Pumpstation,50.0
+2024-06-03 22:33:46,Lower Owens River Project,LORP At Pump Station Discharge Flow,48.0
+2024-06-03 22:33:46,Southern District,Haiwee LAA #2 Current Flow,265.7
+2024-06-03 22:33:46,Southern District,Haiwee LAA #1 Current Flow,235.5
+2024-06-03 22:33:46,Southern District,LAA #1 Flow at Fairmont Reservoir,315.8
+2024-06-03 22:33:46,Southern District,LAA #2 Flow at Fairmont Res.,291.4
+2024-06-03 22:33:46,Southern District,Bouquet Reservoir Inflow,89.4
+2024-06-03 22:33:46,Southern District,Bouquet Reservoir Outflow,0.5
+2024-06-03 22:33:46,Southern District,LAA #1 at Soledad Flow,230.0
+2024-06-03 22:33:46,Southern District,LAA #2 at Soledad Flow,298.3
+2024-06-03 22:33:47,Mono Basin,Mono Lk. Elevation,6383.5
+2024-06-03 22:33:47,Mono Basin,Grant Lk. Elevation,7130.9
+2024-06-03 22:33:47,Long Valley,Long Valley Elevation,6778.3
+2024-06-03 22:33:47,Northern Owens Valley,Pleasant Valley Elevation,4380.4
+2024-06-03 22:33:47,Southern Owens Valley,LAA at Alabama Level,9.8
+2024-06-03 22:33:47,Southern Owens Valley,LAA at Alabama Water Temp,67.8
+2024-06-03 22:33:47,Southern Owens Valley,LAA at Cottonwood Level,10.5
+2024-06-03 22:33:47,Southern Owens Valley,LAA at Cotton. Water Temp,67.7
+2024-06-03 22:33:47,Southern Owens Valley,N. Haiwee Elevation,3757.0
+2024-06-03 22:33:47,Southern Owens Valley,S. Haiwee Reservoir Elevation,3741.0
+2024-06-03 22:33:47,Southern District,S. Haiwee Reservoir Elevation,3741.0
+2024-06-03 22:33:47,Southern District,Fairmont Reservoir Elevation,3021.0
+2024-06-03 22:33:47,Southern District,Bouquet Reservoir Elevation,2967.9
+2024-06-03 22:48:48,Northern Owens Valley,Tinemaha Elevation,3864.0
+2024-06-03 22:48:48,Southern Owens Valley,Tinemaha Elevation,3864.0
+2024-06-03 23:18:47,Northern Owens Valley,Tinemaha Elevation,3864.0
+2024-06-03 23:18:47,Southern Owens Valley,Tinemaha Elevation,3864.0
+2024-06-03 23:33:46,Mono Basin,Lee Vining Intake Above Flow,164.3
+2024-06-03 23:33:46,Mono Basin,Lee Vining Intake Below Flow,131.7
+2024-06-03 23:33:46,Mono Basin,Walker Ck. Above Conduit Flow,22.0
+2024-06-03 23:33:46,Mono Basin,L.V. Conduit Below Intake Flow,10.2
+2024-06-03 23:33:46,Mono Basin,Walker Ck. Under Conduit Flow,21.0
+2024-06-03 23:33:46,Mono Basin,Parker Ck. Under Conduit Flow,34.0
+2024-06-03 23:33:46,Mono Basin,Parker Ck. Above Conduit Flow,36.0
+2024-06-03 23:33:46,Mono Basin,Grant Lk. Spill Flow,121.0
+2024-06-03 23:33:46,Mono Basin,Mono Gate 1 Return Ditch Flow,102.6
+2024-06-03 23:33:46,Mono Basin,Grant Lk. Outflow,108.6
+2024-06-03 23:33:46,Mono Basin,Rush Ck. at Damsite Flow,198.3
+2024-06-03 23:33:46,Mono Basin,Flow to West Portal,0.0
+2024-06-03 23:33:46,Long Valley,East Portal Flow,14.0
+2024-06-03 23:33:46,Long Valley,OR Below EP Flow,103.0
+2024-06-03 23:33:46,Long Valley,Hot Ck.at Hwy. Flow,83.0
+2024-06-03 23:33:46,Long Valley,McGee Ck. Lower Sta. Flow,39.9
+2024-06-03 23:33:46,Long Valley,Long Valley Current Outflow,219.1
+2024-06-03 23:33:46,Long Valley,Rock Ck. Div. Flow,34.2
+2024-06-03 23:33:46,Long Valley,Upper Gorge Total Release,86.3
+2024-06-03 23:33:46,Long Valley,Release at Middle Gorge,0.0
+2024-06-03 23:33:46,Northern Owens Valley,Rock Ck. At Owens River (PV) Flow,114.0
+2024-06-03 23:33:46,Northern Owens Valley,Pleasant Valley Outflow,540.0
+2024-06-03 23:33:46,Northern Owens Valley,Baker Ck. At LA Station Flow,11.0
+2024-06-03 23:33:46,Northern Owens Valley,Big Pine Ck. USGS Flow,104.9
+2024-06-03 23:33:46,Northern Owens Valley,O.R. Below Big Pine,604.7
+2024-06-03 23:33:46,Northern Owens Valley,Fish Springs At RR Flow,47.6
+2024-06-03 23:33:46,Northern Owens Valley,Tinemaha Reservoir Outflow,526.8
+2024-06-03 23:33:46,Northern Owens Valley,Bishop Creek Through Plant 6,130.7
+2024-06-03 23:33:46,Northern Owens Valley,Bishop Creek Around Plant 6,35.6
+2024-06-03 23:33:46,Southern Owens Valley,Tinemaha Reservoir Outflow,526.8
+2024-06-03 23:33:46,Southern Owens Valley,Indep. Ck. At Junction Flow,44.7
+2024-06-03 23:33:46,Southern Owens Valley,LAA at Alabama Flow,575.0
+2024-06-03 23:33:46,Southern Owens Valley,Cottonwood Ck. At LAA Flow,64.0
+2024-06-03 23:33:46,Southern Owens Valley,LAA at Cottonwood Flow,660.0
+2024-06-03 23:33:46,Southern Owens Valley,Haiwee LAA #1 Current Flow,235.5
+2024-06-03 23:33:46,Southern Owens Valley,Haiwee LAA #2 Current Flow,265.7
+2024-06-03 23:33:46,Southern Owens Valley,Reinhackel Flow,2.1
+2024-06-03 23:33:46,Southern Owens Valley,Lubkin Spillgate Outflow,29.6
+2024-06-03 23:33:46,Southern Owens Valley,Cartago Spillgate Outflow,41.7
+2024-06-03 23:33:46,Southern Owens Valley,Lone Pine Creek Flow,32.6
+2024-06-03 23:33:46,Lower Owens River Project,LORP Intake Flow,44.0
+2024-06-03 23:33:46,Lower Owens River Project,LORP at Mazourka Canyon Road,50.0
+2024-06-03 23:33:46,Lower Owens River Project,LORP at Reinhackle Springs,54.0
+2024-06-03 23:33:46,Lower Owens River Project,LORP Above Pumpstation,37.0
+2024-06-03 23:33:46,Lower Owens River Project,LORP At Pump Station Discharge Flow,34.0
+2024-06-03 23:33:46,Southern District,Haiwee LAA #2 Current Flow,265.7
+2024-06-03 23:33:46,Southern District,Haiwee LAA #1 Current Flow,235.5
+2024-06-03 23:33:46,Southern District,LAA #1 Flow at Fairmont Reservoir,315.6
+2024-06-03 23:33:46,Southern District,LAA #2 Flow at Fairmont Res.,291.8
+2024-06-03 23:33:46,Southern District,Bouquet Reservoir Inflow,72.7
+2024-06-03 23:33:46,Southern District,Bouquet Reservoir Outflow,0.5
+2024-06-03 23:33:46,Southern District,LAA #1 at Soledad Flow,230.0
+2024-06-03 23:33:46,Southern District,LAA #2 at Soledad Flow,298.3
+2024-06-03 23:33:47,Mono Basin,Mono Lk. Elevation,6383.5
+2024-06-03 23:33:47,Mono Basin,Grant Lk. Elevation,7130.9
+2024-06-03 23:33:47,Long Valley,Long Valley Elevation,6778.3
+2024-06-03 23:33:47,Northern Owens Valley,Pleasant Valley Elevation,4380.2
+2024-06-03 23:33:47,Southern Owens Valley,LAA at Alabama Level,9.8
+2024-06-03 23:33:47,Southern Owens Valley,LAA at Alabama Water Temp,67.8
+2024-06-03 23:33:47,Southern Owens Valley,LAA at Cottonwood Level,10.5
+2024-06-03 23:33:47,Southern Owens Valley,LAA at Cotton. Water Temp,67.7
+2024-06-03 23:33:47,Southern Owens Valley,N. Haiwee Elevation,3757.0
+2024-06-03 23:33:47,Southern Owens Valley,S. Haiwee Reservoir Elevation,3741.0
+2024-06-03 23:33:47,Southern District,S. Haiwee Reservoir Elevation,3741.0
+2024-06-03 23:33:47,Southern District,Fairmont Reservoir Elevation,3020.8
+2024-06-03 23:33:47,Southern District,Bouquet Reservoir Elevation,2967.9
+2024-06-03 23:48:48,Northern Owens Valley,Tinemaha Elevation,3864.0
+2024-06-03 23:48:48,Southern Owens Valley,Tinemaha Elevation,3864.0
