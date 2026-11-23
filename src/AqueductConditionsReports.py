@@ -4,9 +4,31 @@ Created on Jun 10, 2017
 @author: pyropenguin
 '''
 import requests
+import certifi
+import os
+import tempfile
 from html.parser import HTMLParser
 import re
-from datetime import datetime
+from datetime import datetime, timezone
+
+# wsoweb.ladwp.com does not send its intermediate certificate (DigiCert G5 TLS
+# RSA4096 SHA384 2021 CA1), so verification fails with the default CA bundle.
+# Build a bundle of the standard roots plus that intermediate (valid to 2031).
+INTERMEDIATE_CERT = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                                 'certs',
+                                 'DigiCertG5TLSRSA4096SHA3842021CA1.pem')
+
+def _build_ca_bundle():
+    with open(certifi.where()) as f:
+        roots = f.read()
+    with open(INTERMEDIATE_CERT) as f:
+        intermediate = f.read()
+    bundle = tempfile.NamedTemporaryFile('w', suffix='.pem', delete=False)
+    with bundle:
+        bundle.write(roots + '\n' + intermediate)
+    return bundle.name
+
+CA_BUNDLE = _build_ca_bundle()
 
 
 DISTRICTS = {'Mono Basin':                  'monorealtime',
@@ -17,13 +39,13 @@ DISTRICTS = {'Mono Basin':                  'monorealtime',
              'Southern District':           'sdrealtime'}
 
 class District:
-    URL_BASE = 'http://wsoweb.ladwp.com/Aqueduct/realtime/'
+    URL_BASE = 'https://wsoweb.ladwp.com/Aqueduct/realtime/'
     def __init__(self, DistrictExtension):
         self.URL = self.URL_BASE + DistrictExtension + '.htm'
         self.DataSourceIDs = None
     
     def _request(self):
-        self.r = requests.get(self.URL)
+        self.r = requests.get(self.URL, verify=CA_BUNDLE)
     
     def fetchIds(self):
         self._request()
@@ -43,21 +65,21 @@ class District:
                 # Try to get dataID from lastfive javascript function parameter
                 for _attr in [x[1] for x in attrs if 'lastfive' in x[1]]:
                     try:
-                        r = re.search("lastfive\('([0-9]*)'\)",_attr)
+                        r = re.search(r"lastfive\('([0-9]*)'\)",_attr)
                         _id = r.group(1)
                         self.DataSourceIDs.append(_id)
                     except:
                         pass # Ignore if the regex fails        
 
 class DataSource:
-    URL_BASE = 'http://wsoweb.ladwp.com/Aqueduct/realtime/'
+    URL_BASE = 'https://wsoweb.ladwp.com/Aqueduct/realtime/'
     def __init__(self, DataSourceID):
         self.URL = self.URL_BASE + DataSourceID + '.htm'
         self.title = None
         self.data = None
 
     def _request(self):
-        self.r = requests.get(self.URL)
+        self.r = requests.get(self.URL, verify=CA_BUNDLE)
     
     def fetchData(self):
         self._request()
@@ -67,7 +89,7 @@ class DataSource:
         
         self.title = p.title
         self.data = p.data
-        self.retrieved = datetime.utcnow()
+        self.retrieved = datetime.now(timezone.utc).replace(tzinfo=None)  # naive UTC
 
     class DataSourceHTMLParser(HTMLParser):
         def __init__(self):
